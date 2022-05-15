@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via SAP PO"
+    id="EAID_6477FDAA_3BF6_42d9_923A_B035EAD8500D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_88C649DE_5F3A_47a4_B4B2_A2B4C6DA83CC.xml#EAID_88C649DE_5F3A_47a4_B4B2_A2B4C6DA83CC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_42C7B4FE_2CB1_4ee5_855D_918ADC0300EC.xml#EAID_42C7B4FE_2CB1_4ee5_855D_918ADC0300EC"/>
+</archimate:ServingRelationship>

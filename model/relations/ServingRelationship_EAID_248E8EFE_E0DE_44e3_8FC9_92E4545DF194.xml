@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SFTP"
+    id="EAID_248E8EFE_E0DE_44e3_8FC9_92E4545DF194">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_0F017699_8058_4a43_99D8_C79D8273EECF.xml#EAID_0F017699_8058_4a43_99D8_C79D8273EECF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6232B9A0_201E_4697_843B_BC7E556A07F8.xml#EAID_6232B9A0_201E_4697_843B_BC7E556A07F8"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Cordys"
+    id="EAID_6C51F5F1_65E4_4a6d_9C27_9858F44CBE54">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_4E595A21_3C73_4f85_92A4_0F3AF6975974.xml#EAID_4E595A21_3C73_4f85_92A4_0F3AF6975974"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_D172BA4B_1F41_4c18_BCF4_BE480152FC51.xml#EAID_D172BA4B_1F41_4c18_BCF4_BE480152FC51"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_869B4C26_80EF_4f40_BBF0_D9993FCCA171"
+    documentation="MeldingenBundelVastgelegd">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6C123480_060C_4305_88DD_4CB410F99563.xml#EAID_6C123480_060C_4305_88DD_4CB410F99563"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553.xml#EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553"/>
+</archimate:ServingRelationship>

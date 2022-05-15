@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_E01419E5_9EF0_4013_A8D7_8E74787ADD8A"
+    documentation="AFE&#x9;AanmakenFactuurEvent">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_4F03C0B3_9D81_45c7_BA43_874948D18067.xml#EAID_4F03C0B3_9D81_45c7_BA43_874948D18067"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6D74D784_6A24_4e39_A904_559E6D9AAA58.xml#EAID_6D74D784_6A24_4e39_A904_559E6D9AAA58"/>
+</archimate:ServingRelationship>

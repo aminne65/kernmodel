@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via topic"
+    id="EAID_B322B242_A1EC_4217_84DF_EDAA744D3322">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553.xml#EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_35BBDA79_E7C8_4a32_ACA6_BD8CB3BBFE6C.xml#EAID_35BBDA79_E7C8_4a32_ACA6_BD8CB3BBFE6C"/>
+</archimate:ServingRelationship>

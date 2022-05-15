@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via MQ"
+    id="EAID_315D11E0_651F_4bf5_9BA9_884AEE4851CB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_ACE73222_1339_4d35_A3EC_FD2E4AB826E7.xml#EAID_ACE73222_1339_4d35_A3EC_FD2E4AB826E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_DD3C63BD_F049_4cdf_992B_91712E003CB6.xml#EAID_DD3C63BD_F049_4cdf_992B_91712E003CB6"/>
+</archimate:ServingRelationship>
