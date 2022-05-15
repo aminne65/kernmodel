@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Output management"
+    id="EAID_1199BF26_EC41_4ec4_B234_553EDBBE9036"
+    documentation="Outputmanagement is de werkwijze om het uiterlijk, de bestemming en de timing van gegevensoutput van elk bedrijfsproces te managen. Het is de manier waarop een applicatie de output van data behandelt. Dus ook het zenden van informatie naar een printer of het publiceren van de informatie op het web (online) of in berichten of bestanden (via machines). Strikt genomen houdt Outputmanagement zich bezig met het inventariseren, sorteren, splitsen, samenvoegen, opmaken en verbeteren (verrijken) van output."/>

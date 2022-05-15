@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Tridion 5.x"
+    id="EAID_B28350D4_7441_477a_B177_1F43CE1108CA"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Pakket"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

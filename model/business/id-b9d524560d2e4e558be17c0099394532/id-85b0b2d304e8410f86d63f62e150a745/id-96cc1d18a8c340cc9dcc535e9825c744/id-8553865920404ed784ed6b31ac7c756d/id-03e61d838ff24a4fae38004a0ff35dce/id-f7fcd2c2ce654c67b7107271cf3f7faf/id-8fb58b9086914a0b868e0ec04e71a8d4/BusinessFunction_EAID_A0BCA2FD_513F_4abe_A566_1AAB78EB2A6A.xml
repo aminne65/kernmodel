@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisgeving beschikking"
+    id="EAID_A0BCA2FD_513F_4abe_A566_1AAB78EB2A6A">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+</archimate:BusinessFunction>

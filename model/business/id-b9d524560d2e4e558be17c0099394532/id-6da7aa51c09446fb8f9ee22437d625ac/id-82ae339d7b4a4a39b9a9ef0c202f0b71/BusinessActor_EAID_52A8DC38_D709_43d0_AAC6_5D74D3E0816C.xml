@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CvTE"
+    id="EAID_52A8DC38_D709_43d0_AAC6_5D74D3E0816C"
+    documentation="Opdrachtgever examens en Facet&#xA;&#xA;Het is de taak van het CvTE om de kwaliteit van centrale toetsen en examens die onder zijn verantwoordelijkheid vallen te waarborgen. Ook stelt het CvTE scholen en instellingen in staat de afname van examens en toetsen vlekkeloos te laten verlopen. Het CvTE voert deze taken uit namens de overheid.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

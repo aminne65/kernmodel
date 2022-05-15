@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logius"
+    id="EAID_814DC8ED_4FEF_4270_9AEC_A37E563A6609"
+    documentation="Intermediar voor gegevenstransport en dienstverlening">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

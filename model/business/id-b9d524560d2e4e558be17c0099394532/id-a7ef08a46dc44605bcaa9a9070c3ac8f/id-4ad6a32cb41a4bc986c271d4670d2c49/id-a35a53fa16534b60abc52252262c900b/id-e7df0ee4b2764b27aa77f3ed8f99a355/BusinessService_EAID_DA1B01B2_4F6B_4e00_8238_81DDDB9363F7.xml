@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Archief management"
+    id="EAID_DA1B01B2_4F6B_4e00_8238_81DDDB9363F7"
+    documentation="Biedt de functionaliteit om records te beheren, onafhankelijk van informatiedragers of andere eigenschappen, en de authenticiteit, duurzaamheid en toegankelijkheid van de in het recordmanagement (RMA) opgeslagen digitale records te waarborgen. Een digitaal record bevat vooral context- en metagegevens over de te archiveren gegevens. Dit bouwblok voert de regie over alle archiveringsaspecten van de andere domeinen. "/>

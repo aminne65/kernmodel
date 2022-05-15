@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestellen"
+    id="EAID_F98B8047_EB12_4d7b_BB9C_3077131565EE"
+    documentation="Het bestellen van individuele middelen bij een leverancier.&#xA;&#xA;Omvat het plaatsen van de inkooporder, het bewaken van het nakomen van de gemaakte afspraken tot aan de levering, en de nazorg (de acties om de bestelcyclus correct af te handelen inclusief factuurafhandeling).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

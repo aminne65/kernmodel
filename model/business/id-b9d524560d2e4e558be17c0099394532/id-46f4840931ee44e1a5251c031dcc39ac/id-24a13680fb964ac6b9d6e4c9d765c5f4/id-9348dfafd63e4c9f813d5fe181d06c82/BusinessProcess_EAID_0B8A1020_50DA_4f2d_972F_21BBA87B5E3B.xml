@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorzitterschap Europass Consortium"
+    id="EAID_0B8A1020_50DA_4f2d_972F_21BBA87B5E3B"
+    documentation="Proces doel &#xA;Het uitvoeren van het voorzitterschap van het samenwerkingsverband voor de ontwikkeling, het beheer en de exploitatie van Europass in Nederland.&#xA;&#xA;Proces beschrijving &#xA;Het Voorzitterschap Europass consortium is qua procesbeschrijving enigszins afwijkend, omdat er meer sprake is van taken dan procesmatige activiteiten. Daar waar mogelijk zijn activiteiten beschreven, verder zijn de taken op hoofdlijnen genoemd. &#xA;&#xA;De uitvoering van het voorzitterschap bestaat uit een aantal hoofdtaken, te weten: Vertegenwoordigen Europass consortium bij de EC, Coördineren Europass organisatie, Coördineren taakuitvoering consortium leden, Beheren Europass administratie, Beoordelen projectplannen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

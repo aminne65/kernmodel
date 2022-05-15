@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeveiliging"
+    id="EAID_F893ADC8_4298_4de2_B308_5D8EB182C6E8"
+    documentation="Fysieke beveiliging. Fysiek toegangbeheer.&#xA;&#xA;Het ervoor zorgdragen dat alleen geautoriseerde personen toegang hebben tot ruimten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

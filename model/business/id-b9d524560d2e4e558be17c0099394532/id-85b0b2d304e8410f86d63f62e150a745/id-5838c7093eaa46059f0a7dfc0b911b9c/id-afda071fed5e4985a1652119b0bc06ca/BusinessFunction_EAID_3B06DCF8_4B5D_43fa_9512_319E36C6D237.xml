@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentafhandeling en archivering"
+    id="EAID_3B06DCF8_4B5D_43fa_9512_319E36C6D237"
+    documentation="Het afhandelen van inkomende en uitgaande documentstromen en de archivering van documenten.">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="atomic"
+      value="false"/>
+</archimate:BusinessFunction>

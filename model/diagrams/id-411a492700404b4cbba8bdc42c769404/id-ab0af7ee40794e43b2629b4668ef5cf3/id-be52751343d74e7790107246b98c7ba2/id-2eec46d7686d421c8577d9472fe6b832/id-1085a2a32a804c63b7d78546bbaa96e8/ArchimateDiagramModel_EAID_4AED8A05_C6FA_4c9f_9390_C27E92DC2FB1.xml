@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application ABB realization view - INB Machtigingen"
+    id="EAID_4AED8A05_C6FA_4c9f_9390_C27E92DC2FB1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000000_1AFA_48eb_8364_E14848EE10F3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_85B6_4d94_874F_1F8274F8457E"
+        lineColor="#696969"
+        source="EAID_DN000000_1AFA_48eb_8364_E14848EE10F3"
+        target="EAID_DN000001_D527_44a9_B7E2_0921D1267827">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_8B4BECE5_85B6_4d94_874F_1F8274F8457E.xml#EAID_8B4BECE5_85B6_4d94_874F_1F8274F8457E"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_F5034320_1AFA_48eb_8364_E14848EE10F3.xml#EAID_F5034320_1AFA_48eb_8364_E14848EE10F3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_D527_44a9_B7E2_0921D1267827"
+      targetConnections="EAID_DC000000_85B6_4d94_874F_1F8274F8457E">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_EAID_3C4F326B_D527_44a9_B7E2_0921D1267827.xml#EAID_3C4F326B_D527_44a9_B7E2_0921D1267827"/>
+  </children>
+</archimate:ArchimateDiagramModel>

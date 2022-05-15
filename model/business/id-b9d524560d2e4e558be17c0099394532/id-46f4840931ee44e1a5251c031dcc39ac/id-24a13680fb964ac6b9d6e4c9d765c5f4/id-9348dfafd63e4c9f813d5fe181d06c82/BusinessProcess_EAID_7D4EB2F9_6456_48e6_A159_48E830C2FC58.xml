@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken vacatiegelden LC Gedragscode HO"
+    id="EAID_7D4EB2F9_6456_48e6_A159_48E830C2FC58"
+    documentation="Proces doel &#xA;Het toekennen en uitbetalen van de vacatiegelden ten behoeve van de voorzitter en leden van de Landelijke Commissie Gedragscode. &#xA;&#xA;Proces beschrijving &#xA;Aan de leden van de commissie, alsmede aan hun plaatsvervangers wordt voor het bijwonen van een vergadering of zitting een vacatiegeld toegekend. Als bewijs voor het bijwonen van een vergadering of zitting geldt een getekende presentielijst of een verslag waaruit de presentie blijkt. &#xA;&#xA;Vacatiegeld wordt tevens toegekend voor elke keer dat een lid van de commissie moet optreden namens de commissie, anders dan in een vergadering of zitting van de commissie. Verder hebben de (plaatsvervangende) leden van de commissie recht op vergoeding van reiskosten voor het bijwonen van een vergadering of zitting. &#xA;Elk jaar wordt opgave gedaan van de in het afgelopen kalenderjaar uitbetaalde vacatiegelden via E-mail aan de coördinator Personeelsbeheer en wordt opgave aan de Belastingdienst (BD) gedaan (voor zover het gaat om privépersonen). De ambtelijk secretaris LC Gedragscode stuurt een jaaropgave aan de voorzitter en leden van de Commissie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

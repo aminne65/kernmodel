@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WCC Webservice Control Center"
+    id="EAID_6C989AFB_F282_4a2b_A185_A294B23E7707"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-SESS"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="208131"/>
+</archimate:ApplicationComponent>

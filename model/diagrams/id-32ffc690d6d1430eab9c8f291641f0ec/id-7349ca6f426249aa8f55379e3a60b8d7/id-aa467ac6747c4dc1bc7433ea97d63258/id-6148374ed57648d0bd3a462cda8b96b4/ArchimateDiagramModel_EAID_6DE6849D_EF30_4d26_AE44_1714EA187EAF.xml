@@ -1,0 +1,52 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezwaar en beroep"
+    id="EAID_6DE6849D_EF30_4d26_AE44_1714EA187EAF">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_94AC_4d5b_965A_1324B1EE9BF1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_B9B2_485d_9460_39CF3F6C2CC5"
+        lineColor="#696969"
+        source="EAID_DN000001_94AC_4d5b_965A_1324B1EE9BF1"
+        target="EAID_DN000000_7730_4d43_94FA_629924A2E09B">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_EAID_995CAE6F_B9B2_485d_9460_39CF3F6C2CC5.xml#EAID_995CAE6F_B9B2_485d_9460_39CF3F6C2CC5"/>
+    </sourceConnections>
+    <bounds
+        x="58"
+        y="36"
+        width="504"
+        height="319"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="EAID_DN000000_7730_4d43_94FA_629924A2E09B"
+        targetConnections="EAID_DC000000_B9B2_485d_9460_39CF3F6C2CC5">
+      <bounds
+          x="23"
+          y="181"
+          width="453"
+          height="113"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_EAID_EFF4862B_7730_4d43_94FA_629924A2E09B.xml#EAID_EFF4862B_7730_4d43_94FA_629924A2E09B"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_EAID_8586C2C5_94AC_4d5b_965A_1324B1EE9BF1.xml#EAID_8586C2C5_94AC_4d5b_965A_1324B1EE9BF1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="EAID_DN000000_1DD6_4653_B13C_9C9C81A14DB6"
+      textAlignment="1"
+      content="Afhandelen bezwaar: Het behandelen van ontvangen bezwaren van klanten van DUO die het niet eens zijn met een door DUO genomen beslissing.&#xA;&#xA;Het behandelen van een door klanten van DUO bij de rechtbank ingediend beroep tegen een formele beslissing van DUO.&#xA;Dit omvat het opstellen van een verweer dat bij de rechtbank behandeld zal worden en het registreren van de uitspraak van rechtbank.&#xA;&#xA;">
+    <bounds
+        x="82"
+        y="378"
+        width="451"
+        height="123"/>
+  </children>
+</archimate:ArchimateDiagramModel>

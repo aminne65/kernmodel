@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzorgen juridische zaken"
+    id="EAID_77B57127_43CC_4a45_9221_EFB7FC1462B3"
+    documentation="(Secundair)&#xA;Het ervoor zorgdragen dat de organisatie zich houdt binnen de grenzen van wet- en regelgeving.&#xA;Behandelen van alle juridische aangelegenheden, met uitzondering van specifieke vraagstukken op materiegebieden (beleid) van DUO (zoals studiefinanciering, bekostiging en inburgering).&#xA;Werkzaamheden CT/BJZ.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XAB - XML Adapter Brickstreet"
+    id="EAID_8CFBB11E_9F62_4945_959F_2EFE0A33E468"
+    documentation="BrickstreerConnect(BC) verstuurt mails mbv  binnen DUO ontwikkelde adapter. XAB - XML Adapter Brickstreet, JBoss applicatieserver - is de opvolger van de Notificatiedienst (NOD), op basis waarvan BC een mail kan versturen.&#xA;&#xA;De applicatie is ontwikkeld door DUO."/>

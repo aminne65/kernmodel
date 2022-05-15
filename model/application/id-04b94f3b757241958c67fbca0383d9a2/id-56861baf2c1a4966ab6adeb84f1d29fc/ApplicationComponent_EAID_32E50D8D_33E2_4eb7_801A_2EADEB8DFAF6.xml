@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DRP DiplomaRegister PDF Service"
+    id="EAID_32E50D8D_33E2_4eb7_801A_2EADEB8DFAF6"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Primaire Processen"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="206236"/>
+</archimate:ApplicationComponent>

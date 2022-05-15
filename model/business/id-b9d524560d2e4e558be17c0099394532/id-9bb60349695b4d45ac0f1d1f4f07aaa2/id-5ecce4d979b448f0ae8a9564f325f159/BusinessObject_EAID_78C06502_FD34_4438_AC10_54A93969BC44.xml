@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisaties"
+    id="EAID_78C06502_FD34_4438_AC10_54A93969BC44"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Autorisatie gaat over wat deze gebruiker mag als hij eenmaal binnen is, dit wordt bepaald op basis van de rol(len) van een gebruiker, het zogenaamde Role based security principe."/>

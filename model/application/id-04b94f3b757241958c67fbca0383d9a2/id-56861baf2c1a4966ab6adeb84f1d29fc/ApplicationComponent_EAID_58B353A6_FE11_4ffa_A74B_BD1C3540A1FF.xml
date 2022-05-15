@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] XAB XML Adapter Brickstreet"
+    id="EAID_58B353A6_FE11_4ffa_A74B_BD1C3540A1FF"
+    documentation="XAB (XML Adapter Brickstreet) is een applicatie die op een jboss silo draait. Applicaties die willen mailen roepen XAB aan via een bericht op de XAB queue, en XAB converteert dat bericht naar een bericht dat brickstreet begrijpt en zet het op de brickstreet queue. Daarbij haalt XAB zo nodig gegevens uit GGM."/>

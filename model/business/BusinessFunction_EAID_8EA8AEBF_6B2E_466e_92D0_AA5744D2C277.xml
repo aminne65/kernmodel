@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategisch besturen (strategie en governance)"
+    id="EAID_8EA8AEBF_6B2E_466e_92D0_AA5744D2C277"
+    documentation="(Besturing)&#xA;Het ontwikkelen van een visie en het inrichten en bewaken van de organisatie en haar besturing.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

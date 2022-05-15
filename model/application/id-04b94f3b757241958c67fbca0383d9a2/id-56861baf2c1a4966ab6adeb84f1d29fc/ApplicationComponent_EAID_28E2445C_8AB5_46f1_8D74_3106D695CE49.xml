@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VZIP Verzenden bestanden Interpay"
+    id="EAID_28E2445C_8AB5_46f1_8D74_3106D695CE49"
+    documentation="bron : Niet in cmdb, oorspronkelijke naam VZIP Uitwisseling (verzenden) Interpay&#xA;&#xA;De VZ-IP (Verzenden-Interpay) applicatie regelt het transformeren, versturen, ontvangen, plannen en organiseren van alle betalingen en incasso’s vanuit OVG applicaties (WSF, ILS, FLITS, DWT, PVS etc.). VZ-IP ontvangt betalings- en incassobestanden en verstuurt deze naar Pay2SaaS (een extern systeem, beheerd door CAP, als onderdeel van een KPN beheercontract dat voor WSF is afgesloten). Vanuit Pay2SaaS worden de betalings- en incasso-opdrachten vervolgens naar RBS (huisbankier van DUO) gestuurd.&#xA;&#xA;&#xA;Planning GBR+-vervanging staat nu op 31-12-2018. &#xA;VZ IP is nog wel in beeld om uit te faseren, dat gaat via SAP PO in de toekomst.">
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion 2E 8.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

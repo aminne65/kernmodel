@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Zaakgericht werken"
+    id="EAID_26344E25_30D3_4b19_8741_602795F760D4"
+    documentation="&#x9;- Bronverwijzing (Gemma, EAR)&#xA;&#x9;- Betreft handmatig ongestructureerd processen&#xA;&#x9;- Is specialisatie van workflowmanagement&#xA;&#x9;- De zaak als informatiecontainer&#xA;&#x9;- vooraf gedefinieerde zaaktypen en bijbehorende processen."/>

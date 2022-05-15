@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ANM-AV Aanmelden Aangewezen Vakken"
+    id="EAID_D2A4C409_7FB2_4a1f_8225_8E9E36F60A72"
+    documentation="bron : Topdesk&#xA;&#xA;Voor aangewezen vakken (AV) kan examen aangevraagd worden bij DUO. Av zijn vakken die weinig gegeven worden. De examen aanvraag wordt gedaan door de school. Er wordt geen gebruik gemaakt van betaal functionaliteit zoals Ideal.&#xA;&#xA;Oude benaming AME-AV">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="94"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="218012"/>
+</archimate:ApplicationComponent>

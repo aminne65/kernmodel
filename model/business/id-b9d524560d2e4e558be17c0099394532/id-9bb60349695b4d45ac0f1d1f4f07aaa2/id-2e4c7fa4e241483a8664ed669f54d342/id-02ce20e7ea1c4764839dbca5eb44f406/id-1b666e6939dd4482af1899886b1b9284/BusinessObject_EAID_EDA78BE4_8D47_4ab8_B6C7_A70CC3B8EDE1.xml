@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributie"
+    id="EAID_EDA78BE4_8D47_4ab8_B6C7_A70CC3B8EDE1"
+    documentation="Een specifieke weergave van een gegevensverzameling. Een gegevensverzameling kan beschikbaar zijn in meerdere vormen, actualiteiten en resoluties.&#xA;&#xA;Bron: DCAT w3.org&#xA;&#xA;https://www.w3.org/TR/vocab-dcat-3/#Class:Distribution"/>

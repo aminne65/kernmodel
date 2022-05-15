@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[EXT] Managed file transfer"
+    id="EAID_76DC8C22_D948_4154_8C77_CDC7A20DF22D"
+    documentation="Data gecontroleerd versturen&#xA;&#xA;Deze Yenlo oplossing kent de volgende key features:&#xA;&#x9;- Routing based on name or content; &#xA;&#x9;- Push and Pull methods for (S)FTP, SMB, NSF; &#xA;&#x9;- Guaranteed delivery; &#xA;&#x9;- Delivery Retry mechanism; &#xA;&#x9;- Automatic archiving; &#xA;&#x9;- Detection of double file input; &#xA;&#x9;- Single source, multiple Targets; &#xA;&#x9;- Determinate sending order of files to Target(s); &#xA;&#x9;- Monitoring and Alerting options."/>

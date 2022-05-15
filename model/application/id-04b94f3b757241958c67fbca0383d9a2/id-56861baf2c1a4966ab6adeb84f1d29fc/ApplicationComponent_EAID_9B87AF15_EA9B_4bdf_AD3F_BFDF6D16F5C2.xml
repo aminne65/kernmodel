@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VZBD Verzenden bestanden belastingdienst"
+    id="EAID_9B87AF15_EA9B_4bdf_AD3F_BFDF6D16F5C2"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

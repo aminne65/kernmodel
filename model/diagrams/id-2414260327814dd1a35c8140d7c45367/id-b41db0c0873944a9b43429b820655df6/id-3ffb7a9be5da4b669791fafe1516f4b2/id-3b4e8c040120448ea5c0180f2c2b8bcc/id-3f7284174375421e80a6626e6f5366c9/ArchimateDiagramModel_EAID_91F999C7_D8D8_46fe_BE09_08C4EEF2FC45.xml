@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - OTAP"
+    id="EAID_91F999C7_D8D8_46fe_BE09_08C4EEF2FC45">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_076A_4b91_8F8D_EAE533C02103">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_2224_4128_939C_7BC829D38FA7"
+        lineColor="#696969"
+        source="EAID_DN000001_076A_4b91_8F8D_EAE533C02103"
+        target="EAID_DN000001_E6F8_4ea5_A6A0_995EF7C15734">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_B6BFC6D2_2224_4128_939C_7BC829D38FA7.xml#EAID_B6BFC6D2_2224_4128_939C_7BC829D38FA7"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_EAID_B20E9269_076A_4b91_8F8D_EAE533C02103.xml#EAID_B20E9269_076A_4b91_8F8D_EAE533C02103"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_E6F8_4ea5_A6A0_995EF7C15734"
+      targetConnections="EAID_DC000000_2224_4128_939C_7BC829D38FA7">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734.xml#EAID_DBF62A35_E6F8_4ea5_A6A0_995EF7C15734"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ACX Audit Context Webservice"
+    id="EAID_08EAA02F_0EBF_430b_9288_5BB7C6122472"
+    documentation="bron : Niet in cmdb, ook bekend als  LOGA&#xA;&#xA;Een auditTrail wordt bijgehouden om onomstotelijk aan te kunnen tonen welke acties een gebruiker op het systeem heeft doorgevoerd. Elke nieuwe gebruikerssessie (direct na het aanloggen) is de start van exact één audittrail. Dit geldt voor alle portalen.&#xA;&#xA;ACX neemt de rol overnemen die de autorisatiecomponenten (AUT/LOGS) nu vervullen voor het uitgeven van AuditContextID’s.&#xA;ACX(ook bekend als LogA)  is een webservice die het daadwerkelijk genereren van het token doet. ">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoon"
+    id="EAID_200279C7_8ABB_4b42_9F03_985C81550653"
+    documentation="Een drager van rechten en plichten.&#xA;Het gaat hierbij over mensen en organisaties die het object zijn van dienstverlening in het onderwijs. ">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411972378309_139801_13573"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

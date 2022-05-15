@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] EO Electronisch Ontvangen"
+    id="EAID_152928F2_21D5_4d6c_B56A_FD3F6C0F559B"
+    documentation="bron : Topdesk&#xA;&#xA;Elektronische Ontvangsten zorgt voor het transfereren van geverifieerde documenten richting GAS (Generieke Archief Service).">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="125863"/>
+</archimate:ApplicationComponent>

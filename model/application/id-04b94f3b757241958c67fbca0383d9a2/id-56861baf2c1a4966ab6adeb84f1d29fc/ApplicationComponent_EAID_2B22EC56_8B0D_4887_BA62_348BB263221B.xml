@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RAV Routerings- en autorisatievoorziening"
+    id="EAID_2B22EC56_8B0D_4887_BA62_348BB263221B"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Toevoegen nieuwe objecten, endpoints en routes aan de LDAP die door de XB62 wordt benadert voor het uitlezen van deze informatie.">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

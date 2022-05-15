@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategische planning"
+    id="EAID_88372899_FE45_4dbe_8768_E206314B1989"
+    documentation="Het ontwikkelen van een strategische visie op de organisatie en het vertalen ervan naar meerjarendoelstellingen, uitgangspunten en een strategisch plan voor de organisatie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] INB Verwerken handhavingsverzoeken"
+    id="EAID_E847FA3F_13EB_451b_B77C_F2CE25E49F56"
+    documentation="Het registreren van het handhavingsverzoek in het systeem. Het completeren van alle benodigde gegevens om het handhavingsverzoek in behandeling te kunnen nemen."/>

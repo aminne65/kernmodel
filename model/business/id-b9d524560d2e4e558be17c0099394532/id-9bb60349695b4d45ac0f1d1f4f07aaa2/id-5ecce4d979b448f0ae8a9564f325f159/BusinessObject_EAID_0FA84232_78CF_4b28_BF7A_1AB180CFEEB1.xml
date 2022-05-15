@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account"
+    id="EAID_0FA84232_78CF_4b28_BF7A_1AB180CFEEB1"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Een account moet in deze worden gezien als een relatie die CFI geregeld wil bezoeken en de planning en voortgangsbewaking hiervan wil volgen en rapporteren."/>

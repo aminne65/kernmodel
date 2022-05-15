@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensdiensten"
+    id="EAID_77334359_3C9B_4d12_83E1_5BCB72EAF5A7"
+    documentation="(Primair ondersteunend)&#xA;Het geheel van activiteiten om op het juiste moment over de juiste gegevens van de juiste kwaliteit te beschikken.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

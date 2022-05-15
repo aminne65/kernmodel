@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnOverheid.nl"
+    id="EAID_9926B7AE_1968_4b9e_8D49_0CE8D6EAD125"
+    documentation="MijnOverheid.nl is een persoonlijke website voor overheidszaken. Deze internetpagina geeft burgers onder meer toegang tot post (berichtenbox), inzicht in persoonlijke gegevens (hoe staat een burger geregistreerd in bepaalde basisregistraties) en lopende zaken (status van een aanvraag). &#xA;&#xA;Meer informatie: &#xA;https://mijn.overheid.nl/ &#xA;https://www.noraonline.nl/wiki/MijnOverheid ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a9c69261-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

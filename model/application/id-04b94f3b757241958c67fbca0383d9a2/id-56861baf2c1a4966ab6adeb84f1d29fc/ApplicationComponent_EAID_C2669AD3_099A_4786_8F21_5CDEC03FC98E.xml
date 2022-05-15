@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RMC Regionale Meld- en Coördinatiefunctie"
+    id="EAID_C2669AD3_099A_4786_8F21_5CDEC03FC98E"
+    documentation="bron : Topdesk&#xA;&#xA;Regio’s en/of gemeenten leveren volgens een beschreven format bestanden aan via de “Beveiligde Site” (ZakelijkPortaal) met Burger Service Nummers en/of Onderwijsnummers. Deze gegevens worden door een proces van RMC gecontroleerd op juiste vulling en op juiste naamgeving. Daarna worden deze bestanden via een RMC proces klaargezet voor DWH/ETL.  DWH/ETL  vult de aangeleverde bestanden aan met gegevens uit BRON, waarna ze weer worden klaargezet voor RMC. RMC pakt deze bestanden weer op en zorgt dat ze via VZ/VD weer op de “Beveiligde Site”  (Zakelijk Portaal) terecht komen. Daar kan de Regio (RMC) of gemeente ze er weer afhalen en gebruiken.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Verzuim"/>
+  <properties
+      key="Functiepunten"
+      value="43"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="116614"/>
+</archimate:ApplicationComponent>

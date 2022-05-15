@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaakdossier"
+    id="EAID_F0C06B26_A90A_405d_B361_0A3B7CE03BD6"
+    documentation="De gebundelde (verwijzingen naar) informatie en contracten  betreffend een zaak.&#xA;Een zaak is een samenhangende hoeveelheid werk met gedefinieerde aanleiding en een gedefinieerd eindresultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden."/>

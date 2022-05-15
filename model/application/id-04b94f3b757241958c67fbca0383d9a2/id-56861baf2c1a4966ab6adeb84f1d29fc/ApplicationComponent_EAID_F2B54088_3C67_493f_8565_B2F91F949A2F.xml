@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SAP BO Business Objects"
+    id="EAID_F2B54088_3C67_493f_8565_B2F91F949A2F"
+    documentation="Powercenter haalt de informatie op uit de bronsystemen en transformeert deze naar de datamarts.&#xA;&#xA;SAP PO ontsluit de gegevens uit de datamarts door het leveren van rapportages.&#xA;&#xA;Geen rapportage voor Studielink meer na vervallen loting."/>

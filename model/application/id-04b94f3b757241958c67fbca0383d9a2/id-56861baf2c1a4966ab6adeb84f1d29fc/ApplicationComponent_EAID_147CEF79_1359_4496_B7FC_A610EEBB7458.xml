@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BDNA Belastingdienst Nederlandse Antillen"
+    id="EAID_147CEF79_1359_4496_B7FC_A610EEBB7458"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="MSAccess"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="104885"/>
+</archimate:ApplicationComponent>

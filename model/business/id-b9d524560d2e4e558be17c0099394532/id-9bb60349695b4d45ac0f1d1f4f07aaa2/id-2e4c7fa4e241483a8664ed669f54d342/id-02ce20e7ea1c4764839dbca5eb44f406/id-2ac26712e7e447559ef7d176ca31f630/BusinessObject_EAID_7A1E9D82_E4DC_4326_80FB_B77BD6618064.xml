@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissingsregel"
+    id="EAID_7A1E9D82_E4DC_4326_80FB_B77BD6618064"
+    documentation="De formules, algoritmen, normen en waarden die voor het toepassen en uitvoeren van de wet- en regelgeving noodzakelijk zijn. De regels en gegevens worden zodanig gestructureerd vastgelegd dat traceerbaar is op welke wijze deze zijn afgeleid uit wet- en regelgeving.&#xA;&#xA;Bron: Domeinarchitectuur Bekostiging"/>

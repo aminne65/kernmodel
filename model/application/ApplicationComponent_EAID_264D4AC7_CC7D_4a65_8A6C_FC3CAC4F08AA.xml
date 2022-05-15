@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Facet"
+    id="EAID_264D4AC7_CC7D_4a65_8A6C_FC3CAC4F08AA"
+    documentation="FACET, ook wel aangeduid met CES Computer Examen Systeem, is een applicatie waarmee examens digitaal afgenomen worden. &#xA;&#xA;Na Facet 4.0 hybride infrastructuur: Public Cloud Azure + ODCN (beheer) + KPN/IS group.&#xA;&#xA;Yenlo verzorgt de uitwisseling van (resultaat)bestanden tussen Facet en gebruikers FACET."/>

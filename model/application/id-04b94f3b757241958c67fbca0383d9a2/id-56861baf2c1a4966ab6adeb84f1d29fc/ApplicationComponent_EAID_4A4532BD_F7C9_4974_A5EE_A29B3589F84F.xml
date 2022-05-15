@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WMR Wekkermanager"
+    id="EAID_4A4532BD_F7C9_4974_A5EE_A29B3589F84F"
+    documentation="bron : Topdesk&#xA;&#xA;Applicatie waarin wekkers geregisteerd worden.&#xA;In een batch worden voor verlopen wekkers ontwaakberichten gepubliceerd.&#xA;&#xA;De proceswekker is geabonneerd op zetWekker-berichten.&#xA;&#xA;In de studiefinancieringprocessen is op verschillende momenten termijnbewaking nodig: voor verantwoord vertrouwen, om binnen wettelijke beslistermijn te blijven of om te controleren of er door klanten of ketenpartners (tijdig) op inwinverzoeken is gereageerd.&#xA;Na verstrijken van zo’n de termijn dan moet het proces bepalen of er nog actie ondernomen moet worden. In een EDA (Event Driven Architecture) zit geen procesbesturing. Daarom moet het proces hier op een andere wijze aan herinnerd worden: de proceswekker.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="86"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="217406"/>
+</archimate:ApplicationComponent>

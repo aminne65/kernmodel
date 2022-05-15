@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CvI - Inspectie"
+    id="EAID_A85EC167_39E2_4fda_B90E_CF9081F3CFAF"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Afnemer van Gegevens&#xA;&#xA;Indicatie Stelling Speciaal Onderwijs">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

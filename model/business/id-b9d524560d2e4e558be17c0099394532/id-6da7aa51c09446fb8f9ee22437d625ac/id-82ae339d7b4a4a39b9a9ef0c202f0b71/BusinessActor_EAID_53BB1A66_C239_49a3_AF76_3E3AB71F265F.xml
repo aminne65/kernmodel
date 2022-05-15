@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven"
+    id="EAID_53BB1A66_C239_49a3_AF76_3E3AB71F265F"
+    documentation="Afnemer van Gegevens.&#xA;&#xA;WSFBES: Het onderzoek voor de beoordeling of het nivea&#xA;u en de kwaliteit vergelijkbaar zijn met opleidingen in de zin van de Web BES is uitbesteed aan SBB (voorheen COLO), ook overeenkomstig de uitvoering van de Wsf 2000.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

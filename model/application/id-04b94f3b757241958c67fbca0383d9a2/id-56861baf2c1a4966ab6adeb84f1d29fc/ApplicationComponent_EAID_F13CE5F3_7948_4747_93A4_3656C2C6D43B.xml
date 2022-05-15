@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] XBA XML Berichten Archief"
+    id="EAID_F13CE5F3_7948_4747_93A4_3656C2C6D43B"
+    documentation="bron : Topdesk&#xA;&#xA;Ketenarchief: berichten uitwisseling met externe partijen. XBA+XAR&#xA;&#xA;Berichten die DUO verstuurt naar en ontvangt van externe ketenpartners worden gearchiveerd in het Ketenarchief (XML-archief). Dit archief heeft voorzieningen om DUO-medewerkers te ondersteunen bij het raadplegen van de opgeslagen berichten. Vanwege het privacy-gevoelige karakter van de inhoud, mogen alleen daartoe geautoriseerde medewerkers de berichten raadplegen.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="209236"/>
+</archimate:ApplicationComponent>

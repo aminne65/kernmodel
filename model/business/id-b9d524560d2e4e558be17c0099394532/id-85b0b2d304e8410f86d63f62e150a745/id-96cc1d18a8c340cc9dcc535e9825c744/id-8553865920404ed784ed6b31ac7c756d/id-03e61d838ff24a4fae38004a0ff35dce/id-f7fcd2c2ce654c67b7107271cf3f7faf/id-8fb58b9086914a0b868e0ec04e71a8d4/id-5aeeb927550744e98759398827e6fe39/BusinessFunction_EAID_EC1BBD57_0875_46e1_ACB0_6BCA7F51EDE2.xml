@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepaling examenwijze"
+    id="EAID_EC1BBD57_0875_46e1_ACB0_6BCA7F51EDE2">
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+</archimate:BusinessFunction>

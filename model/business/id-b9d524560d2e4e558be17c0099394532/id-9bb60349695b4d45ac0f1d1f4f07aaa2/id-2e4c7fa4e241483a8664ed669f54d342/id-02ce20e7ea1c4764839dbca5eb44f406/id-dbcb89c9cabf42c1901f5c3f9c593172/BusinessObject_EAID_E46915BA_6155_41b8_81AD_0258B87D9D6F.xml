@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetslocatie"
+    id="EAID_E46915BA_6155_41b8_81AD_0258B87D9D6F"
+    documentation="De locatie waar een toets wordt afgenomen. De toetslocatie hoeft niet dezelfde locatie te zijn als de onderwijslocatie."/>

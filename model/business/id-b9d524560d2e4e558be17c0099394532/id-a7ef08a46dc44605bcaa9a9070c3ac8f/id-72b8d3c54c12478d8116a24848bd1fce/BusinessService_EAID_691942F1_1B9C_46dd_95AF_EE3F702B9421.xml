@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Business Proces Management"
+    id="EAID_691942F1_1B9C_46dd_95AF_EE3F702B9421"
+    documentation="&#x9;- De distributieactor is geautomatiseerd: de activiteiten worden in een bedoelde volgorde uitgevoerd&#xA;&#x9;- De toewijzing is volgens ontwerpspecificatie geautomatiseerd&#xA;&#x9;- De activiteiten worden geautomatiseerd uitgevoerd&#xA;&#x9;- De toezichthouder kan het proces stoppen, het ontwerp aanpassen, en capaciteit  toevoegen /onttrekken. Er kan controle worden gehouden over het proces en de afzonderlijke activiteiten.&#xA;&#x9;- De term BPM is afkomstig van toolvendors."/>

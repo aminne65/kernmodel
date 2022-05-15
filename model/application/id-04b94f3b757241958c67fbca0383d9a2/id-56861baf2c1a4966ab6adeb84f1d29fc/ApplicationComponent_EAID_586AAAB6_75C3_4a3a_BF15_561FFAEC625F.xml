@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] aCROHO Digitale aanmelding CRO"
+    id="EAID_586AAAB6_75C3_4a3a_BF15_561FFAEC625F"
+    documentation="bron : Topdesk&#xA;&#xA;CROHO = Centraal Register Opleidingen Hoger Onderwijs&#xA;&#xA;Het regulier opvoeren en wijzigen van opleidingsgegevens,">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-SESS"/>
+  <properties
+      key="Functiepunten"
+      value="365"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="130566"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document"
+    id="EAID_B1DA786F_26B4_4fe2_B654_9D2E9C704708"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;De component Documentmanagement vormt het elektronische dossier en archief van CFI. Binnenkomende documenten - brieven, faxen, ingevulde (elektronische) formulieren, ingezonden jaarrekeningen et cetera - worden indien nodig gedigitaliseerd en met bepaalde kenmerken gearchiveerd. Het digitale dossier is via de applicaties voor geautoriseerde personen vanaf het intra- of internet beschikbaar. Ook uitgaande documenten, zoals brieven, beschikkingen et cetera en gepubliceerde content zoals mededelingen op het intranet, worden indien nodig elektronisch gearchiveerd binnen Documentmanagement, en daarvandaan op afroep elektronisch beschikbaar gesteld via de applicaties."/>

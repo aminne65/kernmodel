@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie van Onderwijs"
+    id="EAID_4EDF134B_8366_4483_BAFE_71515CF8CD36"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Afnemer van Gegevens: Leerling gegevens">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

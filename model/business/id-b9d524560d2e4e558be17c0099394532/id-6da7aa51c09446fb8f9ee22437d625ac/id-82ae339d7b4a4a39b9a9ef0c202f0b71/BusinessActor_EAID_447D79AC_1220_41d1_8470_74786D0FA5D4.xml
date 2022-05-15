@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RVO Rijksdienst voor Ondernemend Nederland"
+    id="EAID_447D79AC_1220_41d1_8470_74786D0FA5D4"
+    documentation="Afnemer van Gegevens">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

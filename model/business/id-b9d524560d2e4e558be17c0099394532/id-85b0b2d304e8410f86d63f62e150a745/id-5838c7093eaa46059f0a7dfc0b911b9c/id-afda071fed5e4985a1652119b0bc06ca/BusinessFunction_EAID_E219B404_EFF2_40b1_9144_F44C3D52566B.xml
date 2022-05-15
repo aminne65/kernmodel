@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkerbeoordeling"
+    id="EAID_E219B404_EFF2_40b1_9144_F44C3D52566B"
+    documentation="Het beoordelen van de prestaties van de medewerker en het besluiten over beloning en promotie alsook over ontslag en demotie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

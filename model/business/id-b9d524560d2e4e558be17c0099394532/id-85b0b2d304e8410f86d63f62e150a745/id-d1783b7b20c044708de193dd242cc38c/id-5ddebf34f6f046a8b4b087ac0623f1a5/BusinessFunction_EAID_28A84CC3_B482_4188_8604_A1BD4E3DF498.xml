@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tactische planning"
+    id="EAID_28A84CC3_B482_4188_8604_A1BD4E3DF498"
+    documentation="Het vertalen van beleid in meerjarenplannen met voorgestelde programma's en projecten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

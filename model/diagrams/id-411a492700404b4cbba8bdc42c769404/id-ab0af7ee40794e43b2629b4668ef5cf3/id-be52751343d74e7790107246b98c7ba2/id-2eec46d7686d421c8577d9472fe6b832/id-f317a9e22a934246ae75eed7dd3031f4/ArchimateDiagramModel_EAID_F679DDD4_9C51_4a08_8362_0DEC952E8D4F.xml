@@ -1,0 +1,64 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application ABB realization view - EXA Examen mededelingen"
+    id="EAID_F679DDD4_9C51_4a08_8362_0DEC952E8D4F"
+    documentation="validated&#xA;20170418 by Arnold van der Holst and Emmy in 't Veldt">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_F049_4cdf_992B_91712E003CB6">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_62F0_4e09_8460_6300EE9A8DC3"
+        lineColor="#696969"
+        source="EAID_DN000001_F049_4cdf_992B_91712E003CB6"
+        target="EAID_DN000001_7FA6_44c3_966F_08C4BAA16846">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_8DF7225F_62F0_4e09_8460_6300EE9A8DC3.xml#EAID_8DF7225F_62F0_4e09_8460_6300EE9A8DC3"/>
+    </sourceConnections>
+    <bounds
+        x="130"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_DD3C63BD_F049_4cdf_992B_91712E003CB6.xml#EAID_DD3C63BD_F049_4cdf_992B_91712E003CB6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_FA2A_413a_9501_4E15E0FBDD9F">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_5437_4e60_AB39_00660BCEDC80"
+        lineColor="#696969"
+        source="EAID_DN000001_FA2A_413a_9501_4E15E0FBDD9F"
+        target="EAID_DN000001_7FA6_44c3_966F_08C4BAA16846">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_DB77A381_5437_4e60_AB39_00660BCEDC80.xml#EAID_DB77A381_5437_4e60_AB39_00660BCEDC80"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_E09FD510_FA2A_413a_9501_4E15E0FBDD9F.xml#EAID_E09FD510_FA2A_413a_9501_4E15E0FBDD9F"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_7FA6_44c3_966F_08C4BAA16846"
+      targetConnections="EAID_DC000000_62F0_4e09_8460_6300EE9A8DC3 EAID_DC000000_5437_4e60_AB39_00660BCEDC80">
+    <bounds
+        x="75"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_EAID_20687651_7FA6_44c3_966F_08C4BAA16846.xml#EAID_20687651_7FA6_44c3_966F_08C4BAA16846"/>
+  </children>
+</archimate:ArchimateDiagramModel>

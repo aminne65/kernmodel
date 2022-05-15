@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-ontwikkeling"
+    id="EAID_49AF62E1_3877_42dc_8D22_39A5E0FE7679"
+    documentation="Het ontwikkelen toepassingsprogrammatuur en gegevensverzamelingen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

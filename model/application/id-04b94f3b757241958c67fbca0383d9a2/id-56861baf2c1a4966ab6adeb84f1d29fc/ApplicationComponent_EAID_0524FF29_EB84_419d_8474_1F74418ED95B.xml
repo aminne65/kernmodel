@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BRON Basisregistratie Onderwijsnummer"
+    id="EAID_0524FF29_EB84_419d_8474_1F74418ED95B"
+    documentation="bron : Topdesk&#xA;&#xA;Basis Registratie Onderwijs (BRON) is het register voor PO, VO en VAVO en bevat ale inschrijvingen en resultaten. WEl in één applicaties.&#xA;&#xA;HO en MBO is al overgegaan naar OD en OR.&#xA;&#xA;Aanlevering aan externe partijen, Inspectie, CBS en DUO Den Haag, via CSV bestanden.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-BRON PO/VO/MBO oud"/>
+  <properties
+      key="Functiepunten"
+      value="4933"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="107006"/>
+</archimate:ApplicationComponent>

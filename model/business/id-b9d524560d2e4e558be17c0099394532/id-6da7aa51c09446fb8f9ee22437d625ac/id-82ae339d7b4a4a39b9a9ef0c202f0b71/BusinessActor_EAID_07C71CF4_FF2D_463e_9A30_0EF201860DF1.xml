@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico Payment Service Provider (Ogone)"
+    id="EAID_07C71CF4_FF2D_463e_9A30_0EF201860DF1"
+    documentation="Verzorgt het betalingsverkeer&#xA;&#xA;Ingenico Payment Services : externe partij voor het afhandelen van online betalingen (IDEAL).&#xA;&#xA;Eerder bekend als Ogone.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

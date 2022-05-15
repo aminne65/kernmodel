@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleidsvorming en -evaluatie"
+    id="EAID_182CE92A_DF4E_43c0_8F94_274E50BB4D01"
+    documentation="Het vertalen van de strategie in meer concrete doelstellingen en gedragslijnen waarop gestuurd zal worden en het evalueren of eerder vastgesteld beleid heeft bijgedragen aan het behalen van doelstellingen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

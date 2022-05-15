@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] APB Waardenlijsten"
+    id="EAID_1BEC51DC_DA39_4458_A59A_A8FB7AFB6737"
+    documentation="bron : Topdesk&#xA;&#xA;Een waardelijst bevat een opsomming van mogelijke waarden die zijn toegestaan voor een attribuut (bv. het attribuut &quot;opleidingsniveau&quot; mag de waarden VMBO, HAVO, VWO enz bevatten). &#xA;&#xA;&#xA;&#x9;1. Beheren waardelijsten dmv import van XSD die alle mogelijke waardelijsten bevat.&#xA;&#x9;2. Koppelen van een applicatie in een omgeving aan een bepaalde versie van een waardelijst.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="211728"/>
+</archimate:ApplicationComponent>

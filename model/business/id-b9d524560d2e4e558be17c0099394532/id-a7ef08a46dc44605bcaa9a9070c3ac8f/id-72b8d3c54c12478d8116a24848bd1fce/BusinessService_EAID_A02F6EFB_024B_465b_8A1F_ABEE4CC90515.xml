@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Workflow management"
+    id="EAID_A02F6EFB_024B_465b_8A1F_ABEE4CC90515"
+    documentation="De geautomatiseerde taaktoewijzing aan medewerkers en het bewaken van de afhandelingstermijnen.&#xA;&#xA;Kenmerken:&#xA;&#x9;- De distributieactor is geautomatiseerd: de activiteiten worden in een bedoelde volgorde uitgevoerd;&#xA;&#x9;- De toewijzing is volgens ontwerpspecificatie geautomatiseerd;&#xA;&#x9;- De activiteiten worden niet (volledig) geautomatiseerd uitgevoerd;&#xA;&#x9;- De toezichthouder kan het proces stoppen, het ontwerp aanpassen, en capaciteit toevoegen/onttrekken. Er kan controle worden gehouden over het proces, aangezien de vaste structuur een gestroomlijnde werkwijze oplevert."/>

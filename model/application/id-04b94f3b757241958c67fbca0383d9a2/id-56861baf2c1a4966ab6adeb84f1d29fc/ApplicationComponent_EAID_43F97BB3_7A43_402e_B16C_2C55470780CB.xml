@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VMB Vastleggen Meldingen Bundel"
+    id="EAID_43F97BB3_7A43_402e_B16C_2C55470780CB"
+    documentation="De applicatie Vastleggen Meldingen Bundel (VMB) legt Meldingen vast, in een Meldingenbundel, zodat de informatie daarna geautomatiseerd verwerkt kan worden.&#xA;Dit gebeurt via de InputManager, in de MeldingenAdministratie.&#xA;Pré-conditie: &#xA;- er is een bericht op de inputqueue van VMB geplaatst (MQ), of&#xA;- de webservice van VMB wordt aangesproken via HTTP."/>

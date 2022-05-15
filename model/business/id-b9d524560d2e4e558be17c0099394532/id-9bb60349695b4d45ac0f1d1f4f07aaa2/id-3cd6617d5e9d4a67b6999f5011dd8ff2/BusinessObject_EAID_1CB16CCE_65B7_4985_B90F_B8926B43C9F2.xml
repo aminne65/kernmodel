@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examencluster"
+    id="EAID_1CB16CCE_65B7_4985_B90F_B8926B43C9F2"
+    documentation="Een samenhangende groep van één of meer exameneenheden.&#xA;Voorbeelden zijn NT2 of HAVO staatsexamen, inburgeringstoets of WFT hypotheek.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411974056977_999564_13921"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

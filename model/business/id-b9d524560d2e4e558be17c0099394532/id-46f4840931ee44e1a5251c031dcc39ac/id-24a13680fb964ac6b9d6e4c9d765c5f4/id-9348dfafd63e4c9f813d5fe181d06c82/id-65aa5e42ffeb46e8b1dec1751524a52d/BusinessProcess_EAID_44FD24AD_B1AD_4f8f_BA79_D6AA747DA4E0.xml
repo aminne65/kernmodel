@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemen en verwerken staatsexamen VO/VSO"
+    id="EAID_44FD24AD_B1AD_4f8f_BA79_D6AA747DA4E0"
+    documentation="Proces doel&#xA;Het afnemen en verwerken van het afnemen van een staatsexamen VO/VSO voor kandidaten die niet via het reguliere onderwijs examen kunnen doen, of die een deel van het examen willen afleggen. &#xA;&#xA;Proces beschrijving &#xA;In deze procesbeschrijving staat beschreven hoe het afnemen en verwerken van het schriftelijke en het mondelinge staatsexamen VO en VSO en het verzenden van de uitslag wordt uitgevoerd.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

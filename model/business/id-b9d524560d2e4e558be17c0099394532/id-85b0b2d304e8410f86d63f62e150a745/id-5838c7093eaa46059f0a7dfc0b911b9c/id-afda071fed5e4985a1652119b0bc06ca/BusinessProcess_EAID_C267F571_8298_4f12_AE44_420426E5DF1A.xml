@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT-infrastructuurontwikkeling"
+    id="EAID_C267F571_8298_4f12_AE44_420426E5DF1A"
+    documentation="Het ontwikkelen en aanpassen van IT-infrastructuur.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessProcess>

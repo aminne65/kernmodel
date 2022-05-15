@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemen en verwerken staatsexamen NT2"
+    id="EAID_20F2975F_B85E_4b72_834F_9167D61146D2"
+    documentation="Proces beschrijving:&#xA;&#xA;Het afnemen van het examen en het verwerken van de examenresultaten van het NT2- examen op diverse locaties in het land.&#xA;&#xA;Proces doel:&#xA;Het doel van het proces is de kandidaat een examen af te nemen en het verwerken van de examenresultaten wat de kandidaat in staat stelt aan te tonen dat de Nederlandse taal beheerst wordt voor werk of school. Het betreft twee programma's. Programma I (MBO niveau) en programma II (HBO/WO niveau). ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

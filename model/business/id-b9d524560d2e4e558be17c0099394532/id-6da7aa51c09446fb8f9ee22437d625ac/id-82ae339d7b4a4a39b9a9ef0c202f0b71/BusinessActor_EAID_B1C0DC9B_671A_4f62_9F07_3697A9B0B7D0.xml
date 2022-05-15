@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burger"
+    id="EAID_B1C0DC9B_671A_4f62_9F07_3697A9B0B7D0">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

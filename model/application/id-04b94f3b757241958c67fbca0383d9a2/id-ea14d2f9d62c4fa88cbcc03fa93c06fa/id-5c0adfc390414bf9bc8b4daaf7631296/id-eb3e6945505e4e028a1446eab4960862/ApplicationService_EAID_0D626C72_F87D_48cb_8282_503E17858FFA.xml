@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Directe bericht uitwisseling"
+    id="EAID_0D626C72_F87D_48cb_8282_503E17858FFA"
+    documentation="Het real-time uitwisselen van berichten met anderen.&#xA;&#xA;Whatsapp&#xA;Chat-robot&#xA;twitter&#xA;mail&#xA;youtube"/>

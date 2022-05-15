@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] HOI HO Informatiediensten"
+    id="EAID_F2A20787_EB68_4f61_8EC2_A24B91C43EA7"
+    documentation="bron : Topdesk&#xA;&#xA;HOI maakt onderdeel uit van de BRONHO keten: vooropleidinggegevens en indicatiesoortcollegegeld.&#xA;&#xA;HOI verzorgt het verstrekken van gewijzigde vooropleidingen, aanvragen van vooropleidingen, verstrekken gewijzigde indicatiesoortcollegegeld, het aanvragen indicatiesoortcollegegeld en het beeindigen abonnementen op vooropleidingen en indicatiesoortcollegegeld.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="368"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="206517"/>
+</archimate:ApplicationComponent>

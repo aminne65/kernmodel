@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DUO"
+    id="EAID_007EA2D3_0D68_4e54_BAD3_0AE0D33FA867"
+    documentation="De Dienst Uitvoering Onderwijs is de uitvoeringsorganisatie van de rijksoverheid voor het onderwijs.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

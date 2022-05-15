@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VD Verzenden Documenten"
+    id="EAID_9BC1082C_31BC_47b9_8552_3BC9C15F8854"
+    documentation="bron : Topdesk&#xA;&#xA;VD is een transport mechanisme wat er voor zorgt dat VZ kan ontvangen en ook kan verzenden.&#xA;&#x9;- vanuit legacy applicaties maakt VD labelwaarde bestanden die door VZ VP kunnen worden opgepakt;&#xA;&#x9;- VD kan individuele berichten samenvoegen tot één spoolfile&#xA;&#x9;- Spoolfiles kunnen direct dan wel uitgesteld verwerkt worden;&#xA;&#x9;- Voor legacy applicaties versturen van mail met PDFs;&#xA;&#x9;- VD verzorgt een deel van de routering van grote bestanden van en naar ZP.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="111573"/>
+</archimate:ApplicationComponent>

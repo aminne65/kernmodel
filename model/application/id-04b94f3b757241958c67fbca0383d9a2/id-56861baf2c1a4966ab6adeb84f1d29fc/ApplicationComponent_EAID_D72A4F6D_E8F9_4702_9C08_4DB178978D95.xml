@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] REM Roosteren Examens Mondeling"
+    id="EAID_D72A4F6D_E8F9_4702_9C08_4DB178978D95"
+    documentation="bron : Topdesk&#xA;&#xA;Kandidatenrooster&#xA;&#xA;REM betreft een door een externe softwareleverancier in Acces ontwikkelde en beheerde applicatie. De REM applicatie wordt gebruikt voor mondelinge staatsexamens V(S)O.&#xA;&#xA;Extern ontwikkelt en beheert door Dennis Bloemendaal van ....&#xA;&#xA;Tabellen opgeslagen in Excel worden benut.">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="210"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="MSAccess"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="217758"/>
+</archimate:ApplicationComponent>

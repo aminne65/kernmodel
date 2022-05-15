@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] GBS Groteberichtenstandaard"
+    id="EAID_DC92905C_CF64_45f9_B5B1_BA6345CB7A0C"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-SESS"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="205100"/>
+</archimate:ApplicationComponent>

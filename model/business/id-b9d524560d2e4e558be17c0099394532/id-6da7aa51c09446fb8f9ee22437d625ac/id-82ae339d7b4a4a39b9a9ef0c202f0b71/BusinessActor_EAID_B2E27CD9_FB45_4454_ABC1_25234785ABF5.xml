@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huisbankier"
+    id="EAID_B2E27CD9_FB45_4454_ABC1_25234785ABF5"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Betalingen, incasso's&#xA;&#xA;De bank die exclusief voor de DUO bepaalde financiële diensten verleent.&#xA;&#xA;De huisbankier stuurt de betalingen en incasso-opdrachten door naar de bank van de klant/debiteur, eventueel via een Clearinghouse en verrekent de betalingen interbancair.&#xA;&#xA;De wijze waarop dit gebeurd kan per bank verschillen. Dit kan via een eigen beveiligde  “Financieel netwerk” bijvoorbeeld Swift. De uitwisseling kan ook buiten dit netwerk om plaatsvinden.  &#xA;&#xA;Vervolgens worden de betalingen interbancair verrekend met de bank van de klanten.&#xA;&#xA;Uitwisseling gebeurd met PAX bestanden. Dit is het standaardbestandsformaat voor de uitwisseling tussen banken onderling.  &#xA;&#xA;De huisbankier stuurt dagelijks zgn. MT940 bestanden met informatie over de verwerking van de ontvangsten, acceptgiro''s en stornering door de klant naar de ADC server van de DUO.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

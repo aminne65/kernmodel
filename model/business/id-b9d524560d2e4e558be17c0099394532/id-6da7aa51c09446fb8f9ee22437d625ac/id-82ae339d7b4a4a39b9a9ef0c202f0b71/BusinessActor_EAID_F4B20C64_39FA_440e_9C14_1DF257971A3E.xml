@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSP - Certificate Service Provider"
+    id="EAID_F4B20C64_39FA_440e_9C14_1DF257971A3E"
+    documentation="ICT leverancier">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

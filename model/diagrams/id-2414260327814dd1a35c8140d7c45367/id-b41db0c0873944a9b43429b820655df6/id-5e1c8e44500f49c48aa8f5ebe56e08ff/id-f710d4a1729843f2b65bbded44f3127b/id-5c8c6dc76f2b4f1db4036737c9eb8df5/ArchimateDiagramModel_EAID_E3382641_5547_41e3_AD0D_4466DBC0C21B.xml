@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - DERB netwerk"
+    id="EAID_E3382641_5547_41e3_AD0D_4466DBC0C21B">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_44A3_4367_A71B_51BE7D0E2521">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000001_12C4_48a0_BAD3_0A512868D25F"
+        lineColor="#696969"
+        source="EAID_DN000001_44A3_4367_A71B_51BE7D0E2521"
+        target="EAID_DN000003_C8FD_4b05_88E3_42D5ACE408F9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_0F37E5DA_12C4_48a0_BAD3_0A512868D25F.xml#EAID_0F37E5DA_12C4_48a0_BAD3_0A512868D25F"/>
+    </sourceConnections>
+    <bounds
+        x="344"
+        y="323"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_EAID_246781E4_44A3_4367_A71B_51BE7D0E2521.xml#EAID_246781E4_44A3_4367_A71B_51BE7D0E2521"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000003_C8FD_4b05_88E3_42D5ACE408F9"
+      targetConnections="EAID_DC000001_12C4_48a0_BAD3_0A512868D25F">
+    <bounds
+        x="344"
+        y="176"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_AE261A9F_C8FD_4b05_88E3_42D5ACE408F9.xml#EAID_AE261A9F_C8FD_4b05_88E3_42D5ACE408F9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

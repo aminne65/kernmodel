@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBK (SLO en SBB)"
+    id="EAID_BB5F9B34_B918_4579_B70B_8A3AF2F6FF4C"
+    documentation="Afnemer en Leverancier van Gegevens: Opleidingen, vakken en hun eigenschappen">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

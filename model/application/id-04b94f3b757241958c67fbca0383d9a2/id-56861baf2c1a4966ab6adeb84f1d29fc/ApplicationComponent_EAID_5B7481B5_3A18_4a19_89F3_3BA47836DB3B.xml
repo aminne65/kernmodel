@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] CAPP11 2.x"
+    id="EAID_5B7481B5_3A18_4a19_89F3_3BA47836DB3B"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Pakket"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Basisvoorzieningen"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PRK Personen Register Kinderopvang"
+    id="EAID_B393EB28_59BA_42ec_8D6D_B7DDFAE30F36"
+    documentation="Ondersteuning van het proces van continue screening van alle personen die betrokken zijn in de kinderopvang:&#xA;&#x9;- PRK levert gegevens van in- en uitgeschreven personen aan Justid.&#xA;&#x9;- De PRK-gegevens worden in JDS geregistreerd (KO-abonnement)."/>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RB Registratie Beroepszaken"
+    id="EAID_2F816549_AC63_4c8a_BF2F_F0574BEA5E0C"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="506"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion 2E 8.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="102778"/>
+</archimate:ApplicationComponent>

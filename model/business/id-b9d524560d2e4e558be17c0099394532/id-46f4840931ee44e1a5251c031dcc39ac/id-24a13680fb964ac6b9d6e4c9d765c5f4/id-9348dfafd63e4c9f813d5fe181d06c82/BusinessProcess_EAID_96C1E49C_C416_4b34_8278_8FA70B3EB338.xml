@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P2.10 Beheren vrijstellingsgegevens"
+    id="EAID_96C1E49C_C416_4b34_8278_8FA70B3EB338">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

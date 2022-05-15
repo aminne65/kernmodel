@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstelling BVE"
+    id="EAID_70C7A215_08FA_4bbf_A39E_82579ADB0095"
+    documentation="Ketenpartner">
+  <properties
+      key="actorkind"
+      value="standard"/>
+  <properties
+      key="views"
+      value="Applicatie overzicht (View),LCM Registers (View)"/>
+</archimate:BusinessActor>

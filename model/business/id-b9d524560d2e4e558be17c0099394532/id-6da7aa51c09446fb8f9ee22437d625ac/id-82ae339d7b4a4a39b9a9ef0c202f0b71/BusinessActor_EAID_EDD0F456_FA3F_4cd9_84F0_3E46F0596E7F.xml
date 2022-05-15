@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equens"
+    id="EAID_EDD0F456_FA3F_4cd9_84F0_3E46F0596E7F"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Verzorgt het betalingsverkeer: Betalingen, incasso's">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

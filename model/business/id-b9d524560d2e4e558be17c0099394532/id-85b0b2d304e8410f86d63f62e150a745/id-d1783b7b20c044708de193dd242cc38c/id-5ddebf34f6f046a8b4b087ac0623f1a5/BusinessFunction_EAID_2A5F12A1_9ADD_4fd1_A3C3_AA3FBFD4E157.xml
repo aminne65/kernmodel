@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslaglegging"
+    id="EAID_2A5F12A1_9ADD_4fd1_A3C3_AA3FBFD4E157"
+    documentation="Het opstellen van een algemeen verslag (jaarverslag) en financieel verslag (jaarrekening) over het functioneren van de organisatie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

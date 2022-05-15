@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overheid.nl"
+    id="EAID_EB5C93BA_63C7_4f06_9BF2_DE0FC9FF252E"
+    documentation="De website Overheid.nl is een platform waarop informatie en diensten van alle overheden staan. Deze organisaties zijn zelf verantwoordelijk voor hun gegevens.&#xA;&#xA;Meer informatie: &#xA;https://www.overheid.nl/ &#xA;https://www.noraonline.nl/wiki/Overheid.nl ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="9b1da91a-f994-487c-b9f6-b558ab1efa3d"/>
+</archimate:ApplicationComponent>

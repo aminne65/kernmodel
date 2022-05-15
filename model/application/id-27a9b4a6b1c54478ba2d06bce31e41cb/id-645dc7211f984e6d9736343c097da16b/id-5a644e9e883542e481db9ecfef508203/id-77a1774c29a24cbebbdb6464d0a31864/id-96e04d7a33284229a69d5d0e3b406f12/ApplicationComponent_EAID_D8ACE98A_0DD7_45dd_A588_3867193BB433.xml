@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Antwoord voor Bedrijven"
+    id="EAID_D8ACE98A_0DD7_45dd_A588_3867193BB433"
+    documentation="Antwoord voor bedrijven is een informatieloket van de Nederlandse overheid gericht op bedrijven. Bedrijven zien in een oogopslag met welke regels, vergunningen en belastingen ze te maken krijgen en de subsidies die ze kunnen aanvragen. &#xA;Antwoord voor Bedrijven is onderdeel geworden van Ondernemersplein.nl. Op deze website is ook andere informatie, specifiek gericht op ondernemers, te vinden. &#xA;&#xA;Meer informatie: &#xA;http://www.ondernemersplein.nl &#xA;https://www.noraonline.nl/wiki/Antwoord_voor_bedrijven ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a373eb61-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

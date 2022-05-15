@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebied"
+    id="EAID_8149DF2C_2C11_4cb2_A9C9_2EFAE17AA188"
+    documentation="Het geheel van aanwijsbare opdelingen en indelingen van het aardoppervlak met als doel dit geografisch beschrijfbaar te maken.&#xA;&#xA;Opm. Het is een begrip op het hoogste hiërarchische niveau. Onderliggende gebieden zijn bijvoorbeeld plaats, onderwijsgebied, postcodegebied, etc."/>

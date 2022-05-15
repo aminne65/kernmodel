@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrotingsconstructie"
+    id="EAID_9091EB9A_E96E_4877_ABC3_D4578850453F"
+    documentation="Het vaststellen van de beschikbare financiële middelen en de daaruit voortvloeiende budgetten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

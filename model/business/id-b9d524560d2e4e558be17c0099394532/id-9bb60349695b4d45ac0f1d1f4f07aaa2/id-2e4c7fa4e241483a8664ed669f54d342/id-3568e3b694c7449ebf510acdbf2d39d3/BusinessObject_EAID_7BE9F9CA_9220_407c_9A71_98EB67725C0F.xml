@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product / Dienst"
+    id="EAID_7BE9F9CA_9220_407c_9A71_98EB67725C0F"
+    documentation="Een tastbaar goed of verzameling activiteiten die door een leverancier geleverd kunnen worden.&#xA;&#xA;Bron: Informatie Architectuur Bedrijfsvoering OCW&#xA;&#xA;Toelichting: Een product heeft (materiële of immateriële) waarde voor de klant. Een product is dus inclusief de dienst er omheen. Een dienst (business service) is de van buitenaf zichtbare functie die wordt vervuld en die zinvol is voor de klant. Ook de toelichting over (het gebruik) van het product valt daaronder.&#xA;&#xA;Producten zijn gebaseerd op de wettelijke taken die DUO uitvoert.&#xA;&#xA;Voor het bepalen van product is het uitgangspunt ‘wat de klant er voor moet doen om het product af te nemen’ en welke set van afspraken daar aan gekoppeld is. Bij product wordt uitgegaan van de klant.">
+  <properties
+      key="Vertrouwelijkheid"
+      value="Laag"/>
+</archimate:BusinessObject>

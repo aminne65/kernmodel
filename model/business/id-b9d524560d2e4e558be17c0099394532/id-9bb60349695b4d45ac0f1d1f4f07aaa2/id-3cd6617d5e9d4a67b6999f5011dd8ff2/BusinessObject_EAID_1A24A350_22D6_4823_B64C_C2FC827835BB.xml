@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenuitslag"
+    id="EAID_1A24A350_22D6_4823_B64C_C2FC827835BB">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411974338484_816480_14202"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BedrijfsInformatie Centrum (BIC)"
+    id="EAID_30000E78_6B98_4c6e_8059_D336DF734836">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

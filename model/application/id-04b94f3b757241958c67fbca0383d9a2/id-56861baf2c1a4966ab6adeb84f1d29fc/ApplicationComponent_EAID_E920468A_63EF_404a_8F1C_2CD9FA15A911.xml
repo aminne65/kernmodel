@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VLPW Vrijstelling leerplichtwet"
+    id="EAID_E920468A_63EF_404a_8F1C_2CD9FA15A911"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Verzuim"/>
+  <properties
+      key="Functiepunten"
+      value="68"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="211891"/>
+</archimate:ApplicationComponent>

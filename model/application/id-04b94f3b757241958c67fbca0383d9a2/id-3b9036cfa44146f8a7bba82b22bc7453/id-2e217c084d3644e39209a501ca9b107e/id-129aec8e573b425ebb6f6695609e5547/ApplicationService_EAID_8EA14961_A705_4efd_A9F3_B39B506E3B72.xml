@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Melding voor administratie X"
+    id="EAID_8EA14961_A705_4efd_A9F3_B39B506E3B72"
+    documentation="Resultaat Inwinnen:&#xA;De postconditie voor inwinapplicaties is dat een geregistreerde melding of meldingenbundel door de betreffende administraties gepersisteerd kan worden."/>

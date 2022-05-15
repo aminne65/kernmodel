@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouwbeheer en huisvesting"
+    id="EAID_9968D542_6D6D_46c2_9AB4_837912667C74"
+    documentation="Het faciliteren van de organisatie met diensten en beheer van vastgoed (gebouwen, terreinen), parkeerfaciliteiten, nutsvoorzieningen (gas, water, licht).&#xA;&#xA;&#xA;&#xA;Gaat over naar Belastingdienst in 2015. Is nu samenwerkingsverband DUO/Belastingsdienst.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

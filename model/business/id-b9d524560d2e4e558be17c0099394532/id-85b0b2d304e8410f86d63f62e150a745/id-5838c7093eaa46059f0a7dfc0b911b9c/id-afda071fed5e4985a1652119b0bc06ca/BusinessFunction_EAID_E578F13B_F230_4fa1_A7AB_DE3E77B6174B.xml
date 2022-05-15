@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salaris- en declaratieverwerking"
+    id="EAID_E578F13B_F230_4fa1_A7AB_DE3E77B6174B"
+    documentation="Het berekenen en uitkeren van het salaris en declaraties van medewerkers.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

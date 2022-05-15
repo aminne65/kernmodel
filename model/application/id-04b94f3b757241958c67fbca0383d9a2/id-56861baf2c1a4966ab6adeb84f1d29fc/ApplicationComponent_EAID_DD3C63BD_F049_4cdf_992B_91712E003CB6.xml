@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RDE Registratiesysteem D&amp;L en Examendiensten"
+    id="EAID_DD3C63BD_F049_4cdf_992B_91712E003CB6"
+    documentation="bron : Topdesk&#xA;&#xA;Met RDE is een registratiesysteem en ondersteunt de processen voor afhandeling van aanvragen voor diploma-erkenning en legalisatie van diploma ’s. Op hoofdlijnen zijn dat:&#xA;· afgeven statusverklaring;&#xA;· afgeven verklaring onderwijsbevoegdheid;&#xA;· attenderen falsificatie door derden;&#xA;· beschrijven diploma;&#xA;· legalisatie van een opleidingsdocument (individueel en bulk);&#xA;· registreren tijdelijke en incidentele dienstverrichting;&#xA;· verlenen onderwijsbevoegdheid in Nederland;&#xA;· verstrekken titulatuur;&#xA;· vrijstellen van naturalisatietoets of inburgering;&#xA;· waarderen internationaal diploma.&#xA;&#xA;Queues in online ontsluiting aanvraag">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="554"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="122034"/>
+</archimate:ApplicationComponent>

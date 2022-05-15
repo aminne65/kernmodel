@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BM Beheren meldingen voor webapplicaties"
+    id="EAID_FFA3C9DF_BFD3_4b40_9781_B613A17A63BE"
+    documentation="bron : Topdesk&#xA;&#xA;Applicatie voor het beheren van meldingen op de IBDTA.&#xA;via inter- en intranet te tonen meldingen">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="123437"/>
+</archimate:ApplicationComponent>

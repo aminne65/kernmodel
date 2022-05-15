@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application ABB realization view - Afhandelen klachten"
+    id="EAID_81175575_A348_40c2_9AEA_F44B1B2B0EA4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_A809_4a07_A875_DE9D828240B5">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_EAID_1A29EC7C_A809_4a07_A875_DE9D828240B5.xml#EAID_1A29EC7C_A809_4a07_A875_DE9D828240B5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

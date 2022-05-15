@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] GM Gegevensmagazijn"
+    id="EAID_3FFFED9A_413D_49e8_9033_E96D8EBA400E"
+    documentation="bron : Topdesk&#xA;&#xA;Biedt services aan andere systemen om gegevens te raadplegen. &#xA;Het gegevensmagazijn bevat zelf geen gegevens en beperkt zich alleen tot het verzamelen en de distributie van gegevens uit onderliggende bronnen. De aanleverende systemen plaatsen hun gegevens in deze bronnen.">
+  <properties
+      key="Aanspreekpunt"
+      value="FB-Gegevensmagazijn"/>
+  <properties
+      key="Functiepunten"
+      value="2500"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="211141"/>
+</archimate:ApplicationComponent>

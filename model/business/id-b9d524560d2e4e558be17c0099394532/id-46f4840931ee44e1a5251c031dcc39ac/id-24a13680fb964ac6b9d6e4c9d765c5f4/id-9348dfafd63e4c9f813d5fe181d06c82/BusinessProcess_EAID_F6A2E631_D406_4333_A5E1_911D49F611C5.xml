@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren onderwijsinstelling over toelating"
+    id="EAID_F6A2E631_D406_4333_A5E1_911D49F611C5"
+    documentation="Procesdoel &#xA;Het verstrekken van een advies aan een onderwijsinstelling op de vraag of een Nederlands opleidingsdocument toelating kan geven tot een bepaalde opleiding. &#xA;&#xA;Procesbeschrijving&#xA;Het proces begint met het verzoek van een onderwijsinstelling om advies over de toelaatbaarheid tot een bepaalde opleiding. Indien dit mogelijk is, wordt het advies verstrekt. De onderwijsinstelling wordt geïnformeerd en het verzoek wordt gearchiveerd.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opstellen Final Report NEC NL"
+    id="EAID_4890E8E1_C45A_4d87_8133_E5A0C5E98E5E"
+    documentation="Proces doel &#xA;Het jaarlijks opstellen van het document “Final Report”.&#xA;&#xA;Proces beschrijving &#xA;Aan de hand van een aantal documenten wordt een Final Report opgesteld die ter tekening aan de DG en de HD Bedrijfsvoering van DUO aangeboden worden. Vervolgens worden de documenten gescand en verzonden naar diverse betrokkenen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboekbeheer"
+    id="EAID_8F33E542_93F1_4101_BC95_C8C3B24DCB8D"
+    documentation="Het beheren van de structuur van de jaarrekening zodat die voldoet aan de wettelijke regels en aan de informatiebehoefte van de organisatie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

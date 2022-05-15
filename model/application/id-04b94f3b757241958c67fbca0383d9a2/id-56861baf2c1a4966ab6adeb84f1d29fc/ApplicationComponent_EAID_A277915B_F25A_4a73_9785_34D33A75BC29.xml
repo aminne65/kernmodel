@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Tooling Continuous Delivery"
+    id="EAID_A277915B_F25A_4a73_9785_34D33A75BC29"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Basisvoorzieningen"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VWS"
+    id="EAID_A6F3B44C_3130_4783_9C6D_B4CC89D42696"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Bron gegevens">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

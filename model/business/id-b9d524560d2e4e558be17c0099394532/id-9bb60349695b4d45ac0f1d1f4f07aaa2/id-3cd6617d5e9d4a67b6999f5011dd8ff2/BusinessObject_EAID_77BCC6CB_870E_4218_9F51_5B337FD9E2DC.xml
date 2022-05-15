@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natuurlijk persoon"
+    id="EAID_77BCC6CB_870E_4218_9F51_5B337FD9E2DC"
+    documentation="Een mens.&#xA;Het gaat om personen van vlees en bloed. Zie verder BOM Register.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973278363_784925_13593"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

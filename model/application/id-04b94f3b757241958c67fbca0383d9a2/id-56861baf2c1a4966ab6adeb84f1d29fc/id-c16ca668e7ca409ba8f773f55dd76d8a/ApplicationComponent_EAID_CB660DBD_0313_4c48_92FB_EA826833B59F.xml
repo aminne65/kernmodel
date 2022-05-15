@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OD OnderwijsDeelname - VO"
+    id="EAID_CB660DBD_0313_4c48_92FB_EA826833B59F"
+    documentation="bron : Niet in cmdb&#xA;&#xA;VO inclusief VAVO">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

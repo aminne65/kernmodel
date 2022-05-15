@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P2.20 Beheren ontheffingsgegevens"
+    id="EAID_ED30E1FC_37A1_4786_B4BB_02DC2AB590D3">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

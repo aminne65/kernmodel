@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] GBM Generiek Behandelen Meldingen"
+    id="EAID_B40609F2_F2C7_48dc_B6B5_9AF74AD0A4E5"
+    documentation="Doel van de logistieke applicatie GBM (Generiek Behandelen Meldingen) is het vastleggen van binnengekomen meldingen in de (basis-) administraties en het daarna via events triggeren van de juiste vervolgprocessen. De applicatie vormt daarmee de koppeling tussen input-management en de backoffice processen. &#xA;&#xA;Jan Sjoerd Zuidema (PO)&#xA;Jan Willem Metzlar"/>

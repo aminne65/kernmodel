@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PPB Particulier Portaal Beheer"
+    id="EAID_4F604CB6_345D_4d41_A45B_D8E895154D7B"
+    documentation="bron : Topdesk&#xA;&#xA;PPB bevat diverse beheer transacties om het particulier portaal te kunnen beheren. ">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="267"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="209234"/>
+</archimate:ApplicationComponent>

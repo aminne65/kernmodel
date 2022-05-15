@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstelling PO"
+    id="EAID_6633CB41_11E2_43b0_B53D_C663C0F709A1"
+    documentation="Ketenpartner">
+  <properties
+      key="actorkind"
+      value="standard"/>
+  <properties
+      key="views"
+      value="Applicatie overzicht (View),LCM Registers (View)"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren Register Gedragscode HO"
+    id="EAID_7B285C9B_82F1_4ab9_8B2D_099B316C153B"
+    documentation="Proces doel &#xA;Het vastleggen en beheren van gegevens van onderwijsinstellingen in het Register Gedragscode Hoger Onderwijs. &#xA;Hoger Onderwijs instellingen die het niveau en de kwaliteit van de opleidingen kunnen garanderen worden opgenomen in het register gedragscode HO. DUO is door de koepelorganisaties aangewezen en door de ministeries van OCW en Justitie erkend als beheerder van het register. &#xA;&#xA;Proces beschrijving &#xA;De aanmelding om opgenomen te worden in het register Gedragscode Hoger onderwijs wordt beoordeeld op bevoegd gezag en CROHO. Is dit akkoord dan volgt opvoering in het register. Zijn de gegevens onvolledig of is CROHO niet duidelijk dan wordt de aanmelding afgewezen of bij de instelling bevraagd om aanvullende gegevens. Indien er na bevraging (en eventueel een rappel) aanvullende gegevens worden verstrekt, wordt de aanmelding opnieuw beoordeeld. Anders volgt intrekking van de aanmelding. De aanmelder ontvangt een brief met daarin vermeld de beslissing (registratie of afwijzing) of intrekking van de aanmelding. De aanmelding, bijlagen en afschrift van de brief naar de instelling worden gearchiveerd.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

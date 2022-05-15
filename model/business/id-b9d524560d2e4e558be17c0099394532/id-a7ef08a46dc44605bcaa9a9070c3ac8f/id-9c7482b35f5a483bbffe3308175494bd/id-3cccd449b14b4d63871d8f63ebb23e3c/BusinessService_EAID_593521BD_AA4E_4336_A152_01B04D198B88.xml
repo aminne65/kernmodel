@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Output management"
+    id="EAID_593521BD_AA4E_4336_A152_01B04D198B88"
+    documentation="Outputmanagement ondersteunt het leveren van producten aan klanten van DUO. Het bouwblok standaardiseert het geautomatiseerd en (eventueel) handmatig opmaken en samenstellen van producten. &#xA;Daarnaast haalt Outputmanagement de gegevens op die voor het bericht / document benodigd zijn.&#xA;Outputmanagement verzorgt tevens zelf de versturing via het papieren kanaal. De producten voor de andere kanalen worden verstuurd via de desbetreffende bouwblokken in Share H2M, Share H2H en Share M2M. "/>

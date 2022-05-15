@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WVB Werkvoorraad Beheer"
+    id="EAID_BB8FC72F_70D3_4e6a_BE2F_4866B820B650"
+    documentation="bron : Topdesk&#xA;&#xA;WVB regelt o.a. het inwinnen en bevragen van gegevens die nodig zijn om een beslissing te nemen over een aanvraag. Het kan hier gaan om inkomens of bewijsstukken. De Elektronische ambtenaar (onderdeel van WVB) regelt bijvoorbeeld de afhandeling van inkomens.&#xA;Vertoetsen (overnemen gegevens van een formulier) van formulieren.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="926"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="211731"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waardedocumentafgifte"
+    id="EAID_7AFEDBD5_67D7_493c_BCDB_F0052A741AF2"
+    documentation="De gebeurtenis waarbij – op een specifieke locatie en tijdstip- een waardedocument (lees behaald diploma of certificaat en cijferlijst)  wordt uitgereikt aan een examenkandidaat door een examenfunctionaris danwel wordt afgehaald door een examenkandidaat.">
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bb202ac_1429619163716_879871_24938"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

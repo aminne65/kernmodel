@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P-Direkt"
+    id="EAID_BCF21A2A_A76D_4ad9_8A8B_0A3C1DC88728"
+    documentation="Wij ondersteunen de werkgevers en werknemers binnen de sector Rijk met innovatieve technologie bij het afhandelen van hun personeelszaken. De salarisbetaling, het P-Direktportaal en de online personeelsinformatie zijn daarbij belangrijke eindproducten.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

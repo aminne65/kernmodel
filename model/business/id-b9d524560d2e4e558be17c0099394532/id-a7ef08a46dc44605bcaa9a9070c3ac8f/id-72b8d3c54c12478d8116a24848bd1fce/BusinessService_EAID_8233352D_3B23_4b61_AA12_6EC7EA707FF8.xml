@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Dynamic case management"
+    id="EAID_8233352D_3B23_4b61_AA12_6EC7EA707FF8"
+    documentation="&#x9;- De distributieactor is niet volledig geautomatiseerd: de activiteiten die moeten worden uitgevoerd staan niet vast, en zijn soms onvoorspelbaar..&#xA;&#x9;- De uitvoerende  actor is  een kenniswerker en moet tijdens de uitvoering van het proces kunnen beslissen wat de volgende acties zijn die uitgevoerd moeten worden, en kan hierin zelf een keuze maken. Tevens zal hij een deel van de toewijzing voor zijn rekening nemen.&#xA;&#x9;- De activiteiten worden niet (volledig) geautomatiseerd uitgevoerd&#xA;&#x9;- De rol van toezichthouder is beperkt."/>

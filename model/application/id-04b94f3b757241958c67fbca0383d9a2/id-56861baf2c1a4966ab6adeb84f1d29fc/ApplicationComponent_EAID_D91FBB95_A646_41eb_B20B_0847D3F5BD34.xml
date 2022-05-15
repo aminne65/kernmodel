@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Brickstreet Connect"
+    id="EAID_D91FBB95_A646_41eb_B20B_0847D3F5BD34"
+    documentation="Gekocht pakket&#xA;&#xA;Brickstreet Connect (BC)  verzendt mail in kleine aantallen en in bulk.  BC kan zelfstandig of via binnen DUO ontwikkelde adapter. XAB - XML Adapter Brickstreet mails versturen.&#xA;&#xA;Bulk voorbeeld: BC wordt gebruikt om in 1 keer een grote hoeveelheid mail te kunnen versturen naar bijvoorbeeld studenten.&#xA;Deze mailings worden verrijkt met shortcuts naar URL afkomstig van de Tridion Servers.&#xA;&#xA;Brickstreet zelf draait op een websphere machine, bestaat uit een web User Interface en het component dat de IronPort aanspreekt. &#xA;&#xA;BC is de opvolger van de Notificatiedienst (NOD)."/>
