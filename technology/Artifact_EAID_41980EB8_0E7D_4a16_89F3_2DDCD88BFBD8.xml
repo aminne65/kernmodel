@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL server 2014 AAG"
+    id="EAID_41980EB8_0E7D_4a16_89F3_2DDCD88BFBD8"
+    documentation="AAG = AlwaysOn Availability Groups &#xA;Synchrone replicatie tussen primary replica en secondary replica:&#xA;&#xA;Each set of availability database is hosted by an availability replica. Two types of availability replicas exist: a single primary replica. which hosts the primary databases, and one to eight secondary replicas, each of which hosts a set of secondary databases and serves as a potential failover targets for the availability group. An availability group fails over at the level of an availability replica. An availability replica provides redundancy only at the database level—for the set of databases in one availability group. Failovers are not caused by database issues such as a database becoming suspect due to a loss of a data file or corruption of a transaction log."/>

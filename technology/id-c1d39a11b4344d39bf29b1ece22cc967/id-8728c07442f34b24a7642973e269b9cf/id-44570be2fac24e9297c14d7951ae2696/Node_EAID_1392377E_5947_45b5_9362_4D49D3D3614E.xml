@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Directory Server Web Administration GUI"
+    id="EAID_1392377E_5947_45b5_9362_4D49D3D3614E"
+    documentation="De beheer applicatie voor de Directory Servers is een WebSphere applicatie, deze draait standaard op een embedded WebSphere Application Server op de Directory Server zelf. De Directory Server Web Administration GUI is onderdeel van IBM Tivoli Directory Server 6.1.1."/>

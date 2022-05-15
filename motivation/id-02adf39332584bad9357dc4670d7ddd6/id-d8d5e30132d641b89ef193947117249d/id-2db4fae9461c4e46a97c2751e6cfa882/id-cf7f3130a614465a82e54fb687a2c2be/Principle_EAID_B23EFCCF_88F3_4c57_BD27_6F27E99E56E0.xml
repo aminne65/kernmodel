@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open source wordt zo veel mogelijk nagestreefd: in verband met de eigen aanpasbaarheid van de code, en het makkelijk (zonder licentiekosten) kunnen uitproberen/instappen."
+    id="EAID_B23EFCCF_88F3_4c57_BD27_6F27E99E56E0"
+    documentation="Rationale&#xA;&#xA;Open source software voorkomt leveranciersafhankelijkheden. Open source software is veel goedkoper te verkrijgen en onderhouden dan commerciële software&#xA;&#xA;Implications&#xA;&#xA;Wanneer functionaliteit van een open source systeem vergelijkbaar is met commerci�le systemen in de markt, dan wordt het open source systeem geselecteerd.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

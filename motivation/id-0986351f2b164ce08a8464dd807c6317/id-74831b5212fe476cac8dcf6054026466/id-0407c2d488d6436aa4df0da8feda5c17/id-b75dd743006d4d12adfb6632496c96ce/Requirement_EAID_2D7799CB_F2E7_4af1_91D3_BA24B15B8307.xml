@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RPKI"
+    id="EAID_2D7799CB_F2E7_4af1_91D3_BA24B15B8307"
+    documentation="Beveiligen van de routing infrastructuur &#xA;&#xA;Versie: ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

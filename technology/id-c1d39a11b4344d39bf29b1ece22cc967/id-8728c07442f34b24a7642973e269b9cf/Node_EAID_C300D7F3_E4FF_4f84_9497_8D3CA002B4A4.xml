@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DCNM"
+    id="EAID_C300D7F3_E4FF_4f84_9497_8D3CA002B4A4"
+    documentation="DCNM = DataCenter Network Manager&#xA;Cisco DCNM supports the configuration and monitoring of NX-OS-enabled hardware platforms (e.g. routers and switches)."/>

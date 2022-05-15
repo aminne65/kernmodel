@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Python API"
+    id="EAID_AA4860D4_7383_42c9_9383_1285717B68A6"
+    documentation="Er worden standaard API's gebruikt voor de koppeling. Vmware koppelt middels PySphere en de API naar Satellite maakt verbinding via het HTTP protocol.">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

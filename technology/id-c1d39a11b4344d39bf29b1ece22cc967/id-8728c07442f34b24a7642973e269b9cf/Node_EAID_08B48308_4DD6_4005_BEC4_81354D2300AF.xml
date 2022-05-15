@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] UMAN identity token management"
+    id="EAID_08B48308_4DD6_4005_BEC4_81354D2300AF"
+    documentation="DUO één type token - Vasco - dat in diverse systemen wordt beheerd:&#xA;&#x9;- Uman Identity Token&#xA;&#x9;- Vasco Authentication Server&#xA;Het token wordt ook wel digipass of token genoemd.&#xA;&#xA;The minimum prerequisites for the U-Man Console Application are:&#xA;• JAVA Runtime 1.4.2: installed and in the SYSTEM PATH.&#xA;• IBM GSKit&#xA;• IBM LDAP client&#xA;• Vasco Vacman Controller 3.5.0: installed and in the SYSTEM PATH.&#xA;• An updated LDAP schema (see 1.2 Updating the LDAP server)."/>

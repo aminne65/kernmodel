@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het beheer van componenten zijn zoveel mogelijk geautomatiseerd"
+    id="EAID_E4DF8FFF_C73C_45f9_88BD_3D78B780EB9B"
+    documentation="Rationale&#xA;&#xA;Door handmatige interventie te voorkomen worden kosten gereduceerd. Menselijke taken zijn foutgevoelig en door automatisering worden dit soort fouten voorkomen.&#xA;&#xA;Implications&#xA;&#xA;Alle systemen die op afstand beheerd moeten worden zijn aangesloten op het netwerk en extern toegankelijk. &#xA;IT systemen bieden metrieken en faciliteiten voor instrumentatie waardoor ze bewaakt kunnen worden. &#xA;Er wordt applicatiebeheer functionaliteit ingebouwd in applicaties, inclusief de mogelijkheid om te herstellen van foutsituaties en een verlaagde functionaliteit te bieden in geval van specifieke verstoringen.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

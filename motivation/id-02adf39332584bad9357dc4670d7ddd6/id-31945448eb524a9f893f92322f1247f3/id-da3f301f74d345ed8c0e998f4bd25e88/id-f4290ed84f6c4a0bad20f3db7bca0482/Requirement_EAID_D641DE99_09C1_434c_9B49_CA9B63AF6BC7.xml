@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het netwerk wordt gemonitord en beheerd met het oog op detectie en herstel van aanvallen, storingen of fouten."
+    id="EAID_D641DE99_09C1_434c_9B49_CA9B63AF6BC7">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces)"/>
+  <properties
+      key="ID"
+      value="59"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962819_927700_19936"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.6.1-1, pag. 32"/>
+</archimate:Requirement>

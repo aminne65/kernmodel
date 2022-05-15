@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Message Process Manager"
+    id="EAID_55B72DF1_90CF_463c_A344_463CE7926957"
+    documentation="The Routing Slip demonstrates how a message can be routed through a dynamic series of processing steps. The solution of the Routing Slip is based on two key assumptions: the sequence of processing steps has to be determined up-front and the sequence is linear. In many cases, these assumptions may not be fulfilled. For example, routing decisions might have to be made based on intermediate results. Or, the processing steps may not be sequential, but multiple steps might be executed in parallel.&#xA;&#xA;http://www.enterpriseintegrationpatterns.com/patterns/messaging/ProcessManager.html"/>

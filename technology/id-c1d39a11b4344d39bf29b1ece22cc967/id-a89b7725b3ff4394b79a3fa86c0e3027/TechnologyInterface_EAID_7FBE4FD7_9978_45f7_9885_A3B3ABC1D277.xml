@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gateway Interchange (AxWay)"
+    id="EAID_7FBE4FD7_9978_45f7_9885_A3B3ABC1D277">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

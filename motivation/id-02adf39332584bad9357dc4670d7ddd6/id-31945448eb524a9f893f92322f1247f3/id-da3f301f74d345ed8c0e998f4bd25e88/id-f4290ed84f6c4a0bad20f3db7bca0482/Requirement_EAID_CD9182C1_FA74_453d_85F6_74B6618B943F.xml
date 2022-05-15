@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens die in toepassingen worden ingevoerd, worden gevalideerd. Hieronder minimaal grenswaarden, ongeldige tekens, onvolledige gegevens, onjuist format, inconsistentie."
+    id="EAID_CD9182C1_FA74_453d_85F6_74B6618B943F">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="164"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486949381_273132_18854"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.1, pag. 45"/>
+</archimate:Requirement>

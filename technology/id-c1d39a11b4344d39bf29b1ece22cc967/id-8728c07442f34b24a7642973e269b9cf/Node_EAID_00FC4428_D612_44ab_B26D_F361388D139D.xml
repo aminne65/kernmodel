@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM WebSphere MQ for iSeries"
+    id="EAID_00FC4428_D612_44ab_B26D_F361388D139D"
+    documentation="MQ staat op de E-, F- en de uitwijk machine. Op de E-machine voor de OTA-omgeving. Op de F- en uitwijk-machine voor de EXP - en PRD-omgeving.&#xA;&#xA;F-machine actief van 7.00 tot 20.15 uur. Uitwijk-machine actief van 20.15 tot 7.00 uur."/>

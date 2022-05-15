@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup strategieën zijn vastgesteld op basis van het soort gegevens (bestanden, databases etc.), de maximaal toegestane periode waarover gegevens verloren mogen raken en de maximaal toelaatbare backup- en hersteltijd."
+    id="EAID_0C824341_590E_49fa_B98C_193BBEFC2579">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Er moet een BIA plaatsvinden die bepaalt en vaststelt om wat voor soort gegevens het gaat."/>
+  <properties
+      key="ID"
+      value="54b"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486954381_663168_19182"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.5.1-2, pag. 31"/>
+</archimate:Requirement>

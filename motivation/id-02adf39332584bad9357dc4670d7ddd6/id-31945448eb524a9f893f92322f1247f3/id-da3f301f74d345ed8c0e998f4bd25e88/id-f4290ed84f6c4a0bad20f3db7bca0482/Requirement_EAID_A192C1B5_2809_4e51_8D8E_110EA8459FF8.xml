@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang tot hulpmiddelen voor audits van informatiesystemen behoort te worden beschermd om mogelijk misbruik of compromittering te voorkomen."
+    id="EAID_A192C1B5_2809_4e51_8D8E_110EA8459FF8">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="230"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962710_431159_19708"/>
+  <properties
+      key="Source"
+      value="BIR par. 15.3.2, pag. 55"/>
+</archimate:Requirement>

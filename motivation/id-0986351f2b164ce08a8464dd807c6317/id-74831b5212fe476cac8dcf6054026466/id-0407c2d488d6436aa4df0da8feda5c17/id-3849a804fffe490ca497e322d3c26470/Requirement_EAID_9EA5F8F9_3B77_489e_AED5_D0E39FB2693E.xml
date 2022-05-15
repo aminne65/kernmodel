@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO 3166-1"
+    id="EAID_9EA5F8F9_3B77_489e_AED5_D0E39FB2693E"
+    documentation="Codes voor landnamen &#xA;&#xA;Versie: ISO 3166-1:2013 Landcodes ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Overig"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

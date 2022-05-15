@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAN DMZ int"
+    id="EAID_ACFDAD18_86CA_405c_AF21_58F16935B9A4"
+    documentation="DeMilitarized Zone t.b.v. o.a het Internet:&#xA;Voor wat betreft publiekelijk gerelateerde verkeerstromen een buffer vormen tussen het internet en de overige zones."/>

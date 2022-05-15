@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Door logisch gescheiden systemen voor OTAP is er geen onderlinge beïnvloeding van systemen."
+    id="EAID_7ADD05F9_0356_4a39_8A84_972E5F62D8FB">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Het gaat om de &quot;horizontale&quot; beïnvloeding. Natuurlijk blijven er altijd invloeden van gemeenschappelijke afhankelijkheden (zoals stroomvoorziening, virtualisatielaag) (vertikaal, van onderaf). (Interpretatie WV en AW; 21-8-2014)"/>
+  <properties
+      key="ID"
+      value="36"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486952678_371780_19120"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1.4-1, pag. 29"/>
+</archimate:Requirement>

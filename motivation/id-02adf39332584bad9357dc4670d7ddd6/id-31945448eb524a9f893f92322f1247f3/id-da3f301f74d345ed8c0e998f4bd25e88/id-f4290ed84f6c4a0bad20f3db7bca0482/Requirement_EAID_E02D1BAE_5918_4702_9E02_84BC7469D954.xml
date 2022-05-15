@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De vertrouwelijkheid van cryptografische sleutels moet worden gewaarborgd tijdens generatie, gebruik, transport en opslag van de sleutels."
+    id="EAID_E02D1BAE_5918_4702_9E02_84BC7469D954">
+  <properties
+      key="Category"
+      value="Proces/werkwijze ; Principe"/>
+  <properties
+      key="ID"
+      value="179"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966335_809472_20120"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.3.2-3, pag. 47"/>
+</archimate:Requirement>

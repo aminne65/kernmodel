@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UDDI"
+    id="EAID_2B1B9F80_A668_497c_8F6E_29C297E4B026"
+    documentation="Register voor webservices &#xA;&#xA;Versie: 3.0.2">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

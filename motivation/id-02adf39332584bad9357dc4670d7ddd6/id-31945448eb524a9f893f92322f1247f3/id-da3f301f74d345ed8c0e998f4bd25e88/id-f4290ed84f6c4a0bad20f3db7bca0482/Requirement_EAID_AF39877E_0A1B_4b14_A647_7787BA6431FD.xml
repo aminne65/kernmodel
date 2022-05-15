@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er dient documentatie te zijn van bedieningsprocedures en de procedures m.b.t. behandeling digitale media."
+    id="EAID_AF39877E_0A1B_4b14_A647_7787BA6431FD">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="Description"
+      value="Bedieningsprocedures komen grofweg overeen met beheerdocumentatie. M.b.t. digitale media letten op o.a. ontvangst, rubricering, verzending en vernietiging."/>
+  <properties
+      key="ID"
+      value="28"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962756_142025_19806"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1.1, pag. 28"/>
+</archimate:Requirement>

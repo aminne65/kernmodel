@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie/infrastructuur is financieel Schaalbaar"
+    id="EAID_029EEFC3_31AA_4f27_BD1E_EAC26AC41158"
+    documentation="Rationale&#xA;Voorkomen dat (eventueel in latere instantie) financiële beperkingen m.b.t. schaalbaarheid en granulariteit ontstaan bij grootschalig gebruik.&#xA;&#xA;Implicaties&#xA;Bij ontwerp moet niet alleen gekeken worden naar de technische mogelijkheden, maar ook de licentievoorwaarden en andere financi�le consequenties van de gebruikte componenten moeten worden bezien.&#xA;Dit moet meegenomen worden in de afweging van de keuzes."/>

@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integratie van applicaties aan de voorkant (voor de gebruikers) middels een portaal"
+    id="EAID_4646D86F_B95C_447f_8333_D5227FF5809E"
+    documentation="Rationale&#xA;&#xA;Een portaal biedt functionaliteit die optimaal is afgestemd op de rol en persoonlijke voorkeuren van gebruikers. Een portaal biedt ��n ingangspunt en integratielaag voor toegang tot applicaties, en voorkomt dat gebruikers zelf functionaliteit moeten zoeken of integreren. Een portaal kan ervoor zorgen dat gebruikers maar één keer hoeven in te loggen (single sign-on).&#xA;&#xA;Implications&#xA;&#xA;Er is een portaal waarin alle applicatiefunctionaliteit toegankelijk is. Applicaties zijn minimaal te starten via het enterprise portaal, maar zijn idealiter volledig ge�ntegreerd met het portaal.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

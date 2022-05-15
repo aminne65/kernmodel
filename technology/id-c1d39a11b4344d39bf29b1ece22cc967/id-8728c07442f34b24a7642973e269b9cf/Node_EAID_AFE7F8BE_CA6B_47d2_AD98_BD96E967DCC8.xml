@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Linux Rsync over SSH"
+    id="EAID_AFE7F8BE_CA6B_47d2_AD98_BD96E967DCC8"
+    documentation="Rsync synchroniseert bestanden en directory's van de ene computer naar de andere. &#xA;Daarbij is het mogelijk gegevens te verzenden door, als de doelcomputer al een andere versie van dat bestand heeft staan, alleen het verschil (de delta) te versturen. Hiervoor hoeft het, in tegenstelling tot de meeste vergelijkbare programma's en algoritmes, maar één gegevensstroom per richting te versturen.&#xA;Rsync kan directory inhoud tonen en directory's en bestanden kopiëren, naar keuze met gegevenscompressie en recursie, en is daardoor goed geschikt om bestanden en hele directorybomen te synchroniseren.&#xA;Voor gebruik over UDP en TCP gebruikt rsync als standaard poortnummer 873.&#xA;&#xA;De connectie wordt encrypted met SSH."/>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poorten, diensten en soortgelijke voorzieningen op een netwerk of computer die niet vereist zijn voor de dienst dienen te worden afgesloten."
+    id="EAID_B6121FFD_7BD7_47d9_BBA8_1D08F9551100">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="127"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486947444_426152_18778"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.4.4, pag. 40"/>
+</archimate:Requirement>

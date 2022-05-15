@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Op het grensvlak van een vertrouwde en onvertrouwde omgeving vindt contentscanning plaats, om uitlekken van informatie te voorkomen."
+    id="EAID_1962A82E_3795_4a25_A493_BB51BA0AA956">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="194"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486961897_669733_19510"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.5.4, pag. 48"/>
+</archimate:Requirement>

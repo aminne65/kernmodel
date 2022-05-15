@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terugdringen administratieve lasten [ROSA]"
+    id="EAID_ECC01622_4B54_4be3_8F28_36DC846F62D7"
+    documentation="Stelling: Terugdringen van administratieve lasten in het onderwijs.&#xA;&#xA;Rationale: De overheid, de maatschappij en het onderwijs zelf vragen van scholen en andere ketenpartijen om gegevens te verzamelen, te registreren en ter beschikking te stellen. Deze gegevens worden gebruikt bij de begeleiding van de onderwijsvolger, voor horizontale en verticale verantwoording, en voor beleid en interne organisatie. Veel gegevens worden op verschillende plaatsen in de onderwijsketen bijgehouden. Dit leidt tot onnodige administratieve lasten. &#xA;Implicaties: Meer hergebruik van gegevens die binnen het onderwijsdomein al bekend zijn; betere afstemming en meer gemeenschappelijkheid in informatiehuishouding. &#xA;&#xA;http://www.wikixl.nl/wiki/rosa/index.php/Terugdringen_administratieve_lasten ">
+  <properties
+      key="Category"
+      value="De overheid, de maatschappij en het onderwijs zelf vragen van scholen en andere ketenpartijen om gegevens te verzamelen, te registreren en ter beschikking te stellen. Deze gegevens worden gebruikt bij de begeleiding van de onderwijsvolger, voor horizontale en verticale verantwoording, en voor beleid en interne organisatie. Veel gegevens worden op verschillende plaatsen in de onderwijsketen bijgehouden. Dit leidt tot onnodige administratieve lasten."/>
+  <properties
+      key="Description"
+      value="Terugdringen van administratieve lasten in het onderwijs"/>
+  <properties
+      key="ID"
+      value="ROSA-SD04"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427123288461_373481_19536"/>
+  <properties
+      key="Source"
+      value="http://www.wikixl.nl/wiki/rosa/index.php/Terugdringen_administratieve_lasten"/>
+</archimate:Goal>

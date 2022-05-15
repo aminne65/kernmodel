@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EDU WUS over HTTP(s)"
+    id="EAID_CDF9743F_3EEE_4724_BA5B_D940E42BC0FB">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteiten voor ontwikkeling, testen en productie zijn gescheiden."
+    id="EAID_F4FD22AF_8B87_456a_B593_3B3A91172AFC">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="35"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486952459_656550_19112"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1.4, pag. 29"/>
+</archimate:Requirement>

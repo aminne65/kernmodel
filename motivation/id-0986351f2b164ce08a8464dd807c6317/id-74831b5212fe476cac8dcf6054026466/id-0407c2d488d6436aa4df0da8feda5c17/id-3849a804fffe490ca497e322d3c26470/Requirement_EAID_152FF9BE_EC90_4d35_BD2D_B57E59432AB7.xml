@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPP"
+    id="EAID_152FF9BE_EC90_4d35_BD2D_B57E59432AB7"
+    documentation="printen via een netwerk &#xA;&#xA;Versie: 1.1 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

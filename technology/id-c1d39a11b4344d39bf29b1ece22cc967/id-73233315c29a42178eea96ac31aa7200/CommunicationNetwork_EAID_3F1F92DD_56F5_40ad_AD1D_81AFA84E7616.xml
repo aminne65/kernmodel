@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAN BEZ"
+    id="EAID_3F1F92DD_56F5_40ad_AD1D_81AFA84E7616"
+    documentation="BEheer Zone:&#xA;Een afgeschermde zone voor beheer toegang op het juiste betrouwbaarheidsniveau, DMZ-BEZ (10), Intern-BEZ (20 en 30) en SEC-BEZ (40)"/>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iCalendar"
+    id="EAID_285A0E60_C834_472c_AFE0_101B0E618BD6"
+    documentation="Kalendergegevens &#xA;&#xA;Versie: Nov 1998 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Overig"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

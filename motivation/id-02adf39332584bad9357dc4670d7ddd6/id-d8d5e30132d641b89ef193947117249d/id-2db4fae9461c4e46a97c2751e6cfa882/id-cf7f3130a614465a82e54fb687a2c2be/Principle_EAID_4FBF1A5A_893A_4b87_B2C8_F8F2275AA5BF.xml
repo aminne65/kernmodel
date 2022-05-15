@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Heterogeniteit, zich niet vastpinnen op één platform of leverancier, is uitgangspunt"
+    id="EAID_4FBF1A5A_893A_4b87_B2C8_F8F2275AA5BF"
+    documentation="Rationale&#xA;&#xA;&#xA;Implications">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

@@ -1,0 +1,24 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De onderwijsvolger voert regie op zijn eigen onderwijsgegevens [ROSA]"
+    id="EAID_0AD2324C_6ABA_4b8f_90EA_B4D37C8D52D5"
+    documentation="Stelling: &#xA;De onderwijsvolger wordt in staat gesteld reeds bekende gegevens (her) te gebruiken, en in sommige gevallen te bewerken, en te beslissen welke partijen al dan niet mogen inzien, gebruiken en bewerken.&#xA;&#xA;Rationale:&#xA;Om de onderwijsvolger optimaal te kunnen ondersteunen in zijn ontwikkeling en groei zal de informatiehuishouding voor de burger zelf ook transparant moeten zijn en is het noodzakelijk dat hij regie kan voeren op zijn eigen (onderwijs)gegevens. &#xA;&#xA;Implicaties:&#xA;Transparantie betekent dat het voor de onderwijsvolger duidelijk moet zijn bij welke organisatie welke gegevens over hem zijn opgeslagen. Regie betekent dat de onderwijsvolger in staat wordt gesteld deze gegevens (her) te gebruiken en in sommige gevallen te bewerken, en te beslissen welke partijen al dan niet mogen inzien, gebruiken en bewerken. Daarbij is het niet noodzakelijk dat gegevens centraal worden beheerd en opgeslagen, maar dat gegevens op het moment dat het nodig is, opgehaald kunnen worden bij de bron. Dus geen centraal dossier, maar een samenstelling van diensten. &#xA;&#xA;http://www.wikixl.nl/wiki/rosa/index.php/De_onderwijsvolger_voert_regie_op_zijn_eigen_onderwijsgegevens ">
+  <properties
+      key="ID"
+      value="ROSA-BP02"/>
+  <properties
+      key="Implication"
+      value="Transparantie betekent dat het voor de onderwijsvolger duidelijk moet zijn bij welke organisatie welke gegevens over hem zijn opgeslagen. Regie betekent dat de onderwijsvolger in staat wordt gesteld deze gegevens (her) te gebruiken en in sommige gevallen te bewerken, en te beslissen welke partijen al dan niet mogen inzien, gebruiken en bewerken. Daarbij is het niet noodzakelijk dat gegevens centraal worden beheerd en opgeslagen, maar dat gegevens op het moment dat het nodig is, opgehaald kunnen worden bij de bron. Dus geen centraal dossier, maar een samenstelling van diensten."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1426856090716_234695_16765"/>
+  <properties
+      key="Rationale"
+      value="Om de onderwijsvolger optimaal te kunnen ondersteunen in zijn ontwikkeling en groei zal de informatiehuishouding voor de burger zelf ook transparant moeten zijn en is het noodzakelijk dat hij regie kan voeren op zijn eigen (onderwijs)gegevens."/>
+  <properties
+      key="Source"
+      value="http://www.wikixl.nl/wiki/rosa/index.php/De_onderwijsvolger_voert_regie_op_zijn_eigen_onderwijsgegevens"/>
+  <properties
+      key="StatementOfPrinciple"
+      value="De onderwijsvolger wordt in staat gesteld reeds bekende gegevens (her) te gebruiken, en in sommige gevallen te bewerken, en te beslissen welke partijen al dan niet mogen inzien, gebruiken en bewerken"/>
+</archimate:Principle>

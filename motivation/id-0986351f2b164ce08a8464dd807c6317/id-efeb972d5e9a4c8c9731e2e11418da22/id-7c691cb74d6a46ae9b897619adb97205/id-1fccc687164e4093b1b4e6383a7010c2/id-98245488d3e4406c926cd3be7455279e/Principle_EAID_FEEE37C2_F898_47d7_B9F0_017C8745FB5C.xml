@@ -1,0 +1,29 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeenschappelijkheid in informatiehuishouding [ROSA]"
+    id="EAID_FEEE37C2_F898_47d7_B9F0_017C8745FB5C"
+    documentation="Stelling: &#xA;We streven naar een betere afstemming en meer gemeenschappelijkheid in de informatiehuishouding van de administratieve ketenprocessen.&#xA;&#xA;Rationale: &#xA;Een betere afstemming en meer gemeenschappelijkheid draagt bij aan het optimaliseren van de keten(s) van gegevensuitwisseling ten behoeve van de eigen bedrijfsprocessen van de verschillende ketenpartners die een rol hebben in de doorlopende leerlijn. Voor deze optimalisatie is gegevensuitwisseling nodig op het niveau van het gehele onderwijsdomein, die het niveau van een deelsector of een instelling of de grens overheid/onderwijsveld overstijgt.&#xA;&#xA;Implicaties:&#xA;&#x9;- (technische interoperabiliteit) toewerken naar een gemeenschappelijke en neutrale basisinfrastructuur, waarop services worden aangeboden die aan het gehele onderwijsveld beschikbaar kunnen worden gesteld en waarmee partijen door hen gewenste gegevens, op een door hen gewenst moment op kunnen vragen c.q. beschikbaar kunnen stellen;&#xA;&#x9;- (semantische interoperabiliteit) informatie zo organiseren dat, met inachtneming van sector- en processpecifieke terminologie, de betekenis van gegevens eenduidig is. &#xA;&#xA;http://www.wikixl.nl/wiki/rosa/index.php/Gemeenschappelijkheid_in_informatiehuishouding ">
+  <properties
+      key="Owner"/>
+  <properties
+      key="Category"
+      value="Guiding Principle"/>
+  <properties
+      key="ID"
+      value="ROSA-BP05"/>
+  <properties
+      key="Implication"
+      value="(technische interoperabiliteit) toewerken naar een gemeenschappelijke en neutrale basisinfrastructuur, waarop services worden aangeboden die aan het gehele onderwijsveld beschikbaar kunnen worden gesteld en waarmee partijen door hen gewenste gegevens, op een door hen gewenst moment op kunnen vragen c.q. beschikbaar kunnen stellen; (semantische interoperabiliteit) informatie zo organiseren dat, met inachtneming van sector- en processpecifieke terminologie, de betekenis van gegevens eenduidig is."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427121258778_867612_19305"/>
+  <properties
+      key="Rationale"
+      value="Een betere afstemming en meer gemeenschappelijkheid draagt bij aan het optimaliseren van de keten(s) van gegevensuitwisseling ten behoeve van de eigen bedrijfsprocessen van de verschillende ketenpartners die een rol hebben in de doorlopende leerlijn Voor deze optimalisatie is gegevensuitwisseling nodig op het niveau van het gehele onderwijsdomein, die het niveau van een deelsector of een instelling of de grens overheid/onderwijsveld overstijgt."/>
+  <properties
+      key="Source"
+      value="http://www.wikixl.nl/wiki/rosa/index.php/Gemeenschappelijkheid_in_informatiehuishouding"/>
+  <properties
+      key="StatementOfPrinciple"
+      value="We streven naar een betere afstemming en meer gemeenschappelijkheid in de informatiehuishouding van de administratieve ketenprocessen."/>
+</archimate:Principle>

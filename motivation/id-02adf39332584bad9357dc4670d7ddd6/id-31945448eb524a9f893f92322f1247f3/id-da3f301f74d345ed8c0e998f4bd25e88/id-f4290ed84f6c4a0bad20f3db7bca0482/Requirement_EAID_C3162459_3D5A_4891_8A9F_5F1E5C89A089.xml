@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicaties maken minimaal gebruik van een systeemaccount zoals administrator of root. Mocht dat toch nodig zijn, dan wordt zo snel mogelijk teruggeschakeld naar een account zonder extra rechten (&quot;gewone gebruiker&quot;)."
+    id="EAID_C3162459_3D5A_4891_8A9F_5F1E5C89A089">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Privileged accounts worden slechts beperkt in tijd gebruikt."/>
+  <properties
+      key="ID"
+      value="142"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486959147_640162_19390"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.2-3, pag. 41"/>
+</archimate:Requirement>

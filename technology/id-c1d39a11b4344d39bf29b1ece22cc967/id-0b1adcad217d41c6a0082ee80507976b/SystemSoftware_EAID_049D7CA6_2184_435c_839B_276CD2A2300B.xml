@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F5 AFM module"
+    id="EAID_049D7CA6_2184_435c_839B_276CD2A2300B"
+    documentation="AFM = Advanced Firewall Manager&#xA;&#xA;AFM inspects traffic that is both entering and leaving your datacenter, ensuring protection of sensitive data such as social security numbers and credit card information."/>

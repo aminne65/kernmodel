@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er wordt bewaakt dat alle plannen consistent zijn met dit kader (bedrijfscontinuïteitsplannen; BIR 14.1.4), om eisen voor informatiebeveiliging op consistente wijze te behandelen en om prioriteiten vast te stellen voor testen en onderhoud."
+    id="EAID_3D789083_8EAD_4b38_A066_B03D6D5C3B75">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="219"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962678_252489_19666"/>
+  <properties
+      key="Source"
+      value="BIR par. 14.1.4, pag. 52"/>
+</archimate:Requirement>

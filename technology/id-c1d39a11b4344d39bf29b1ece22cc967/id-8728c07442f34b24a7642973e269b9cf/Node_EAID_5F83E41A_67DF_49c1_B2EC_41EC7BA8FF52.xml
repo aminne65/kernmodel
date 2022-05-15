@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] AGPM 4"
+    id="EAID_5F83E41A_67DF_49c1_B2EC_41EC7BA8FF52"
+    documentation="AGPM = Microsoft Advanced Group Policy Management&#xA;&#xA;Extension op Active Directory Group Policy management. Resulteert in versioning.&#xA;&#xA;The AGPM Server stores Group Policy Objects (GPOs) offline in the archive that AGPM creates on the server's file system. Group Policy administrators use the AGPM snap-in for the Group Policy Management Console (GPMC) to work with GPOs on the server that hosts the archive. Understanding the parts of AGPM and related items, how they store GPOs in the file system, and how permissions control the actions available to each user role can improve Group Policy administrators' effectiveness with AGPM."/>

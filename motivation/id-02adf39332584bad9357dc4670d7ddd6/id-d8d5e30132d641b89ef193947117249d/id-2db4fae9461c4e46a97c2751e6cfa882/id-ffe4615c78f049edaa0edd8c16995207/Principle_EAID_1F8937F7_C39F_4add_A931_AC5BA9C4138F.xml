@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geautomatiseerd te deployen"
+    id="EAID_1F8937F7_C39F_4add_A931_AC5BA9C4138F"
+    documentation="Rationale&#xA;Vanwege de omvang, maar ook de hoge frequentie van deployen van applicaties en andere (infrastructuur-)componenten, is een handmatige uitrol niet meer haalbaar. Niet alleen wordt hiermee de beheerlast (in uren) verminderd, ook de kwaliteit (voorspelbaarheid) gaat hiermee omhoog.&#xA;&#xA;Implicaties&#xA;Alle beheerhandelingen (m.n. op gebied van uitrol) zijn scriptbaar en worden als script beschikbaar gesteld. Daarmee zijn ze op te nemen in een governance structuur. Op deze scripts wordt versiebeheer toegepast."/>

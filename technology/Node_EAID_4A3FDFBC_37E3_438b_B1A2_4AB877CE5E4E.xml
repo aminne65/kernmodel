@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Physical hardware, including disks"
+    id="EAID_4A3FDFBC_37E3_438b_B1A2_4AB877CE5E4E"
+    documentation="Op de interne disk staat alleen het OS, behalve bij de TSM. Die heeft ook andere gegevens lokaal."/>

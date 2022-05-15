@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NTP"
+    id="EAID_C92C1ECE_4E06_44d6_92CA_AF0469A565AA"
+    documentation="synchroniseren van tijd &#xA;&#xA;Versie: 4 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

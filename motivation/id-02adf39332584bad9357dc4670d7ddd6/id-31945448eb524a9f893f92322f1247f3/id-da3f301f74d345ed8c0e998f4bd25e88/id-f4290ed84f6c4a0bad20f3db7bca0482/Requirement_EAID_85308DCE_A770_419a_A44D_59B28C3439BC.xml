@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er moet toegangsbeleid zijn vastgesteld op basis van bedrijfseisen en beveiligingseisen voor toegang."
+    id="EAID_85308DCE_A770_419a_A44D_59B28C3439BC">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="111"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966913_663624_20254"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.1.1, pag. 38"/>
+</archimate:Requirement>

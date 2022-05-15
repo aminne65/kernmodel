@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL GOV Assurance profile for OAuth 2.0"
+    id="EAID_941E6D52_4107_41ca_B7F5_A9A69DF1B7A2"
+    documentation="Beveiligingstandaard voor het autoriseren van toegang tot REST API’s &#xA;&#xA;Versie: 15 juli 2019 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

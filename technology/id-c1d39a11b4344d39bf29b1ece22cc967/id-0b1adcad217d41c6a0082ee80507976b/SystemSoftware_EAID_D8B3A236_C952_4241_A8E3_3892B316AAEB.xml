@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft IIS 8.5"
+    id="EAID_D8B3A236_C952_4241_A8E3_3892B316AAEB"
+    documentation="Volgens CMDB in gebruik:&#xA;&#x9;- Application Request Routing for IIS 7&#xA;&#x9;- External Cache for IIS 7&#xA;&#x9;- IIS Express Application Compatibility Database&#xA;&#x9;- IIS Resource Kit Tools&#xA;&#x9;- IIS URL Rewrite Module&#xA;&#x9;- PHP Manager for IIS 7&#xA;&#x9;- WebDAV For IIS 7.0"/>

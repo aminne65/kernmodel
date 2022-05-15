@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Virtualized storage"
+    id="EAID_7726D8A4_B10E_456b_8DB1_3BE0562A3513"
+    documentation="Een weergave van fysieke storage op een logische manier. Anders gezegd, zichtbare opslag maar het is niet inzichtelijk waar deze opslag zich bevindt binnen het netwerk of systeem."/>

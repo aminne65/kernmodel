@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCIM"
+    id="EAID_D6C65AA8_A710_47f5_9EBD_03620E88A69D"
+    documentation="Uitwisseling identiteitsinformatie &#xA;&#xA;Versie: RFC 7642, 7643 en 7644 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

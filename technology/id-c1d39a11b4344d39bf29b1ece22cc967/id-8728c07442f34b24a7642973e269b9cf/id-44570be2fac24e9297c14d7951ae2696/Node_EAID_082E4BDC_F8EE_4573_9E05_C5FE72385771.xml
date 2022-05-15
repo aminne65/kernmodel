@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fortinet Fortigate HA pair"
+    id="EAID_082E4BDC_F8EE_4573_9E05_C5FE72385771"
+    documentation="Virtual Domains (VDOM)&#xA;Enable a single FortiGate system to function as multiple independent virtual FortiGate systems. Each VDOM contains its own virtual interfaces, route table, state table, and protection profiles."/>

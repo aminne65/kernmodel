@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerking met externen gebruikt federatieve identiteiten"
+    id="EAID_B38114AE_7493_45fe_A859_1435B951D190"
+    documentation="Rationale&#xA;&#xA;Externe organisaties voeren hun eigen administratie van gebruikers en wachtwoorden. Uit het oogpunt van privacy is het niet wenselijk om deze gegevens te delen. Anderzijds is er bij samenwerking wel behoefte aan het gebruik van systemen van de andere partij. Het handmatig opvoeren van gebruikers en wachtwoorden bij een andere partij brengt veel beheerslast met zich mee en leidt richting gebruikers tot meer accounts en wachtwoorden die zij moeten onthouden en beheren. Door het gebruik van federatieve identiteiten kan de administratie van gebruikers blijven bij de organisatie waar de gebruiker werkt. Federatieve identiteiten zijn identiteiten die de leverancier van een dienst zelf niet beheerd. &#xA;&#xA;Implications&#xA;&#xA;Gebruikers en wachtwoorden worden alleen geadministreerd bij de organisatie waar gebruikers werken. &#xA;De aanbieder van een service/systeem biedt de mogelijkheid om federatieve gebruikers toe te laten tot haar systemen van organisaties die zij vertrouwt. &#xA;Er zijn infrastructurele voorzieningen aanwezig om federatieve identiteiten uit te wisselen.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

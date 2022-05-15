@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Cordys ESB CARS"
+    id="EAID_548BE14D_970C_4fa1_9C6C_154B1307A3CD"
+    documentation="Cordys Admin Repository Server (CARS).&#xA;&#xA;De CARS is een OpenLDAP service, deze wordt als een 3-way Multi-master ingericht."/>

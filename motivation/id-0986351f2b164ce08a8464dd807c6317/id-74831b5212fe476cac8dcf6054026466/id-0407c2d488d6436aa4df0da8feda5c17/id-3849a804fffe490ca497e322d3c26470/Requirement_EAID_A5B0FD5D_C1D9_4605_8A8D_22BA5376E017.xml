@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSH-2"
+    id="EAID_A5B0FD5D_C1D9_4605_8A8D_22BA5376E017"
+    documentation="Versleuteld inloggen &#xA;&#xA;Versie: RFC 4251: 2006 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

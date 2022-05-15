@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iPXE"
+    id="EAID_EA02AD32_175C_49b2_820F_F82DB87C005B"
+    documentation="iPXE is the leading open source network boot firmware. It provides a full PXE implementation enhanced with additional features such as: &#xA;&#x9;- boot from a web server via HTTP&#xA;&#x9;- boot from an iSCSI SAN&#xA;&#x9;- boot from a Fibre Channel SAN via FCoE&#xA;&#x9;- boot from an AoE SAN&#xA;&#x9;- boot from a wireless network&#xA;&#x9;- boot from a wide-area network&#xA;&#x9;- boot from an Infiniband network&#xA;&#x9;- control the boot process with a script"/>

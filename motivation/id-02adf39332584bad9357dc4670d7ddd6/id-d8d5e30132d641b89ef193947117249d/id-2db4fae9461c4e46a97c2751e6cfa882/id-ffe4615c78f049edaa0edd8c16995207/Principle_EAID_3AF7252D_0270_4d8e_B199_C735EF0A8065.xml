@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloudprovider onafhankelijk"
+    id="EAID_3AF7252D_0270_4d8e_B199_C735EF0A8065"
+    documentation="Rationale&#xA;Door bij de inrichtingskeuzes in een zo vroeg mogelijk stadium rekening te houden met de situatie dat overgestapt wordt naar een andere cloudprovider (van welke servicemodel dan ook, zie bijlage), wordt bij de ontwikkeling invulling gegeven aan een exitstrategie. Overstappen wordt makkelijker en flexibiliteit t.o.v. een cloudprovider wordt maximaal.&#xA;&#xA;Implicaties&#xA;Als er specifieke dingen moeten worden ingericht (zoals beheertooling, dashboards, beheerservices), moet dit zo gebeuren dat er zonder veel consequenties overgestapt kan worden naar een andere provider.&#xA;� Gebruik open standaarden waar dat kan.&#xA;� Gebruik generieke faciliteiten i.t.t. proprietary faciliteiten&#xA;� Gebruik/bouw abstractielagen waar opportuun."/>

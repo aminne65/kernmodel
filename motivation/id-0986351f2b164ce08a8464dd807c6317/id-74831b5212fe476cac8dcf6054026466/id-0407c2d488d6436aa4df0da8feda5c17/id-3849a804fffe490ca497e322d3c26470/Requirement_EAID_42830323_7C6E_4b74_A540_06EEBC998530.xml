@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XMI 2.x"
+    id="EAID_42830323_7C6E_4b74_A540_06EEBC998530"
+    documentation="UML Metadata informatie &#xA;&#xA;Versie: 2.x">
+  <properties
+      key="Domein Standaardisatie"
+      value="Document en (web)content"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

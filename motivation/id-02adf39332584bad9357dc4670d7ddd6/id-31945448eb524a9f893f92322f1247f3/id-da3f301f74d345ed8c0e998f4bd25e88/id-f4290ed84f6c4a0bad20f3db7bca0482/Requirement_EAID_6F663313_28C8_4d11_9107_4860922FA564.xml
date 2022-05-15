@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingen in een applicatie zijn bij voorkeur herstelbaar (n.a.v. fouten of kwijtraken van informatie) door het opnieuw verwerken van de informatie."
+    id="EAID_6F663313_28C8_4d11_9107_4860922FA564">
+  <properties
+      key="Category"
+      value="Richtlijn"/>
+  <properties
+      key="ID"
+      value="168"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966725_774236_20128"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.2-4, pag. 46"/>
+</archimate:Requirement>

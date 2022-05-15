@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een gebruiker moet geen extra rechten kunnen toekennen aan programma's (bijv. internet browser) die mobiele code uitvoeren."
+    id="EAID_750782F0_C631_42a8_9B17_E8E52151FA73">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="52a"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486943303_141435_18584"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.4.2-2, pag. 31"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Persistence framework"
+    id="EAID_BB2AFC61_02B1_4d3f_BD93_87B353173FC0"
+    documentation="Het mogelijk maken dat gegevens worden opgeslagen vanuit een applicatie.&#xA;&#xA;Voorlopig buiten scope!&#xA;&#xA;Abstarctielaag tussen applicaties en databases:&#xA;Many persistence frameworks are also object-relational mapping (ORM) tools (e.g. Hibernate, iBATIS SQL Maps, Slick, and Java Ultra-Lite Persistence). Such frameworks map the objects in the application domain to data that needs to be persisted in a database. The mappings can be defined using either XML files or metadata annotations."/>

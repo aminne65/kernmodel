@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichten zijn traceerbaar naar de originele vraag"
+    id="EAID_21DE0D67_281C_408f_9315_3889C3328125"
+    documentation="Rationale&#xA;&#xA;In de volledige keten van verwerking ondergaat een bericht allerlei transformaties waardoor deze er uiteindelijk geheel anders uit ziet dan het originele bericht. Als er ergens een fout op treedt in deze keten dan moet wel duidelijk zijn welk bericht daar origineel aan ten grondslag lag zodat de fout in de bron kan worden aangepast. &#xA;&#xA;Implications&#xA;&#xA;Er wordt een unieke identificatie van een bronbericht in de gehele aanroepketen gelogd waardoor de door het bericht gevolgde route in de keten kan worden gevolgd. Bij elke transformatie van een bericht wordt de unieke identificatie meegegeven in het gegenereerde bericht">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

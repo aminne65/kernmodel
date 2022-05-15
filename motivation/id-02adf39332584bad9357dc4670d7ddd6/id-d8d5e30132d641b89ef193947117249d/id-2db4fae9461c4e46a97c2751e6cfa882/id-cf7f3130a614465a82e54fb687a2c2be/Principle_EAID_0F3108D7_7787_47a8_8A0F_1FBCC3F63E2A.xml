@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging is end-to-end en gebaseerd op meerdere defensieve strategiën"
+    id="EAID_0F3108D7_7787_47a8_8A0F_1FBCC3F63E2A"
+    documentation="Rationale&#xA;&#xA;Beveiliging dient niet afhankelijk te zijn van enkelvoudige maatregelen omdat compromitteren dan tot totale onveiligheid leidt. Beveiliging die niet end-to-end is kan worden gecompromitteerd in de tussenliggende lagen. &#xA;&#xA;Implications&#xA;&#xA;Meerdere beveiligingsmaatregelen worden genomen om een object te beveiligen. Er zijn meedere beveiligingszones in het netwerk. Extern netwerkverkeer passeert minimaal twee firewalls van verschillende leveranciers. Gegevens die worden uitgewisseld worden bij voorkeur op niveau van de inhoud versleuteld omdat dit end-to-end werkt (in tegenstelling tot versleuteling op transportniveau).">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

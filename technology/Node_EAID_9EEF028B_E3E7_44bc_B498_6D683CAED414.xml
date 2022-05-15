@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM Directory Server extern (LDAP extern)"
+    id="EAID_9EEF028B_E3E7_44bc_B498_6D683CAED414"
+    documentation="Een user registry is vereist, deze component wordt gebruikt om de gebruikers informatie op te slaan. In dit geval maken we gebruik van IBM Tivoli Directory Server (hierna: TDS, of LDAP server), dit is de IBM LDAP directory server op basis van DB2."/>

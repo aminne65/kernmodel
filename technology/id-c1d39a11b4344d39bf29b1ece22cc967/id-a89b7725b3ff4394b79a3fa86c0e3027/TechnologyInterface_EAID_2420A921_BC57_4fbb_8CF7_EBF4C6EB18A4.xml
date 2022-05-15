@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network appliance Siteprotector remote network sensor"
+    id="EAID_2420A921_BC57_4fbb_8CF7_EBF4C6EB18A4"
+    documentation="appliance">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

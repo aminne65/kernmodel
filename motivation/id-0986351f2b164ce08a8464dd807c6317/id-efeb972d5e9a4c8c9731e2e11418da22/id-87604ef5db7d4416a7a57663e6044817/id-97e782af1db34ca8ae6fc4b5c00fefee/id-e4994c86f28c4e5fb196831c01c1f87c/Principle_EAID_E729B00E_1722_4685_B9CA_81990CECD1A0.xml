@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AP40 Onweerlegbaarheid [NORA]"
+    id="EAID_E729B00E_1722_4685_B9CA_81990CECD1A0"
+    documentation="De onweerlegbaarheid van berichtenuitwisseling wordt gegarandeerd door wederzijdse authenticatie en door versleuteling van elektronische handtekeningen.&#xA;&#xA;https://www.noraonline.nl/wiki/Onweerlegbaarheid_(principe) "/>

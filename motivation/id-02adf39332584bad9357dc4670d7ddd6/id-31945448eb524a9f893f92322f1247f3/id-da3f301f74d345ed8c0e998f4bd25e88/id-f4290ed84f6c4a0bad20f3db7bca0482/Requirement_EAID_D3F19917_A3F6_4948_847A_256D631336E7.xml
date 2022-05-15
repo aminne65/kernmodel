@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorafgaand aan het aanmelden wordt een melding getoond met organisatie eisen."
+    id="EAID_D3F19917_A3F6_4948_847A_256D631336E7">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="137"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966944_158303_20310"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.1-3, pag. 41"/>
+</archimate:Requirement>

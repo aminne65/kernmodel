@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nutanix 1"
+    id="EAID_68AA919E_229A_412e_93AC_0DCF97483DFC"
+    documentation="Nutanix NX-3260-G4, NX-3360-G4:&#xA;Hyperconverged appliances - in the case of Nutanix - natively converge compute + storage to form a single node used in our appliance.&#xA;&#xA;The compute configuration item contains CPUs, memory and network fabrics.&#xA;&#xA;The storage configuration item contains SDD en HDD - hybride or all flash."/>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Met logbestanden van administrators en operators wordt op dezelfde wijze omgegaan als met auditlogs."
+    id="EAID_23C73F9D_AD38_42bf_A826_68F5A386A699">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="108"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966913_234538_20230"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.4, pag. 37"/>
+</archimate:Requirement>

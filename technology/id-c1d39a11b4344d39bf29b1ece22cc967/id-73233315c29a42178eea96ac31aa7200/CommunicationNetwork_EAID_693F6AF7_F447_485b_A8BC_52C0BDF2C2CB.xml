@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAN LSZ"
+    id="EAID_693F6AF7_F447_485b_A8BC_52C0BDF2C2CB"
+    documentation="Local Server Zone:&#xA;Een (veilige) Zone voor alle data en interne applicaties, &#xA;Servers in deze zone staan niet direct in contact met netwerken die connectie hebben met internet en andere niet secure omgevingen."/>

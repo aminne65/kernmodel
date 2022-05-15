@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UMRA database"
+    id="EAID_80AEBF69_C4D3_4d08_94EC_0248B7095B28"
+    documentation="De database dient als opslag voor configuratie, snapshots en logging/auditing.&#xA;&#xA;Via UMRA leest de beheerder zaken, zoals wie een token heeft, wie in topdesk een CI heeft, zoals laptop etc. Voor MDM kijkt hij of er gebruikers in staan die nog niet in de bijbehorende AD groep zitten. Zo niet, dan worden deze gebruikers toegevoegd in de AD groep (handmatige actie)."/>

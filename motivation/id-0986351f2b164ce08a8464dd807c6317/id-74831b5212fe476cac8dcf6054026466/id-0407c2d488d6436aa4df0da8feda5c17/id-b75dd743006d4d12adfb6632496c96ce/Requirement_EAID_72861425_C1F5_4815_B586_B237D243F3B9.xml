@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-ISO/IEC 27002"
+    id="EAID_72861425_C1F5_4815_B586_B237D243F3B9"
+    documentation="Richtlijnen en principes voor informatiebeveiliging &#xA;&#xA;Versie: NEN-ISO/IEC 27002:2013 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

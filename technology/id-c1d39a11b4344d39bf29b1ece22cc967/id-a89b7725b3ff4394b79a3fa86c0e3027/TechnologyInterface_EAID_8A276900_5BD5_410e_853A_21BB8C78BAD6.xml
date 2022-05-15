@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DK GBS over HTTP(s)"
+    id="EAID_8A276900_5BD5_410e_853A_21BB8C78BAD6">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

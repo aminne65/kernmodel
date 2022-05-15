@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het wachtwoord of andere authenticatiegegevens worden niet (leesbaar) getoond op het scherm"
+    id="EAID_F1DBAB89_2CA1_4d43_A31F_6D93EB24A682">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="136"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486948303_351410_18810"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.1-2, pag. 41"/>
+</archimate:Requirement>

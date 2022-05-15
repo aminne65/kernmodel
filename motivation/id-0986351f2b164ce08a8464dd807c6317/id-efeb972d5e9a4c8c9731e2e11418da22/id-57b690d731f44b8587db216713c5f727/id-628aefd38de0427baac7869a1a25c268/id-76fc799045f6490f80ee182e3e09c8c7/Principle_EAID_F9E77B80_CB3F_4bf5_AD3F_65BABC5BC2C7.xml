@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang13 Ontkoppeling authenticatie van autorisatie [EAR]"
+    id="EAID_F9E77B80_CB3F_4bf5_AD3F_65BABC5BC2C7"
+    documentation="Het authenticatiemiddel dient ontkoppeld te zijn van het autorisatieproces.&#xA;&#xA;Rationale&#xA;Authenticatie en autorisatie hebben ieder hun eigen uitgangspunten en toepassingen. Het voordeel van ontkoppeling is dat heruitgifte van authenticatiemiddelen bij rolwisselingen overbodig wordt.&#xA;&#xA;Implicaties&#xA;Bij het wijzigen van autorisaties van een gebruiker dient vermeden te worden dat het authenticatiemiddel voor die gebruiker moet worden vervangen. Voorbeeld: een medewerker personeelszaken krijgt een functie als projectleider. Bij deze rolwisseling passen andere autorisaties maar de authenticatiemiddelen blijven dezelfde als in zijn vorige functie.&#xA;&#xA;EAR informatiseringsdomein&#xA;Toegangsdiensten&#xA;&#xA;https://www.earonline.nl/index.php/Toegang:_Ontkoppeling_authenticatie_van_autorisatie "/>

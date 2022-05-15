@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het is niet mogelijk om logbestanden aan te passen/te manipuleren"
+    id="EAID_1F0A65B0_A6C4_4887_BB85_AD4BBFB52D90">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="Description"
+      value="(slechts aanvullen)"/>
+  <properties
+      key="ID"
+      value="104"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486946459_559028_18726"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.3-3, pag. 36"/>
+</archimate:Requirement>

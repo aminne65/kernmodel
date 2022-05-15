@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alleen gegevens die noodzakelijk zijn voor het de doeleinden van de gebruiker worden uitgevoerd (need-to-know)."
+    id="EAID_6494E617_032C_4410_AD6F_666A5C97A1DF">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="&quot;Beleidsprincipe: mensen bekijken alleen die zaken die nodig zijn voor hun werk.&quot;"/>
+  <properties
+      key="ID"
+      value="172"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486961319_201_19484"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.4-3, pag. 46"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppelnetwerk BKN"
+    id="EAID_267711B9_4468_4114_820B_FE6418E5F1F4"
+    documentation="Het ODC-Noord netwerk biedt via het basis koppel netwerk (BKN) toegang tot de OSB, Rijksweb , WAN-i en DCI-generiek VPN dienst. Deze netwerken worden aangeboden voor zowel housing als hosting (cloud) gebruikers."/>

@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sFTP identiteitsinformatie medewerkers"
+    id="EAID_1D688B5A_47EE_4551_A92D_BDB277BD6B21"
+    documentation="De HR gegevens van DUO medewerkers dient (o.a. ten behoeve van het Rijkspas aanvraag proces) te worden ingebracht binnen de identity management van OCW. &#xA;&#xA;De gegevens  worden vanuit SAP naar een sFTP fileserver (WinSCP) getransporteerd en vervolgens verrijkt met AD informatie.&#xA;Informatie vanuit OCW wordt toegevoegd aan SAP HR."/>

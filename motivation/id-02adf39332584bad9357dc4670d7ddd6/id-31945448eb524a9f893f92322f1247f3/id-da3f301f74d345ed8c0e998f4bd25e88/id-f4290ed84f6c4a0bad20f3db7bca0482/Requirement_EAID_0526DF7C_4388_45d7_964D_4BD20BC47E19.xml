@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In overeenkomsten met derden horen alle relevante beveiligingseisen te zijn opgenomen."
+    id="EAID_0526DF7C_4388_45d7_964D_4BD20BC47E19">
+  <properties
+      key="Category"
+      value="Aandachtspunt"/>
+  <properties
+      key="Description"
+      value="Waaronder (niet uitputtend): maatregelen geïmplementeerd, in contracten o.a. intellectueel eigendom, aansprakelijkheid en escrow, plan m.b.t. beëindiging diensten, onderaannemers, rapportages en opvolging."/>
+  <properties
+      key="ID"
+      value="12"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486942334_538811_18524"/>
+  <properties
+      key="Source"
+      value="BIR par. 6.2.3.-1t/m8, pag. 18"/>
+</archimate:Requirement>

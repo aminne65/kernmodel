@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VMware vShield Endpoint"
+    id="EAID_E2E392D4_FCD4_4f1b_AEFA_3CB304A2ADBB"
+    documentation="VMware vShield is a group of networking and security products for virtualized IT infrastructures. &#xA;&#xA;vShield is comprised of vShield Manager, vShield Edge, vShield Zones, vShield App, vShield Data Security and vShield Endpoint. Products in the vShield Suite operate under the centralized management of vShield Manager."/>

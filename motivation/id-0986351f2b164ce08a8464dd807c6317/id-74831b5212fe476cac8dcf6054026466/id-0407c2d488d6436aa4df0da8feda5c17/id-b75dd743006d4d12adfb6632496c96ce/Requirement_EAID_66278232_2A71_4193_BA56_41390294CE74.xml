@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digikoppeling"
+    id="EAID_66278232_2A71_4193_BA56_41390294CE74"
+    documentation="Veilige berichtenuitwisseling &#xA;&#xA;Versie:">
+  <properties
+      key="Domein Standaardisatie"
+      value="Stelselstandaarden"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

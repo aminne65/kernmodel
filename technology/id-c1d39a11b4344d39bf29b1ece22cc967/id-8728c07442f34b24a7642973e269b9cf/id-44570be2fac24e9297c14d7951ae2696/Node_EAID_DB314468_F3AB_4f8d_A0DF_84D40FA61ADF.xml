@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Redis"
+    id="EAID_DB314468_F3AB_4f8d_A0DF_84D40FA61ADF"
+    documentation="Redis = REmote DIctionary Server&#xA;&#xA;Redis is an in-memory database open-source software project implementing a networked, in-memory key-value store with optional durability."/>

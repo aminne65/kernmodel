@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OIDC"
+    id="EAID_781B5B98_FBA5_4c95_9B9A_C9D792F867FF"
+    documentation="Authenticatie &#xA;&#xA;Versie: 1.0 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

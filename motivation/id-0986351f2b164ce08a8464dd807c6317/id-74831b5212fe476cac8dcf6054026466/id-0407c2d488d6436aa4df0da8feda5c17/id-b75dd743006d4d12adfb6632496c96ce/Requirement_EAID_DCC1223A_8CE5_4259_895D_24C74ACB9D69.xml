@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EML_NL"
+    id="EAID_DCC1223A_8CE5_4259_895D_24C74ACB9D69"
+    documentation="Verkiezingsgegevens &#xA;&#xA;Versie: 1.0">
+  <properties
+      key="Domein Standaardisatie"
+      value="Overig"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

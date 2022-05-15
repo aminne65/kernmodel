@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBM GSKit 8.x"
+    id="EAID_2CC0A25E_3588_4332_8B63_534994BDC260"
+    documentation="IBM Global Security Kit (GSKIT) wordt gebruikt om certificaten te beheren. Het staat geinstalleerd op alle componenten van de TAM 6.1.1 omgeving."/>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsrechten van gebruikers worden periodiek, minimaal jaarlijks, geëvalueerd door de directie. Eea beschreven in toegangsbeleid en bepaald op basis van het risiconiveau."
+    id="EAID_8D65797E_540B_4ffd_B259_4E2B99B19C74">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces); Principe"/>
+  <properties
+      key="ID"
+      value="120"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486963928_785337_20030"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.2.4, pag. 39"/>
+</archimate:Requirement>

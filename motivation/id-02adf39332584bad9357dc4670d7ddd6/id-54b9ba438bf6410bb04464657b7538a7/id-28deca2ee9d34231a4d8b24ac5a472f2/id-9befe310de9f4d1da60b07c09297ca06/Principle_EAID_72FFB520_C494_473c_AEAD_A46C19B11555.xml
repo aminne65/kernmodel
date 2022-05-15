@@ -1,0 +1,24 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inrichting informatievoorziening is ontkoppeld van de implementatie van processen."
+    id="EAID_72FFB520_C494_473c_AEAD_A46C19B11555"
+    documentation="DUO-EA-AP06 Afgeleid architectuurprincipe&#xA;Gebruik van en toegang tot functionaliteit wordt tijd-, plaats- en locatieonafhankelijk vormgegeven.&#xA;&#xA;Rationale&#xA;Door de inrichting van de informatievoorziening onafhankelijk van de inrichting van de organisatie te maken, worden betere voorwaarden gecreëerd om wijzigingen in de organisatie door te voeren en de consequenties voor de informatievoorziening beperkt te houden.&#xA;&#xA;Implicaties&#xA;&#x9;- De inrichting van informatievoorziening wordt gebaseerd op de (in enige mate inrichtingsonafhankelijke) bedrijfsfuncties;&#xA;&#x9;- Werkplekvoorziening moet flexibel en hoog beschikbaar zijn;&#xA;&#x9;- De logische werkplek voorziening is tijds-, plaats- en apparaatsonafhankelijk;&#xA;&#x9;- Samenwerkingsfunctionaliteit moet dit principe ondersteunen.&#xA;&#x9;- Hoge(re) eisen worden gesteld vanuit security en privacy.">
+  <properties
+      key="Description"
+      value="Gebruik van en toegang tot functionaliteit wordt tijd-, plaats- en locatieonafhankelijk vormgegeven."/>
+  <properties
+      key="ID"
+      value="DUO-EA-AP06"/>
+  <properties
+      key="Implication"
+      value="- De inrichting van informatievoorziening wordt gebaseerd op de (in enige mate inrichtingsonafhankelijke) bedrijfsfuncties; - Werkplekvoorziening moet flexibel en hoog beschikbaar zijn; - De logische werkplek voorziening is tijds-, plaats- en apparaatsonafhankelijk; - Samenwerkingsfunctionaliteit moet dit principe ondersteunen. - Hoge(re) eisen worden gesteld vanuit security en privacy."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427104669929_328722_19455"/>
+  <properties
+      key="Rationale"
+      value="Door de inrichting van de informatievoorziening onafhankelijk van de inrichting van de organisatie te maken, worden betere voorwaarden gecreëerd om wijzigingen in de organisatie door te voeren en de consequenties voor de informatievoorziening beperkt te houden."/>
+  <properties
+      key="StatementOfPrinciple"
+      value="Inrichting informatievoorziening is ontkoppeld van de implementatie van processen."/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCDR"
+    id="EAID_40A0F9B3_B9A3_4357_B659_0B886DE8C7B4"
+    documentation="Identificatie van en verwijzingen naar decentrale regelgeving &#xA;&#xA;Versie: 1.0">
+  <properties
+      key="Domein Standaardisatie"
+      value="Juridische verwijzingen"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

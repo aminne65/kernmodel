@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alle componenten in een procesketen (ook in de cloud) zijn goed te monitoren"
+    id="EAID_731C8ED8_B6DB_4c1e_88DB_2169970F6AD2"
+    documentation="Rationale&#xA;&#xA;Wat je niet kunt meten, kun je niet op reageren.&#xA;Om te kunnen reageren op wijzigingen in de omgeving, moeten deze wijzigingen goed waargenomen kunnen worden. Monitoren is dus noodzakelijk om de principes Build to fail en Elasticity in te kunnen vullen.&#xA;&#xA;Implications&#xA;&#xA;Applicaties en andere (infrastructuur-)componenten zijn in staat indicaties van hun functioneren door te geven (op eigen initiatief of gevraagd) aan een centrale monitoringfaciliteit.">
+  <properties
+      key="TOGAF::Rationale"
+      value="Wat je niet kunt meten, kun je niet op reageren. Om te kunnen reageren op wijzigingen in de omgeving, moeten deze wijzigingen goed waargenomen kunnen worden. Monitoren is dus noodzakelijk om de principes Build to fail en Elasticity in te kunnen vullen."/>
+  <properties
+      key="TOGAF::Implications"
+      value="Applicaties en andere (infrastructuur-)componenten zijn in staat indicaties van hun functioneren door te geven (op eigen initiatief of gevraagd) aan een centrale monitoringfaciliteit."/>
+</archimate:Principle>

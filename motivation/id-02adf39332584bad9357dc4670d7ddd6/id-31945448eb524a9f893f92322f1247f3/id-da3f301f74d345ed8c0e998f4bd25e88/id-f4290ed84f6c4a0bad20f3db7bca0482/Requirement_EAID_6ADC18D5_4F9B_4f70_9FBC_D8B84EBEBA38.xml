@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij aanbesteding is in contracten vastgelegd hoe om te gaan met beveiligingsmaatregelen, incidenten en controles."
+    id="EAID_6ADC18D5_4F9B_4f70_9FBC_D8B84EBEBA38">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="ID"
+      value="10"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962725_866358_19752"/>
+  <properties
+      key="Source"
+      value="BIR par. 6.2.1.-6, pag. 18"/>
+</archimate:Requirement>

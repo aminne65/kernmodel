@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integratie voor duplicatie"
+    id="EAID_361C4855_7B0D_4db4_B98B_65F449E40446"
+    documentation="PA06 - Applicatiearchitectuurkader&#xA;Afnemers maken gebruik van centraal opgeslagen en beheerde gegevens. Pas als blijkt dat dit niet voldoet aan niet-functionele eisen , worden de gegevens gedupliceerd naar een omgeving waar de afnemer wel goed bij kan. &#xA;&#xA;Rationale:&#xA;Gegevensduplicatie kan gemakkelijk leiden tot niet-synchrone kopieën. Oorzaak hiervan kan liggen in fouten in het synchronisatieproces maar ook doordat synchronisatie vaak met een bepaald interval uitgevoerd word. Daarnaast kost het synchroniseren extra (ontwikkel- en beheer-) resources. &#xA;&#xA;Implicaties:&#xA;Noodzaak om gedupliceerde gegevens te synchroniseren met de centraal opgeslagen en beheerde gegevens. &#xA;&#xA;https://wiki/display/ARCHITECT/PA06+Integratie+voor+duplicatie "/>

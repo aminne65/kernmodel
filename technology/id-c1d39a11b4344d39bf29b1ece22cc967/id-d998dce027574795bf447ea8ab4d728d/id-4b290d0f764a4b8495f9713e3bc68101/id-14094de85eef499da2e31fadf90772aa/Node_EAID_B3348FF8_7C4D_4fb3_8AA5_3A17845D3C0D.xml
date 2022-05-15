@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Message broker"
+    id="EAID_B3348FF8_7C4D_4fb3_8AA5_3A17845D3C0D"
+    documentation="Use a central Message Broker that can receive messages from multiple destinations, determine the correct destination and route the message to the correct channel. Implement the internals of the Message Broker using the design patterns presented in this chapter.&#xA;&#xA;http://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html"/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM WebSphere MQ for Windows"
+    id="EAID_825F6A3D_C58E_4c58_850E_B2E100BE4067"
+    documentation="Asynchrone koppelingen&#xA;Bufferen bij pieken&#xA;&#xA;Een client benaderd één van de MQ manager servers. Als de geadresseerde queue op een andere server staat dan zorgt MQ Manager voor het benaderen van de juiste queue via message routing (aparte service store-and-forward voor ontvangende berichten - verzendende partij, ophalen kan alleen als de juiste Queue Manager wordt benaderd). &#xA;&#xA;In ASZ: Vooralsnog zal de MQ machine enkelvoudig uitgevoerd worden. "/>

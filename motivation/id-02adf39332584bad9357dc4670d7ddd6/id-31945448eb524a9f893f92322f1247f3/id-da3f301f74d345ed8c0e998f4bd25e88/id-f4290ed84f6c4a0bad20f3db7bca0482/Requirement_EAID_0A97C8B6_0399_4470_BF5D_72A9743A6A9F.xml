@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De cryptografische beveiligingsvoorzieningen en -componenten voldoen aan algemeen gangbare beveiligingscriteria."
+    id="EAID_0A97C8B6_0399_4470_BF5D_72A9743A6A9F">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="Description"
+      value="Bijvoorbeeld FIPS140-2 en waar mogelijk NBV."/>
+  <properties
+      key="ID"
+      value="176"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486950162_25121_18890"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.3.1-3, pag. 46"/>
+</archimate:Requirement>
