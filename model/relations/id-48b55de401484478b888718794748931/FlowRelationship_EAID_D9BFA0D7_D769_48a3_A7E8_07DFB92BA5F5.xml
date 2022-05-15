@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signaal"
+    id="EAID_D9BFA0D7_D769_48a3_A7E8_07DFB92BA5F5">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_FC7F8CB9_84CB_4bae_A572_4752636293BF.xml#EAID_FC7F8CB9_84CB_4bae_A572_4752636293BF"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_EAID_BF13A784_00A1_4567_9481_5261C7B187C8.xml#EAID_BF13A784_00A1_4567_9481_5261C7B187C8"/>
+</archimate:FlowRelationship>

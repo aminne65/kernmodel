@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enkelvoudig"
+    id="EAID_DF005CA2_C4B0_4c87_B1E5_2579110DC08D">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_EAID_C456122A_4B9E_418e_8008_758A879FC12F.xml#EAID_C456122A_4B9E_418e_8008_758A879FC12F"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_EAID_96F72E24_F1AF_4a56_8767_E7CAD3CA2FC6.xml#EAID_96F72E24_F1AF_4a56_8767_E7CAD3CA2FC6"/>
+</archimate:AssociationRelationship>

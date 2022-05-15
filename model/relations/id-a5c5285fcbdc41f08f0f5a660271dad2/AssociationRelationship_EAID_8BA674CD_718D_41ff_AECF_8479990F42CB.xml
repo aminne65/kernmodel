@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelt Examens"
+    id="EAID_8BA674CD_718D_41ff_AECF_8479990F42CB">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_4E2BA861_BABA_49cd_8DA3_9F771430603E.xml#EAID_4E2BA861_BABA_49cd_8DA3_9F771430603E"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_EAID_FDBA1B18_5592_4b67_9777_BB834E779545.xml#EAID_FDBA1B18_5592_4b67_9777_BB834E779545"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replication, live volume(primair/secundair) via SAN"
+    id="EAID_E8EA308B_D994_44a7_85FD_B568E92AA1FF">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_EE9F80E0_F523_4b37_9C40_51182FDD2BB9.xml#EAID_EE9F80E0_F523_4b37_9C40_51182FDD2BB9"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_4C01421F_2C1F_475c_AA18_D83A5EF943D1.xml#EAID_4C01421F_2C1F_475c_AA18_D83A5EF943D1"/>
+</archimate:AssociationRelationship>

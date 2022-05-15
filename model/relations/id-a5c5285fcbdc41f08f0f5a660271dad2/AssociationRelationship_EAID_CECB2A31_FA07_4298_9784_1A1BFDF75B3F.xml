@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afname Certificerings examens (WFT)"
+    id="EAID_CECB2A31_FA07_4298_9784_1A1BFDF75B3F">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_8B3C0465_FCFC_4e9e_A9BB_A74FBE399BC2.xml#EAID_8B3C0465_FCFC_4e9e_A9BB_A74FBE399BC2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_EAID_FDBA1B18_5592_4b67_9777_BB834E779545.xml#EAID_FDBA1B18_5592_4b67_9777_BB834E779545"/>
+</archimate:AssociationRelationship>

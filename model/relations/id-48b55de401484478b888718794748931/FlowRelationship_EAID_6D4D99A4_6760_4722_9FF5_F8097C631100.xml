@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DUO Identifier van de betrokkene/melding"
+    id="EAID_6D4D99A4_6760_4722_9FF5_F8097C631100">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_E29A9CB4_0F4D_4d42_AE90_CAD027C1C9A6.xml#EAID_E29A9CB4_0F4D_4d42_AE90_CAD027C1C9A6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_ADD4D3FB_E75C_41b1_A968_402359E7258A.xml#EAID_ADD4D3FB_E75C_41b1_A968_402359E7258A"/>
+</archimate:FlowRelationship>

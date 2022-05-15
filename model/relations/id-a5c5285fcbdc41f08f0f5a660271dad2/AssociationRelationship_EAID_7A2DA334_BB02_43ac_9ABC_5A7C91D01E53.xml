@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VRRP"
+    id="EAID_7A2DA334_BB02_43ac_9ABC_5A7C91D01E53"
+    documentation="VRRP = Virtual Routing Redundancy Protocol">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_EAID_D54C642E_F1B8_4c3c_88D6_BF9707C0A1C7.xml#EAID_D54C642E_F1B8_4c3c_88D6_BF9707C0A1C7"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_EAID_B0CF9345_BD5F_4993_95E4_0E0264770643.xml#EAID_B0CF9345_BD5F_4993_95E4_0E0264770643"/>
+</archimate:AssociationRelationship>

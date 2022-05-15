@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="redundant"
+    id="EAID_53D4B253_EA75_4854_97DD_1913A1A6C213">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_EAID_A0391E38_A076_4144_9093_379B97BE0C6C.xml#EAID_A0391E38_A076_4144_9093_379B97BE0C6C"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_EAID_6A9DA79F_1318_4861_AD43_5436061F98CB.xml#EAID_6A9DA79F_1318_4861_AD43_5436061F98CB"/>
+</archimate:AssociationRelationship>

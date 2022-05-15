@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afname NT2, VO en VSO examens"
+    id="EAID_69837764_8D7B_4bee_87E6_AEA1EE1FA870">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_82CADC2D_7BE9_45b0_B8D5_2F1535EF3F21.xml#EAID_82CADC2D_7BE9_45b0_B8D5_2F1535EF3F21"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_EAID_FDBA1B18_5592_4b67_9777_BB834E779545.xml#EAID_FDBA1B18_5592_4b67_9777_BB834E779545"/>
+</archimate:AssociationRelationship>

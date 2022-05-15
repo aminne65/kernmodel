@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HA via VRRP"
+    id="EAID_2E850560_2537_4d14_8D1A_25467FAACBA6"
+    documentation="Virtual Router Redundancy Protocol (VRRP)">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_EAID_71FF77B5_E340_44d1_B534_CCD1EEF621CA.xml#EAID_71FF77B5_E340_44d1_B534_CCD1EEF621CA"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_EAID_4E54583F_DFD9_4811_A64C_F8816FCB6225.xml#EAID_4E54583F_DFD9_4811_A64C_F8816FCB6225"/>
+</archimate:AssociationRelationship>

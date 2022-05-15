@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NDSF"
+    id="EAID_1407AF00_BA3C_4800_8C66_334B67B52E03"
+    documentation="Nutanix Distributed Storage Fabric (NDSF) appears to the hypervisor like any centralized storage array, however all of the I/Os are handled locally to provide the highest performance.&#xA;Clustering of CVMs assigned to Nutanix appliances.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_333C2E4D_9DDE_4991_BAA4_E55733C732A3.xml#EAID_333C2E4D_9DDE_4991_BAA4_E55733C732A3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_6DEFEAD9_0606_4da7_A059_36C209DC8865.xml#EAID_6DEFEAD9_0606_4da7_A059_36C209DC8865"/>
+</archimate:AssociationRelationship>

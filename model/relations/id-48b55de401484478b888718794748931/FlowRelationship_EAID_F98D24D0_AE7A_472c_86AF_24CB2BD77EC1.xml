@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machtigingen"
+    id="EAID_F98D24D0_AE7A_472c_86AF_24CB2BD77EC1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_007EA2D3_0D68_4e54_BAD3_0AE0D33FA867.xml#EAID_007EA2D3_0D68_4e54_BAD3_0AE0D33FA867"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_4EB9AE36_B052_45bc_9042_A85A4707169D.xml#EAID_4EB9AE36_B052_45bc_9042_A85A4707169D"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MQ channel"
+    id="EAID_A192F02F_7ED8_4b8f_9C88_26499E202A13">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_48BF2487_93B0_421b_B662_DC5A309AE0A3.xml#EAID_48BF2487_93B0_421b_B662_DC5A309AE0A3"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_7D683FD3_990D_43b1_9D6C_2352F9ECA0B8.xml#EAID_7D683FD3_990D_43b1_9D6C_2352F9ECA0B8"/>
+</archimate:AssociationRelationship>
