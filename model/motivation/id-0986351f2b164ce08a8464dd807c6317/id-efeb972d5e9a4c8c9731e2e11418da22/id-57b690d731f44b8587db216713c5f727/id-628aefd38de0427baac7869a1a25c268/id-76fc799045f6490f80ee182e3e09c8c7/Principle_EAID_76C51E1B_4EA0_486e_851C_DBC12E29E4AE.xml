@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toegang10 RIdM is service georiënteerd [EAR]"
-    id="EAID_76C51E1B_4EA0_486e_851C_DBC12E29E4AE"
-    documentation="Het systeem RIdM is een samenhangend geheel van onafhankelijke herbruikbare services, en maakt gebruikt van vastgestelde open standaarden en bestaande rijksbreed herbruikbare voorzieningen en services.&#xA;&#xA;Rationale&#xA;Uitstekende interoperabiliteit is in een federatief model voor Identity &amp; Access Management een randvoorwaarde. Functies als identificatie, authenticatie en autorisatie worden daarom als zelfstandige services ontwikkeld en zijn op basis van standaard koppelvlakken (open standaarden) aanroepbaar (te gebruiken) voor applicaties van meerdere organisaties. Een service (of dienst) georiënteerde architectuur is daarbij door de referentiekaders NORA en MARIJ benoemd als uitgangspunt.&#xA;&#xA;EAR informatiseringsdomein&#x9;&#xA;Toegangsdiensten&#xA;&#xA;https://www.earonline.nl/index.php/DAT:_RIdM_is_service_geori%C3%ABnteerd "/>

@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CAT Cryptoserver Adminstration Tool"
-    id="EAID_B31B8D50_F402_4c0e_BFD9_26B77EEEB31B"
-    documentation="De CAT software is een JAVA applicatie met behulp waarvan users, PIN code wijzigingen, Backups ingesteld, aanmaken slots, etc kunnen worden geconfigureerd. De CAT software wordt geïnstalleerd op een dedicated laptop welke, indien benodigd, uit de kluis wordt gehaald. Aan deze laptop wordt de smartcardreader gekoppeld."/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Infoblox intern PRD"
-    id="EAID_8E8BD85C_2620_4015_920B_D33BEF791E7F"
-    documentation="DNS:&#xA;- Authoritative voor de Interne DUO zones&#xA;- Stub zones naar de Remote koppelingen&#xA;- Recursion actief, met ACL&#xA;&#xA;De functie DNS resolver is aangezet"/>

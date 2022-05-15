@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Officeheart"
-    id="EAID_D0454166_10C5_4a8f_A6B6_8D5CB25A662D"
-    documentation="SAAS oplossing draait bij leverancier, wordt gebruikt voor call- en incidentmanagment.&#xA;&#xA;Bij de ontwikkeling van mijnBron is gekozen voor een externe leverancier met een eigen authenticatie oplossing: Officeheart. Volgens ITSM is Officeheart is een extern CRM-pakket voor BRON-PO. "/>

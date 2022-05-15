@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DFS cluster DFS name space servers"
-    id="EAID_9E5FEC04_E62A_4cff_B977_784AA8F0829A"
-    documentation="DFS-Namespace wordt gebruikt&#xA;DFS-replication wordt niet gebruikt.&#xA;&#xA;Logical view of namespaces?&#xA;Domain integrated via Active Directory?&#xA;Zijn er meerdere namespaces?"/>

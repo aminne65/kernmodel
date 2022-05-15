@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DiDu08 Records zijn beveiligd [EAR]"
-    id="EAID_D9951DA2_B0AF_4897_8F0B_C09F95AAE660"
-    documentation="Een record kan alleen worden aangemaakt, gewijzigd, geraadpleegd en vernietigd door personen die daartoe bevoegd zijn.&#xA;&#xA;Rationale&#xA;De betrouwbaarheid van de informatiehuishouding komt in het gedrang als alle medewerkers onbeperkt deze activiteiten kunnen verrichten.&#xA;&#xA;Implicaties&#xA;&#x9;- Voor ieder record is een veiligheidsregime vastgesteld.&#xA;&#x9;- Autorisaties worden toegekend op basis van een rijksbrede identificatie en een rijksbreed gebruikersprofiel.&#xA;&#x9;- De RD-organisatie hanteert het normenkader van de BIR.&#xA;&#xA;EAR informatiseringsdomein&#xA;Documentdiensten&#xA;&#xA;https://www.earonline.nl/index.php/DiDu:_Records_zijn_beveiligd "/>

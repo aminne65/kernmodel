@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="F5 Big-IP HA pair"
-    id="EAID_E5EA1B71_9366_4562_B16C_0D2B82C75049"
-    documentation="Een redudante F5 omgeving die bestaat uit 2 BigIP  appliances in een active/passive cluster. "/>

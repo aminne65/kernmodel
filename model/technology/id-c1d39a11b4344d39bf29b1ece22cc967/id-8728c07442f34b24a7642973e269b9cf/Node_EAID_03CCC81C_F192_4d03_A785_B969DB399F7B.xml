@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] JBoss EWS 2.x"
-    id="EAID_03CCC81C_F192_4d03_A785_B969DB399F7B"
-    documentation="EWS = Enterprise Web Server&#xA;Red Hat Jboss Enterprise Web Server&#xA;&#xA;Doel&#xA;Het http verkeer, bestemd voor een specifieke JEE Web applicatie, naar één of meerdere EAP instance(s) routeren, met in acht name van lopende sessies (JSESSIONID).&#xA;&#xA;Ontwerp&#xA;Er is gekozen voor een hybride constructie met HAProxy en EWS. De reden hiervan is dat het EWS mod_cluster-manager component niet goed om kan gaan met de hoge belasting die veroorzaakt wordt door de vele status updates die de EAP instances sturen. Dit is een ontwerpfout in mod_cluster-manager en kan niet eenvoudig opgelost worden. HAProxy handelt het client verkeer af en EWS wordt als informatie backend gebruikt.&#xA;&#xA;(Bron: TechnischOntwerp_jboss_V1.092)&#xA;&#xA;Detail nog niet compleet"/>

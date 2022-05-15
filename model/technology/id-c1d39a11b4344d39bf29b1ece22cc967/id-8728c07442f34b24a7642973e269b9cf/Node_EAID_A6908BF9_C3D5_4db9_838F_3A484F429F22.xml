@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Zabbix-proxy"
-    id="EAID_A6908BF9_C3D5_4db9_838F_3A484F429F22"
-    documentation="Binnen DUO komt één centrale Zabbix-server en per netwerkzone een Zabbix-proxy.&#xA;&#xA;De Zabbix server zelf gaat geen data verzamelen, dit doen de Zabbix proxies. In elke zone wordt een Zabbix proxy geplaatst. Zabbix agents zullen de gegevens via deze proxies doorgeven aan de centrale Zabbix server. Ook SNMP (en andere verzamelmanieren) lopen via de proxies."/>

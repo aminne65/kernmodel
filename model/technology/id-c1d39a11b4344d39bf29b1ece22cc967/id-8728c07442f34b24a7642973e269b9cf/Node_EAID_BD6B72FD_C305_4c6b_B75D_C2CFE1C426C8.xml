@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] ISAM intern"
-    id="EAID_BD6B72FD_C305_4c6b_B75D_C2CFE1C426C8"
-    documentation="ISAM = IBM Security Access Manager&#xA;Opvolger van TAM, SIAM&#xA;&#xA;Met de migratie naar ISAM houden we de bestaande IBM LDAP servers (nu ook bekend als TAM directory server) &#xA;Na migratie naar ISAM muteert Logs de Interne en Externe LDAP via ISAM, maar ook rechtstreeks.&#xA;&#xA;Vanaf ISAM zien we de LDAP niet meer als onderdeel van ISAM.&#xA;&#xA;Medewerkers gebruiken, via een vip, de interne ISAM voor het benaderen van het medewerkerportaal en andere medewerker applicaties op WAS, JBoss en IIS in de ASZ waaronder facet?"/>

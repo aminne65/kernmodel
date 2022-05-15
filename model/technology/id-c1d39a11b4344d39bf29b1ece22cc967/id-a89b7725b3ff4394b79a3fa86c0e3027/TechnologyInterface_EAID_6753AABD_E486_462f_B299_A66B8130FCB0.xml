@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DK eBMS over HTTP(s)"
-    id="EAID_6753AABD_E486_462f_B299_A66B8130FCB0">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

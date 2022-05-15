@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prisma viewer"
-    id="EAID_B93C9D4A_B4A0_4e4f_9AD1_8B65505BBBD4"
-    documentation="Met de Prisma viewer server is het mogelijk om printjobs etc in te zien. Deze server is toegevoegd om het beheer van printopdrachten te vereenvoudigen. &#xA;&#xA;Met vMotion wordt de server hoog beschikbaar gemaakt."/>

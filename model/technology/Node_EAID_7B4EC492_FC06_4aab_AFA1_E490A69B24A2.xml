@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Nutanix workplace platform Stateless en Statefull"
-    id="EAID_7B4EC492_FC06_4aab_AFA1_E490A69B24A2"
-    documentation="Stateless werkplekken: de VMs worden elke nacht volledig verwijderd, geen backup/recovery&#xA;Statefull werkplekken: de VMs blijven na uitloggen van de gebruiker aanwezig.&#xA;&#xA;geen backup/recovery&#xA;&#xA;Per locatie DERA en DERC staan meerdere nodes welke onderling commmuniceren. Gezamenlijk vormen de Nutanix Nodes een gedistribueerd platform wat het Acropolis Distributed Storage Fabric (DSF) wordt genoemd. Het DFS-systeem wordt aan de hypervisor doorgegeven als een gecentraliseerd storage array. Onder water verzorgt het CVM dat alle I/O lokaal wordt uitgevoerd voor het verkrijgen van hoogst mogelijk performance.&#xA;Fouttolerantie voor data door het tweemaal of driemaal wegschrijven van de data."/>

@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OpenAM Policy agent"
-    id="EAID_24DBF5D4_F39C_4e9a_85CC_C75B8BBA7C99">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

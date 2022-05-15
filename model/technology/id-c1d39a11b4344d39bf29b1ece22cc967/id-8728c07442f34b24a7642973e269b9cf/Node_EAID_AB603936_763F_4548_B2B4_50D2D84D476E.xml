@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Virtuoso Farm"
-    id="EAID_AB603936_763F_4548_B2B4_50D2D84D476E"
-    documentation="De opbouw van een Virtuoso Farm is identiek aan de opbouw van een Virtuoso DB. De Virtuoso Farm wordt gebruikt voor het raadplegen.&#xA;&#xA;De Virtuoso Farm verzorgt zelf de loadbalancing."/>

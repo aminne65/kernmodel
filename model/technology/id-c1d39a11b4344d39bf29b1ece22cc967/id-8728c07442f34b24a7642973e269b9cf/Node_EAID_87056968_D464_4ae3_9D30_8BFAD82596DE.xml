@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Zabbix-web"
-    id="EAID_87056968_D464_4ae3_9D30_8BFAD82596DE"
-    documentation="Met de Zabbix-web is Zabbix te configureren en te gebruiken. De software moet op een Linux server geïnstalleerd en geconfigureerd worden, dit gebeurt middels Puppet."/>

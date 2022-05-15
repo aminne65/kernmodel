@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="JMS API"
-    id="EAID_CB224B6B_9C50_43e1_9609_34433147330E"
-    documentation="JMS = Java Message Service">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

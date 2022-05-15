@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Apache WebServer 1"
-    id="EAID_FA8C4C2E_D0AB_4065_957D_7F55F4C75CD7"
-    documentation="Apache WebServer fungeert als HTTP reverse proxy en implementeert load balancing en routing van HTTP requests voor java applicaties die op de JBoss Server farms zijn uitgerold&#xA;&#xA;Apache is software op een Linux VM"/>

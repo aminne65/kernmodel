@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Siteprotector core server"
-    id="EAID_6A09C18E_C3DB_4281_8002_FB9D2A9E62DE"
-    documentation="Het IPS bestaat uit de volgende hoofddelen, die weer onderverdeeld zijn in eigen componenten:&#xA;&#x9;- SiteProtector – Managementsuite tbv monitoring en aansturing sensoren&#xA;&#x9;- Sensoren (ook wel “agents”)&#x9;- Netwerksensoren&#xA;&#x9;- Hostsensoren&#xA;&#xA;&#xA;De SiteProtector suite kent diverse componenten:&#xA;&#x9;- Database&#xA;&#x9;- Deploymentmanager&#xA;&#x9;- Core&#xA;&#x9;- XPressUpdateServer&#xA;&#x9;- AgentManager&#xA;&#x9;- EventCollector&#xA;&#x9;- Console&#xA;&#xA;De Netwerksensor is een netwerkappliance, die bevindingen (gemonitord verkeer, triggers) communiceert naar de SiteProtector en anderzijds ook verkeer kan beïnvloeden (blokkeren).&#xA;&#xA;De Hostsensor is software die op een server geïnstalleerd wordt. Ook deze sensor communiceert verkeer en triggers naar de SiteProtector en beïnvloedt verkeer en functionaliteit op de host."/>

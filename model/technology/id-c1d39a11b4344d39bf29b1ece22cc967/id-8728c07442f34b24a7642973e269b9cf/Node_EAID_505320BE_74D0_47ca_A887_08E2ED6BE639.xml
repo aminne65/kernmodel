@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] ISS RealSecure Server Sensor"
-    id="EAID_505320BE_74D0_47ca_A887_08E2ED6BE639"
-    documentation="The ISS RealSecure Server Sensor provides automated, real-time intrusion monitoring, detection, and protection by analyzing events, host logs, and inbound and outbound network activity on critical enterprise servers to block malicious activity"/>

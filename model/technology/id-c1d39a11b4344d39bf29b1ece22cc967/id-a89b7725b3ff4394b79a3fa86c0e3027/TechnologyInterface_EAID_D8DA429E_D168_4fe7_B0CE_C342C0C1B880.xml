@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agent DCS"
-    id="EAID_D8DA429E_D168_4fe7_B0CE_C342C0C1B880"
-    documentation="De DCS-agents blijven operationeel na uitval van de Symantec DCS:SA server of bij onderhoud. ">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>
