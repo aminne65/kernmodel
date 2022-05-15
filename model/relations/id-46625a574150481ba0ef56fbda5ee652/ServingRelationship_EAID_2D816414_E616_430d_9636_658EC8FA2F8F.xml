@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_2D816414_E616_430d_9636_658EC8FA2F8F"
+    documentation="Ophalen meldingen">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_7A82C966_08D0_4524_B587_4A7EBC68B707.xml#EAID_7A82C966_08D0_4524_B587_4A7EBC68B707"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6C123480_060C_4305_88DD_4CB410F99563.xml#EAID_6C123480_060C_4305_88DD_4CB410F99563"/>
+</archimate:ServingRelationship>

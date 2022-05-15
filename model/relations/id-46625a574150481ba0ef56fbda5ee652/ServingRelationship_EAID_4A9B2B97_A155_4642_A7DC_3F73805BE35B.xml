@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_4A9B2B97_A155_4642_A7DC_3F73805BE35B"
+    documentation="PBGE&#x9;ProductBeslissingGenomenEvent&#xA;BOBGE&#x9;BetalingsregelingOVG BeslissingGenomenEvent">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_7A82C966_08D0_4524_B587_4A7EBC68B707.xml#EAID_7A82C966_08D0_4524_B587_4A7EBC68B707"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_1A94D55F_A355_4ab6_8D2B_7663D5A9B431.xml#EAID_1A94D55F_A355_4ab6_8D2B_7663D5A9B431"/>
+</archimate:ServingRelationship>

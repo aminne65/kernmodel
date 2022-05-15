@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_79558138_BB9D_440f_A77A_D0C2A7CC2862"
+    documentation="REST services&#xA;&#xA;&#x9;- GET aanspraak&#xA;&#x9;- POST aanvraag&#xA;&#x9;- POST inkomen">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_EAID_EE5F1A52_363B_420a_86BE_2CD03FD59392.xml#EAID_EE5F1A52_363B_420a_86BE_2CD03FD59392"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6F4A5F1B_402D_46bd_8DE3_13602F5A9943.xml#EAID_6F4A5F1B_402D_46bd_8DE3_13602F5A9943"/>
+</archimate:ServingRelationship>

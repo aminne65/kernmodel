@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_BE51AA93_B4F2_4196_9FA7_1935D8B02748"
+    documentation="BLRE BewijsstukLevenlanglerenkredietRegulierAangeleverdEvent">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553.xml#EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_BB8FC72F_70D3_4e6a_BE2F_4866B820B650.xml#EAID_BB8FC72F_70D3_4e6a_BE2F_4866B820B650"/>
+</archimate:ServingRelationship>

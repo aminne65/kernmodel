@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Rinis"
+    id="EAID_64040188_5C77_4fcc_8CA9_B62EF88F0884">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_35FBD1F7_0317_4fc0_9CEF_4E12D8F4E948.xml#EAID_35FBD1F7_0317_4fc0_9CEF_4E12D8F4E948"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_D0D2BB34_A2B4_4fd7_AA10_68B77168F986.xml#EAID_D0D2BB34_A2B4_4fd7_AA10_68B77168F986"/>
+</archimate:ServingRelationship>

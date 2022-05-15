@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via GFT"
+    id="EAID_B0F5D1A2_115D_41e0_84BE_652A091514AC">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_9F5FFF94_BE66_4408_8F8F_BCA417590AF9.xml#EAID_9F5FFF94_BE66_4408_8F8F_BCA417590AF9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_DBAE4730_E7DE_4674_8182_BD542F95962E.xml#EAID_DBAE4730_E7DE_4674_8182_BD542F95962E"/>
+</archimate:ServingRelationship>
