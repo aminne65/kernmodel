@@ -23,5 +23,5 @@ Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door mi
  
 6.   Model pushen naar Github
 
-    Met de extensie coArchi is het mogelijk dit in model om te publiceren in een lege repository in voor Github of Gitlab o.i.d.  Daarmee is het publiek, hoewel niet gemakkelijk leesbaar. Het  leesbaar worden gemaakt door iedereen met (co)Archi. Personendie  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
+     Met de extensie coArchi is het mogelijk dit in model om te publiceren in een lege repository in voor Github of Gitlab o.i.d.  Daarmee is het publiek, hoewel niet gemakkelijk leesbaar. Het  leesbaar worden gemaakt door iedereen met (co)Archi. Personen die  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
 
