@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage Manager Client"
+    id="EAID_E7B0B216_B982_4f8d_BFAD_E69902C5FBD9"
+    documentation="Deze is benaderbaar vanuit het Storage center OS op één van beide nodes">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

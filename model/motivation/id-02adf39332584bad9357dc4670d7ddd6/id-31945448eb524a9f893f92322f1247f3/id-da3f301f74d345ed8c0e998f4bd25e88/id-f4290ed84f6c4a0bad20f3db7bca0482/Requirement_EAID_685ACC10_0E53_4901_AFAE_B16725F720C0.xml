@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eisen voor audits en andere activiteiten waarbij controles worden uitgevoerd op productiesystemen behoren zorgvuldig te worden gepland en goedgekeurd om het risico van verstoring van bedrijfsprocessen tot een minimum te beperken."
+    id="EAID_685ACC10_0E53_4901_AFAE_B16725F720C0">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="229"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962694_822250_19700"/>
+  <properties
+      key="Source"
+      value="BIR par. 15.3.1, pag. 55"/>
+</archimate:Requirement>

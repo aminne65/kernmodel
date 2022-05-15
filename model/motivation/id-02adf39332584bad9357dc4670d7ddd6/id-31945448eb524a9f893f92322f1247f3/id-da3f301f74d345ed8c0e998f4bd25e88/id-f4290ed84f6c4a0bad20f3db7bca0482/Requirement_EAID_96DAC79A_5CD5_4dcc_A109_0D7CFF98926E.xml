@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Updates in functies worden getest op de juiste werking van technische componenten."
+    id="EAID_96DAC79A_5CD5_4dcc_A109_0D7CFF98926E">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="192"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962647_189549_19584"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.5.2, pag. 48"/>
+</archimate:Requirement>

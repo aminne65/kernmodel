@@ -1,0 +1,21 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eenmalige registratie meervoudig gebruik [ROSA]"
+    id="EAID_B76E5EA5_B189_4038_8C55_8C88E507A219"
+    documentation="Stelling: We streven ernaar dat gegevens binnen het onderwijsdomein steeds op één plaats worden geregistreerd en van daaruit op andere plaatsen worden hergebruikt.&#xA;&#xA;Rationale: Veel gegevens worden op verschillende plaatsen in de onderwijsketen bijgehouden. Dit leidt tot onnodige administratieve lasten.&#xA;&#xA;Implicaties: Gegevens die reeds in het onderwijsdomein bekend zijn, worden niet opnieuw samengesteld of uitgevraagd maar in plaats daarvan hergebruikt. &#xA;&#xA;http://www.wikixl.nl/wiki/rosa/index.php/Eenmalige_registratie_meervoudig_gebruik ">
+  <properties
+      key="ID"
+      value="ROSA-BP04"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1426856334051_364163_16776"/>
+  <properties
+      key="Rationale"
+      value="Veel gegevens worden op verschillende plaatsen in de onderwijsketen bijgehouden. Dit leidt tot onnodige administratieve lasten."/>
+  <properties
+      key="Source"
+      value="http://www.wikixl.nl/wiki/rosa/index.php/Eenmalige_registratie_meervoudig_gebruik"/>
+  <properties
+      key="StatementOfPrinciple"
+      value="We streven ernaar dat gegevens binnen het onderwijsdomein steeds op één plaats worden geregistreerd en van daaruit op andere plaatsen worden hergebruikt."/>
+</archimate:Principle>

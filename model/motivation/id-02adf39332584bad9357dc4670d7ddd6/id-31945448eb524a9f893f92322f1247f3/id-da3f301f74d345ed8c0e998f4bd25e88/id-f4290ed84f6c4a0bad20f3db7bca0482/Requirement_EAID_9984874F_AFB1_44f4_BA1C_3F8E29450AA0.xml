@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is actief beheer van sloten en kluizen."
+    id="EAID_9984874F_AFB1_44f4_BA1C_3F8E29450AA0">
+  <properties
+      key="Category"
+      value="Organisatie"/>
+  <properties
+      key="Description"
+      value="Dit omvat procedures voor wijziging van combinaties d.m.v. een sleutelplan."/>
+  <properties
+      key="ID"
+      value="21"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951037_783470_18948"/>
+  <properties
+      key="Source"
+      value="BIR par. 9.1.3-2, pag. 25"/>
+</archimate:Requirement>

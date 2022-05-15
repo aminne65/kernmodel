@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] F5 BIG-IP cluster"
+    id="EAID_5ACE7214_9D23_4d0b_AB71_49C7762F0380"
+    documentation="Voor productie zijn er twee custers: intern PRD en DMZ"/>

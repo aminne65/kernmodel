@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In een log worden handelingen van beveiligingsbeheer gelogd"
+    id="EAID_C44A7250_F0F6_43db_8F35_114CD620468D">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="Description"
+      value="zoals opvoeren/afvoeren gebruikers, toekennen/intrekken van rechten, etc."/>
+  <properties
+      key="ID"
+      value="98"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486945272_501806_18670"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.2-1, pag. 36"/>
+</archimate:Requirement>

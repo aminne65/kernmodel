@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Trustbuilder virtual appliances"
+    id="EAID_8A988540_F23E_4b7c_841E_CAC23DB227AC"
+    documentation="Virtuele trustbuilder appliances (active-active) voor afhandelen tokenauthenticatie (External Authentication Interface)."/>

@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor zowel fysieke als virtuele machines is 64-bit de standaard."
+    id="EAID_DCA80833_B0E7_4ba7_8A2E_F30C1B071713"
+    documentation="Rationale&#xA;&#xA;Door de grotere hoeveelheid te adresseren geheugen, kan effici�nter met resources omgegaan worden. Ook kunnen grotere databases, applicaties ed beter worden gedraaid (dan op 32-bit).&#xA;&#xA;Implications&#xA;&#xA;Alle applicaties dienen op een 64-bit OS te kunnen draaien.">
+  <properties
+      key="TOGAF::Implications"/>
+  <properties
+      key="TOGAF::Rationale"/>
+</archimate:Principle>

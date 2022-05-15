@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Gateway"
+    id="EAID_A6A2E72A_4764_4146_B3EE_16158C972635"
+    documentation="Een gateway zorgt voor de vertaling en daarmee ook voor de verbinding van twee incompatibele netwerken.&#xA;&#xA;Functies:&#xA;&#x9;- protocol convertering&#xA;&#x9;- adrestranslaties&#xA;&#x9;- datatranslatie"/>

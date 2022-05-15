@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF"
+    id="EAID_6BB6E9D3_4407_4f95_A6F7_D08989E3BF60"
+    documentation="publicatie gestructureerde gegevens &#xA;&#xA;Versie: 1.1">
+  <properties
+      key="Domein Standaardisatie"
+      value="Document en (web)content"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

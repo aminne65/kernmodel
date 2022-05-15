@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opslag van logs wordt bewaakt; het vollopen van de locatie of onbereikbaarheid van de opslaglocatie wordt gealarmeerd."
+    id="EAID_28E0A840_5E49_4609_894C_4B8A051C996D">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="107"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486946709_455337_18736"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.3-6, pag. 37"/>
+</archimate:Requirement>

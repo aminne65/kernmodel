@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systeemprocessen die acties uitvoeren namens gebruikers of andere systemen, draaien onder een eigen account."
+    id="EAID_B0948CF4_7CEC_453b_900F_137007BCA344">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="116"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486946881_6744_18752"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.2.2-2, pag. 38"/>
+</archimate:Requirement>

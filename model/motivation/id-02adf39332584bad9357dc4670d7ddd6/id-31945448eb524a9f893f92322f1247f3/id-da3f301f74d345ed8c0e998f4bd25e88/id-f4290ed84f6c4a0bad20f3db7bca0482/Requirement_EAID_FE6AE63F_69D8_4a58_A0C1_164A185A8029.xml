@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie die een rol speelt bij online transacties is beschermd om integriteit en exclusiviteit te waarborgen."
+    id="EAID_FE6AE63F_69D8_4a58_A0C1_164A185A8029">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="83"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486956038_883185_19258"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.9.2, pag. 35"/>
+</archimate:Requirement>

@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De infrastructuur moet gestandaardiseerd worden op een zo klein mogelijk aantal platformen."
+    id="EAID_D7A1F66B_5850_4b54_80FA_4233BE43F7CC"
+    documentation="Rationale&#xA;&#xA;Een groter aantal verschillende platformen verhoogt de complexiteit van de ITomgeving&#xA;Meer verschillende platformen verhoogt de kosten, omdat er meer kennis opgebouwd en onderhouden moet worden&#xA;Platformen slaat hier zowel op verschillende hardware uitvoeringen van servers, werkplekken en appliances, als op verschillende operating systemen en applicaties en versies van software.&#xA;&#xA;Implications&#xA;&#xA;Consolidatie van het aantal verschillende platformen.&#xA;Beperking van versies door life cycle management.&#xA;We bevriezen niet de technologische baseline. We verwelkomen technologische vooruitgang en zullen de technologische blueprint aanpassen wanneer de compatibiliteit met de huidige infrastructuur, verbeterde operationele effici�ntie of benodigde functionaliteit bewezen is.&#xA;Systemen moeten gebruik maken van de standaard faciliteiten van hun omgeving">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

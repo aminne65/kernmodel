@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het lijnmanagement is verantwoordelijk voor uitvoering van beveiligingsprocedures en toetsing daarop (o.a. jaarlijkse in control verklaring)."
+    id="EAID_51E7667C_0D37_4e17_97FF_F75B82327194">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="Description"
+      value="De beveiligingsambtenaar zorgt voor het toezicht op de uitvoering van het beveiligingsbeleid (conform het BVR, namens de SG). Bij toezicht horen ook periodieke beveiligingsaudits, uit te voeren door/vanwege de BVA of interne/externe auditteams."/>
+  <properties
+      key="ID"
+      value="227"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962694_841745_19682"/>
+  <properties
+      key="Source"
+      value="BIR par. 15.2.1-1, pag. 55"/>
+</archimate:Requirement>

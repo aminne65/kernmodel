@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie vindt plaats via een centrale authenticatieproxy"
+    id="EAID_722A62C0_775E_42be_A9C4_29DCCBA89FE1"
+    documentation="Rationale&#xA;&#xA;Een dergelijke authenticatieproxy staat in een andere zone in het netwerk en zorgt ervoor dat websites en applicaties niet direct bloot worden gesteld aan de buitenwereld. Het zorgt er ook voor dat er geen inspanning nodig is van ontwikkelaars om authenticatie in te richten. Het voorkomt tevens wildgroei van authenticatieoplossingen en bijbehorende gebruikersgegevens. &#xA;&#xA;Implications&#xA;&#xA;Er is een authenticatieproxy aanwezig en alle toegang tot applicaties verloopt via deze authenticatieproxy. Directe toegang tot applicaties is op netwerkniveau afgeschermd. Applicaties voeren zelf geen authenticatie uit.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

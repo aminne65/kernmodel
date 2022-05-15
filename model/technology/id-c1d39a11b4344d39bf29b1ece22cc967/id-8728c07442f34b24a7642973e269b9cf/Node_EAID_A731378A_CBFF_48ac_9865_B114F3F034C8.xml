@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] User VMs - VDI werkplekken"
+    id="EAID_A731378A_CBFF_48ac_9865_B114F3F034C8"
+    documentation="De basis van de View Composer is gebaseerd op de linked clone technologie. Dit in tegenstelling tot het traditionele virtuele machine model waar iedere virtuele machine bestaat uit een onafhankelijke virtuele machine met daarin onafhankelijke virtuele disken. Hiermee creëert View Composer de afhankelijkheid door alle virtuele machines afhankelijk te maken van een master VM. Deze Parent virtuele machine wordt als basis gebruikt. Van deze master VM worden vervolgens “replica’s” gemaakt die allen gelinkt zijn aan deze master virtuele machine. Iedere linked clone virtuele machine krijgt vervolgens een unieke delta disk waar binnen de wijzigingen op de basis master disk worden bijgehouden. Deze delta disk bevat dus alleen de wijzigingen ten opzichte van de master VM wat een enorme besparing op de gebruikte diskruimte oplevert."/>

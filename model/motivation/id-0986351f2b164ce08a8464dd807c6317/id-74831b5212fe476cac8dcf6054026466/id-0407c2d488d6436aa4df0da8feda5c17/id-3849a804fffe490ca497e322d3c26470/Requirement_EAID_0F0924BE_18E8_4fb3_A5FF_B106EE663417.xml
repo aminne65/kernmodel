@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datum en Tijd"
+    id="EAID_0F0924BE_18E8_4fb3_A5FF_B106EE663417"
+    documentation="Datum en tijd &#xA;&#xA;Versie: NEN-ISO 8601:2005 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Overig"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

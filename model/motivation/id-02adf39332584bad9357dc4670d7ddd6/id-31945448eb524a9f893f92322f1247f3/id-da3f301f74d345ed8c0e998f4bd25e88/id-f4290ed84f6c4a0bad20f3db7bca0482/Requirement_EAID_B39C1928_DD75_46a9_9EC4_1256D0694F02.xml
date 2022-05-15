@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opslag van auditlogs is gewaarborgd; er wordt alarm geslagen als dit niet meer kan door bijv. onbereikbare of vollopen van log-locatie."
+    id="EAID_B39C1928_DD75_46a9_9EC4_1256D0694F02">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="94"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486944647_632672_18642"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.1-5, pag. 36"/>
+</archimate:Requirement>

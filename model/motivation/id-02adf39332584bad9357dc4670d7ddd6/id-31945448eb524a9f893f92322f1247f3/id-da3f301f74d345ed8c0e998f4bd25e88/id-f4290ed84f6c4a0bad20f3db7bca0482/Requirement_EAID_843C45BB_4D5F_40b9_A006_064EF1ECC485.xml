@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het doel van bedieningsprocedures en beheerverantwoordelijkheden is het waarborgen van een correcte en veilige bediening van IT-voorzieningen."
+    id="EAID_843C45BB_4D5F_40b9_A006_064EF1ECC485">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="27"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966772_605697_20190"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1, pag. 28"/>
+</archimate:Requirement>

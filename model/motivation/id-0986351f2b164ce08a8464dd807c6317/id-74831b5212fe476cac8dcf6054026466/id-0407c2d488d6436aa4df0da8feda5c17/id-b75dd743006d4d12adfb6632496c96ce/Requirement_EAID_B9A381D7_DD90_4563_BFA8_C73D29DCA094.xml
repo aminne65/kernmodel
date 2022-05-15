@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BWB"
+    id="EAID_B9A381D7_DD90_4563_BFA8_C73D29DCA094"
+    documentation="Identificatie van en verwijzing naar wet- en regelgeving &#xA;&#xA;Versie: 1.3.1 ">
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+  <properties
+      key="Domein Standaardisatie"
+      value="Juridische verwijzingen"/>
+</archimate:Requirement>

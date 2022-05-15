@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenis gedreven (EDA)"
+    id="EAID_DF627290_6F7F_41db_B3CA_10BF6BD8F312">
+  <properties
+      key="Description"
+      value="Een architectuur, waarbij de informatiesystemen real-time reageren op events levert een natuurgetrouwe benadering op van de werkelijkheid en is minder complex dan traditionele procedurele benaderingen. Essentieel in dit model is dat informatieverwerkende (deel)systemen (services, applicaties) niet meer direct met elkaar gekoppeld zijn, maar slechts reageren op meldingen van elkaar. Deze meldingen betreffen relevante toestandsveranderingen in het bedrijfsproces."/>
+  <properties
+      key="ID"
+      value="DUO-EA-AP05"/>
+  <properties
+      key="Implication"
+      value="Een belangrijk kenmerk van een EDA is dat berichten technologieonafhankelijk en real-time bedrijfsbreed op alle locaties beschikbaar zijn (global data space). Publishers (sources) sturen gegevens naar een ‘global data space’ en subscribers (sinks) nemen deze gegevens af uit de ‘global data space’."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427702653845_476759_18244"/>
+</archimate:Principle>

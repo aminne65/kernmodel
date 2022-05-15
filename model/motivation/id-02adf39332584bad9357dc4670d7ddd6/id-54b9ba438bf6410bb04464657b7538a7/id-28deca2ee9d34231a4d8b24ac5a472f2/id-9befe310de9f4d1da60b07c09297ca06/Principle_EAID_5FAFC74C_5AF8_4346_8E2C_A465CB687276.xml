@@ -1,0 +1,23 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsregels los van processen en systemen"
+    id="EAID_5FAFC74C_5AF8_4346_8E2C_A465CB687276">
+  <properties
+      key="Description"
+      value="Aan DUO-taken gerelateerde wet- en regelgeving en uitvoeringsbeleid worden gestructureerd vastgelegd en beheerd in bedrijfsregels. Deze bedrijfsregels worden afzonderlijk vastgelegd, los van processen en systemen, maar wel met traceerbaarheid / herleidbaarheid tussen wet- en regelgeving, beleid en geformuleerde bedrijfsregels en het gebruik daarvan. Deze traceerbaarheid werkt twee kanten op: - vanuit de bronnen kunnen bepalen waar en hoe deze worden gebruikt in de uitvoering, en - vanuit de uitvoering kunnen bepalen welke bedrijfsregels worden gehanteerd en welke bronnen daar bij horen."/>
+  <properties
+      key="ID"
+      value="DUO-EA-AP01"/>
+  <properties
+      key="Implication"
+      value="- DUO maakt haar bedrijfsregels expliciet en beheert deze. - Inrichten van een domein voor het ontwikkelen, beheren en ter beschikking stellen van bedrijfsregels met medewerkers die in bezit zijn van expertise en vaardigheden voor dit specifieke werk. - Inrichten van een (al of niet geautomatiseerd) register van relaties tussen de centraal gedefinieerde bedrijfsregels en de bedrijfsprocessen en toepassingen die van deze bedrijfsregels gebruik maken en van de koppelingen tussen deze bedrijfsregels en de bronnen van deze regels. - Bedrijfsregels worden centraal beheerd, bijvoorbeeld in een informatiedomein ‘Bedrijfsregels en kennismanagement’. - Het maken en gebruiken van bedrijfsregels maakt dat de producten van bedrijfs- en informatieanalyse er anders uit gaan zien en dat een deel van de werkzaamheden verschuiven naar de medewerkers die bedrijfsregels opstellen. - Processen en systemen worden aangesloten op de afzonderlijk vastgelegde bedrijfsregels, bijvoorbeeld via een rule engine. Een rule-engine genereert uitvoeringsfunctionaliteit van bedrijfsregels en stelt deze beschikbaar aan geautomatiseerde systemen. - De feitelijke sturing van de bedrijfsprocesstappen, de bepaling van de volgorde daarvan (de workflows) staat los van het beheer van de bedrijfsregels, zit (bijvoorbeeld) in het informatiedomein ‘Procesbesturing’ en bevat geen bedrijfslogica. De benodigde bedrijfslogica wordt verkregen vanuit het domein dat de bedrijfsregels beheerd, bijvoorbeeld een informatiedomein ‘Bedrijfsregels en kennismanagement’."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427104669929_797767_19443"/>
+  <properties
+      key="Rationale"
+      value="- Met een Service Oriënted Architecture (SOA) wordt maximale flexibiliteit (wendbaarheid) nagestreefd. - Het nastreven van maximale flexibiliteit (wendbaarheid) door regels op één plek te beheren en vanuit één plek te hergebruiken (eenmalige registratie, meervoudig gebruik). Wijzigingen in wet- en regelgeving kunnen zo op relatief eenvoudig wijze en betrouwbaar vertaald worden naar gewijzigde functionaliteit. Immers, als bedrijfsregels verstopt zijn in en verspreid zijn over systemen en processen kost het veel inspanning om deze te wijzigen. - Tijdig kunnen opsporen van inconsistenties in ontwerpregelgeving. Door het analyseren en gestructureerd vastleggen van wet- en regelgeving worden tijdens de inregelfase inconsistenties en onjuistheden sneller opgemerkt. Deze kunnen worden aangekaart bij het ministerie en in overleg verwerkt in aangepaste wet en regelgeving. - Kennis over de wet en regelgeving en de uitvoering daarvan kan gemakkelijker en sneller toegankelijk worden gemaakt voor medewerkers en klanten. - Aantoonbare compliance tussen de uitvoering en de wet- en regelgeving en beleid. - Het verbeteren (doorlooptijd, juistheid, volledigheid) van de impactanalyse van voorgenomen beleid en wijzigingen in wet- en regelgeving. Het principe ondersteunt de strategische doelstellingen: - Lagere administratieve lasten voor burgers en instellingen; - Verbeterde kwaliteit van (informatie)diensten aan burgers en instellingen; - Meer doelmatige en slagvaardige uitvoering; - Verbeterde verbinding tussen beleid en uitvoering."/>
+  <properties
+      key="StatementOfPrinciple"
+      value="Bedrijfsregels los van processen en systemen"/>
+</archimate:Principle>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een afgesproken minimaal betrouwbaarheidsniveau m.b.t. het netwerk"
+    id="EAID_94590895_3DBC_491b_9BFC_A7855C34D48C">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="58"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966897_43748_20206"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.6.1-1, pag. 32"/>
+</archimate:Requirement>

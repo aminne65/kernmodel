@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network appliance Siteprotector network sensor"
+    id="EAID_7A6F6FFF_1BB3_49cc_A626_5DD5052E6D46"
+    documentation="network appliance XGS4100">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

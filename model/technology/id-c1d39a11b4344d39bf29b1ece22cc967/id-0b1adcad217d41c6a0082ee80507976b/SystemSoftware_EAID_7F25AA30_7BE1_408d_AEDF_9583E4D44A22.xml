@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Red Hat ca-certificates 2017"
+    id="EAID_7F25AA30_7BE1_408d_AEDF_9583E4D44A22"
+    documentation="Bron: Flexera&#xA;&#xA;Certificate Authority, alleen gebruikt voor machine certificaten, niet voor eindapplicaties"/>

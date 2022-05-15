@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In het geval dat media een kortere verwachte levensduur hebben dan de gegevens die ze bevatten, worden de gegevens gekopieerd wanneer 75% van de levensduur van het medium is verstreken."
+    id="EAID_DFB4FB70_33ED_47c5_B11E_D8017E98F5D1">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces); Principe"/>
+  <properties
+      key="Description"
+      value="Van toepassing op &quot;passieve&quot; gegevensdragers, dwz: waar geen automatische controle op van toepassing is. Zo is een SAN dmv controllers, een HDD in een computer (meestal) met diverse mechanismen uitgerust om fouten te herkennen en te herstellen. Passieve media zijn daarmee bijvoorbeeld CD-Rom's, DVD's, USB-sticks, tapes, etc."/>
+  <properties
+      key="ID"
+      value="64"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962850_410557_19988"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.7.1-3, pag. 32"/>
+</archimate:Requirement>

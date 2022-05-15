@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UTF-8"
+    id="EAID_7DFBC065_973F_48cd_8541_894FE9637425"
+    documentation="Karaktercodering &#xA;&#xA;Versie: RFC 3629 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang door (externe) klant pas na inventarisatie van risico's plus implementatie evt. maatregelen."
+    id="EAID_3B342C17_1F5B_47da_B76D_E4A1C9C7C6C8">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="ID"
+      value="11"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962725_275017_19760"/>
+  <properties
+      key="Source"
+      value="BIR par. 6.2.2-1, pag. 18"/>
+</archimate:Requirement>

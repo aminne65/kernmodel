@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In een log worden verstoringen in het productieproces gelogd"
+    id="EAID_3A17F4DE_FD2A_4a62_8F72_53246AA343FD">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="Description"
+      value="zoals vollopen van queues, systeemfouten, afbreken tijdens executie van programmatuur, etc."/>
+  <properties
+      key="ID"
+      value="100"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486945631_872584_18690"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.2-1, pag. 36"/>
+</archimate:Requirement>

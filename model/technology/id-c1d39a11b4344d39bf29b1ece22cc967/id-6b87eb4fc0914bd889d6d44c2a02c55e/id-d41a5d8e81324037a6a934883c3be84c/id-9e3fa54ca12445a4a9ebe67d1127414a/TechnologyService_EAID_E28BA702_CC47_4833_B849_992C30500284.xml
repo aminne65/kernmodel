@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Firewall"
+    id="EAID_E28BA702_CC47_4833_B849_992C30500284"
+    documentation="Het filteren van ongewenste datastromen zodat deze niet tot de volgende netwerkzone worden toegelaten."/>

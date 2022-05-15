@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er worden minimaal jaarlijks oefeningen en testen gehouden om de bedrijfscontinuïteitsplannen en mate van readiness van de organisatie te toetsen (opzet, bestaan en werking). Aan de hand van de resultaten worden de plannen bijgesteld en wordt de organisat"
+    id="EAID_37F7A5E4_ADF2_463c_8F7D_1B2946B187DA">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="220"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962694_5053_19674"/>
+  <properties
+      key="Source"
+      value="BIR par. 14.1.5-1, pag. 53"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBM E870"
+    id="EAID_A30A749A_0DFF_4003_B112_6E9E19C6AB74"
+    documentation="6 partities:&#xA;E ontwikkeling (ONT)&#xA;F productie (PRD) - oude legacy applicaties en archief database &#xA;                           (indexen),testdata exploitatie&#xA;J ontwikkeling SAP (ONT SAP)&#xA;K productie SAP (PRD SAP)&#xA;L productie (PRD) Java/Jboss applicatie databases&#xA;U offline data store (ODS) - asynchrone replicatie op transactie&#xA;                                      niveau van F-PRD data(bases)"/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Red Hat IPA"
+    id="EAID_5EBE2827_54D6_4dd9_A60A_A0CD5E964E42"
+    documentation="Red Hat IPA = Identity Policy Audit&#xA;&#xA;gecentraliseerde authenticatie en autorisatie server voor Linux systemen. Het bouwblok koppelt middels het standaard Kerberos en LDAPs protocol met de systemen.&#xA;&#xA;PKI/KDC/DNS/LDAP"/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] NTP access routers"
+    id="EAID_F42F24C1_B4D6_48e7_B588_3EC514B94E48"
+    documentation="De primaire NTP server is de internet router naar surfnet toe, deze synchroniseert zijn tijd met 5 vershillende statum 1 servers, welke een directe koppeling met een tijdbron (NIST F-1 atomic clock) hebben."/>

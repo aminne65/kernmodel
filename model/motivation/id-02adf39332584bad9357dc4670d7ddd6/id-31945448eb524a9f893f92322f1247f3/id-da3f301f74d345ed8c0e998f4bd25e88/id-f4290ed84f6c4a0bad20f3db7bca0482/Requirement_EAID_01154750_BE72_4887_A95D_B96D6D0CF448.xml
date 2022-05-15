@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een informatiesysteem kent functies waarmee gecontroleerd wordt of gegevens correct verwerkt zijn."
+    id="EAID_01154750_BE72_4887_A95D_B96D6D0CF448">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="Description"
+      value="Bedoeld: geautomatiseerde controle op transactie- of verwerkingsfouten."/>
+  <properties
+      key="ID"
+      value="166"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486949834_651579_18870"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.2-2, pag. 46"/>
+</archimate:Requirement>

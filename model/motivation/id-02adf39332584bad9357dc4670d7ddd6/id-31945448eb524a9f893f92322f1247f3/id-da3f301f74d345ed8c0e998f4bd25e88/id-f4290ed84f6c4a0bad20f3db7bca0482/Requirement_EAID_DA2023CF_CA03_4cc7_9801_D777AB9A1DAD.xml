@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiedragers worden dusdanig gebruikt dat vertrouwelijke informatie niet beschikbaar kan komen voor onbevoegde personen."
+    id="EAID_DA2023CF_CA03_4cc7_9801_D777AB9A1DAD">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="15"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951084_674245_19040"/>
+  <properties
+      key="Source"
+      value="BIR par. 7.1.3-4, pag. 19"/>
+</archimate:Requirement>

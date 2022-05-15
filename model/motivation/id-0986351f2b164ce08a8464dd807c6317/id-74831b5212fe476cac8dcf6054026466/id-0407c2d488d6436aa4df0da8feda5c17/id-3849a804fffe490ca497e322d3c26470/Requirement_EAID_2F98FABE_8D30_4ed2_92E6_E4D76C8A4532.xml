@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AES"
+    id="EAID_2F98FABE_8D30_4ed2_92E6_E4D76C8A4532"
+    documentation="Versleutelingstechniek &#xA;&#xA;Versie: FIPS 197">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

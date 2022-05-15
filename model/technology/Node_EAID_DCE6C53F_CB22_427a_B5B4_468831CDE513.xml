@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Symantec endpoint protection"
+    id="EAID_DCE6C53F_CB22_427a_B5B4_468831CDE513"
+    documentation="Symantec benut centrale logging en lokale logging. Centraal wordt de logging geschreven op de Symantec endpoint protection manager; dit wordt ook wegschreven in SPLUNK. Daarnaast schrijft het ook lokaal in de eventviewer van windows."/>

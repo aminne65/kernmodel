@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er zijn procedures voor rapportage van (te voorziene) gebeurtenissen en escalatie."
+    id="EAID_0EBFEA41_43D6_4721_853C_83D8EDB5EBA9">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="209"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962678_331408_19642"/>
+  <properties
+      key="Source"
+      value="BIR par. 13.2.1-1, pag. 50"/>
+</archimate:Requirement>

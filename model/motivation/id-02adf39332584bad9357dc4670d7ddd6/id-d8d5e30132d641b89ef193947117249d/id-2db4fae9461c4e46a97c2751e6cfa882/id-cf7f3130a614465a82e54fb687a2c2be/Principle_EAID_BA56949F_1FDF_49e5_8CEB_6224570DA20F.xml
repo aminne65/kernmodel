@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Componenten zijn gehardened"
+    id="EAID_BA56949F_1FDF_49e5_8CEB_6224570DA20F"
+    documentation="Rationale&#xA;&#xA;Hardening zorgt ervoor dat functionaliteiten die niet strikt noodzakelijk zijn niet meer aanwezig zijn, waardoor onnodige beveiligingsrisico's worden vermeden.&#xA;&#xA;Implications&#xA;&#xA;Onnodige en ongebruikte functies van infrastructurele componenten zijn uitgeschakeld.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

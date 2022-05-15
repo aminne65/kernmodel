@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is aantoonbaar wijzigingsmanagement ingericht volgens best practises zoals ITIL."
+    id="EAID_64CFC6E6_4BF2_4fe4_B177_393E9066216D">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="191"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962647_15865_19576"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.5.1, pag. 48"/>
+</archimate:Requirement>

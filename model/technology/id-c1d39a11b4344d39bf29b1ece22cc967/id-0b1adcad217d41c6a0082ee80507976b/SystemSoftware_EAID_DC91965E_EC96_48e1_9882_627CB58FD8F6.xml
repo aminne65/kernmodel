@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nutanix Prism Central"
+    id="EAID_DC91965E_EC96_48e1_9882_627CB58FD8F6"
+    documentation="Prism Central has a dashboard where multiple clusters can be monitored / managed"/>

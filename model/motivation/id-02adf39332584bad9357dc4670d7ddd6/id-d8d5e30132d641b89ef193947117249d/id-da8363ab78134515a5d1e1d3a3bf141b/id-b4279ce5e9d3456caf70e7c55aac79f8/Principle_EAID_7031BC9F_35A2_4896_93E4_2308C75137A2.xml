@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Separation of concerns"
+    id="EAID_7031BC9F_35A2_4896_93E4_2308C75137A2"
+    documentation="PA00 - Applicatiearchitectuurkader&#xA;Dit is het hoofdprincipe dat wordt toegepast om logische applicaties te onderkennen. Het betekent dat een applicatie slechts één zorgvuldig afgebakend belang dient en een helder geformuleerd doel heeft. &#xA;&#xA;Rationale:&#xA;De belangrijkste doelen van dit principe zijn: verbeteren onderhoudbaarheid en vereenvoudigen ontwikkeling.&#xA;Toepassing van dit principe leidt tot applicaties met een grote interne samenhang en minimale koppelingen met andere applicaties. Hierdoor ontstaat een begrijpelijk en overzichtelijk applicatielandschap. &#xA;&#xA;https://wiki/display/ARCHITECT/PA00+Separation+of+concerns "/>

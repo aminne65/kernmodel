@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reserveapparatuur en backups hebben voldoende afstand zodat één calamiteit niet kan veroorzaken dat zowel hoofdlocatie als backup ontoegankelijk zijn."
+    id="EAID_19C16975_E712_48bc_A084_1198D5BA65B8">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="22"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951819_530594_19086"/>
+  <properties
+      key="Source"
+      value="BIR par. 9.1.4-2, pag. 25"/>
+</archimate:Requirement>

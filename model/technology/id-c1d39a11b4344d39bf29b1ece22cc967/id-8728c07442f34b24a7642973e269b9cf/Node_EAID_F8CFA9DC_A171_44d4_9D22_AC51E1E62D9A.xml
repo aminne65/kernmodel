@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM Websphere Application Server ND 6"
+    id="EAID_F8CFA9DC_A171_44d4_9D22_AC51E1E62D9A"
+    documentation="ND = Network Deployment&#xA;De load van de applicatie wordt verdeeld over 4 tot 8 virtuele servers.&#xA;Beschikbaar in EXP- en PRD-omgeving"/>

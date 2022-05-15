@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agent Symantec Endpoint Protection Client 12"
+    id="EAID_BAEDD97E_3679_4419_B708_A208F7417D92">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

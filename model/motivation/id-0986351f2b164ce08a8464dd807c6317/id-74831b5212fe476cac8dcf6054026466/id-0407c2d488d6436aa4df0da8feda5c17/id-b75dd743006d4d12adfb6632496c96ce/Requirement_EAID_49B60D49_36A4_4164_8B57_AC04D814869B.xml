@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XBRL"
+    id="EAID_49B60D49_36A4_4164_8B57_AC04D814869B"
+    documentation="Bedrijfsrapportages met een financiële component&#xA;&#xA;Versie: XBRL 2.1, Dimensions 1">
+  <properties
+      key="Domein Standaardisatie"
+      value="e-Facturatie en administratie"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

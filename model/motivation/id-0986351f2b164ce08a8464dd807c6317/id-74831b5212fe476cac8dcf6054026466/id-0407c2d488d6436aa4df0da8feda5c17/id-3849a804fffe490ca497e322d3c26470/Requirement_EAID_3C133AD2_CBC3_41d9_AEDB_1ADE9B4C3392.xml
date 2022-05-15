@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCP/IP"
+    id="EAID_3C133AD2_CBC3_41d9_AEDB_1ADE9B4C3392"
+    documentation="Netwerkcommunicatie&#xA;&#xA;Versie: December 1975 / September 1981 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

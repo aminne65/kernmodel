@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nss_ldap"
+    id="EAID_B694C9F9_457B_455d_81D5_CD69D8181484"
+    documentation="Client Configurations&#xA;· SSSD (System Security Services Daemon)&#xA;· With IPA back end&#xA;· LDAP or Proxy for identity&#xA;· Kerberos or LDAP for authentication&#xA;· nss_ldap for other maps&#xA;· Non-SSSD&#xA;· LDAP (nss_ldap) or NIS (nss_nis) for identity&#xA;· LDAP (pam_ldap) or Kerberos (pam_krb5) for auth ">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

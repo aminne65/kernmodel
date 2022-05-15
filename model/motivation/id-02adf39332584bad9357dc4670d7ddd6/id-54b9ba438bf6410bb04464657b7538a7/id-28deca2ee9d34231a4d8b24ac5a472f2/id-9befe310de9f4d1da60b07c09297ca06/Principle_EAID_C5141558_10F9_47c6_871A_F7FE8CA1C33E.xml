@@ -1,0 +1,23 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DUO hanteert een service georiënteerde architectuur"
+    id="EAID_C5141558_10F9_47c6_871A_F7FE8CA1C33E">
+  <properties
+      key="Description"
+      value="De geautomatiseerde informatievoorziening van DUO is service georiënteerd ingericht, wat betekent dat deze informatievoorziening is opgedeeld in diensten (services). Services (diensten) worden gezien als software- of procescomponenten. Een servicegeoriënteerde architectuur bestaat uit services die met elkaar en met de buitenwereld ‘praten’ middels het uitwisselen van berichten."/>
+  <properties
+      key="ID"
+      value="DUO-EA-AP03"/>
+  <properties
+      key="Implication"
+      value="- Ontwerp van informatiedomeinen, applicaties, services en infrastructuur gebeurt service georiënteerd; - Services worden expliciet gedefinieerd in functionele en technische specificaties. Services hebben een afgebakende en precies omschreven verantwoordelijkheid om een prestatie voor hun omgeving te leveren; - Services worden centraal geadministreerd en beheerd; - Alle berichtuitwisseling tussen informatiedomeinen (routering) wordt zoveel mogelijk centraal geregeld; - Alle generieke en herbruikbare functionaliteit wordt middels services ontsloten; - Er wordt een gemeenschappelijk gegevensmodel (canoniek gegevensmodel) gedefinieerd en centraal beheerd. Alle services gebruiken dit gemeenschappelijk gegevensmodel. Applicaties/services die (intern) niet kunnen voldoen aan het gemeenschappelijk gegevensmodel vertalen hun services (extern) naar het gemeenschappelijk gegevensmodel; - Services hebben geen kennis van elkaars interne werking. - Communicatie tussen informatiedomeinen en applicaties (binnen en buiten DUO) vindt plaats door middel van (web) services; - Services hebben precies één aanbieder en een of meerdere afnemers; - Voor het leveren van hun dienst mogen diensten (services) op hun beurt gebruik maken van andere diensten; diensten kunnen dus worden samengesteld tot nieuwe diensten."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_b83029b_1427727535144_994342_21388"/>
+  <properties
+      key="Rationale"
+      value="- Met een Service Oriënted Architecture (SOA) wordt maximale flexibiliteit (aanpasbaarheid) tegen de laagst mogelijke kosten (TCO, total cost of ownership) nagestreefd. - Door functionaliteit (services) op een standaard manier te ontsluiten wordt deze beter beheerbaar en wordt hergebruik makkelijker. - Door voor de omgeving de buitenkant van de service (het bericht) te scheiden van de binnenkant van de service (de functionaliteit) wordt het bovendien gemakkelijker om de binnenkant te wijzigen met minimale impact op afnemers. Het principe ondersteunt de strategische doelstellingen: - Lagere administratieve lasten voor burgers en instellingen; - Verbeterde kwaliteit van (informatie)diensten aan burgers en instellingen; - Meer doelmatige en slagvaardige uitvoering."/>
+  <properties
+      key="StatementOfPrinciple"
+      value="DUO hanteert een service georiënteerde architectuur"/>
+</archimate:Principle>

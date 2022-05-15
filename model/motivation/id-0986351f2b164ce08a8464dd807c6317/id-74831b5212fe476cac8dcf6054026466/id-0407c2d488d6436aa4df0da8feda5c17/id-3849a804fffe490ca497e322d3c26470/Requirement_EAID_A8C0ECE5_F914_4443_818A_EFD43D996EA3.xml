@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIME"
+    id="EAID_A8C0ECE5_F914_4443_818A_EFD43D996EA3"
+    documentation="e-mail opmaak &#xA;&#xA;&#xA;Versie: RFC 2045 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

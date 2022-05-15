@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Host based firewall"
+    id="EAID_49D3FA8D_5928_4896_B9C4_3C76493E5045"
+    documentation="Zolanf er geen ondersteunde IDS-agent voor Linux-systemen beschikbaar is, dient gebruik te worden gemaakt van een lokale firewall.Per virtuele server worden 10 JBoss instances uitgerold. Deze instances worden pas bij toewijzing via de hostbased firewall opengesteld voor de klant. &#xA;Voor de ASZ en ESZ geldt: als een Windows-systeem om welke reden dan ook geen IDS-agent geïnstalleerd heeft gekregen dient de lokale (Windows Advanced) firewall aan te staan"/>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calamiteitenplannen worden in genoemde (BIR 14.1.1-1) activiteiten gebruikt."
+    id="EAID_C991078A_1A7D_46d9_AE82_63EFE272107D">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="215"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967366_30337_20452"/>
+  <properties
+      key="Source"
+      value="BIR par. 14.1.1-1, pag. 52"/>
+</archimate:Requirement>

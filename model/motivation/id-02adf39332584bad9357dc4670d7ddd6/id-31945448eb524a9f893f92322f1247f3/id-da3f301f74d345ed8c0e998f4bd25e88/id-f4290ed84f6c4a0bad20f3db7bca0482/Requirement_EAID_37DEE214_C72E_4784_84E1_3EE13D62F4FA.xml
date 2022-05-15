@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging is meegewogen bij aanbesteding."
+    id="EAID_37DEE214_C72E_4784_84E1_3EE13D62F4FA">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="Description"
+      value="Aantoonbaar op basis van een risicoafweging."/>
+  <properties
+      key="ID"
+      value="7"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962710_849666_19726"/>
+  <properties
+      key="Source"
+      value="BIR par. 6.2.1-1, pag. 17"/>
+</archimate:Requirement>

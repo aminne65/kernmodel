@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructuurcomponenten kunnen afhankelijk van elkaar zijn. Om deze afhankelijkheid zo flexibel en los van elkaar te zien, zorgt dit ervoor dat de infrastructuur eenvoudig aan te passen is."
+    id="EAID_29B4DC9B_9C19_4bf7_8915_5EAD1300DC79"
+    documentation="Rationale&#xA;&#xA;Om eenduidigheid in naamgeving en adressering dient er een duidelijke naamgevingsconventie te zijn. Om componenten onafhankelijk van de onderlingende infrastructuur te maken is deze abstractielaag nodig. &#xA;&#xA;Implications&#xA;&#xA;De opgestelde naamgevingsconventie dient men te volgen.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

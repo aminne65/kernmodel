@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een proces ingericht om periodiek penetratietesten, risicoanalyses van kwetsbaarheden en patches uit te voeren."
+    id="EAID_1942ABE3_943D_4fca_AE40_7087DA652A9C">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="198"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967350_50233_20420"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.6.1-1, pag. 49"/>
+</archimate:Requirement>

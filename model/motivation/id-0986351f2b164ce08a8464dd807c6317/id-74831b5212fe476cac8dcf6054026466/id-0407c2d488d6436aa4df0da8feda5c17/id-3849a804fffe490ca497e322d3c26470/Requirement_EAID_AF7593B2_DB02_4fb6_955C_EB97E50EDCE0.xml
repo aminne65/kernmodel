@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X509"
+    id="EAID_AF7593B2_DB02_4fb6_955C_EB97E50EDCE0"
+    documentation="Authenticatie (PKI Certificaten) &#xA;&#xA;Versie: RFC5280 en update RFC6818 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

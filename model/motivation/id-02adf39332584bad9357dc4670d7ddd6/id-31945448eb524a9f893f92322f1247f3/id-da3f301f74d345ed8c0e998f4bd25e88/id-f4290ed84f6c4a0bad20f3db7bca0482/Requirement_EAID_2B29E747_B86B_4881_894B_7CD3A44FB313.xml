@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang op afstand voor leverancier wordt slechts verleend op basis van wijzigingsverzoek of storingsmelding."
+    id="EAID_2B29E747_B86B_4881_894B_7CD3A44FB313">
+  <properties
+      key="Category"
+      value="Proces/werkwijze ; Principe"/>
+  <properties
+      key="ID"
+      value="149"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486964991_321396_20072"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.6, pag. 42"/>
+</archimate:Requirement>

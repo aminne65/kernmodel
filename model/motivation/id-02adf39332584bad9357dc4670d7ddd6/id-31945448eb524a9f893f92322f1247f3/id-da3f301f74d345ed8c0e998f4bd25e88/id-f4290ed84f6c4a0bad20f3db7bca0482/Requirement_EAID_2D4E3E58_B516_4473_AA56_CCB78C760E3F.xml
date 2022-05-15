@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een vastgesteld toegangsbeleid met daarin beschreven de toegang tot informatie en functies van toepassingssystemen"
+    id="EAID_2D4E3E58_B516_4473_AA56_CCB78C760E3F">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="150"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967288_870576_20336"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.6.1, pag. 43"/>
+</archimate:Requirement>

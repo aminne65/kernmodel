@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een roll-back plan bij de voorgenomen wijziging."
+    id="EAID_D5B430D9_6040_4ee3_BBBD_62CF0B6BF622">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="188"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486950850_747613_18920"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.4.1-6, pag. 47"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij verlies/diefstal van een device wordt de communicatie met de centrale applicaties onmogelijk gemaakt."
+    id="EAID_998E0CD5_98AA_48e9_962C_8821A836A59A">
+  <properties
+      key="Category"
+      value="Proces/werkwijze ; Principe"/>
+  <properties
+      key="ID"
+      value="158"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486965225_434791_20080"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.7.1-3, pag. 43"/>
+</archimate:Requirement>

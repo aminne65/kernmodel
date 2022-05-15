@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNMP"
+    id="EAID_77D0DA96_1C01_42df_A6E2_79D418DF87FD"
+    documentation="management van netwerkapparatuur &#xA;&#xA;Versie: v3, 01-12-02 (STD0062) ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

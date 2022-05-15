@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De infrastructuur is gestandaardiseerd"
+    id="EAID_19C49E7D_02AD_4885_AAA7_546CFCD78FA5"
+    documentation="Rationale&#xA;&#xA;Een standaard infrastructuur is goedkoper doordat er schaalvoordeel te halen is en voorzieningen maar beperkt (liefst eenmalig) aanwezig zijn. In een gestandaardiseerde omgeving kan worden geïnvesteerd waardoor garanties kunnen worden gegeven over service levels. Hierdoor kan ook beheer veel gerichter kennis opbouwen en investeren in kwaliteitsverbetering. Er is te weinig beheercapaciteit beschikbaar voor het beheren van veel verschillende infrastructuur.&#xA;&#xA;Implications&#xA;&#xA;Voor alle infrastructuur services worden standaard producten geselecteerd, waarbij voldoende vrijheid blijft voor het selecteren van (standaard) applicaties die gebruik maken van de infrastructuur. &#xA;Bij aanbestedingen wordt ondersteuning voor de standaard producten zoveel mogelijk als knock-out criterium meegenomen. &#xA;Een deel van de standaarden zal bepaald worden als resultaat van aanbestedingen (voor de functionaliteit die wordt aanbesteed). &#xA;De standaard infrastructuur is opgenomen in de producten en diensten catalogus en service levels zijn gedefinieerd. &#xA;Er wordt maar maar één versie van technologie ondersteund; applicaties die gebruik maken van een oudere versie worden gemigreerd naar de nieuwe versie van de technologie.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

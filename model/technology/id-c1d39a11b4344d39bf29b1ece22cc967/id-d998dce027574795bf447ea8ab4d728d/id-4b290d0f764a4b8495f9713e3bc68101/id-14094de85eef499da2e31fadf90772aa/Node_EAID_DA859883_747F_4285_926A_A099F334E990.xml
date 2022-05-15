@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Content based message routing"
+    id="EAID_DA859883_747F_4285_926A_A099F334E990"
+    documentation="Routering op basis van de queue-naam (informatie in de header van het bericht).&#xA;&#xA;The Content-Based Router inspects the content of a message and routes it to another channel based on the content of the message. Using such a router enables the message producer to send messages to a single channel and leave it to the Content-Based Router to inspect messages and route them to the proper destination. This alleviates the sending application from this task and avoids coupling the message producer to specific destination channels.&#xA;&#xA;http://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRoutingIntro.html"/>

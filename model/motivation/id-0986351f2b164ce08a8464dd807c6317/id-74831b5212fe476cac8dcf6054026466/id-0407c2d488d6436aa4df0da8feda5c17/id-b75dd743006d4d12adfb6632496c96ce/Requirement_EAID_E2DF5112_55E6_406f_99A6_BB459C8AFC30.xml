@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIKB0101"
+    id="EAID_E2DF5112_55E6_406f_99A6_BB459C8AFC30"
+    documentation="Bodeminformatie &#xA;&#xA;Versie: 14.6.0">
+  <properties
+      key="Domein Standaardisatie"
+      value="Water en bodem"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apparatuur kent een levenscyclus en wordt afgevoerd."
+    id="EAID_D182A79F_522A_4c06_8C05_38F118ED00BE">
+  <properties
+      key="Category"
+      value="Organisatie"/>
+  <properties
+      key="ID"
+      value="25"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951053_995269_18968"/>
+  <properties
+      key="Source"
+      value="BIR par. 9.2.6, pag. 25"/>
+</archimate:Requirement>

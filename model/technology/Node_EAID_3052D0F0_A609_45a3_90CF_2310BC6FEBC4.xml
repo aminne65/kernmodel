@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Symantec Data Center Security Server Advanced"
+    id="EAID_3052D0F0_A609_45a3_90CF_2310BC6FEBC4"
+    documentation="vervanger Host based IPS en IDS.&#xA;&#xA;Het softwareproduct van Symantec is genaamd Symantec Data Center Security, kortweg Symantec DCS. Deze software biedt onder andere betere beheersing aan via agentless antimalware en netwerk IPS oplossingen die geïntegreerd kunnen worden binnen een VMware infrastructuur."/>

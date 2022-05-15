@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orkestratie (onderlinge samenwerking, of workflow, tussen applicaties) middels zogenoemden orkestratie software"
+    id="EAID_94CE7565_F377_4d56_92AE_BA6FCE8B271C"
+    documentation="Rationale&#xA;&#xA;&#xA;Implications">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

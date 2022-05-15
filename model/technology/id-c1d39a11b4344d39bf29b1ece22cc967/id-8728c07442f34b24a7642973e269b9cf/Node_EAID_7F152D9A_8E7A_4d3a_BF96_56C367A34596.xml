@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] CIS CAT pro"
+    id="EAID_7F152D9A_8E7A_4d3a_BF96_56C367A34596"
+    documentation="CIS = Center for Internet Security&#xA;&#x9;- veilig configureren van hardware, software, netwerkapparatuur .....&#xA;&#x9;- controle configuraties&#xA;&#xA;CIS CAT pro controleert de infrastructuur door de scripts vanaf de eigen servers te verplaatsen naar de te controleren componenten. Vervolgens worden deze gestart en de resultaten getoond in CIS CAT pro en Splunk."/>

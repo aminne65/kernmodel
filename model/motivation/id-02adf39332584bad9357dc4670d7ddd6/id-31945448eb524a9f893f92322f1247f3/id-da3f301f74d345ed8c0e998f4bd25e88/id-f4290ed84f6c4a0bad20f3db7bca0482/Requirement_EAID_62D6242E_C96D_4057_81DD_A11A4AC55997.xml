@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerkers zijn geïnstrueerd om goed om te gaan met data en media (w.o. mail, faxen, mobiele devices) zodat kans op uitlekken van vertrouwelijke informatie geminimaliseerd wordt."
+    id="EAID_62D6242E_C96D_4057_81DD_A11A4AC55997">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces) - CSO"/>
+  <properties
+      key="ID"
+      value="71"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962835_231684_19970"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.8.1-2 t/m 4, pag. 33"/>
+</archimate:Requirement>

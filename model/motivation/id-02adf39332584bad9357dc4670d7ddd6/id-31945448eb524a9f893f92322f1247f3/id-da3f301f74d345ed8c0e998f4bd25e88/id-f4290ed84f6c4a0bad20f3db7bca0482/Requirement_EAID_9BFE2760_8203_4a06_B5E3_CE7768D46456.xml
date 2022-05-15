@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er zijn (geteste) procedures voor backup en recovery van informatie voor herinrichting en foutherstel van verwerkingen."
+    id="EAID_9BFE2760_8203_4a06_B5E3_CE7768D46456">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="54a"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486943318_525087_18592"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.5.1-1, pag. 31"/>
+</archimate:Requirement>

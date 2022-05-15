@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] JBoss Operations Network"
+    id="EAID_2DA1E57C_8157_4728_8401_11686DADCC0F"
+    documentation="JON = JBoss Operations Network&#xA;&#xA;beheertool voor JBoss EAP&#xA;Dit bouwblok kan gebruikt worden voor monitoring van functionaliteit welke door de JON agent wordt geïmplementeerd."/>

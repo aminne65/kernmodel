@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Gitlab"
+    id="EAID_B20E9269_076A_4b91_8F8D_EAE533C02103"
+    documentation="GitLab is nodig om de door I&amp;E ontwikkelde code bij te houden, te beheren en centraal beschikbaar te stellen. Dit is specifiek voor de infrastructuur ontwikkelaars. Deze GitLab omgeving is onder andere bedoeld voor de saltstack states en configuraties van het Linux team en de Ansible configuraties van het Windows team."/>

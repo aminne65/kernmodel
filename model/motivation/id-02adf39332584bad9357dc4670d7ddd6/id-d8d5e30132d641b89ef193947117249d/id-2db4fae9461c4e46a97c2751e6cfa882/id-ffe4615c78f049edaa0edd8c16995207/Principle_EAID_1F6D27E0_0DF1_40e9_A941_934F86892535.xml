@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Houd data dicht bij de afnemer"
+    id="EAID_1F6D27E0_0DF1_40e9_A941_934F86892535"
+    documentation="Rationale&#xA;Ook in conventionele netwerken belangrijk, maar vanwege de geografische spreiding en de daarbij horende toegenomen internet latency nu nog belangrijker. Dit principe draagt bij aan een goede performance in een topologie waarin slechts beperkt gestuurd kan worden op fysieke locatie.&#xA;Daarnaast is het kostenefficiënt als dynamische data in dezelfde (sub-)cloud geplaatst is als de applicatie(s) die daar gebruik van maakt (maken), want over het algemeen wordt betaald voor een bandbreedte van data van/naar de cloud. Transport van data is daarmee (relatief) duur.&#xA;&#xA;&#xA;Implicaties&#xA;- Afnemers (applicaties, eindgebruikers) worden in kaart gebracht; in systeemontwerpen wordt onderscheid gemaakt tussen dynamische (transactionele) en statische data en worden deze apart behandeld.&#xA;- Bij de keuze en inrichting van een cloud wordt rekening gehouden met de fysieke/geografische locatie van die cloud en ook van de verschillende typen afnemers."/>

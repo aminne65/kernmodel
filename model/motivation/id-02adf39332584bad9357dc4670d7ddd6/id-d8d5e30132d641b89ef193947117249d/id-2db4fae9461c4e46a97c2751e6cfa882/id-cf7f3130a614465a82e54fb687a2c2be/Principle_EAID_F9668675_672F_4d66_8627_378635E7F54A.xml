@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicaties (net zo goed als beheertooling) mogen er niet vanuit gaan dat het lokale file-systeem permanent beschikbaar is."
+    id="EAID_F9668675_672F_4d66_8627_378635E7F54A"
+    documentation="Rationale&#xA;&#xA;Vanwege de elasticiteit in de te gebruiken IaaS cloud, kan een node/server altijd verdwijnen/toegevoegd worden. Daarom mogen er geen aannames worden gedaan over de beschikbaarheid van een filesysteem.&#xA;&#xA;Implications&#xA;&#xA;Gebruik een database voor opslag van (alle) gegevens&#xA;Log niet naar het filesysteem, maar naar een centrale log-repository">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

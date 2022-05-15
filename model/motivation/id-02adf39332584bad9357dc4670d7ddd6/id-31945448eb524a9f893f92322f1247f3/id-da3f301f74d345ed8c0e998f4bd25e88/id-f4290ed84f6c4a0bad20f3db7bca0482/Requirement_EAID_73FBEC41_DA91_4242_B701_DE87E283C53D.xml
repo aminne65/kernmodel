@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Als gerubriceerde systeemdocumentatie buiten de rijksdienst (DUO) gebracht wordt, is daarvoor een risicoafweging gemaakt door de eigenaar ervan."
+    id="EAID_73FBEC41_DA91_4242_B701_DE87E283C53D">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="ID"
+      value="69"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962803_233783_19904"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.7.4-2, pag. 33"/>
+</archimate:Requirement>

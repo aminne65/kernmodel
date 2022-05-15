@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Vasco Identikey tokens"
+    id="EAID_4C6EDD2A_28C5_4f32_BE7A_AEAB6124FC15"
+    documentation="Authenticatie op basis van userid/token/wachtwoord. &#xA;&#xA;Vasco hardware token in combinatie met de ISE server als radius (Remote Authentication Dial In User Service) authenticatie.&#xA;&#xA;De applicatie heet Vasco Authentication Server.&#xA;&#xA;De tokens worden uitgedeeld op basis van een proces van beveiliging."/>

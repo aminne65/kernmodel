@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLCIUS"
+    id="EAID_A59BE949_6924_4b1d_9CBA_3D66249F9F98"
+    documentation="Electronische factureren &#xA;&#xA;Versie 1.03">
+  <properties
+      key="Domein Standaardisatie"
+      value="e-Facturatie en administratie"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

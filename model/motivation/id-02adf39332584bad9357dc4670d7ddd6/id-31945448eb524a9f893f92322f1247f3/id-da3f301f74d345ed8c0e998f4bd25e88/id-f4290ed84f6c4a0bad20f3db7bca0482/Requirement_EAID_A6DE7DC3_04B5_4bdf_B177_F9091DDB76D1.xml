@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Na vijf maal foutief aanmelden wordt het account tien minuten beblokkeerd. Als dat niet mogelijk is, wordt het account geblokkeerd totdat de gebruiker verzoekt om dit op te heffen."
+    id="EAID_A6DE7DC3_04B5_4bdf_B177_F9091DDB76D1">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="139"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967288_811837_20328"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.1-5, pag. 41"/>
+</archimate:Requirement>

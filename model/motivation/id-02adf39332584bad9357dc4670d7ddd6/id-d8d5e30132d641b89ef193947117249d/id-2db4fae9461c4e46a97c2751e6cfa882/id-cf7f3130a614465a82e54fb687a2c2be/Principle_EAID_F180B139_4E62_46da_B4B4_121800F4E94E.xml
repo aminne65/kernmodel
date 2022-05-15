@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-infrastructuur is gebonden aan een geselecteerd inzetgebied"
+    id="EAID_F180B139_4E62_46da_B4B4_121800F4E94E"
+    documentation="Rationale&#xA;&#xA;Technologie wordt vaak door een leverancier als een brede oplossing gepositioneerd, maar is in de praktijk sterk in een beperkt aantal gebieden. Gebruik vande technologie buiten dit inzetgebied leidt tot ineffectieve en ineffici�nte oplossingen en verhoogt de complexiteit van de IT omgeving.&#xA; &#xA;Implications&#xA;&#xA;Voor alle systeemsoftware die wordt verworven wordt bepaald voor welke oplossingsrichtingen deze wordt ingezet en vastgelegd in de bouwblokbeschrijving.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>
