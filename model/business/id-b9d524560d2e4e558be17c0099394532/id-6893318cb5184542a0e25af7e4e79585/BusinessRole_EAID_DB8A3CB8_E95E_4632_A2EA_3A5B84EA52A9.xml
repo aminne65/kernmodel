@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemachtigde"
+    id="EAID_DB8A3CB8_E95E_4632_A2EA_3A5B84EA52A9"
+    documentation="Een klant kan worden vertegenwoordigd door een gemachtigde. Deze gemachtigde kan zijn benoemd (bewindvoerder) of door de klant zelf zijn aangewezen.&#xA;Een gemachtigde kan een zowel een Natuurlijk persoon zijn als een Niet natuurlijk persoon."/>

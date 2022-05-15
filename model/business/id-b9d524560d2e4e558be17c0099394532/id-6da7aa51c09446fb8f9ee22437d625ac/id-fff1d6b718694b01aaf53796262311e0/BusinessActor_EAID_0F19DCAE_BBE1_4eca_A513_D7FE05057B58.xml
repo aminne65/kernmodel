@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functioneel Beheer OVG-SEK"
+    id="EAID_0F19DCAE_BBE1_4eca_A513_D7FE05057B58"
+    documentation="Is een ondersteunend team dat verantwoordelijk is voor de continuïteit, de kwaliteit, het optimaal functioneren, vernieuwen en het ondersteunen in het gebruik van de diensten van SEK.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

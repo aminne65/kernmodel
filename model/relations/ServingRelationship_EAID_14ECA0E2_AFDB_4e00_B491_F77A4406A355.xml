@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS resolving"
+    id="EAID_14ECA0E2_AFDB_4e00_B491_F77A4406A355">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_AC02DB9D_C574_4bd6_8F14_9AC6025A7D38.xml#EAID_AC02DB9D_C574_4bd6_8F14_9AC6025A7D38"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_8E8BD85C_2620_4015_920B_D33BEF791E7F.xml#EAID_8E8BD85C_2620_4015_920B_D33BEF791E7F"/>
+</archimate:ServingRelationship>

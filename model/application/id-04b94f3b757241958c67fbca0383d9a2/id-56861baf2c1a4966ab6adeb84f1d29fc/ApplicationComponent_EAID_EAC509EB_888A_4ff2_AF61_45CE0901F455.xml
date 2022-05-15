@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ReLANpro"
+    id="EAID_EAC509EB_888A_4ff2_AF61_45CE0901F455"
+    documentation="ReLANpro ondersteunt het afnemen van NT2-examens voor de onderdelen Lezen, Luisteren, Spreken en Schrijven. Een examenkandidaat legt het examen af, de resultaten worden aan CITO/ICE geleverd (diverse bestanden). &#xA;&#xA;De te maken examenopgaven worden door CITO/ICE via het zakelijk portaal of via een 'koffertje' aan DUO opgeleverd en door de Functioneel beheerders op ReLANpro gezet. Nieuwe programmatuur wordt voornamelijk lokaal geïnstalleerd. Beheer op afstand op de docentenen kandidaten-pc’s is deels mogelijk.&#xA;&#xA;Eigenaarschap van ReLANpro ligt bij de Examencommissie. ReLANpro wordt  applicatief beheerd door MARO. Functioneel beheer vindt bij DUO én bureau ICE plaats. ReLANpro is geïnstalleerd op rond de 500 examenplaatsen, over de 6 examenlocaties heen die dagelijks (volg)geboekt zijn."/>

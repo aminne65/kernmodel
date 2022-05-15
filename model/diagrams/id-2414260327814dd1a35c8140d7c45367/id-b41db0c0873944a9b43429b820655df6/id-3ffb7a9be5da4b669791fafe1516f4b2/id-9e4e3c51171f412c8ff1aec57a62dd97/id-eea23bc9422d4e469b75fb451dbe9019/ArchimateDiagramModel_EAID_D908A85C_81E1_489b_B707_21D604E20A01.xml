@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure ABB realization view - Archiving"
+    id="EAID_D908A85C_81E1_489b_B707_21D604E20A01"
+    documentation="Validated&#xA;20171106 by Architecten Infrastructuur">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000002_BE7B_441e_9184_F3A4E5220001">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_EA85_4771_B62D_1626785FFF6E"
+        lineColor="#696969"
+        source="EAID_DN000002_BE7B_441e_9184_F3A4E5220001"
+        target="EAID_DN000001_5EA9_41b0_B055_F06BD6817763">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_14C54C7B_EA85_4771_B62D_1626785FFF6E.xml#EAID_14C54C7B_EA85_4771_B62D_1626785FFF6E"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_EAID_E300D8AC_BE7B_441e_9184_F3A4E5220001.xml#EAID_E300D8AC_BE7B_441e_9184_F3A4E5220001"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_5EA9_41b0_B055_F06BD6817763"
+      targetConnections="EAID_DC000000_EA85_4771_B62D_1626785FFF6E">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_01A9D40D_5EA9_41b0_B055_F06BD6817763.xml#EAID_01A9D40D_5EA9_41b0_B055_F06BD6817763"/>
+  </children>
+</archimate:ArchimateDiagramModel>

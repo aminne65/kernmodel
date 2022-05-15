@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eigenaar"
+    id="EAID_3F42F892_0245_498a_ABFA_1F43CE95F60C">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_293DEFFA_C0D7_4649_9DE6_5D2C63254644.xml#EAID_293DEFFA_C0D7_4649_9DE6_5D2C63254644"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_B393EB28_59BA_42ec_8D6D_B7DDFAE30F36.xml#EAID_B393EB28_59BA_42ec_8D6D_B7DDFAE30F36"/>
+</archimate:AssociationRelationship>

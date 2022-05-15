@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OVG Service Eenheid Klant (SEK)"
+    id="EAID_E1E83FBC_CB26_4811_A0A4_69068718F873"
+    documentation="De Service-eenheid Klant (SEK) is een DUO-brede organisatie-eenheid, die de interactie tussen klanten en DUO faciliteert. Het gaat hierbij in eerste instantie om de online klantinteractie. SEK ontwerpt, bouwt, beheert en optimaliseert (beveiligde) websites en applicaties en verzorgt informatie-logistieke services: ontvangen, beveiligen, sturen, archiveren en versturen. &#xA;&#xA;SEK bestaat vooralsnog uit:&#xA;&#x9;- Service-manager Informatielogistiek &#xA;&#x9;- Regisseurs Innovatie, Onderzoek en Ontwikkeling &#xA;&#x9;- Afdeling Online team &#xA;&#x9;- Afdeling Functioneel beheer.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

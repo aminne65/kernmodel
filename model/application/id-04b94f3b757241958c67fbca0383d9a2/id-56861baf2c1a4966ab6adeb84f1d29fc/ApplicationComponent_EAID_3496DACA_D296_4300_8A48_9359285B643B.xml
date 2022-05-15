@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RASP Reg. Aanmelding Selectie Plaatsing"
+    id="EAID_3496DACA_D296_4300_8A48_9359285B643B"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-BRON PO/VO/MBO oud"/>
+  <properties
+      key="Functiepunten"
+      value="2690"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="106997"/>
+</archimate:ApplicationComponent>

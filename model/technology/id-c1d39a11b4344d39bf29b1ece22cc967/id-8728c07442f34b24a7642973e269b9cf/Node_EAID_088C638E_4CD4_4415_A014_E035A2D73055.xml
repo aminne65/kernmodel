@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SAP router extern"
+    id="EAID_088C638E_4CD4_4415_A014_E035A2D73055"
+    documentation="OCW is eigenaar en DUO verzorgt het beheer.&#xA;&#xA;Voor uitwisseling tussen twee SAP omgevingen en/of SAP Clients en SAP. Twee functies:&#xA;&#x9;- medewerkers DUO en OCW toegang verlenen tot het SAP systeem bij 3F&#xA;&#x9;- realiseren koppeling tussen SAP systeem DUO en SAP systeem 3F&#xA;&#xA;&#xA;Dit  is geen netwerk component, maar een applicatie onderdeel, win2012 met installer software&#xA;&#xA;Onderdeel van OCW netwerk"/>

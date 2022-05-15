@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DRE Distributie Basisregistratie Externe Gegevens"
+    id="EAID_5C5CF5D1_00F8_46cc_8764_F6C45C185610"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

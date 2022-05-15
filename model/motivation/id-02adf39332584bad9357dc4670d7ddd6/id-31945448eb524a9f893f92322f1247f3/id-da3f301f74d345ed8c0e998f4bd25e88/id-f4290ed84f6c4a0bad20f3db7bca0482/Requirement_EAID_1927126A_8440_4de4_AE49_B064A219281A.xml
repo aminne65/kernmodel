@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wachtwoorden worden veilig beheerd; veilige uitgifte, tijdelijke/eerste ww direct vervangen, ontvangstbevestiging van ww door gebruiker."
+    id="EAID_1927126A_8440_4de4_AE49_B064A219281A">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="119"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966928_76892_20262"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.2.3-2, pag. 38/39"/>
+</archimate:Requirement>

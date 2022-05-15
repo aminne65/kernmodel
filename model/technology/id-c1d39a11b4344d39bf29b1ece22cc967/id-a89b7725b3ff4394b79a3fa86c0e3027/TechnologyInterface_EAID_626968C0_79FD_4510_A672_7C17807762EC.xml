@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHCP broadcast"
+    id="EAID_626968C0_79FD_4510_A672_7C17807762EC">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenbeoordeling"
+    id="EAID_0080B836_78D3_4154_8D85_1A3F6E1693EC"
+    documentation="De gebeurtenis waarbij –op een specifieke locatie en tijdstip- een afgenomen examen door een examenfunctionaris wordt beoordeeld.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411974157885_940381_14062"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

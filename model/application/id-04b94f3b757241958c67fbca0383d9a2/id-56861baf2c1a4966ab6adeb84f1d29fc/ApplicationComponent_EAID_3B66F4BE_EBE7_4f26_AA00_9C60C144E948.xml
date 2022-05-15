@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VI VisualInfo"
+    id="EAID_3B66F4BE_EBE7_4f26_AA00_9C60C144E948"
+    documentation="bron : Topdesk&#xA;&#xA;Leveren PFD documenten ter archivering. Archief functie, voorloper van OnDemand. Maatwerk applicatie.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="500"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="107007"/>
+</archimate:ApplicationComponent>

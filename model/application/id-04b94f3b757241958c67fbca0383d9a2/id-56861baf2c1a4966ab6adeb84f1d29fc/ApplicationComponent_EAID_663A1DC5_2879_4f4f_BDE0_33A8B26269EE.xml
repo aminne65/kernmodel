@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WTS Wet Tegemoetkoming Studiekosten 18- >> UITGEFASEERD &lt;&lt;"
+    id="EAID_663A1DC5_2879_4f4f_BDE0_33A8B26269EE"
+    documentation="bron : Topdesk&#xA;&#xA;per 1-1-2020 uitgefaseerd&#xA;&#xA;De applicatie wordt gebruikt voor het toekennen van onderwijsbijdrage en studiekosten aan scholieren die jonger zijn dan 18 jaar, conform het betreffende deel van de wet (hoofdstuk 3 van de WTOS). De applicatie kent studiekosten toe aan ouders van scholieren van 12 tot 18 jaar, de toekenning is inkomensafhankelijk. Onterecht betaalde bedragen worden via de applicatie WITS geïnd.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="2472"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="102783"/>
+</archimate:ApplicationComponent>

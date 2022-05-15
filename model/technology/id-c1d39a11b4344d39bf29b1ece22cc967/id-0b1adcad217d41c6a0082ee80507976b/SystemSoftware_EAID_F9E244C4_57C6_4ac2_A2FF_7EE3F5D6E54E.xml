@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bitvise SSH server"
+    id="EAID_F9E244C4_57C6_4ac2_A2FF_7EE3F5D6E54E"
+    documentation="Secure Remote Access to Your Machine&#xA;&#xA;Bitvise SSH server ondersteunt de volgende protocollen : sFTP, SCP, Secure remote CLI access, Secure remote GUI access."/>

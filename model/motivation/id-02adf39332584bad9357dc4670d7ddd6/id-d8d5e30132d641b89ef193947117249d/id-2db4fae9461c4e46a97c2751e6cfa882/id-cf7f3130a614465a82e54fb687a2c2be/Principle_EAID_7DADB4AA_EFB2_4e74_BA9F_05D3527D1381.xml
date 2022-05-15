@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De serverapparatuur bevindt zich in een fysiek gescheiden ruimte met toegangsautorisatie"
+    id="EAID_7DADB4AA_EFB2_4e74_BA9F_05D3527D1381"
+    documentation="Rationale&#xA;&#xA;Serviceniveau's kunnen niet worden gegarandeerd als servers zich niet in een centrale, geconditioneerde ruimte bevinden die onder controle is van de IT afdeling. Daarnaast kan de beveiliging van de apparatuur en de programmatuur niet worden gegarandeerd als toegang niet fysiek is afgeschermd. &#xA;&#xA;Implications&#xA;&#xA;Er is een serverruimte en/of rekencentrum die hier specifiek voor is ingericht en waarin alle noodzakelijke voorzieningen zoals koeling aanwezig zijn. Alle servers bevinden zich in de serverruimte en/of rekencentrum. Er zijn toegangsbeveiligingsmechanismen waardoor er voor wordt gezorgd dat alleen expliciet geautoriseerde medewerkers toegang hebben tot de ruimte.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

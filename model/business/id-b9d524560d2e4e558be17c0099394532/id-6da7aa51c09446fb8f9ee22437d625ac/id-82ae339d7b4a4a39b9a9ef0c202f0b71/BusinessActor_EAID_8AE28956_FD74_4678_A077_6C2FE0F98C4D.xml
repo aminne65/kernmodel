@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ministerie van Binnenlandse Zaken"
+    id="EAID_8AE28956_FD74_4678_A077_6C2FE0F98C4D"
+    documentation="Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

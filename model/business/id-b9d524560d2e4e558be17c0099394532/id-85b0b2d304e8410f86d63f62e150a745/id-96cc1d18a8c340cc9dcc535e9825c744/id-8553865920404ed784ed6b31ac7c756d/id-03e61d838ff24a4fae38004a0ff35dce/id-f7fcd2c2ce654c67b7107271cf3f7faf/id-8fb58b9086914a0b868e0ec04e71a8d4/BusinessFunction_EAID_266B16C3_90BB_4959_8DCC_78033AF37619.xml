@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opstelling dienst-verleningsovereenkomst"
+    id="EAID_266B16C3_90BB_4959_8DCC_78033AF37619">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+</archimate:BusinessFunction>

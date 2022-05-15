@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne rapportages"
+    id="EAID_CD46572C_CD6E_4175_A7F1_F24E66A75F59"
+    documentation="Het beschikbaar stellen van informatie over de het functioneren van de organisatie aan interne partijen.&#xA;Het intern verschaffen van tactische en strategische besturingsinformatie (leveren van managementinformatie en -rapportages).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

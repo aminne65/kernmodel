@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liquiditeitenbeheer"
+    id="EAID_B42E4207_0B59_4da7_9973_1A6955AA8B1B"
+    documentation="Het beheren van korte termijn geldmiddelen opdat de organisatie  voldoende kredietruimte bezit om aan de verplichtingen te voldoen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

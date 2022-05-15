@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LOGB Logistiek Beheer"
+    id="EAID_51F0FE6A_CB31_486a_B8FF_55C0687F7BCF"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="63"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="123375"/>
+</archimate:ApplicationComponent>

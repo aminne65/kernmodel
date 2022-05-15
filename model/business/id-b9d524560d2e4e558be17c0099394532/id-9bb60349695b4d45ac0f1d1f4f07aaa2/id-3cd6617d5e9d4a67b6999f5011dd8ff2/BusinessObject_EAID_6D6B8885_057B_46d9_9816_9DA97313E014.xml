@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instelling"
+    id="EAID_6D6B8885_057B_46d9_9816_9DA97313E014"
+    documentation="Een rechtspersoon die diensten van DUO afneemt in het kader van het het afnemen van examens.&#xA;Een onderwijsorganisatie die is opgericht voor het verzorgen van opleidingen en/of examens.&#xA;Bijvoorbeeld een instelling voor voortgezet onderwijs.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973544870_2043_13814"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

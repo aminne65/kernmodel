@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM San Volume Controller"
+    id="EAID_CCAE0DEC_8CF7_42db_8B91_33B18EC02473"
+    documentation="SVC = SAN Volume Controller&#xA;&#xA;De SV1 zal gebruikt worden om meerdere storage systemen te virtualiseren naar één storage laag. Vervolgens presenteert de IBM SV1 zich als één laag aan de cliënts waardoor het mogelijk is om data te verdelen over verschillende backend systemen.&#xA;&#xA;Cliënt spreken SVC aan als Shared Storage om naar de netApps te gaan."/>

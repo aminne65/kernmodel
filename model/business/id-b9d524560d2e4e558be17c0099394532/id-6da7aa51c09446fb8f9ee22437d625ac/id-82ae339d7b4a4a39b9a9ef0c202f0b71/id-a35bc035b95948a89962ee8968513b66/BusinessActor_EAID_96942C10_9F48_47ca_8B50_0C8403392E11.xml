@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NUFFIC"
+    id="EAID_96942C10_9F48_47ca_8B50_0C8403392E11"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Buitenlandse opleidingen&#xA;&#xA;Nuffic is de Nederlandse organisatie voor internationalisering in onderwijs. Het is een onafhankelijke non-profitorganisatie gevestigd in Den Haag. De belangrijkste subsidieverstrekkers zijn het Nederlandse ministerie van Buitenlandse Zaken en het Nederlandse ministerie van Onderwijs, Cultuur en Wetenschap. Nuffic speelt een belangrijke rol in het bevorderen van internationale samenwerking in het onderwijs tussen Nederland en andere landen.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

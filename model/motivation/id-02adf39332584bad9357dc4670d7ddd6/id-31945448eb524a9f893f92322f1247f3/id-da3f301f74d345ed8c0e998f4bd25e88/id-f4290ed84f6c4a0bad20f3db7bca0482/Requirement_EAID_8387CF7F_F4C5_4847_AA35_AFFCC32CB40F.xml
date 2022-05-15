@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er zijn eisen en beheersmaatregelen vastgesteld en geïmplementeerd voor bewerkstelligen van authenticiteit en beschermen van integriteit van berichten."
+    id="EAID_8387CF7F_F4C5_4847_AA35_AFFCC32CB40F">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="169"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486960960_727102_19466"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.3, pag. 46"/>
+</archimate:Requirement>

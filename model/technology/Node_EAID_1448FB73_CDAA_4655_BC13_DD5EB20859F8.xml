@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] JBoss Fuse"
+    id="EAID_1448FB73_CDAA_4655_BC13_DD5EB20859F8"
+    documentation="Een cluster van Fuse servers (genaamd ensemble) bestaat altijd uit een oneven aantal Fuse servers. Voor development doeleinden kan dit ook een ensemble van één Fuse server zijn. Echter, voor High Availability (HA) is het aan te raden om minimaal drie Fuse servers in het ensemble te hebben. De reden dat een Fuse ensemble een oneven aantal Fuse servers nodig heeft is omdat het gebruikt maakt van een zogenaamd &quot;Quorom based voting&quot; principe. wiki Quorom De initiële installatie in de EXP en PRD omgeving bij DUO zal bestaan uit 3 servers."/>

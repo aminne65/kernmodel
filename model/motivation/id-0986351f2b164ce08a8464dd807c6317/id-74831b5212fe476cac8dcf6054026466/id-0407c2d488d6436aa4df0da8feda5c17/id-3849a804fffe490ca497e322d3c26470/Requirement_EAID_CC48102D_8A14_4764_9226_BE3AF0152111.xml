@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN-ISO 4217"
+    id="EAID_CC48102D_8A14_4764_9226_BE3AF0152111"
+    documentation="NEN-ISO 4217&#xA;&#xA;Versie: NEN-ISO 4217:2015 Valuta codes ">
+  <properties
+      key="Domein Standaardisatie"
+      value="e-Facturatie en administratie"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WO WSF-ODS"
+    id="EAID_7D005967_0A73_49cb_BC71_31D7C4D0A00A"
+    documentation="bron : Topdesk&#xA;&#xA;Het WSF-ODS  ( = “Wet Studie Financiering - Operational Data Store” ) is een ODS die ten behoeve van BRON-HO en LangStudeerders is opgezet. Het betreft een database inclusief een Java API ter ontsluiting van de gegevens in de database. De database wordt via een ETL proces gevuld. De database wordt gevuld vanuit de WSF mainframe in Apeldoorn, middels FTP.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="0"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="208278"/>
+</archimate:ApplicationComponent>

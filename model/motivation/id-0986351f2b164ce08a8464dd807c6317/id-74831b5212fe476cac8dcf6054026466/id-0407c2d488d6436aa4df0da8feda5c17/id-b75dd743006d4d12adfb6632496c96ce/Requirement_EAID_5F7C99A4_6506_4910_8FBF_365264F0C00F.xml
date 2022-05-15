@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TLS"
+    id="EAID_5F7C99A4_6506_4910_8FBF_365264F0C00F"
+    documentation="Beveiligde internetverbinding &#xA;&#xA;Versie: 1.3 en 1.2">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

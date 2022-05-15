@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MQ iSeries API"
+    id="EAID_F92A3FE2_5105_44d4_B205_4894900F230C">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

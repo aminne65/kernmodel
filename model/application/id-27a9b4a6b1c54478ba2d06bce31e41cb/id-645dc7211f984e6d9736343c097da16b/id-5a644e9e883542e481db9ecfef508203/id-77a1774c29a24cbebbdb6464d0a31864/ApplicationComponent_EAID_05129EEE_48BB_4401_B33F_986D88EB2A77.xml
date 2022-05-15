@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondernemingsdossier (MovO)"
+    id="EAID_05129EEE_48BB_4401_B33F_986D88EB2A77"
+    documentation="Het Ondernemingsdossier stelt ondernemers in staat om bepaalde bedrijfsgegevens eenmalig vast te leggen en meerdere keren beschikbaar te stellen aan overheden. Het gaat om informatie die van belang is voor toezichthouders en/of vergunningverleners. &#xA;&#xA;Meer informatie: &#xA;http://www.ondernemingsdossier.nl &#xA;https://www.noraonline.nl/wiki/Ondernemingsdossier ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="c60d1e04-6742-4a96-ac95-c1f1ed4464c5"/>
+</archimate:ApplicationComponent>

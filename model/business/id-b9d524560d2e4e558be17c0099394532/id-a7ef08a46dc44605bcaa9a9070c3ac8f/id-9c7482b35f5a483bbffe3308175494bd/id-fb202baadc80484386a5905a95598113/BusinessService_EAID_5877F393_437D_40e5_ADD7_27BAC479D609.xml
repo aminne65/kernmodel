@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Berekenen"
+    id="EAID_5877F393_437D_40e5_ADD7_27BAC479D609"
+    documentation="Het naar aanleiding van een melding berekenen welke rechten en plichten een klant heeft op basis van wet en regelgeving. &#xA;&#xA;Apart blok t.b.v. benodigde logica voor de frontoffice en omdat er in voorkomende gevallen ook beslissingen worden genomen zonder berekenen."/>

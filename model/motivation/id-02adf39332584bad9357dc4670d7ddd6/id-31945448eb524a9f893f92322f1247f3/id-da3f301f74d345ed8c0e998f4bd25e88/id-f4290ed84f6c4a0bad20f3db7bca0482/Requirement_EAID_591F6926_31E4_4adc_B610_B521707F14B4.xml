@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De toegang tot broncode wordt zoveel mogelijk beperkt om de code tegen onbedoelde wijzigingen te beschermen. Alleen geautoriseerde personen hebben toegang."
+    id="EAID_591F6926_31E4_4adc_B610_B521707F14B4">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="190"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486961725_935767_19502"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.4.3-1, pag. 47"/>
+</archimate:Requirement>

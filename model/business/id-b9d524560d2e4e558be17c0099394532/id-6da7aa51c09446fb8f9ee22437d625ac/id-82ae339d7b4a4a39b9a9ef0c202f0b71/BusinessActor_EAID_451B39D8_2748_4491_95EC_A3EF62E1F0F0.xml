@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostNL"
+    id="EAID_451B39D8_2748_4491_95EC_A3EF62E1F0F0"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Halen en bezorgen van fysieke post">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

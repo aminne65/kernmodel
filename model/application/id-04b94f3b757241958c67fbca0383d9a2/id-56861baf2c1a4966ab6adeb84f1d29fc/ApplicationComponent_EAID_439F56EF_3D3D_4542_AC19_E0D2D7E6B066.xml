@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Cordys"
+    id="EAID_439F56EF_3D3D_4542_AC19_E0D2D7E6B066"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Cordys (ESB) is geen maatwerkapplicatie is maar aangekochte software. De naam is weliswaar verouderd. Cordys is overgenomen door het bedrijf OpenText.&#xA;&#xA;In gebruik:&#xA;transformatieservice, maatwerk protocoltransformatie&#xA;routeringsservice">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Pakket"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

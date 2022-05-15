@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BMD Behandelen Melding"
+    id="EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553"
+    documentation="bron : Topdesk&#xA;&#xA;Specifiek voor OVG, niet generiek genoeg.&#xA;&#xA;Registreert, interpreteert, valideert de melding. &#xA;Verantwoordelijk voor de juiste afhandeling van de Melding (bewaking). &#xA;Omzetten naar interne Events. Distribueert het interne Event naar het juiste systeem.&#xA;&#xA;Behandelen Melding verzorgt de eerste stap in de zogenaamde fabriek. Het ontvangt een binnengekomen bundel van meldingen (vanuit inputmanagement), pakt deze uit en distribueert de meldingen voor persistering in registraties van betreffende applicaties. Verzamelt vervolgens alle ontstane (gepubliceerde) events vanuit deze registraties en publiceert deze events als bundel, nadat alle meldingen succesvol zijn gepersisteerd. &#xA;Doel:&#xA;Behandelen melding leest de meldingen en zend deze meldingen naar de onderliggende administraties. Als de inhoud van de meldingen aldaar is opgeslagen wordt een (bundel)event gepubliceerd voor verdere verwerking.   Werkwijze:&#xA;Behandelen Melding wordt getriggered als er een bundel met meldingen (door de Inputmanager) in de meldingenadministratie is opgeslagen. Behandelen Melding leest deze bundel, en publiceert de onderliggende meldingen. Deze worden door de onderliggende administraties opgepakt en vastgelegd. Deze administraties geven dan het te publiceren event terug. Als Behandelen Melding van alle gepubliceerde meldingen de bevestiging heeft dat ze zijn opgeslagen worden de ontvangen events in een bundel gepubliceerd. Hierbij wordt de bundel per topic gepubliceerd (zie verder detaillering in Behandelen Melding).   &#xA;Pre conditie Fase 1:&#xA;Meldingen(bundel) is door Inputmanager in het correcte formaat opgeslagen in de meldingen administratie. Event is door Inputmanager gepubliceerd.   &#xA;Post conditie Fase 1:&#xA;Er zijn events / meldingen gepubliceerd relevant voor de onderliggende administraties. Er is intern een statuslijst vastgelegd van terug te ontvangen events.   &#xA;Pre conditie Fase 2:&#xA;Inhoud van de melding is in de onderliggende applicatie opgeslagen. Onderliggende applicatie heeft event gepubliceerd.  &#xA;Post conditie fase 2:&#xA;Als alle events van de onderliggende applicaties zijn ontvangen - te controleren via de opgebouwde lijst, zie post conditie fase 1 -worden (bundel)events gepubliceerd. Als nog niet alle events zijn ontvangen, werk dan status te ontvangen events bij en sluit af.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="439"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="212085"/>
+</archimate:ApplicationComponent>

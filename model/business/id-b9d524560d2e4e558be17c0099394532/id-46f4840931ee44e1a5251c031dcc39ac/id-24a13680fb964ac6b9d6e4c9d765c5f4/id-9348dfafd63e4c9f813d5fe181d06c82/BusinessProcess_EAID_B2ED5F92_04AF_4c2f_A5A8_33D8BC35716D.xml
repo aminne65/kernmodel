@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erkennen en melden EG beroepskwalificaties"
+    id="EAID_B2ED5F92_04AF_4c2f_A5A8_33D8BC35716D"
+    documentation="Procesdoel &#xA;Het beslissen op een verzoek om erkenning of het registreren van een melding van een gereglementeerd beroep van inwoners uit de Europese Unie die hun beroep in Nederland willen uitoefenen. &#xA;&#xA;Procesbeschrijving &#xA;&#xA;Melden EG beroepskwalificaties &#xA;Het proces begint met de aanvraag voor melding van tijdelijke en incidentele dienstverrichting cultuurberoep, onderwijsberoep of kinderopvangpersoneel. Indien van toepassing wordt de melding vastgelegd. &#xA;&#xA;Erkennen EG beroepskwalificatie &#xA;Het proces start met het ontvangen van een aanvraag voor erkenning van beroepskwalificaties in een onderwijsberoep, cultuurberoep of beroep in de kinderopvang. &#xA;&#xA;In het deelproces ‘Voorbewerken aanvraag’ wordt de aanvraag in behandeling genomen en geregistreerd. In het deelproces ‘Beoordelen erkenning’ wordt vastgesteld of aan de voorwaarden voor erkenning wordt voldaan. Zo ja dan wordt de erkenning verstrekt, of onder voorwaarden toegekend. Indien niet aan de voorwaarden wordt voldaan, dan wordt de aanvraag afgewezen. &#xA;&#xA;Het detailproces ’Toekennen onder voorwaarden’ beschrijft de twee keuzemogelijkheden voor de aanvrager, indien er sprake is van wezenlijke verschillen in duur of inhoud van de opleiding.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

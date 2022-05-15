@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SVB Sociale Verzekeringsbank"
+    id="EAID_298CF7CD_5A6E_482b_B760_9228AE91ACCB"
+    documentation="De Sociale Verzekeringsbank (SVB) wil weten of een kind van hun cliënt Studiefinanciering van ons ontvangt (of heeft ontvangen). Daarmee kunnen zij vaststellen of er rechtmatig kinderbijslag is verstrekt. Zij mogen daarom de periode van deze (ontvangen) financiering bij ons opvragen. Ook mogen ze de inschrijvingsperiodes van de gevolgde opleidingen opvragen.&#xA;&#xA;https://wiki.prd.duo.nl/display/HO/06.+Sociale+Verzekeringsbank ">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

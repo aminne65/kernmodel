@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VMWare vSphere cluster"
+    id="EAID_51808F15_4ACE_4777_A20D_2E329D2BE392"
+    documentation="VMware ESXi type-1 hypervisor &#xA;&#xA;De VMWare ESX hosts wijzigen continu. Huidige hosts zijn Dell, HP DL360 en HP DL580 servers."/>

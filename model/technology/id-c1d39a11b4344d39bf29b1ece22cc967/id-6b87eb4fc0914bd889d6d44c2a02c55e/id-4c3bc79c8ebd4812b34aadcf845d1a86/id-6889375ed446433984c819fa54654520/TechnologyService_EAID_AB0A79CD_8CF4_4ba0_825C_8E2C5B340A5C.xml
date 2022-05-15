@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] WAN"
+    id="EAID_AB0A79CD_8CF4_4ba0_825C_8E2C5B340A5C"
+    documentation="Working Area Network: Verbinding die grote afstanden overbrugt tussen locaties.&#xA;&#xA;Deze verbindingen worden alleen door DUO gebruikt, dus niet door andere bedrijven of prive-personen.&#xA;Deze verbindingen kunnen vaste verbindingen zijn of Virtual Private Networks (VPNs)."/>

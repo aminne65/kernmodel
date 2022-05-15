@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlof, ziekte en verzuimadministratie"
+    id="EAID_2A79139A_CC39_45a4_B6A0_8BA5E1056DB8"
+    documentation="Het administreren van ziekte en verlof van medewerkers.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

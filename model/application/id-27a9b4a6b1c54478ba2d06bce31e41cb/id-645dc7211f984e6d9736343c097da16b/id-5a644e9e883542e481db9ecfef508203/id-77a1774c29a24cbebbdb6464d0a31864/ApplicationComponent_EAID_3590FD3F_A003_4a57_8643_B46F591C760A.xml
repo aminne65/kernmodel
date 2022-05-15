@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkende Catalogi / verwijsregister"
+    id="EAID_3590FD3F_A003_4a57_8643_B46F591C760A"
+    documentation="Samenwerkende Catalogi is een verwijsmechanisme voor productinformatie van overheidsorganisaties (zowel lokaal, regionaal als landelijk). Deelnemende organisaties publiceren enerzijds metadata over hun producten conform de Standaard voor Samenwerkende Catalogi. Anderzijds tonen zij de producten van andere organisaties op hun eigen website. &#xA;&#xA;Meer informatie: &#xA;https://www.logius.nl/diensten/samenwerkende-catalogi &#xA;https://www.noraonline.nl/wiki/Samenwerkende_catalogi ">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="9a1cd8c2-36b1-4c56-a71a-c663348d8ebb"/>
+  <properties
+      key="Toelichting"
+      value="Dit register bevat onder meer de naam van het product, de doelgroep (burgers en/of bedrijven) en een hyperlink (URL) naar de webpagina waarop de betreffende overheidsorganisatie het product beschrijft en eventueel een aanvraagmogelijkheid biedt. Met behulp van dit register kunnen burgers en bedrijven vinden waar zij voor een overheidsproduct of -dienst moeten zijn. De Standaard voor Samenwerkende Catalogi is één van de bouwstenen van die Generieke Digitale Infrastructuur (GDI) van de Digitale Overheid."/>
+</archimate:ApplicationComponent>

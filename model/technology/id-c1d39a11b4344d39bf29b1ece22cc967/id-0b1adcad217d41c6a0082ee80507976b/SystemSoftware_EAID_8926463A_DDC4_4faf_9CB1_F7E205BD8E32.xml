@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHCP relay agents"
+    id="EAID_8926463A_DDC4_4faf_9CB1_F7E205BD8E32"
+    documentation="converts broadcast packets into unicast packets"/>

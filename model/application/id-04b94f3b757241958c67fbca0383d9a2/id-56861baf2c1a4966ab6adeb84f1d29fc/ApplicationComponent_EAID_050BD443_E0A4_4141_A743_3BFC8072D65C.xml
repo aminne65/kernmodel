@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] TST Test Specificatie Tool"
+    id="EAID_050BD443_E0A4_4141_A743_3BFC8072D65C"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="209254"/>
+</archimate:ApplicationComponent>

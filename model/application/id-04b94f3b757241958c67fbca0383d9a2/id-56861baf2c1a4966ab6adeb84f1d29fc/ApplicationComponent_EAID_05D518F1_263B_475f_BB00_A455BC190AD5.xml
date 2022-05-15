@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] APF Aanvragen Particuliere Financiering"
+    id="EAID_05D518F1_263B_475f_BB00_A455BC190AD5"
+    documentation="bron : Topdesk&#xA;&#xA;Registreert aanvragen binnen particuliere financiering&#xA;Registreert overige verzoeken binnen particuliere financiering&#xA;&#xA;Aanvraag Particuliere Financiering is de applicatie waar de aanvragen en overige verzoeken binnen particuliere financiering geadministreerd worden. Daarmee is het feitelijk een eenvoudige database. De applicatie gebruikt het Gegevensmagazijn en krijgt events vanuit Behandelen Melding.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="210"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="212086"/>
+</archimate:ApplicationComponent>

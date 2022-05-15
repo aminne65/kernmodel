@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BOP Benoemingen Onderwijzend Personeel"
+    id="EAID_BB7FC77B_AA45_4a4b_B22E_D6285C498A99"
+    documentation="BOP = Benoemingen Onderwijsgevend Personeel&#xA;&#xA;De administratie waarin de aangeleverde benoemingen worden gepersisteerd."/>

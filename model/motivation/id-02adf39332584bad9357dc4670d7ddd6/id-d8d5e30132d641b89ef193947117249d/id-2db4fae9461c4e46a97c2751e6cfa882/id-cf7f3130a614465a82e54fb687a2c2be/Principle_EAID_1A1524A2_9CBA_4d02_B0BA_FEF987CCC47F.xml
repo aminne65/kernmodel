@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De basisinfrastructuur is hoog beschikbaar"
+    id="EAID_1A1524A2_9CBA_4d02_B0BA_FEF987CCC47F"
+    documentation="Rationale&#xA;&#xA;Basisinfrastructuur is die infrastructuur die wordt gedeeld door alle applicaties en de beschikbaarheid van deze basisinfrastructuur is dan ook bepalend voor de beschikbaarheid van applicaties. Het is dan ook belangrijk in ieder geval deze basisinfrastructuur hoog beschikbaar in te richten.&#xA;&#xA;Implications&#xA;&#xA;Basisinfrastuctuur (de solution building blocks onder de clusters Infrastructure en Infrastructructure applications) die beschikbaar moet zijn voor applicaties, zijn hoogbeschikbaar uitgevoerd. Deze basisinfrastructuur is zodanig ingericht dat een verstoring geautomatiseerd wordt afgehandeld. Voor applicaties zijn specifieke beschikbaarheidseisen gedefinieerd waardoor ook specifieke delen van de overige infrastructuur hoog beschikbaar dienen te zijn.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

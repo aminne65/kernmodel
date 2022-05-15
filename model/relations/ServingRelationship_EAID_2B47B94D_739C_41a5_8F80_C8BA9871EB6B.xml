@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Datapower"
+    id="EAID_2B47B94D_739C_41a5_8F80_C8BA9871EB6B">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_EAID_ED18CB07_A246_4b34_AE7D_56CEA6989448.xml#EAID_ED18CB07_A246_4b34_AE7D_56CEA6989448"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_B393EB28_59BA_42ec_8D6D_B7DDFAE30F36.xml#EAID_B393EB28_59BA_42ec_8D6D_B7DDFAE30F36"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handhaving &amp; Inspectie OVG-Sturing"
+    id="EAID_00A6AE39_7D3C_4bc9_812B_9724C3454861"
+    documentation="Voert  controles uit (handhaving en inspectie) om de rechtmatigheid te borgen.&#xA;Monitort, bewaakt en borgt het proces en de kwaliteit van uitvoering van wet- en regelgeving waarbij het gaat om de juistheid, tijdigheid en volledigheid. Daartoe wordt de keten gemonitord en signaalmanagement uitgevoerd. ">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

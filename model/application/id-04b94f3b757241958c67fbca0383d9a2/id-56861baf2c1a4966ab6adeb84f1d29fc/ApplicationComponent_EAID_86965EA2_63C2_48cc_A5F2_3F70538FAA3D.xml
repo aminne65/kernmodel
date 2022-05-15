@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LLI Leerling Informatiediensten"
+    id="EAID_86965EA2_63C2_48cc_A5F2_3F70538FAA3D"
+    documentation="bron : Topdesk&#xA;&#xA;LLI biedt diensten aan die het aanmeldproces van leerlingen bij MBO instellingen ondersteunen.&#xA;&#xA;LLI is een service die instellingen in het aanmeldproces voor hun opleidingen kunnen implementeren en waarmee de aanmelder zijn/haar formulier kan laten voor invullen door het eigen dossier met persoonsgegevens, vooropleiding en resultaten informatie op te halen bij DUO. Hiervoor worden er zowel redirects als m2m koppelingen gebruikt tussen de instelling en DUO.&#xA;Tevens kan een abonnement geplaatst worden waarmee een service wordt geboden waarmee wijzigingen in de resultaten informatie kunnen worden doorgestuurd aan de instelling waar de betreffende persoon zich heeft aangemeld. Er wordt dan met behulp van push berichten informatie vanuit DUO verzonden.&#xA;LLI biedt 2 transacties in het medewerkersportaal. De transactie afmelden abonnement AAD biedt een medewerker de mogelijkheid om op verzoek van de klant een bestaand abonnement te beëindigen in LLI en tevens het bijbehorende basisabonnement in AAD.&#xA;De transactie simuleren LLI is een meekijk applicatie waarin een medewerker met een leerling kan meekijken.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Primaire Processen"/>
+  <properties
+      key="Functiepunten"
+      value="73"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="208590"/>
+</archimate:ApplicationComponent>

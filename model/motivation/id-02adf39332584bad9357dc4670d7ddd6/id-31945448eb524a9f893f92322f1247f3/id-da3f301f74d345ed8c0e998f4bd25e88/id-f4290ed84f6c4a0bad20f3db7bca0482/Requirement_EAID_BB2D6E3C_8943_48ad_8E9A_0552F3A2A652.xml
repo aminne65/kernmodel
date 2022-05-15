@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er moeten procedures zijn voor het beheer van verwijderbare media (alle gegevensdragers). In deze procedures is opgenomen hoe te handelen/behandelen van de media, overeenkomstig het vertrouwensniveau van de betreffende data."
+    id="EAID_BB2D6E3C_8943_48ad_8E9A_0552F3A2A652">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces)"/>
+  <properties
+      key="ID"
+      value="63"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962819_27930_19944"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.7.1; 10.7.1-1/2, pag. 32"/>
+</archimate:Requirement>

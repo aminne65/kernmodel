@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PowerCenter 10.1"
+    id="EAID_9F5FFF94_BE66_4408_8F8F_BCA417590AF9"
+    documentation="Powercenter haalt de informatie op uit de bronsystemen en databases van de bronsystemen (slechts enkele bronnen zijn weergegeven, vervolgens en transformeert deze naar de datamarts, DB2 databases.&#xA;&#xA;SAP BO ontsluit de gegevens uit de datamarts door het leveren van rapportages.&#xA;&#xA;Binnen PowerCenter worden volgende termen gebruikt voor de opbouw van de omgeving;&#xA;&#x9;- Domain; Een PowerCenter domain is een verzameling van één of meerdere nodes (en/of Grids), het is de basis voor het PowerCenter service administratie.&#xA;&#x9;- Node; een logische representatie van een machine in een Domain waarop een PowerCenter (Integration/Repository) service draait.&#xA;&#x9;- Grid; een groep PowerCenter Nodes waarmee performance en schaalbaarheid wordt vergroot, doordat load verdeeld kan worden over de Nodes binnen deze Grid."/>

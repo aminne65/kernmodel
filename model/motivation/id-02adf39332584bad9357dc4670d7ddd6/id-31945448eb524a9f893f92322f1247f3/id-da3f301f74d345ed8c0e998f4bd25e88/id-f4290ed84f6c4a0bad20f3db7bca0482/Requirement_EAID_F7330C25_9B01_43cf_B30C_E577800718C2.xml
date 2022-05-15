@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programmatuur behoort pas te worden geïnstalleerd op een productieomgeving na een succesvolle test en acceptatie."
+    id="EAID_F7330C25_9B01_43cf_B30C_E577800718C2">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="183"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962631_820385_19552"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.4.1-2, pag. 47"/>
+</archimate:Requirement>

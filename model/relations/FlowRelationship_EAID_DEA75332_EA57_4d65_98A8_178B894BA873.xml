@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF replication"
+    id="EAID_DEA75332_EA57_4d65_98A8_178B894BA873">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_695444BC_C9F4_4bd0_9615_0884DC126C5F.xml#EAID_695444BC_C9F4_4bd0_9615_0884DC126C5F"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_C7EAE77E_1CF4_491d_A9E2_5006183B04E2.xml#EAID_C7EAE77E_1CF4_491d_A9E2_5006183B04E2"/>
+</archimate:FlowRelationship>

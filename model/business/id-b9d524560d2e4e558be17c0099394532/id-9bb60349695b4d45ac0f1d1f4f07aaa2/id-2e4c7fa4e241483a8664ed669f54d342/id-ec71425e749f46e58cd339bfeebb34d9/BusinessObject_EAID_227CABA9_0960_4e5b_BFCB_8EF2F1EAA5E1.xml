@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverancier"
+    id="EAID_227CABA9_0960_4e5b_BFCB_8EF2F1EAA5E1"
+    documentation="Een organisatie die producten of diensten levert.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW&#xA;&#xA;Opmerking: Dit betreffen natuurlijk ook de leveranciers van gegevens."/>

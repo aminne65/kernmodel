@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indelen, bestellen en samenstellen staatsexamen VO/VSO"
+    id="EAID_5B8ED31B_6118_49c5_8430_7BFBE9922EC9"
+    documentation="Proces doel&#xA;Het doel van dit proces is de kandidaten en examenbetrokkenen in te delen, de examenopgaven tijdig te bestellen, de pakketten met benodigdheden voor het examen en de werkstukken compleet en tijdig op de locaties aanwezig te hebben. &#xA;&#xA;Proces beschrijving &#xA;In deze procesbeschrijving komt in de verschillende deelprocessen de registratie en indeling werkstukken, indeling examenkandidaten, indeling examenbetrokkenen, het aanmaken en bestellen van de opgaven voor het college examen en het samenstellen van de pakketten aan bod.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

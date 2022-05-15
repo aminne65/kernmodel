@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RvIG Rijksdienst voor Identiteitsgegevens"
+    id="EAID_AFE0FF3C_C844_44af_BA78_B7BAEF09060F"
+    documentation="De Rijksdienst voor Identiteitsgegevens (voorheen BPR) zorgt voor een betrouwbare registratie en levering van persoonsgegevens en reisdocumenten. De Rijksdienst beheert de stelsels van de identiteitsgegevensen is onderdeel van het directoraat-generaal Bestuur en Koninkrijksrelaties (DGBK) van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.&#xA;&#xA;RvIG beheert de identiteitsgegevens van burgers in Nederland. Hiertoe beheert het RvIG de stelsels van deze identiteitsgegevens: de Gemeentelijke Basisadministratie Persoonsgegevens (GBA), het burgerservicenummer (BSN), aanvraag, productie en distributie van reisdocumenten en de Persoonsinformatievoorziening van Caribisch Nederland (PIVA). &#xA;&#xA;Daarnaast beheert RvIG drie registers: het Register Paspoortsignaleringen, het Basisregister en het Verificatieregister reisdocumenten.&#xA;&#xA;www.rvig.nl ">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

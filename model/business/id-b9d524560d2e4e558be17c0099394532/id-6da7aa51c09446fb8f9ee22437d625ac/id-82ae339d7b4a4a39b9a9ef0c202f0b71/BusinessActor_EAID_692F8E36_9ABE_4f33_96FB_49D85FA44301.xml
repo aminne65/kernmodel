@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIBG"
+    id="EAID_692F8E36_9ABE_4f33_96FB_49D85FA44301"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Het CIBG houdt registers bij op het gebied van zorg en onderwijs. Als agentschap van het ministerie van Volksgezondheid, Welzijn en Sport verzamelt, verwerkt en koppelt het CIBG gecertificeerde gegevens en levert die uit.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

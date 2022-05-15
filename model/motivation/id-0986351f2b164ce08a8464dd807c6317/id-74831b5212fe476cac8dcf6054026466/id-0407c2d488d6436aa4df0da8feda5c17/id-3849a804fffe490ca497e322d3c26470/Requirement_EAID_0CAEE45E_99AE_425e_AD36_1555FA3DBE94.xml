@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MTOM"
+    id="EAID_0CAEE45E_99AE_425e_AD36_1555FA3DBE94"
+    documentation="Versie: MTOM januari 2005, (voor SOAP versie 1.2) ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

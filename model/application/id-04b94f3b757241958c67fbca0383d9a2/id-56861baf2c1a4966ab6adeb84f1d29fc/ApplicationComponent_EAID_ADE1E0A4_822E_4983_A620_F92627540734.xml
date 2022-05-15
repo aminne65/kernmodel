@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] POA PO Aanlevering"
+    id="EAID_ADE1E0A4_822E_4983_A620_F92627540734"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Nog niet gerealiseerd.">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

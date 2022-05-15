@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OVG Sturing"
+    id="EAID_098ED532_61A6_4874_9C6E_012F3F54863A"
+    documentation="De hoofdtaak van Sturing is het organiseren van alles wat nodig is om de uitvoeringsketen OVG aan de gang te houden. Dit geldt zowel voor de huidige als de toekomstige uitvoeringsketen. &#xA;Op hoofdlijnen gaat het om de volgende taken: &#xA;&#x9;- Borgen van de continuïteit van de dienstverlening ten behoeve van de uitvoering (run);&#xA;&#x9;- Beheren van de processen en de primaire- en ondersteunende systemen;&#xA;&#x9;- Vertaling van wet- en regelgeving naar uitvoeringsbeleid en validatie hiervan;&#xA;&#x9;- Doorvoeren van wijzigingen als gevolg van wet- en regelgeving en verbeteringen in het proces (signaalmanagement);&#xA;&#x9;- Bewaken van de consistentie van en het beheren van het uitvoeringsbeleid in proces, systeem, content, dialoog, informatieverstrekking, instructie, Q&amp;A, etc.;&#xA;&#x9;- Materiaal om klanten te informeren en medewerkers op te leiden;&#xA;&#x9;- Bewaken van kwaliteit en volume van de afgesproken dienstverlening;&#xA;&#x9;- Bewaken van de rechtmatigheid van de uitvoering.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

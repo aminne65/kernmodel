@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Effectueren [RP]"
+    id="EAID_FA3BC974_0E6F_4582_ADAA_E1B4BB71605E"
+    documentation="Het gevolg geven aan genomen beslissingen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

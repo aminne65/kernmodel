@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performancemanagement"
+    id="EAID_465C4CC6_1FF2_4b61_826D_B2808DF177B2"
+    documentation="Het ervoor zorg dragen dat het functioneren van de organisatie in lijn is met de eerder gestelde doelstellingen.">
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieren onderwijsvolgers"
+    id="EAID_DD52A95B_7B96_4f2d_BA44_3A2BDA2707C9"
+    documentation="(Primair)&#xA;Het verzorgen van financiering van natuurlijke personen in het kader van het volgen van onderwijs">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SCO + SCOOSP"
+    id="EAID_696F042A_D399_415c_8D79_333AF6EF9D6A"
+    documentation="SCO = System Center Orchestrator&#xA;SCOOSP = System Center Orchestrator Self Service Portal&#xA;&#xA;orchestration tool, gebaseerd op Microsoft System Center Orchestrator en een End User Portal voor SCO:&#xA;servers uitrollen mbv een script&#xA;&#xA;Het product confirmeert zich aan de standaard System Center 2007 licecycle. System Center 2012 R2 Orchestrator?"/>

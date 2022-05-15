@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedieningsprocedures (beheerdocumentatie) bevat minstens informatie over opstarten, afsluiten, backuppen, herstelacties, afhandelen van fouten, beheer van logs, contactpersonen, noodprocedures en speciale maatregelen voor beveiliging."
+    id="EAID_4B39EE37_52FC_4ea5_A8C6_BCBA1026538D">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="29"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486942350_784347_18568"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1.1-1/2, pag. 28"/>
+</archimate:Requirement>

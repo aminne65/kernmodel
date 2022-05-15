@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jboss EAP instances"
+    id="EAID_3DC06245_CA6D_4079_A8B3_667249F2DF2C"
+    documentation="10 Jboss instances per VM"/>

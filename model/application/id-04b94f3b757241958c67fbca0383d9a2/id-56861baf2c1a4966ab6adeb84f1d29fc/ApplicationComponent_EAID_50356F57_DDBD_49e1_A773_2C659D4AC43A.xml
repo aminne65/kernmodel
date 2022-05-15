@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] JCC Java Control Centre"
+    id="EAID_50356F57_DDBD_49e1_A773_2C659D4AC43A"
+    documentation="bron : Topdesk&#xA;&#xA;JCC is een applicatie waarmee het mogelijk is om taken (jobs) te beheren. D.w.z. starten, stoppen, pauzeren, status opvragen en beheren van batchvensters. ">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="129701"/>
+</archimate:ApplicationComponent>

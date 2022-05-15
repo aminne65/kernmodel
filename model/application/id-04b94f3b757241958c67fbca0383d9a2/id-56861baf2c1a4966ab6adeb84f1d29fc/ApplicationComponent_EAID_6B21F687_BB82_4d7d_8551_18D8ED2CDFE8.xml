@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PPS Particulier Portaal Simulatie"
+    id="EAID_6B21F687_BB82_4d7d_8551_18D8ED2CDFE8"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="1109"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="209235"/>
+</archimate:ApplicationComponent>

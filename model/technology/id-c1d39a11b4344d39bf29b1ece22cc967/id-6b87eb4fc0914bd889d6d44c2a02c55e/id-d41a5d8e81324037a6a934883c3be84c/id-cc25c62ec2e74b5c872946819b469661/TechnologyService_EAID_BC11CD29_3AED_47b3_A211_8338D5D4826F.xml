@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] OS virtualisation"
+    id="EAID_BC11CD29_3AED_47b3_A211_8338D5D4826F"
+    documentation="Het virtualiseren van een besturingssysteem rechtstreeks op de hardware. Daar bovenop wordt voor iedere virtuele server het operating system geïnstalleerd.&#xA;&#xA;type-1 hypervisor: bare metal - hardware virtualisatie"/>

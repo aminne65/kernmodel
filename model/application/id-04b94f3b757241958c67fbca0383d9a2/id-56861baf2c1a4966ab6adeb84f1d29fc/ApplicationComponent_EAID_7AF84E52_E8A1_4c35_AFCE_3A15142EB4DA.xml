@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Integratietooling"
+    id="EAID_7AF84E52_E8A1_4c35_AFCE_3A15142EB4DA"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Basisvoorzieningen"/>
+</archimate:ApplicationComponent>

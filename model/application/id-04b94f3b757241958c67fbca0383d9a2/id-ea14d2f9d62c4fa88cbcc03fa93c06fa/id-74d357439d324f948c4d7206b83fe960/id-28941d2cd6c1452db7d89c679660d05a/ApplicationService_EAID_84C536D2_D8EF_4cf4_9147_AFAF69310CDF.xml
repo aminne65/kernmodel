@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] INB Verwerken klantgegevens"
+    id="EAID_84C536D2_D8EF_4cf4_9147_AFAF69310CDF"
+    documentation="Het verwerken van gegevens zoals aangeleverd door de IND, instellingen en individuen.&#xA;Het vaststellen en beheren van de inburgeringsplicht en het registreren van persoons- en statusgegevens."/>

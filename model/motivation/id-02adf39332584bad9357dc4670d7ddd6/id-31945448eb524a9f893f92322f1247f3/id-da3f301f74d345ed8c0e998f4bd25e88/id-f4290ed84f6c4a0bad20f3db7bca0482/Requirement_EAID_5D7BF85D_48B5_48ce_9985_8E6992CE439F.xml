@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een BIA (Business Impact Analyse) voor ieder bedrijfsproces (of applicatie)."
+    id="EAID_5D7BF85D_48B5_48ce_9985_8E6992CE439F">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="Description"
+      value="In een BIA staan de gebeurtenissen die kunnen leiden tot discontinuïteit in het bedrijfsproces. A.d.h.v. een risicoanalyse zijn kans en impact van de discontinuïteit in kaart gebracht in termen van tijd, schade en herstelperiode."/>
+  <properties
+      key="ID"
+      value="216"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967382_977322_20460"/>
+  <properties
+      key="Source"
+      value="BIR par. 14.1.2-1, pag. 52"/>
+</archimate:Requirement>

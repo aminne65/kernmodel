@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Central Component"
+    id="EAID_18BE635A_79BF_41df_B160_4FE2D5DF6689"
+    documentation="Verschillende implementaties, afhankelijk van de te ondersteunen SAP applicatie.&#xA;&#xA;SAP based the architecture on a three-tier client/server structure:&#xA;1.Presentation Layer (GUI)&#xA;2.Application Layer&#xA;3.Database Layer"/>

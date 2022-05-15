@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren uitgaande mobiliteit"
+    id="EAID_637CC740_DAA4_404a_95D1_2445CC7797C3"
+    documentation="Procesdoel &#xA;Het legaliseren van Nederlandse onderwijsdocumenten, het afgeven van een toelichting op de in Nederland genoten opleidingen, het afgeven van een verklaring over de Nederlandse opleidingen van de aanvrager. &#xA;&#xA;Procesbeschrijving&#xA;De procesbeschrijving “Uitvoeren uitgaande mobiliteit” bestaat uit de volgende deelprocessen: &#xA;&#xA;Legaliseren onderwijsdocumenten: &#xA;Het proces begint met het verzoek van een aanvrager (schriftelijk, persoonlijk, via e-mail of telefonisch) om legalisatie van een onderwijsdocument. Ook kan een onderwijsinstituut verzoeken om legalisatie van een hoeveelheid onderwijsdocumenten. Na het in behandeling nemen van de aanvraag en het verifiëren van gegevens wordt het verzoek afgewezen of toegekend. Eventueel worden nog werkzaamheden voor het verkrijgen van de Apostille uitgevoerd. &#xA;&#xA;Afgeven statusverklaring: &#xA;In dit proces wordt na het ontvangen van de aanvraag via een aanvraagformulier beoordeeld of aan de criteria wordt voldaan. Zo ja, dan wordt na ontvangst van de betaling de statusverklaring opgesteld en afgegeven. Zo nee, dan wordt het verzoek afgewezen of de aanvrager wordt verwezen naar het Nuffic of SBB. &#xA;&#xA;Afgeven verklaring onderwijsbevoegdheid: &#xA;Input voor het proces is de aanvraag met daarbij gewaarmerkte kopieën van opleidingsdocumenten. De aanvraag wordt beoordeeld op aanwezige bevoegdheden. De verklaring onderwijsbevoegdheid wordt opgesteld en afgegeven of indien niet aan de voorwaarden is voldaan, afgewezen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

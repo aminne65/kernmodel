@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren en coördineren informatievoorziening"
+    id="EAID_35C64B4D_0466_471f_B39C_B4C69FD8DB0A"
+    documentation="Proces doel &#xA;Het op verzoek of in opdracht (intern of extern) verstrekken van advies over zaken die betrekking hebben op de afdeling. &#xA;&#xA;Proces beschrijving &#xA;Adviseren &#xA;In dit proces ontvangt de medewerker een verzoek of opdracht. Nadat de manager ID akkoord gegeven heeft, analyseert de medewerker het probleem en formuleert oplossingen. Voor de gekozen oplossing wordt een advies opgesteld en verstrekt. &#xA;&#xA;Projectontwikkeling &#xA;In dit proces ontvangt de medewerker een opdracht of verzoek om een project uit te voeren of gaan leiden. Indien de medewerker het project gaat uitvoeren, ontwikkelt hij zelf het product. Indien de medewerker het project gaat leiden, stelt hij een projectteam samen en begeleidt de ontwikkeling van het product. De medewerker levert het product op aan de opdrachtgever. &#xA;&#xA;Relatiebeheer &#xA;De senior adviseur informatievoorziening ID bouwt een netwerk op, met als doel om inhoudelijk te kunnen afstemmen met de Europese partners en om afspraken te maken hoe je zaken samen gaat doen. Ook is het nodig om informatie te vergaren. Als zaken niet goed lopen, is het belangrijk om een aanspreekpunt te hebben. Voor het opbouwen van een netwerk in Europa is persoonlijk contact een voorwaarde">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

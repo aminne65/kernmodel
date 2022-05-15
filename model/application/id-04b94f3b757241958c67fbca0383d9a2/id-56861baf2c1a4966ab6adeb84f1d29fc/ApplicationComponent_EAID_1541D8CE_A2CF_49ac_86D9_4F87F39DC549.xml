@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SSG School- en Studie Gegevens"
+    id="EAID_1541D8CE_A2CF_49ac_86D9_4F87F39DC549"
+    documentation="bron : Topdesk&#xA;&#xA;SSG, is als systeem waarin alle schoolstudie gegevens zijn opgenomen, een spin in het web voor tal van afnemende systemen binnen- en ketenpartners buiten de IB-Groep.&#xA;&#xA;Voordat aanleveringen geaccepteerd en later opgenomen kunnen worden in de “registers” moeten meerdere validiteitcontroles uitgevoerd worden. Hierbij wordt SSG gebruikt als basis voor instellingsgegevens die niet geleverd kunnen worden vanuit OA of INST. Wanneer het nieuwe register “Instellingen” ook de benodigde gegevens vanuit Groningen bevat wordt door BRON niet SSG maar INST gebruikt.&#xA;&#xA;SSG zal worden uitgefaseerd. RIO gaat BRIN, SSG en CREBO vervangen.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-BRON PO/VO/MBO oud"/>
+  <properties
+      key="Functiepunten"
+      value="2083"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="107005"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeringsinrichting"
+    id="EAID_1AEC42ED_A4AB_4f62_9CB9_8043E99FC9E3">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+</archimate:BusinessFunction>

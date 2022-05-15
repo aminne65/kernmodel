@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] OIA Mijn inburgering"
+    id="EAID_0BC5C9EE_F5D5_4cbe_8088_1E1984AE5FF2"
+    documentation="bron : Topdesk&#xA;&#xA;OIA = Oase Individueel Aanmelden&#xA;OIA ontsluit de informatie welke in ISI staat geregistreerd richting internet voor de Inburgeraar.&#xA;&#xA;portaal functie voor burger (inburgeren.nl):&#xA;persoonsgegevens&#xA;examens&#xA;leningen&#xA;handhaving aspecten&#xA;facturen&#xA;&#xA;Via ESB wordt een koppeling naar de SAP PO backend gelegd, deze wordt gebruikt om gegevens uit te wisselen met SCI ISI . Daarnaast wordt ESB gebruikt door LogX om autorisatie- en acx-services aan te roepen.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="128"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="206245"/>
+</archimate:ApplicationComponent>

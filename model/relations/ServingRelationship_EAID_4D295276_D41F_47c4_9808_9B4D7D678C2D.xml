@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fax"
+    id="EAID_4D295276_D41F_47c4_9808_9B4D7D678C2D">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_3C9CE151_6DCA_4d4d_959A_3DE31CEFE69D.xml#EAID_3C9CE151_6DCA_4d4d_959A_3DE31CEFE69D"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_04314694_A60F_455d_B0DA_9336546DEC30.xml#EAID_04314694_A60F_455d_B0DA_9336546DEC30"/>
+</archimate:ServingRelationship>

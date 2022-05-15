@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] AAD Abonnementen ADministratie"
+    id="EAID_4632DC39_71BC_455b_95EF_F8D59C193C76"
+    documentation="bron : Topdesk&#xA;&#xA;AAD is de centrale broker van “business events”. Een afnemer kan zich abonneren op een bepaalde gebeurtenis, oftewel: “event”, bij AAD. Deze abonnee wordt dan vervolgens geïnformeerd bij het optreden van de desbetreffende gebeurtenis.&#xA;&#xA;Abonnementen registratie AAD bevat de doelbinding.">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-Domein Persoon"/>
+  <properties
+      key="Functiepunten"
+      value="98"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="122940"/>
+</archimate:ApplicationComponent>

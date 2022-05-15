@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DB2 Content Manager OnDemand 8.x"
+    id="EAID_95E82829_469D_4b6c_AD30_1C4CEFAF7839"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Hierin zijn alle documenten, die van particuliere klanten zijn ontvangen of verzonden, opgeslagen.">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Pakket"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:SystemSoftware>

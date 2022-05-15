@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sFTP"
+    id="EAID_175030F0_D527_412a_A7DC_AC702C0FA76F">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij het afvoeren van apparatuur worden gevoelige gegevens verwijderd."
+    id="EAID_1C02CDD1_0D7B_478b_94DD_02960A757EBD">
+  <properties
+      key="Category"
+      value="Proces/werkwijze"/>
+  <properties
+      key="Description"
+      value="Let ook op software in licentie. Ook bij hergebruik van apparatuur buiten de organisatie is dit van toepassing."/>
+  <properties
+      key="ID"
+      value="26"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962741_104423_19796"/>
+  <properties
+      key="Source"
+      value="BIR par. 9.2.6-1t/m4, pag. 25"/>
+</archimate:Requirement>

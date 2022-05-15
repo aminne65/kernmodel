@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] CEO CMS Externe Ontsluiting"
+    id="EAID_E2EEFC36_3282_4ff7_892B_FB3346D4C825"
+    documentation="bron : Topdesk&#xA;&#xA;CEO = CMS Externe Ontsluiting &#xA;(CMS - certificaat management systeem koppeling met ZP-schermen)">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="0"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="215397"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systeemklokken worden zodanig gesynchroniseerd dat altijd een betrouwbare analyse van logbestanden mogelijk is."
+    id="EAID_EEBEC214_0255_4971_A0B0_89D2052BD7E9">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="110"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486966913_196146_20246"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.6, pag. 37"/>
+</archimate:Requirement>

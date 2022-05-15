@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een profielscheiding tussen beheertaken en gebruikersrollen."
+    id="EAID_223A3D3B_4367_4282_8225_123A3CD33B61">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Beheerswerkzaamheden alleen wanneer ingelogd als beheerder; gebruikerstaken alleen wanneer ingelogd als gebruiker."/>
+  <properties
+      key="ID"
+      value="32"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486952272_495334_19102"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.1.3-2, pag. 28"/>
+</archimate:Requirement>

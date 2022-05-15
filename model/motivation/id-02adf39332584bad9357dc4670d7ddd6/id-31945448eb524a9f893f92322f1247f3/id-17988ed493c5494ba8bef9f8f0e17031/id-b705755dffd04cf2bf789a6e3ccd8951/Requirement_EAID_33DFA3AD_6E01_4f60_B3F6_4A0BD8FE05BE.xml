@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De beveiliging van de examens is gegarandeerd"
+    id="EAID_33DFA3AD_6E01_4f60_B3F6_4A0BD8FE05BE"
+    documentation="&#x9;- De beschikbaarheid van het examen is gegarandeerd;&#xA;&#xA;- Technische drempel (Ergonomi, Visuele beperking, Motorieke beperking)&#xA;- Uitval van infrastructuur&#xA;- Achterstallig softwareonderhoud&#xA;- Configuratiefouten&#xA;&#xA;&#x9;- De Integriteit van het examen is gegarandeerd;&#xA;&#xA;- Identiteitsfraude&#xA;- Communicatie tijdens de toets (Google, chatsoftware, via ongeoorloofde applicaties)&#xA;- Onbevoegden veranderen toetsvragen&#xA;- Fraudeurs die examenresultaten willen veranderen&#xA;&#xA;&#x9;- De vertrouwelijkheid van het examen is gegarandeerd;&#xA;&#xA;- Fraudeurs die een examen vooraf willen inzien&#xA;- Het doorspelen van het examenvragen (Via chat software, Smartphone,Camera)&#xA;- Hackers stelen examengegevens&#xA;&#xA;Bron: Whitepaper beveiliging digitaal toetsen 2014"/>

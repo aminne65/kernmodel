@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagement"
+    id="EAID_031CB4A5_4E9F_4307_8EC1_166BC1F7E1CF"
+    documentation="Het ervoor zorg dragen dat het functioneren van de organisatie in lijn is met gestelde kwaliteitseisen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

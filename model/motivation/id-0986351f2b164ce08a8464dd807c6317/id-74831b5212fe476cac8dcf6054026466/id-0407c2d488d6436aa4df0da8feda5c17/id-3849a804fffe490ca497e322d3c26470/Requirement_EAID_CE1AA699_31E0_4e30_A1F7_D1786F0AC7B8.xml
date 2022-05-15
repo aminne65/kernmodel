@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS"
+    id="EAID_CE1AA699_31E0_4e30_A1F7_D1786F0AC7B8"
+    documentation="Netwerkcommunicatie &#xA;&#xA;Versie: Nov 1987 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

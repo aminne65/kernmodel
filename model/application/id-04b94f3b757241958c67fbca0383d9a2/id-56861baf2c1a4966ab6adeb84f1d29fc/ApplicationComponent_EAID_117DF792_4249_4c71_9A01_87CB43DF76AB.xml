@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PostNL - services (halen en brengen)"
+    id="EAID_117DF792_4249_4c71_9A01_87CB43DF76AB"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

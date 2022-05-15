@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruimtes waar informatie en ICT-voorzieningen zijn kennen toegangsbeveiligingen."
+    id="EAID_77BDF43E_2D36_4d97_BB4A_F026642A6FA4">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Fysieke barrières zoals muren, toegangspoorten, kaartsloten etc. gepland, aanwezig en beheerd."/>
+  <properties
+      key="ID"
+      value="18"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951256_858513_19048"/>
+  <properties
+      key="Source"
+      value="BIR par. 9.1.1-1tm/6, pag. 24"/>
+</archimate:Requirement>

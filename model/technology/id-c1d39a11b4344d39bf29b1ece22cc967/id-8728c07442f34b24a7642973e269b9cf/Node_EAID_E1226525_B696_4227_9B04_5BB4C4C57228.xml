@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SAP PO"
+    id="EAID_E1226525_B696_4227_9B04_5BB4C4C57228"
+    documentation="SAP-PO (Proces Orchestration) is een standaard SAP component welke geconfigureerd wordt voor de diverse toepassingen.&#xA;&#xA;Het is een message broker welke hoofdzakelijk ingezet wordt voor non-SAP &lt;-> SAP messaging eventueel aangevuld met Business Proces Management (BPM).&#xA;&#xA;SAP PO verzorgt de interface tussen de .net componenten van applicaties bekostiging."/>

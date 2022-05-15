@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Blueriq"
+    id="EAID_316406E9_5F76_43d3_A276_F3A89EEE2ECB"
+    documentation="Blueriq is ons softwareplatform voor organisaties met kennisintensieve, regelgedreven bedrijfsprocessen. Dankzij de centrale inrichting kunt u sneller inspelen op veranderingen, ultieme klantervaringen creëren en uw dienstverlening beter stroomlijnen.&#xA;&#xA;Met de module Blueriq Studio worden de modellen ontwikkeld, via de Blueriq Publisher worden de modellen gedistribueerd naar de Blueriq Runtime. Waarna de eindgebruiker via Browser/Applicatie deze kan consumeren."/>

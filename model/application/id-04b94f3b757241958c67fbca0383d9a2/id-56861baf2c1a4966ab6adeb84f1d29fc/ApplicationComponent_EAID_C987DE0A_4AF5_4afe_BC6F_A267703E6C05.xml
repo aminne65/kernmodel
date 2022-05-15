@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ABS Applicatie Beveiligings Systeem"
+    id="EAID_C987DE0A_4AF5_4afe_BC6F_A267703E6C05"
+    documentation="bron : Topdesk&#xA;&#xA;Het ABS is nog niet uitgefaseerd, daar wordt nog vollop gebruik van gemaakt door gebruikers van de legacy applicaties. Deze applicaties hangen in het ABS.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion 2E 8.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="107000"/>
+</archimate:ApplicationComponent>

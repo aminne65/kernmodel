@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via GIF"
+    id="EAID_785C44E4_5E39_4baf_B430_386EE1DF8142">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_DCEC93F9_A44E_42ac_9B81_09E17267E1DB.xml#EAID_DCEC93F9_A44E_42ac_9B81_09E17267E1DB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_1A8FFE58_1DC2_4aa2_9AA8_35D8A188D197.xml#EAID_1A8FFE58_1DC2_4aa2_9AA8_35D8A188D197"/>
+</archimate:ServingRelationship>

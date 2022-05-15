@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Utimaco HSM (confidentieel)"
+    id="EAID_0775FA2C_9CFD_4e17_AD47_499A928D811C"
+    documentation="HSM = Hardware Security Module&#xA;Deze HSM is een digitale (fysieke) kluis waarin gevoelig (sleutel)materiaal wordt opgeslagen.&#xA;&#xA;De HSM’s zijn Utimaco SafeGuard CryptoServerLAN Se-50 netwerk-HSM’s. Hiervan heeft DUO er vijf in gebruik. Twee zijn voor de productieomgeving, twee voor de EXP-omgeving en één voor het LAB.&#xA;Dedicated laptop. Hieraan wordt de smartcardreader gekoppeld tbv de Adminstration Tool (CAT)"/>

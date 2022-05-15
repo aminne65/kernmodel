@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Robidus"
+    id="EAID_2CE8C176_5F1C_422d_9E8C_68D570DE4D36"
+    documentation="Bron: Excellijst van Frank Wilbrink">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

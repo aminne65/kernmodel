@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ANM-NT Aanmelden NT2"
+    id="EAID_F2419772_D27E_4854_B787_F73F604A050B"
+    documentation="bron : Topdesk&#xA;&#xA;Digitaal: kandidaat meldt zich aan voor een NT2- of staatsexamen, en aangewezen vakken/3e tijdvak. op een bepaalde locatie en tijd. Deze examenmomenten zijn voorafgaand aan de examens gepland.&#xA;De aanmelding wordt vastgelegd en vervolgens doorgegeven aan EOS.&#xA;&#xA;ANM beheert alle examen reserveringen en de betalingsstatus. Het betalingsverkeer op zich ligt volledig buiten DUO.&#xA;&#xA;Oude benaming AME-NT">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="214"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="111648"/>
+</archimate:ApplicationComponent>

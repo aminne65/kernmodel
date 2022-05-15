@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BMRS"
+    id="EAID_67D011A6_CA4E_45d0_84D2_199D28C42D65"
+    documentation="BRMS = Bussiness Rules Management Systeem&#xA;&#xA;BRMS facilitates centralized management of media by maintaining a consistent view of removable tape media, its contents, location, and availability across multiple i servers or partitions referred to as networked systems."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[EXT] Exact"
+    id="EAID_DF24DCEC_68BC_4815_9F9B_4A73B1F12787"
+    documentation="Facturen aanmaken op basis van debiteuren en inningsgegevens uit SFBES Innen"/>

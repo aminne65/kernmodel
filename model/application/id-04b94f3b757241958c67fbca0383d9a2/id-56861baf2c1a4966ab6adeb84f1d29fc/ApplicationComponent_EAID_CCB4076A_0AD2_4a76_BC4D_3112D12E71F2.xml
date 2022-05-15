@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LOGT Logistiek Sessie Token Service"
+    id="EAID_CCB4076A_0AD2_4a76_BC4D_3112D12E71F2"
+    documentation="bron : Topdesk&#xA;&#xA;De LOGT Sessie-Token service is bedoeld voor het uitgeven van tokens. Tokens worden alleen uitgegeven aan geauthentiseerde gebruikers (geauthentiseerd op de SIAM of WebSeal).">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="216356"/>
+</archimate:ApplicationComponent>

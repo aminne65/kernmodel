@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] AUTautorisatie"
+    id="EAID_86F917C3_3DEB_410d_8D97_6DED3327D946"
+    documentation="bron : Niet in cmdb&#xA;&#xA;AUT =  nieuwe LOGS&#xA;LOGS blijft voorlopig bestaan naast AUT . LogS voor MP en ZP, AUT voor PP.">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

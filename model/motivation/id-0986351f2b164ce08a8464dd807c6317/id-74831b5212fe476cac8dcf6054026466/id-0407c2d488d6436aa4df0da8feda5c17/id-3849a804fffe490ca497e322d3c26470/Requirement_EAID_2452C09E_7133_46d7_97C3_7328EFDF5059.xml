@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UBL"
+    id="EAID_2452C09E_7133_46d7_97C3_7328EFDF5059"
+    documentation="Factuurformaat &#xA;&#xA;Versie: 2.1">
+  <properties
+      key="Domein Standaardisatie"
+      value="e-Facturatie en administratie"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

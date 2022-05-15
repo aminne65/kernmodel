@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="alle onderwijsgerelateerde organisaties"
+    id="EAID_DE61E73A_0A66_4043_BC72_705635C73485"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Leerling en onderwijsgegevens (ZP en Inkijk)">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

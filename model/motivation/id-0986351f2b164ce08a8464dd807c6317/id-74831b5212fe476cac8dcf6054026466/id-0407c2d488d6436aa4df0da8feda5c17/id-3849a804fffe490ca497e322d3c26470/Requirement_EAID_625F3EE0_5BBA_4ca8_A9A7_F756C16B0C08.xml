@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genericode"
+    id="EAID_625F3EE0_5BBA_4ca8_A9A7_F756C16B0C08"
+    documentation="Definiëren van Codelijsten &#xA;&#xA;Versie: 1.0">
+  <properties
+      key="Domein Standaardisatie"
+      value="e-Facturatie en administratie"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

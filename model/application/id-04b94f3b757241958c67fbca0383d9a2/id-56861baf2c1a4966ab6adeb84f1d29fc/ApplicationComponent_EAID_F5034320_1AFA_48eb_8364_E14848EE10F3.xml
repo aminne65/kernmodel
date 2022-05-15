@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] OASE Online Aanmelden SCI Examens"
+    id="EAID_F5034320_1AFA_48eb_8364_E14848EE10F3"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="100"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="125064"/>
+</archimate:ApplicationComponent>

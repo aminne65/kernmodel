@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instellingen van logmechanismen kunnen niet worden aangepast. Als dit toch nodig is/gebeurt, gebeurt dit met het vier-ogen-principe."
+    id="EAID_0CCA1E99_2302_454c_BA52_432240DE682C">
+  <properties
+      key="Category"
+      value="Proces/werkwijze (beheerproces); Principe"/>
+  <properties
+      key="ID"
+      value="105"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486963256_98280_20006"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.3-4, pag. 36"/>
+</archimate:Requirement>

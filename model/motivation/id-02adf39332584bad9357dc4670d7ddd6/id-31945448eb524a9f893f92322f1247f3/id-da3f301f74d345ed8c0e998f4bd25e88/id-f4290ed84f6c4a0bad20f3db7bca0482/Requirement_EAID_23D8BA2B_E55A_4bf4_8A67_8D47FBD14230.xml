@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er worden antivirusscanners toegepast bij openen van bestanden en in- en uitgaande mail."
+    id="EAID_23D8BA2B_E55A_4bf4_8A67_8D47FBD14230">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="47"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486953694_944592_19156"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.4.1-1/2, pag. 31"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LSK applicatie (Langstudeerders Krediet"
+    id="EAID_B3F099D8_B1B2_4b53_9331_D1C118B8DC7D"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="MSAccess"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ISI Informatie Systeem Inburgering"
+    id="EAID_7748210D_E0EC_4238_BC44_0FAECF10C042"
+    documentation="bron : Topdesk&#xA;&#xA;SCI =Service Center Inburgering (organisatie-onderdeel)&#xA;ISI =Informatie Systeem Inburgering (register)&#xA;&#xA;SAP applicatie&#xA;Bestanduitwisseling met belastingdienst, COA, IND, BlikopWerk instellingen en IDW&#xA;&#xA;&#x9;- Registratie inburgeraars&#xA;&#x9;- Inburgeringsexamen en Korte Vrijstellingstoets&#xA;&#x9;- Beheer lening (wijziging per 2013)&#xA;&#x9;- Beheer PvB en vergoedingen (tot 2013 en overgangssituatie)&#xA;&#x9;- Vanaf 2013: Uitvoeren inburgering (handhaven of vrijstellen/ontheffen van de inburgerplicht)&#xA;&#x9;- Vanaf 2013:SCI stuurt informatie over cursusdeelname voor Toeslag kinderopvang&#xA;&#xA;Gemeente en IND hebben inzage in ISI">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="CI"
+      value="119468"/>
+  <properties
+      key="Functiepunten"
+      value="3393"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="SAP Business Suite 7.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+</archimate:ApplicationComponent>

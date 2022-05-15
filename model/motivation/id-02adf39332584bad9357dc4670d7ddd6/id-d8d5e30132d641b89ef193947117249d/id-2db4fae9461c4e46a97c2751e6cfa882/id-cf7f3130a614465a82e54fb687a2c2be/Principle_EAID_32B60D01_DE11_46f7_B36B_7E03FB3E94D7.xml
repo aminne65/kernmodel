@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers hoeven maar één keer in te loggen en krijgen daarmee toegang tot alle applicaties van hetzelfde beveiligingsniveau"
+    id="EAID_32B60D01_DE11_46f7_B36B_7E03FB3E94D7"
+    documentation="Rationale&#xA;&#xA;Het vragen van een wachtwoord voor elke applicatie die wordt opgestart is niet gebruikersvriendelijk en ook inefficiënt. Daarom is het belangrijk om gebruikers één keer in te laten loggen, waarna alle applicaties die voldoende hebben aan een basisniveau van authenticatie, direct toegankelijk zijn. &#xA;&#xA;Implications&#xA;&#xA;Er is een standaard voorziening beschikbaar voor het authenticeren van gebruikers. Applicaties zijn gekoppeld aan de standaard authenticatievoorziening zodat zij niet om een aanvullende authenticatie hoeven vragen. Applicaties die een hoger niveau van van beveiliging vragen vragen een additionele authenticatie. Er wordt aangesloten bij federatieve authenticatievoorzieningen in de keten zodat eenmalig inloggen ook mogelijk is over de grenzen van de organisatie heen.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

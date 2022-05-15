@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IBM DataPower B2B"
+    id="EAID_400A4094_7CD5_47ce_80E1_F40F92BD052E"
+    documentation="De DataPower is een een stukje IBM hardware dat is geoptimaliseerd om inkomend en uitgaand berichtenverkeer te beveiligen.&#xA;De 2 belangrijkste factoren hierin zijn&#xA;1. XSD validatie (voldoet het bericht wel aan de regels die wij voor (dit specifieke) bericht hebben opgesteld)&#xA;2. alle zaken rondom certificaten. Dus signeren van uitgaande berichten en valideren van inkomende berichten v.w.b. sleutels en certificaten.&#xA;Er kunnen nog veel meer dingen met de DataPower (waarvan we een deel ook gebruiken) maar deze 2 zijn de belangrijkste.&#xA;&#xA;Message Queueing/Routing status: in ontwikkeling"/>

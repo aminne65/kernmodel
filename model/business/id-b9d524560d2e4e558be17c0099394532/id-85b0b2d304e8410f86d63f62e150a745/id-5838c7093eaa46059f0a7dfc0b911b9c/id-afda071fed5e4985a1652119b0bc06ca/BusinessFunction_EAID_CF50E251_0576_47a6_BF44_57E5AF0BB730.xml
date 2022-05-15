@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cateringbeheer"
+    id="EAID_CF50E251_0576_47a6_BF44_57E5AF0BB730"
+    documentation="Het verzorgen van catering, mate name in de vorm van bedrijfsrestaurants.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

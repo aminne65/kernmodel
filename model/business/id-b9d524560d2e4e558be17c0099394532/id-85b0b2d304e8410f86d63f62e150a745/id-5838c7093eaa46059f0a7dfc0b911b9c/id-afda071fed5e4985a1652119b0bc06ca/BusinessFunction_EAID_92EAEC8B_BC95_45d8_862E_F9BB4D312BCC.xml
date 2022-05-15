@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identificatie, authenticatie en autorisatie"
+    id="EAID_92EAEC8B_BC95_45d8_862E_F9BB4D312BCC"
+    documentation="Het kenbaar maken van de identiteit van een subject (gebruiker of proces). Het vaststellen van de juistheid van de opgegeven identiteit van het subject dat gebruik wil maken van een bepaalde dienst. En het beslissen of een subject rechten krijgt of toegekende rechten mag gebruiken voor een aangevraagde dienst.&#xA;&#xA;(Desgewenst in deze functie ook accounting opnemen: het bijhouden (logging) hoe een subject de elektronische dienst gebruikt (bijvoorbeeld voor managementinformatie, planningsdoeleinden, financiële verrekening).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

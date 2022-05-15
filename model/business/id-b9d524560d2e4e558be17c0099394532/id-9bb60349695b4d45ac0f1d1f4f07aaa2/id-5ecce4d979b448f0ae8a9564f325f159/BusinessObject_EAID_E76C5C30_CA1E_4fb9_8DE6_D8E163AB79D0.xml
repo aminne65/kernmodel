@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissing"
+    id="EAID_E76C5C30_CA1E_4fb9_8DE6_D8E163AB79D0"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Het bepalen van de beslissingen en de daaruit voortkomende beschikkingen vindt zowel serie-stuks gewijs - een serie beslissingen die leidt tot één beschikking - als stuksgewijs plaats. De serie-stuks gewijze beslissingen worden ten behoeve van controle geaggregeerd. Beslissingen kunnen betrekking hebben op:&#xA;· Niet financiële beschikkingen.&#xA;· Reguliere en aanvullende bekostiging.&#xA;· E-verplichtingen (voortkomend uit de Wet Overige OCW Subsidies).&#xA;· Sancties"/>

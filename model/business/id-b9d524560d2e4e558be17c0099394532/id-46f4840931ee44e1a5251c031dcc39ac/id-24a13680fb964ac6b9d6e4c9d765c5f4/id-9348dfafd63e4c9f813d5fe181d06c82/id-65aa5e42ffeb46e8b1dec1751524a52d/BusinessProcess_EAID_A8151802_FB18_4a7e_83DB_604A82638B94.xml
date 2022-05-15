@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgeven Verklaring Afgelegd Examen Vervangend Opleidings Document"
+    id="EAID_A8151802_FB18_4a7e_83DB_604A82638B94"
+    documentation="Proces doel&#xA;Het mogelijk maken van het afgeven van een verklaring afgelegd examen (VAE) of een vervangend opleidingsdocument(VOD). &#xA;&#xA;Proces beschrijving &#xA;Het, al dan niet tegen betaling, aanbieden van een vervangende verklaring aan kandidaten die een diploma en/of cijferlijst verloren hebben (VAE) en/of die een naamswijziging al of niet in combinatie met een geslachtsverandering, hebben ondergaan.(VOD)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

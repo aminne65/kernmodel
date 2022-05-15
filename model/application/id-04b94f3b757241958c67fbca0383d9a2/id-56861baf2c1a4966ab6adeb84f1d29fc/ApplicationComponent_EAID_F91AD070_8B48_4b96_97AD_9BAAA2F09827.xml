@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ZP Zakelijk Portaal"
+    id="EAID_F91AD070_8B48_4b96_97AD_9BAAA2F09827"
+    documentation="bron : Topdesk&#xA;&#xA;Het zakelijk portaal (ZP) is de term die binnen DUO gebruikt wordt voor de service waarmee DUO haar diensten online biedt aan zakelijk klanten.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="85"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="122541"/>
+</archimate:ApplicationComponent>

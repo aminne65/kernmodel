@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSA Registration Manager"
+    id="EAID_EDE54466_0D65_45f5_8497_F8228D48B6E9"
+    documentation="Er zal geen RSAVM (OCSP) of RSARM (bv SCEP) worden geïnstalleerd. Het beoogde doel van installatie in de OTA straat is puur voor het ontwikkelen van de CEO door het SWH. "/>

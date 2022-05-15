@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard Informatieproduct"
+    id="EAID_A6CF1922_C987_4e73_96F0_79B29B8A2EF8"
+    documentation="Bron: Veranderplan IP 1.0&#xA;&#xA;Deze producten hebben vastgestelde specificaties en worden op periodieke basis gemaakt en geleverd. Met iedere directie zijn afspraken gemaakt die zijn opgenomen in een zogenaamde leverkalender. Het gaat bijvoorbeeld om standaardtabellen ten behoeve van portalen, open databestanden, publicaties (bijvoorbeeld Onderwijs in cijfers) en reguliere leveringen aan het departement. Deze producten zijn niet interactief. Om deze standaardproducten te kunnen leveren is een goed gevuld en betrouwbaar DWH gewenst. In het DWH is een archief gevuld met &#xA;1-cijferbestanden, dit zijn BRON-foto’s met attributen. Welke attributen zijn opgenomen is afhankelijk van de wensen en gemaakte afspraken met belanghebbenden; daarmee zijn de 1-cijferbestanden naar hun aard maatwerk databestanden. Standaard informatieproducten worden vaak als databestand, zonder visualisatie opgeleverd. "/>

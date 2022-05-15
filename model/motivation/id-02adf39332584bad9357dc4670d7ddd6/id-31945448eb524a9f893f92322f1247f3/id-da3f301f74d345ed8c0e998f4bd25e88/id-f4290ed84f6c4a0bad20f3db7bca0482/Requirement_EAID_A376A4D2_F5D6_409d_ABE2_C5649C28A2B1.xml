@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij transport van vertrouwelijke informatie over onvertrouwde netwerken, zoals het internet, dient altijd geschikte encryptie te worden toegepast. Zie BIR-12.3.1-3."
+    id="EAID_A376A4D2_F5D6_409d_ABE2_C5649C28A2B1">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="61"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486954991_885558_19216"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.6.1-3, pag. 32"/>
+</archimate:Requirement>

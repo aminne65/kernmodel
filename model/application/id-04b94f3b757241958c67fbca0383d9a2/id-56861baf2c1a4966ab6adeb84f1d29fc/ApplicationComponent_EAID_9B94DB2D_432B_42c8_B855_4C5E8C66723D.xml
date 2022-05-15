@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] De Schil"
+    id="EAID_9B94DB2D_432B_42c8_B855_4C5E8C66723D"
+    documentation="bron : Topdesk&#xA;&#xA;De Schil is een raadpleegapplicatie waarmee DUO medewerkers (klantenservice, telefonie, Kalmarweg) snel inzicht kunnen krijgen in NAW gegevens van een klant en in welke systemen een klant geregistreerd staat en vervolgens wordt de mogelijkheid geboden om betreffende applicatie op te starten.&#xA;&#xA;Terugbelverzoeken en notities.&#xA;&#xA;De Schil kan pas worden uitgefaseerd als er geen legacy systemen meer mee worden ontsloten. Dit is het geval als alle legacy systemen zijn uitgefaseerd of wanneer het ontsluiten ervan volledig via het klantbeeld (via GegevensMagazijn) verloopt.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="175"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="104886"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang"
+    id="EAID_FC351067_50A2_4ad5_8E63_B2A9924C5938">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_ECB64EEC_B861_42fc_B4FE_901A7811925C.xml#EAID_ECB64EEC_B861_42fc_B4FE_901A7811925C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_7DFB408B_054D_46eb_97BA_D89324202726.xml#EAID_7DFB408B_054D_46eb_97BA_D89324202726"/>
+</archimate:ServingRelationship>

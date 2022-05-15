@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LLLK Leven Lang Leren Krediet"
+    id="EAID_88C649DE_5F3A_47a4_B4B2_A2B4C6DA83CC"
+    documentation="LevenLangLerenKrediet: Kredieten voor ingezetenen met een werkkring. &#xA;In Mijn-LLLK kan een klant een aanvraag levenlanglerenkrediet indienen. De applicatie bestaat uit:&#xA;&#xA;&#x9;1. Een tile voor het flexibele dashboard (PP)&#xA;&#x9;2. Een aanvraagapplicatie (client / server)&#xA;&#xA;&#xA;Ook genoemd: Mijn3LK of M3LK.&#xA;&#xA;De data wordt uiteindelijk opgeslagen in MS Access."/>

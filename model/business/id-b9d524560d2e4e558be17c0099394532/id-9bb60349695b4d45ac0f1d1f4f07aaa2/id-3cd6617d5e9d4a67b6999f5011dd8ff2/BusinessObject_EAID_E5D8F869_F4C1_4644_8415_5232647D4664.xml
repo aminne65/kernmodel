@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenfunctionaris"
+    id="EAID_E5D8F869_F4C1_4644_8415_5232647D4664"
+    documentation="Een natuurlijk persoon die een dienst levert in het kader van examenafname en/of uitslagbepaling.&#xA;Bijvoorbeeld een examenleider, beoordelaar of een surveillant.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973418523_661683_13653"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

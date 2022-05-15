@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backups zijn zodanig opgeslagen, dat alleen geautoriseerde personen toegang hebben."
+    id="EAID_55D31059_9C84_4b29_8D6E_E6223BF124FD">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="57"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486954616_722411_19200"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.5.1-5, pag. 32"/>
+</archimate:Requirement>

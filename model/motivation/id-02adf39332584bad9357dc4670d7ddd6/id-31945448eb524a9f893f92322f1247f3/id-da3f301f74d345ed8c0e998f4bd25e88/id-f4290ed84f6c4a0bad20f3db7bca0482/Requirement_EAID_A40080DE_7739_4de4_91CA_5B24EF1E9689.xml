@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een enkelvoudig kader voor bedrijfscontinuïteitsplannen."
+    id="EAID_A40080DE_7739_4de4_91CA_5B24EF1E9689">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="ID"
+      value="218"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967382_495316_20480"/>
+  <properties
+      key="Source"
+      value="BIR par. 14.1.4, pag. 52"/>
+</archimate:Requirement>

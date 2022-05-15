@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] System deployment"
+    id="EAID_98DFE4DB_C65E_4664_B238_75DBA341A92F"
+    documentation="Het verspreiden en installeren van het besturingssysteem en patches op virtuele of fysieke systemen, zoveel mogelijk op geautomatiseerde wijze."/>

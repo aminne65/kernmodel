@@ -1,0 +1,26 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DUO is betrouwbaar"
+    id="EAID_6DE98E9F_C8A7_4d85_9D6E_0FFC2BF44191">
+  <properties
+      key="Category"
+      value="Guiding Principle"/>
+  <properties
+      key="Description"
+      value="Afnemers kunnen erop vertrouwen dat DUO zich aan afspraken houdt."/>
+  <properties
+      key="ID"
+      value="DUO-EA-AP04"/>
+  <properties
+      key="Implication"
+      value="DUO onderzoekt welke kwaliteit voor de afnemers voldoende is. Deze wordt als norm vastgesteld en bekendgemaakt. Vervolgens worden er processen ingericht om de norm te handhaven en wordt er gerapporteerd over de behaalde resultaten. Waar de kwaliteit kan variëren, wordt bij de informatie vermeld wat het actuele kwaliteitsniveau is (bijvoorbeeld wanneer de informatie voor het laatst is gecontroleerd)."/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1427104669929_98689_19467"/>
+  <properties
+      key="Rationale"
+      value="De betrouwbaarheid van DUO hangt af van het nakomen van afspraken met de klant/leverancier en de inhoudelijke correctheid van de dienstverlening. Ook rechtmatigheid kan hiermee worden afgedekt. De beschikbaarheid en de kwaliteit van diensten voldoen aan vooraf bepaalde normen. Aangeboden informatie dient bijvoorbeeld juist, authentiek, actueel en volledig te zijn. Processen zijn zodanig ingericht dat dit is gegarandeerd en monitoring van het kwaliteitsniveau plaatsvindt. Willen diensten voor de afnemer bruikbaar zijn, dan moeten ze betrouwbaar zijn. Vooral ketendiensten moeten daarop kunnen vertrouwen, omdat de mate van betrouwbaarheid mede de kwaliteit van hun eigen dienstverlening bepaalt."/>
+  <properties
+      key="StatementOfPrinciple"
+      value="DUO is betrouwbaar"/>
+</archimate:Principle>

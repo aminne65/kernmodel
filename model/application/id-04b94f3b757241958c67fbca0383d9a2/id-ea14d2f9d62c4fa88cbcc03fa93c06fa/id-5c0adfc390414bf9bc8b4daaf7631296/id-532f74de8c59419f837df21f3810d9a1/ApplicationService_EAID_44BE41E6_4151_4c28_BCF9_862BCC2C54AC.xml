@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Wijzigen registers"
+    id="EAID_44BE41E6_4151_4c28_BCF9_862BCC2C54AC"
+    documentation="Van derden ontvangen wijzigingen op bestaande registraties, dus niet uit primaire bron."/>

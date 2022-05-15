@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAC Guest Server"
+    id="EAID_0632FE7B_1CAF_4aca_A76D_5EE3A48440AC"
+    documentation="functies:&#xA;&#x9;- creëren guest accounts&#xA;&#x9;- verzorgen notifications vanuit print-, e-mail of text berichten naar guest&#xA;&#x9;- beheren guest accounts&#xA;&#x9;- verslaglegging (reporting)"/>

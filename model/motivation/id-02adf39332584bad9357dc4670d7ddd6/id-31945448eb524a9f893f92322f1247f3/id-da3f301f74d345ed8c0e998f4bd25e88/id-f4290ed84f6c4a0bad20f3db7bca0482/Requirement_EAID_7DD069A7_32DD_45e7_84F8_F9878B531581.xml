@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bij intern gebruik van IT voorzieningen worden gebruikers minimaal geauthenticeerd op basis van wachtwoorden."
+    id="EAID_7DD069A7_32DD_45e7_84F8_F9878B531581">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="Zie voor type wachtwoorden 11.5.3"/>
+  <properties
+      key="ID"
+      value="141"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486958944_104895_19380"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.5.2-2, pag. 41"/>
+</archimate:Requirement>

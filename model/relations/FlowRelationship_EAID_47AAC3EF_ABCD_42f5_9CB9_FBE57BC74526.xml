@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Queues"
+    id="EAID_47AAC3EF_ABCD_42f5_9CB9_FBE57BC74526">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_FA43E453_5592_4159_B2A1_AE4263B8FE06.xml#EAID_FA43E453_5592_4159_B2A1_AE4263B8FE06"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6232B9A0_201E_4697_843B_BC7E556A07F8.xml#EAID_6232B9A0_201E_4697_843B_BC7E556A07F8"/>
+</archimate:FlowRelationship>

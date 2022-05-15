@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenkandidaat"
+    id="EAID_AB7B6DC7_0A31_4638_98F3_734FFFB710A4"
+    documentation="Een natuurlijk persoon die een examen doet.&#xA;Bijvoorbeeld een staatsexamenkandidaat, een inburgeraar of een financiëel dienstverlener.&#xA;.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973424429_156812_13673"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

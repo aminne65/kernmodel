@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODF"
+    id="EAID_40070611_0A33_475b_A8FC_3A8DA6212058"
+    documentation="Format documentbewerking &#xA;&#xA;Versie: 1.2">
+  <properties
+      key="Domein Standaardisatie"
+      value="Document en (web)content"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

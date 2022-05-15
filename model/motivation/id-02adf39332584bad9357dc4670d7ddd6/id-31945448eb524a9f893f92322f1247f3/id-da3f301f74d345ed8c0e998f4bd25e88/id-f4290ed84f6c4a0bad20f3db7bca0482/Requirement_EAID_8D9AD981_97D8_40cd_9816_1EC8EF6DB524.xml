@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een toepassing kent voldoende mogelijkheden om gegevens te corrigeren door er gegevens aan toe te voegen."
+    id="EAID_8D9AD981_97D8_40cd_9816_1EC8EF6DB524">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="165"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486949616_398369_18862"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.2.2-1, pag. 46"/>
+</archimate:Requirement>

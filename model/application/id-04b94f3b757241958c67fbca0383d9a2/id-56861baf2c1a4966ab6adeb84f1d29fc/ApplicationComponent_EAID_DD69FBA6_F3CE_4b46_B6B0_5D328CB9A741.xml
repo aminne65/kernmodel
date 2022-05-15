@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Dashboard portaal"
+    id="EAID_DD69FBA6_F3CE_4b46_B6B0_5D328CB9A741"
+    documentation="Het Dashboard is technisch gezien een relatief normale dienst op het portaal. Wat het bijzonder maakt is dat het de eerste is die een gebruiker ziet als hij niet expliciet een andere keuze maakt via een deeplink.&#xA;Het Dasboard toont het beeld dat DUO van een klant heeft. Omdat dit makkelijk uitbreidbaar moet zijn zonder het Dashboard steeds aan te moeten passen is gekozen voor een dynamisch tile-concept. Deze tiles kunnen onafhankelijk van elkaar ontwikkeld en toegevoegd worden en maken daarmee deel uit van het applicatielandschap net als de diensten zelf (meestal zullen ze zelfs onderdeel uitmaken van deze diensten omdat ze direct als 'poort' naar de gedetailleerde dienst fungeren).&#xA;Op grotendeels dezelfde manier als de navigatieitems wordt de verzameling van tiles opgebouwd op basis van het profiel van een klant en het aanbod van tiles. Het Dashboard bepaalt vervolgens op welke plek welke tile geplaatst wordt (op basis van prioriteiten en categorie).">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

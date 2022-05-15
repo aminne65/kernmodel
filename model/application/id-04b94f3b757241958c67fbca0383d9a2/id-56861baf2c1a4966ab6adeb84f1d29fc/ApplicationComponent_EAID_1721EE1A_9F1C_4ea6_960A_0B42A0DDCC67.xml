@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ASC Archief Service Component"
+    id="EAID_1721EE1A_9F1C_4ea6_960A_0B42A0DDCC67"
+    documentation="ASC = Archief Service Component&#xA;&#xA;Het Archief Service Component (ASC) is ontworpen om een generieke service te bieden waarmee documenten op het digitaal archief (OnDemand) geïndexeerd mogen worden. Implementeert ODWEK Ondemand Web Enabling Kt.&#xA;&#xA;ASC staat al in productie, het eerste deel dan - herindexeren via JMS - gaat waarschijnlijk zowel GAS als ODA vervangen."/>

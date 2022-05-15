@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRO - Basisregistratie Ondergrond"
+    id="EAID_BB60EF36_B2D0_4825_B5D3_9B081055FE46"
+    documentation="In de basisregistratie Ondergrond (BRO) worden alle relevante bodem- en ondergrondgegevens op een centraal punt beheerd en beschikbaar gesteld. Dit maakt hergebruik van data mogelijk en voorkomt dubbel onderzoek. &#xA;&#xA;Meer informatie: &#xA;https://www.basisregistratieondergrond.nl/ &#xA;https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/basisregistraties-en-afsprakenstelsels/bro/ ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a4e02591-7ecf-11e3-67ab-0050568a6153"/>
+  <properties
+      key="Toelichting"
+      value="De Basisregistratie Ondergrond (BRO) wordt dé centrale database met publieke gegevens van de Nederlandse ondergrond"/>
+</archimate:ApplicationComponent>

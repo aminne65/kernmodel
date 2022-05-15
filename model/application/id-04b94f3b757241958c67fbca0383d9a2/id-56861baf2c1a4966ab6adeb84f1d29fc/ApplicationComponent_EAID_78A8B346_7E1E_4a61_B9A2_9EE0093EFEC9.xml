@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WVU WaarderingsVerzoeken Uitwisseling"
+    id="EAID_78A8B346_7E1E_4a61_B9A2_9EE0093EFEC9"
+    documentation="bron : Topdesk&#xA;&#xA;De applicatie wordt gebruikt voor het opvragen van waarderingen van buitenlandse opleidingen bij Nuffic, een instituut voor het beoordelen van opleidingen in het buitenland. &#xA;Studenten kunnen studiefinanciering krijgen voor studies in het buitenland, en om te bepalen of deze studie overeenkomt met een nederlandse studie waar SF voor gegeven wordt, wordt Nuffic geraadpleegd.&#xA;&#xA;De WVU (Waarderingsverzoek uitwisseling) is een applicatie waarin aanvragen voor studiefinanciering van studenten staan. Of er voor een bepaalde opleiding recht op studiefinanciering bestaat wordt beoordeeld door het NUFFIC. In deze applicatie staan de ‘waarderingsverzoeken’ die door het team ‘sf wereld’ naar het NUFFIC zijn gestuurd. De waarderingsverzoeken die terugkomen van de NUFFIC met een positief oordeel worden opgevoerd in het systeem voor de studiefinanciering, het SFS. De medewerker beschikt over een link naar de WVU applicatie. ">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="192"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="121009"/>
+</archimate:ApplicationComponent>

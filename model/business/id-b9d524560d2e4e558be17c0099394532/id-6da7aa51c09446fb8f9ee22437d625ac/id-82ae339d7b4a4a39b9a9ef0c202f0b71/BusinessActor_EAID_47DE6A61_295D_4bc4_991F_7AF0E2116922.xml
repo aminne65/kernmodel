@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ministerie van Justitie"
+    id="EAID_47DE6A61_295D_4bc4_991F_7AF0E2116922"
+    documentation="Ketenpartner: levert informatie &quot;gedetineerd&quot;.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

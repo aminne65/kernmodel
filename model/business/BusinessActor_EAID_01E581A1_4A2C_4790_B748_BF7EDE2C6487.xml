@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsvolgers (DUO/OVG)"
+    id="EAID_01E581A1_4A2C_4790_B748_BF7EDE2C6487">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

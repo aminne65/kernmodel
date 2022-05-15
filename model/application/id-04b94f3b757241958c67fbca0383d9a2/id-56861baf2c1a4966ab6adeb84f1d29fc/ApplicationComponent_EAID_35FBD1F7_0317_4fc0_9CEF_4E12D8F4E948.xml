@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DWT Deurwaarders Traject"
+    id="EAID_35FBD1F7_0317_4fc0_9CEF_4E12D8F4E948"
+    documentation="bron : Topdesk&#xA;&#xA;zodra DUO de inning van een schuld overdraagt aan een deurwaarder, legt DUO de verdere vordering vast in een eigen computersysteem. Vanuit dit systeem communiceert DUO met de deurwaarder. Medewerkers van DUO kunnen in dit systeem zien om welk bedrag het gaat.&#xA;&#xA;Het archiveren vind plaats binnen het AS/400 systeem, hiervoor wordt het Information Archive toegepast. Het proces wordt dagelijks geïnitieerd op het AS/400 systeem. ">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="2384"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion 2E 8.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="104875"/>
+</archimate:ApplicationComponent>

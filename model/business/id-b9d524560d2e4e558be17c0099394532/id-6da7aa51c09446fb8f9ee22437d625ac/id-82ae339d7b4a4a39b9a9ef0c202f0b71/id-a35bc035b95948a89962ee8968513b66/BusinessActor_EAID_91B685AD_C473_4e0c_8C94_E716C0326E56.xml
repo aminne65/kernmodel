@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstelling HO"
+    id="EAID_91B685AD_C473_4e0c_8C94_E716C0326E56"
+    documentation="Ketenpartner">
+  <properties
+      key="actorkind"
+      value="standard"/>
+  <properties
+      key="views"
+      value="Actorsamenwerkingview voor BAP Basis Administratie Persoon (View),Applicatie overzicht (View),LCM Registers (View)"/>
+</archimate:BusinessActor>

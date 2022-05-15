@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DERA netwerk"
+    id="EAID_3D8B9162_24E8_40a9_85D8_FF0F5CBDC562"
+    documentation="De Nexus lijn gebruikt standaard Rapid PVST+ als spanning tree protocol.&#xA;switching en routing. Iedere core is voorzien van een laag-2 VDC waarin alle fysieke poorten en de laag-2 VLAN’s een plaats hebben. Routering vindt plaats in een aparte laag-3 VDC die zich gedraagt als een router-on-a-stick.&#xA;Voor DER-A wordt er een 3e VDC gemaakt die voor de routering van de access-laag zorgt draagt. Inter-access verkeer wordt hiermee lokaal gerouteerd, intra-access moet via de generieke routing laag waardoor de beperkingen die in deze laag gelden ook voor alle access-laag segmenten gelden."/>

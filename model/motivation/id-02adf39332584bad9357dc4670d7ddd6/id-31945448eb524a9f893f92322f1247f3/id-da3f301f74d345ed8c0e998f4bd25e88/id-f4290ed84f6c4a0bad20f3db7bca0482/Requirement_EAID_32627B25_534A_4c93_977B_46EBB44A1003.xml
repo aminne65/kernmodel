@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slechts geautoriseerde gebruikers kunnen logbestanden raadplegen (niet schrijven)"
+    id="EAID_32627B25_534A_4c93_977B_46EBB44A1003">
+  <properties
+      key="Category"
+      value="Acceptatiecriterium"/>
+  <properties
+      key="ID"
+      value="103"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486946272_410355_18718"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.10.3-2, pag. 36"/>
+</archimate:Requirement>

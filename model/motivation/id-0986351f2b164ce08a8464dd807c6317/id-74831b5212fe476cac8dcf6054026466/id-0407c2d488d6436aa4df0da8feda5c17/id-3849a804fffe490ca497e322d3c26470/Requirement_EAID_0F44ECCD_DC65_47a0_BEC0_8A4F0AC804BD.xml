@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSS"
+    id="EAID_0F44ECCD_DC65_47a0_BEC0_8A4F0AC804BD"
+    documentation="Website opmaak &#xA;&#xA;Versie 2.1">
+  <properties
+      key="Domein Standaardisatie"
+      value="Document en (web)content"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPF"
+    id="EAID_3FE231DE_1C29_40bb_841E_E8614A9148AF"
+    documentation="Bescherming tegen e-mailphishing &#xA;&#xA;Versie: 1">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Verplicht (pas toe leg uit)"/>
+</archimate:Requirement>

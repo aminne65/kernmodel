@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is cryptografisch beleid, waarin o.a. de hele lifecycle van cryptografische middelen beschreven is, dus hoe om te gaan met opslag en beheer van cryptografische middelen alsook het uitfaseren ervan."
+    id="EAID_CA42346F_6FA9_4d9a_8EE0_779C8006863E">
+  <properties
+      key="Category"
+      value="Uitgangspunt"/>
+  <properties
+      key="Description"
+      value="AW,WV 14-1-2015"/>
+  <properties
+      key="ID"
+      value="173"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486967303_107422_20360"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.3, pag. 46"/>
+</archimate:Requirement>

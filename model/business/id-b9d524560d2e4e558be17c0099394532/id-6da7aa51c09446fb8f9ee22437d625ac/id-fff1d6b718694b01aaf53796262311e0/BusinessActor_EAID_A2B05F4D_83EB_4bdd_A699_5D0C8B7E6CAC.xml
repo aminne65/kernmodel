@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestuur DUO"
+    id="EAID_A2B05F4D_83EB_4bdd_A699_5D0C8B7E6CAC">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

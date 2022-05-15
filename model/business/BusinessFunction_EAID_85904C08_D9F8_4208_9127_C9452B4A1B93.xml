@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exameninschrijving"
+    id="EAID_85904C08_D9F8_4208_9127_C9452B4A1B93">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="rotation"
+      value="up"/>
+</archimate:BusinessFunction>

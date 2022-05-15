@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamanagement"
+    id="EAID_236CC3B7_C29D_4866_B8FE_9563C4209E62"
+    documentation="Het ervoor zorgen dat er kwalitatief hoogwaardige gegevens beschikbaar zijn.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

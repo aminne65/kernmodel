@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure SBB detail view - NLSR"
+    id="EAID_373D56C8_23E9_4604_84E4_1DE5131BB541">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_3D35_439c_A3A7_40F114FD75C7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000001_3948_4b21_AE33_A091235AB3B9"
+        lineColor="#696969"
+        source="EAID_DN000001_3D35_439c_A3A7_40F114FD75C7"
+        target="EAID_DN000004_E43A_454d_A1FD_34A8AD7F83A5">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_ACE7140C_3948_4b21_AE33_A091235AB3B9.xml#EAID_ACE7140C_3948_4b21_AE33_A091235AB3B9"/>
+    </sourceConnections>
+    <bounds
+        x="236"
+        y="265"
+        width="331"
+        height="153"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_EAID_594C611D_3D35_439c_A3A7_40F114FD75C7.xml#EAID_594C611D_3D35_439c_A3A7_40F114FD75C7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000004_E43A_454d_A1FD_34A8AD7F83A5"
+      targetConnections="EAID_DC000001_3948_4b21_AE33_A091235AB3B9">
+    <bounds
+        x="355"
+        y="125"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5.xml#EAID_8C8C0B33_E43A_454d_A1FD_34A8AD7F83A5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

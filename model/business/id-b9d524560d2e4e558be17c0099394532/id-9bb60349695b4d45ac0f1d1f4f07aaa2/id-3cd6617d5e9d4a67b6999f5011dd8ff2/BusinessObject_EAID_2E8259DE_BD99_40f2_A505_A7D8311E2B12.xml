@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ketenpartner"
+    id="EAID_2E8259DE_BD99_40f2_A505_A7D8311E2B12"
+    documentation="Een niet natuurlijk persoon die input levert aan de DUO of vice versa ten behoeve van een integrale dienstverlening aan klanten en waarbij onderling  geen sprake is van een opdrachtgever-opdrachtnemer relatie.&#xA;Voorbeelden van ketenpartners zijn CITO, CDFD, Examencommissie">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973520010_339279_13754"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

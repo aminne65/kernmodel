@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers hebben toegang tot speciale bevoegdheden voor zover dat nodig is (need to know, need to use)"
+    id="EAID_CDC9CF49_3AE3_4b45_8408_1FE8BF8A8F4C">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="115"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486957788_522694_19328"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.2.2-1, pag. 38"/>
+</archimate:Requirement>

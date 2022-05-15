@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Publish - Subscribe"
+    id="EAID_C8DF47BE_F68E_42f3_8AC4_70F09C7617D1"
+    documentation="A Publish-Subscribe Channel works like this: It has one input channel that splits into multiple output channels, one for each subscriber. When an event is published into the channel, the Publish-Subscribe Channel delivers a copy of the message to each of the output channels. Each output channel has only one subscriber, which is only allowed to consume a message once. In this way, each subscriber only gets the message once and consumed copies disappear from their channels.&#xA;&#xA;http://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html"/>

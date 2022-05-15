@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmelden staatsexamen NT2"
+    id="EAID_E8568CE8_8AB2_445e_902F_D046D1CC98ED"
+    documentation="Proces beschrijving&#xA;Het verzorgen van de aanmelding en indeling voor het NT2 examen.&#xA;&#xA;Proces doel&#xA;Het doel van het proces is de aanmelding van een kandidaat te verzorgen om een examen NT2 af te nemen wat de kandidaat in staat stelt aan te tonen dat de Nederlandse taal beheerst wordt voor werk of school. Het betreft de aanmeldingen voor twee programma's. Programma I (MBO niveau) en programma II (HBO/WO niveau). ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

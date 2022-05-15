@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Backup en Recovery"
+    id="EAID_B8AB3B54_3420_4e40_B8B3_DE6125CE03DA"
+    documentation="Preventief veiligstellen van gegevens op disk dan wel op tape. Indien nodig kan een back-up weer op een vergelijkbare originele drager worden teruggezet."/>

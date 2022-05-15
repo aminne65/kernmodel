@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] System management"
+    id="EAID_0B4670D2_74A0_4e79_A2A0_C2D68D7FDF27"
+    documentation="Het beheer van individuele machines (werkstations, servers), en het bewaken (monitoren) van de performance, beschikbaarheid en integriteit van deze machines."/>

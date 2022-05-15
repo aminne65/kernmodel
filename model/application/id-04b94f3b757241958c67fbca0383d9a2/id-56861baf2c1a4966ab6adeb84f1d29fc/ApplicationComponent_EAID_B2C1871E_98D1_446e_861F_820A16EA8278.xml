@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DKD Digitaal KlantDossier"
+    id="EAID_B2C1871E_98D1_446e_861F_820A16EA8278"
+    documentation="bron : Topdesk&#xA;&#xA;Digitaal Klantdossier is een webservice die voor SUWINET is gebouwd en zorg draagt voor het ontsluiten van onderwijs deelname, resultaat en financieringsinformatie naar andere op SUWINET aangesloten instanties.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Primaire Processen"/>
+  <properties
+      key="Functiepunten"
+      value="79"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="125401"/>
+</archimate:ApplicationComponent>

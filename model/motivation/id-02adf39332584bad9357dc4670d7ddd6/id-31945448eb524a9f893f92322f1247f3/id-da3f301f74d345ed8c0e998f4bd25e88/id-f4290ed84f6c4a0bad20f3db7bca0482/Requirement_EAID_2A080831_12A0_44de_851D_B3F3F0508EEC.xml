@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er zijn maatregelen getroffen om automatisch doorsturen van interne e-mail naar externe adressen te voorkomen."
+    id="EAID_2A080831_12A0_44de_851D_B3F3F0508EEC">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="72"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486955397_704945_19232"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.8.1-5, pag. 33"/>
+</archimate:Requirement>

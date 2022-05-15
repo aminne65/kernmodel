@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMAP"
+    id="EAID_0B1C33FF_464B_48d7_B41B_CFA4260A98E2"
+    documentation="e-mail synchronisatie &#xA;&#xA;Versie: 4, revisie 1 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

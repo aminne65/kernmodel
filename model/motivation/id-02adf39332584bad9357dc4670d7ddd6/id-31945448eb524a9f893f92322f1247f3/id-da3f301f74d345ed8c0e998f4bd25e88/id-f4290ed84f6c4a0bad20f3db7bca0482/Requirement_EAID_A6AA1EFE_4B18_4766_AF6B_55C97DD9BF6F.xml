@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatiegegevens worden bijbehouden in één bronbestand"
+    id="EAID_A6AA1EFE_4B18_4766_AF6B_55C97DD9BF6F">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="zodat consistentie is gewaarborgd"/>
+  <properties
+      key="ID"
+      value="113"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486957600_30319_19318"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.2.1-2, pag. 38"/>
+</archimate:Requirement>

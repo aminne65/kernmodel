@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een eigenaar van de beveiligingscriteria die zorgt voor acceptatie bij aanschaf, ontwikkeling of onderhoud van informatiesystemen."
+    id="EAID_E8B2CFCD_DFC6_46e3_816D_A8FFD9CEC9AD">
+  <properties
+      key="Category"
+      value="Organisatie"/>
+  <properties
+      key="ID"
+      value="163"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951069_897584_19016"/>
+  <properties
+      key="Source"
+      value="BIR par. 12.1.1-4,-5, pag. 45"/>
+</archimate:Requirement>

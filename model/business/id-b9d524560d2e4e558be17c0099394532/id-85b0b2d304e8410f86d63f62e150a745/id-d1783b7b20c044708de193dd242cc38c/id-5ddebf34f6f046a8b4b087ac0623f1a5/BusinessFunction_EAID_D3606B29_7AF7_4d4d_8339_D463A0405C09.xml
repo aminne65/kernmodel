@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging en privacymanagement"
+    id="EAID_D3606B29_7AF7_4d4d_8339_D463A0405C09"
+    documentation="Het bepalen en bewaken van belangrijke risico's van beveiliging en privacy en de daarbij gewenste maatregelen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

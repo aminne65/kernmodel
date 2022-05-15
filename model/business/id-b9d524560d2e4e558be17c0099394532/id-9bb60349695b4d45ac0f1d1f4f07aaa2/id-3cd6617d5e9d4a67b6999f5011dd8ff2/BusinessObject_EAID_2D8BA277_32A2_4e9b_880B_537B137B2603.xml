@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="EAID_2D8BA277_32A2_4e9b_880B_537B137B2603"
+    documentation="Een persoon die een product of dienst afneemt van de DUO.">
+  <properties
+      key="md_guid"
+      value="_17_0_6_37a104fd_1411973540979_681380_13794"/>
+  <properties
+      key="VersieStatus"
+      value="Concept"/>
+</archimate:BusinessObject>

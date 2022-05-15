@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenAM"
+    id="EAID_76825EEB_8439_435b_A0D8_568A1DBDF3DD"
+    documentation="Alle Facetgebruikers worden in deze versie binnen de Facet realm in OpenAM als gebruiker opgevoerd zonder koppelingen naar andere identitymanagementoplossingen."/>

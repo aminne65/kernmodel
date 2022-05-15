@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] IKB Inkijktool Bron"
+    id="EAID_81986FBB_4D36_4aed_B8EB_F265642C326A"
+    documentation="bron : Topdesk&#xA;&#xA;IKB is de Inkijktool BRON, waarmee de inschrijvingen en resultaten van onderwijsontvangenden geraadpleegd kunnen worden in MP (medewerkers DUO) en ZP (onderwijsinstelling - BRIN).&#xA;&#xA;IKB wordt alleen door VO gebruikt en stopt rond 01-03-2019. Dan wordt het vervangen door het student-/leerlingdossier.&#xA;&#xA;&#xA; ">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-BRON PO/VO/MBO oud"/>
+  <properties
+      key="Functiepunten"
+      value="111"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="132737"/>
+</archimate:ApplicationComponent>

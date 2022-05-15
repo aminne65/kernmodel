@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Palo Alto Traps server"
+    id="EAID_8E3DE6BD_DEDD_485d_BD44_29E1F90B87C1"
+    documentation="Binnen het product TRAPS van Palo Alto Networks wordt er voorkomen dat eventuele vulnerabilities en onbekende malware toegepast wordt op deze werkplekken. Hiervoor gebruikt TRAPS een minimalistische agent op de werkplek, welke op een innovatieve nieuwe manier deze aanvallen tegenhoud zonder dat hiervoor vooraf kennis over de dreiging zelf dient te zijn.&#xA;&#xA;Wildfire is een online service van Paloalto networks en levert hashes van gecontroleerde services.  "/>

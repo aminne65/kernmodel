@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Klantcontact OVG-SEK"
+    id="EAID_9FDFFF4C_3215_4c3b_8417_51068D2F580E"
+    documentation="Het Online team houdt zich bezig met generieke functionaliteit rondom User Experience (UX) en ondersteunt ook buiten SEK op het gebied van UX.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

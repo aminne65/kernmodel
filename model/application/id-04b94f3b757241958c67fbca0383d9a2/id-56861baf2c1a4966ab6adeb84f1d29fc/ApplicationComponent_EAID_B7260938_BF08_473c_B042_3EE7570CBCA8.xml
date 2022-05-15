@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] POL Printen Op Locatie 7.x"
+    id="EAID_B7260938_BF08_473c_B042_3EE7570CBCA8"
+    documentation="bron : Topdesk&#xA;&#xA;De applicatie Printen Op Locatie, in het vervolg genoemd POL is een netwerk pc-applicatie die gebruikt wordt op diverse examenlocaties ter ondersteuning van het afnemen van (mondelinge) staatsexamens. In POL kunnen cijfers worden geregistreerd, eindcijfers worden berekend, examenuitslagen worden bepaald en uitvoer documenten worden geprint. &#xA;&#xA;Naast het netwerk wat naar de 3 grote examenlocaties gaat, wordt er ook een standalone versie op laptops ingericht voor de zogenaamde VSO locaties&#xA;&#xA;POL betreft een door een externe softwareleverancier in Acces ontwikkelde en beheerde applicatie.">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="945"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="MSAccess"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Examens"/>
+  <properties
+      key="CI"
+      value="115110"/>
+</archimate:ApplicationComponent>

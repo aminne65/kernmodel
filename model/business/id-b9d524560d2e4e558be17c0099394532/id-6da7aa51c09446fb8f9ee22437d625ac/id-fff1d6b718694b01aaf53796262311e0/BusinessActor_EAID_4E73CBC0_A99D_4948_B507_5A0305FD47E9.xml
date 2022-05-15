@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstellingen (DUO/OI)"
+    id="EAID_4E73CBC0_A99D_4948_B507_5A0305FD47E9">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

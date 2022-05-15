@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDC01 Beschikkingsmacht [EAR]"
+    id="EAID_A984A3B2_2B11_4548_A354_C55668686EE9"
+    documentation="De datacentervoorziening Rijk verwerkt alleen de data die vallen onder de Nederlandse beschikkingsmacht.&#xA;&#xA;Rationale&#xA;Externe dienstverleners o.g.v. dataopslag en -beheer moeten waarborgen dat zij de door hun beheerde data niet ter beschikking stellen aan niet-Nederlandse overheden. Op basis van &quot;save haven regulations‟ is het mogelijk data te laten beheren door organisaties buiten de Nederlandse grenzen.&#xA;&#xA;implicaties&#xA;&#x9;- Aantoonbaar maken dat data niet buiten de Nederlandse beheersingsgrenzen treedt.&#xA;&#xA;EAR informatiseringsdomein&#xA;Datacenterdiensten&#xA;&#xA;https://www.earonline.nl/index.php/CDC:_Beschikkingsmacht "/>

@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepaling examenvakken"
+    id="EAID_83F1E687_0BB0_4120_A8DC_7A9574135FB6">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="atomic"
+      value="false"/>
+</archimate:BusinessFunction>

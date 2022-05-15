@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Herkenning"
+    id="EAID_E7D67658_6F8A_421c_AB09_B4BBE16172D2"
+    documentation="eHerkenning is een soort DigiD voor bedrijven. Ter vergelijking: burgers loggen met DigiD in bij de overheid, bedrijven gebruiken eHerkenning als identificatiemiddel. Een belangrijk verschil is dat DigiD wordt verstrekt door de overheid en eHerkenning door commerciële bedrijven. Het beheer van het afsprakenstelsel wordt verzorgd door de overheid. &#xA;Inclusief bijbehorend machtigingenregister.&#xA;&#xA;Meer informatie: &#xA;https://www.eherkenning.nl/ &#xA;https://www.noraonline.nl/wiki/EHerkenning ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a6642d81-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

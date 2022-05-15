@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waterschap"
+    id="EAID_417C3C20_4652_474c_85C1_208902DF6743">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

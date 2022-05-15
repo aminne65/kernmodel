@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FACET BCLD"
+    id="EAID_DBC072EE_69F5_4161_9D7F_B0CBB4A35322"
+    documentation="BCLD = Bootable Client Lock Down&#xA;&#xA;De BCLD wordt gebruikt om een gesloten (beveiligde) omgeving te creëren waarin een examen kan worden afgenomen. Een examen mag niet worden afgenomen zonder het gebruik van en BCLD.&#xA;&#xA;De terminals worden via netwerkboot (PXE) gestart om zo automatisch het BCLD image te downloaden en te starten. Hiervoor wordt een nieuwe PXE (Linux) server geplaatst die dit faciliteert."/>

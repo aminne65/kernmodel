@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilitaire dienstverlening"
+    id="EAID_39B06BB9_3D85_4408_ADC3_D96F07A7991A"
+    documentation="(Secundair)&#xA;Het zorgdragen voor de faciliteiten van de organisatie.&#xA;De interne verlening van diensten en ter beschikking stelling van faciliteiten, en de planning daarvan en het onderhoud daarop, die nodig zijn voor de ondersteuning van de interne operaties. Dan gaat het om algemene kantoordiensten, waaronder: schoonmaak, interne en externe verhuizingen, secretariaten, inkoop kantoorartikelen en -meubilair, kantine of catering, e.d., inclusief de planning, voorspelling van de interne behoefte aan deze diensten en de coördinatie van de uitvoering ervan. En het gaat om het bijbehorende gegevensbeheer,monitoring en sturing van alle zaken betreffende leveranciers en hiermee gepaard gaande omgang en gebeurtenissen.&#xA;&#xA;(Bron: MARIJ 1.0).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

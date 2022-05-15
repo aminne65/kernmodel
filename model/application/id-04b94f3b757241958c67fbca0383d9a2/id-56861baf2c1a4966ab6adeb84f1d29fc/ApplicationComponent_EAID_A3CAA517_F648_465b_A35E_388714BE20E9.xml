@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LOGX"
+    id="EAID_A3CAA517_F648_465b_A35E_388714BE20E9"
+    documentation="bron : Topdesk&#xA;&#xA;LogX is een shared library,  die - vanuit het perspectief van een ingelogde applicatie - functionaliteit aanbiedt op het gebied van beveiliging (zoals authenticatie, autorisatie en uitgeven auditcontextid’s).&#xA;&#xA;LOGX moet je zien als een bouwblok die afnemers van de portalen in hun applicatie op moeten nemen om op de juiste manier met de security om te gaan.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="0"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="216241"/>
+</archimate:ApplicationComponent>

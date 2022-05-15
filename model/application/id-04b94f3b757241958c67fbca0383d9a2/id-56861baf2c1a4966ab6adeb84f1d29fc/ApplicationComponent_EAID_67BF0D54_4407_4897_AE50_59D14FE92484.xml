@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] WSB_WB Werkstroombesturing werkbakjes"
+    id="EAID_67BF0D54_4407_4897_AE50_59D14FE92484"
+    documentation="bron : Topdesk&#xA;&#xA;De generieke afhandeling van werkstromen. De rol van WSB is het bijhouden in welke virtuele werkbak een document ligt, wie het opstuurde, welke documentsoort het is en wie er aan gewerkt heeft, plus de datum van binnenkomst en deadline.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="205845"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Red Hat Satellite 5.x"
+    id="EAID_05484BBE_54BA_4507_AFE5_DCD5E70BF023"
+    documentation="Beheer- en installatieplatform voor Linux Servers&#xA;&#xA;Het bouwblok bestaat uit Puppet voor configuratiebeheer, Foreman voor systeeminstallatie en Satellite voor software management en patching van JBoss platforms en servers. "/>

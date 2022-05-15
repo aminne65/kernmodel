@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIB Stichting Inlichtingenbureau"
+    id="EAID_FDD820AC_052B_4be1_B71B_736DF42CA5FB"
+    documentation="Stichting Inlichtingenbureau ondersteunt gemeenten (bijstand, IOAW en IOAZ) en de SVB (AIO) bij het onderzoeken of mensen met een uitkering hier ook echt recht op hebben. Voor deze rechtmatigheidscontrole ontvangt het Inlichtingenbureau gegevens van UWV, Belastingdienst, Dienst Uitvoering Onderwijs (DUO), Justitiële Informatiedienst (JustID), Centraal Justitieel Incassobureau (CJIB), Rijksdienst voor het Wegverkeer (RDW) en andere gemeenten. Deze gegevens worden vergeleken met de gegevens van de uitkeringsgerechtigde zoals die bij gemeenten of de SVB bekend zijn.&#xA;&#xA;Rechtmatigheidscontrole uitkeringen&#xA;SF en OD gegevens. GSD.">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

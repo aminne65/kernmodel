@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] DOC1 Templates t.b.v VZ"
+    id="EAID_37C45C8E_ECB6_49c6_948E_2CCB5166927C"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Gekochte applicatie voor de opmaak van brieven">
+  <properties
+      key="Ontwikkelomgeving"
+      value="DOC1"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

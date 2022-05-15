@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCP/IP listener SQL 2014 AAG"
+    id="EAID_9E2FFEC3_1A36_4729_BBDF_EFAEC99CD541">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

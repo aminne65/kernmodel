@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] PVS verzamelpost"
+    id="EAID_A784CE96_F95A_4f35_96F2_6A36B14745AA"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Relatie met PVS commons???&#xA;clients naar registers&#xA;herbruikbare functionaliteit">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+</archimate:ApplicationComponent>

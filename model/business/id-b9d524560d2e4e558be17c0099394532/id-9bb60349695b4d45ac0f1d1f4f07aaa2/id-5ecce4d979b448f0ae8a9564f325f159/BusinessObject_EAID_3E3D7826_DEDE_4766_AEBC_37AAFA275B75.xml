@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenstype"
+    id="EAID_3E3D7826_DEDE_4766_AEBC_37AAFA275B75"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;De aanduiding en definitie van bij CFI gebruikte begrippen&#xA;Geldige waarden voor een bepaald gegevenstype in de vorm van een waardenbereik.&#xA;Een referentiegegeven behorende bij een bepaald gegevenstype, dat een vaste waarde in een bepaalde periode representeert en in een eenvoudige en eenduidige structuur vastgelegd kan worden, zoals een percentage wettelijke rente."/>

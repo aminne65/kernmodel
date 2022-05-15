@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] LOGE Logistiek Edge Proxy"
+    id="EAID_98A216E1_26C4_4526_9BAE_69F47C54155E"
+    documentation="bron : Topdesk&#xA;&#xA;De LogE is een programmable edge server en is bedoeld voor het authentiseren, valideren en routeren van http verkeer.&#xA;&#xA;nog in transitie; in PRD staat LogE nog op JBoss Fuse. Maar daarna is deze JBoss Fuse obsolete&#xA;20171017: LogE tbv ZP nog op Fuse draait, terwijl LogE tbv PP is verplaatst naar JBoss EAP">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="216357"/>
+</archimate:ApplicationComponent>

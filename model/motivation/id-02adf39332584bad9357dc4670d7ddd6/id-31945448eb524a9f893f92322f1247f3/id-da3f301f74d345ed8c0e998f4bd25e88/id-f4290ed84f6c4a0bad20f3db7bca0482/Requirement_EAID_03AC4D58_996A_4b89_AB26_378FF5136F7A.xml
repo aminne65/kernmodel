@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een contactpersoon aangewezen voor het rapporteren van beveiligingsincidenten."
+    id="EAID_03AC4D58_996A_4b89_AB26_378FF5136F7A">
+  <properties
+      key="Category"
+      value="Organisatie"/>
+  <properties
+      key="ID"
+      value="204"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486951084_669812_19024"/>
+  <properties
+      key="Source"
+      value="BIR par. 13.1.1-2, pag. 50"/>
+</archimate:Requirement>

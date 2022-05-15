@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Personaliseren - klantgegevens adhv profiel"
+    id="EAID_41DF652A_8358_4bc4_BC8F_81C94D9F0D00"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

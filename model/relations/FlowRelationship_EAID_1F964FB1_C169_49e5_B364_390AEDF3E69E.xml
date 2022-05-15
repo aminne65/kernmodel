@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incasso-opdrachten"
+    id="EAID_1F964FB1_C169_49e5_B364_390AEDF3E69E">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_4EB9AE36_B052_45bc_9042_A85A4707169D.xml#EAID_4EB9AE36_B052_45bc_9042_A85A4707169D"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_B2E27CD9_FB45_4454_ABC1_25234785ABF5.xml#EAID_B2E27CD9_FB45_4454_ABC1_25234785ABF5"/>
+</archimate:FlowRelationship>

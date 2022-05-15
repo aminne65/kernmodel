@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De privacy van partijen is gewaarborgd"
+    id="EAID_61CCE97B_72D8_41a7_AFF9_D9D778CA78FF">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="86"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486956756_467102_19286"/>
+  <properties
+      key="Source"
+      value="BIR par. 10.9.2-2, pag. 35"/>
+</archimate:Requirement>

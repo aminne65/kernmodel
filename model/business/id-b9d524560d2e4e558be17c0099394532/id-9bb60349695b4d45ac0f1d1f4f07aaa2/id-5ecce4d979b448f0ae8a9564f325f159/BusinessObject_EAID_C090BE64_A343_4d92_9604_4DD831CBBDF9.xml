@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsdeelnemer"
+    id="EAID_C090BE64_A343_4d92_9604_4DD831CBBDF9"
+    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Hierbij worden gegevens vastgelegd over geanonimiseerde maar uniek te identificeren onderwijsdeelnemers voor zover relevant voor de processen van CFI. Daartoe worden gegevens onderhouden over de kenmerken van onderwijsdeelnemers, de inschrijving bij een onderwijsinstelling en examendeelname en examenresultaten."/>

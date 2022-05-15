@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] RDA Raadplegen Digitaal Archief"
+    id="EAID_605065E3_E5C9_4024_8341_2BE7EBA9EF0B"
+    documentation="bron : Topdesk&#xA;&#xA;Dit is de viewer OnDemand">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Microsoft Visual Basic 6.0"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="130792"/>
+</archimate:ApplicationComponent>

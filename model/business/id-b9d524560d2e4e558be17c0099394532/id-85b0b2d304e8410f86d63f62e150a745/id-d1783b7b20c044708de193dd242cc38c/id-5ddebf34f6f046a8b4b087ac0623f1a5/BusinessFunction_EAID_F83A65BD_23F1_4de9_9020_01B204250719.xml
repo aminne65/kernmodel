@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategisch adviseren en strategisch relatiemanagement"
+    id="EAID_F83A65BD_23F1_4de9_9020_01B204250719"
+    documentation="Adviseren en informeren van ministers en ministeries aangaande hun beleid.&#xA;Uitvoeren uitvoeringstoetsen.&#xA;Incl. Beleidsagenda.&#xA;Voeren strategisch relatiemanagement (strategische afstemmingen met opdrachtgevers, met het onderwijsveld, met ketenpartners).&#xA;Voeren van Bijzondere correspondentie en ombudszaken.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

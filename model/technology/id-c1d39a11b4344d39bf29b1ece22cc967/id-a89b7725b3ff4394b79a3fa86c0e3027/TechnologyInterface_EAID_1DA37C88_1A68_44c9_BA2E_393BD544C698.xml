@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage Center GUI"
+    id="EAID_1DA37C88_1A68_44c9_BA2E_393BD544C698"
+    documentation="Deze is benaderbaar vanuit het Storage center OS op één van beide nodes">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

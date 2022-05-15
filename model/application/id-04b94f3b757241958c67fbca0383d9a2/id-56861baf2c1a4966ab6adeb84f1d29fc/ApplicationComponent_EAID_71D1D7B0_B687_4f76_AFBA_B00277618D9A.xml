@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] KANA IQ"
+    id="EAID_71D1D7B0_B687_4f76_AFBA_B00277618D9A"
+    documentation="KANA IQ is het systeem dat wordt gebruikt voor ontsluiting van veel gestelde vragen via www.duo.nl. Op de DUO homepage staat onderaan onder het kopje SERVICE de link &quot;veel gestelde vragen&quot;. Op het moment dat deze link wordt aangeklikt krijg je een vraag en antwoord onderdeel te zien; deze zouden door KANA IQ worden gevuld via JSON service. De JSON service wordt momenteel niet benut.&#xA;&#xA;Op termijn zal KANA IQ waarschijnlijk vervangen worden door Tridion.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-CT-Internet Services"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Tridion 5.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="131577"/>
+</archimate:ApplicationComponent>

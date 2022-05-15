@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] TSV Tegemoetkoming Studiekosten VO18+"
+    id="EAID_A8F25B56_3A11_4390_9DE4_27A33C9DECCE"
+    documentation="bron : Topdesk&#xA;&#xA;TSV regelt het aanvragen, toekennen, uitbetalen en terugvorderen van tegemoetkomingen in de studiekosten voor studenten in het VO- en VSO-onderwijs in de leeftijdscategorie 18 t/m 26 jaar.&#xA;&#xA;Maadelijks worden niet meer te innen schulden uit TSV aangeboden aan SFS, die ze dan verder afhandelt.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="2905"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="102780"/>
+</archimate:ApplicationComponent>

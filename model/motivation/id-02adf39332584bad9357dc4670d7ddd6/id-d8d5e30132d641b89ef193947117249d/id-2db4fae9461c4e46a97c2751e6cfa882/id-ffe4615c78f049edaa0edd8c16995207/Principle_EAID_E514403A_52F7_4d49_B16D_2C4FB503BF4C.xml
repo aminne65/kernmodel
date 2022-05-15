@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DUO ontwikkelt Cloud-Ready (“De dingen die je moet doen om bedrijfsprocessen of delen daarvan in de cloud onder te brengen”)"
+    id="EAID_E514403A_52F7_4d49_B16D_2C4FB503BF4C"
+    documentation="Rationale&#xA;&#xA;Het (optimaal) gebruik maken van eigenschappen van een cloud (On-demand self-service, Broad network access, Resource pooling, Rapid elasticity, Measured service) leidt tot hogere efficiënte m.b.t. gebruik van resources en lagere beheerslast.&#xA;Daarnaast is het door eigenschappen als perceptie van oneindige resources en directe toegang tot resources makkelijker geworden om de nagestreefde beschikbaarheid en time-to-market te realiseren.&#xA;&#xA;Implicaties&#xA;Dit principe heeft als gevolg dat er een aantal technologische keuzes gemaakt moeten worden m.b.t. bouw/ontwikkeling/exploitatie van DUO’s applicaties en infrastructuur. Ook bij de selectie van COTS software moeten deze principes toegepast worden."/>

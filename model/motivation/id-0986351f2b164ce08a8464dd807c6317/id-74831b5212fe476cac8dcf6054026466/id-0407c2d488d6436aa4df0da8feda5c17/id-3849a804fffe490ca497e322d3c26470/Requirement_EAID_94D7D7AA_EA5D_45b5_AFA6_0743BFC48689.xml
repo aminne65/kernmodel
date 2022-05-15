@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMTP"
+    id="EAID_94D7D7AA_EA5D_45b5_AFA6_0743BFC48689"
+    documentation="versturen van e-mail &#xA;&#xA;Versie: RFC 5321 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

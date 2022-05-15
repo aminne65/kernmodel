@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application SBB usage view - OA Opleidingenaanbod - HO"
+    id="EAID_EE6EA64D_677B_4525_B485_F151B8BFC3D1"
+    documentation="Validated:&#xA;20180612 by Arjen Admiraal and Bart Moes">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000009_F831_4de4_A28B_A0F4BD0C5186">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_F525_4d78_8CC6_267948BBF54C"
+        lineColor="#696969"
+        source="EAID_DN000009_F831_4de4_A28B_A0F4BD0C5186"
+        target="EAID_DN000000_34A8_4d93_9722_9E8FB2521408">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_EAID_FE784130_F525_4d78_8CC6_267948BBF54C.xml#EAID_FE784130_F525_4d78_8CC6_267948BBF54C"/>
+    </sourceConnections>
+    <bounds
+        x="260"
+        y="140"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_F8EF3751_F831_4de4_A28B_A0F4BD0C5186.xml#EAID_F8EF3751_F831_4de4_A28B_A0F4BD0C5186"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000000_34A8_4d93_9722_9E8FB2521408"
+      targetConnections="EAID_DC000000_F525_4d78_8CC6_267948BBF54C">
+    <bounds
+        x="215"
+        y="270"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_BD2209A7_34A8_4d93_9722_9E8FB2521408.xml#EAID_BD2209A7_34A8_4d93_9722_9E8FB2521408"/>
+  </children>
+</archimate:ArchimateDiagramModel>

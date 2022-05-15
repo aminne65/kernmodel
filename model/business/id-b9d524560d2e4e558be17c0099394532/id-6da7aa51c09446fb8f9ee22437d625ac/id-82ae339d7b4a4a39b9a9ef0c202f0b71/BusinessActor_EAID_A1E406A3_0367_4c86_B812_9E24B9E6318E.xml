@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NHR"
+    id="EAID_A1E406A3_0367_4c86_B812_9E24B9E6318E"
+    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Leverancier van Gegevens: Rechtspersonen onderwijs en vestigingen">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

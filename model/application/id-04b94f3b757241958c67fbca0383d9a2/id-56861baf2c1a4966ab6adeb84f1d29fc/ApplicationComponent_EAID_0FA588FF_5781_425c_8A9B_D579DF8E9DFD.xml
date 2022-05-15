@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Microsoft Sharepoint 2010 Standard"
+    id="EAID_0FA588FF_5781_425c_8A9B_D579DF8E9DFD"
+    documentation="bron : Niet in cmdb">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Pakket"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+</archimate:ApplicationComponent>

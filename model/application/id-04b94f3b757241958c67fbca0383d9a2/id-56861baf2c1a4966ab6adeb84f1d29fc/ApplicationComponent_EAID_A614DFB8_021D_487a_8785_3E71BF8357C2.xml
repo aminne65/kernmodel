@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] MG Mijn Gegevens"
+    id="EAID_A614DFB8_021D_487a_8785_3E71BF8357C2"
+    documentation="bron : Topdesk&#xA;&#xA;Mijn-gegevens implementeert een ontsluiting op het particulier portaal:&#xA;&#xA;&#x9;1. Er wordt een tile geleverd voor het flexibele dashboard&#xA;&#x9;2. Raadpleegfunctionaliteit (persoonsgegevens, bereikbaarheidsgegevens en bankgegevens)&#xA;&#x9;3. Wijzigingen worden via verschillende wizards doorgevoerd&#xA;&#xA;Daarnaast implementeert Mijn-gegevens een back-end  met de volgende functionaliteit:&#xA;&#x9;- Aanmaken/versturen van een meldingenbundel met daarin een melding die bereikbaarheidsgegevens bevat. Deze melding wordt via GBM naar Bereikbaarheid (BH) verstuurd. Bereikbaarheid verwerkt tenslotte deze melding en geeft een terugmelding.&#xA;&#x9;- Ophalen van persoonsgegevens, bereikbaarheidsgegevens en bankgegevens via het gegevensmagazijn en het versturen van deze gegevens als JSON naar de client-applicatie.&#xA;&#x9;- Versturen van het gewijzigde rekeningnummer naar RMA via VMB of naar een queue van RMA (JMS)&#xA;&#x9;- Versturen van het buitenlands woonadres naar BAP (JMS)">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="713"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Tridion 5.x"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="109861"/>
+</archimate:ApplicationComponent>

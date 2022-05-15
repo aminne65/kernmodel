@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="metro mirroring"
+    id="EAID_5A6B24C5_9405_4847_AF07_A40F0AD06DF1"
+    documentation="Metro mirror is a function of the external storage unit where the target copy of a volume is constantly being updated to match changes made to a source volume. It is typically used for applications that cannot suffer any data loss in the event of a failure.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_AF4E58C8_C6BA_4f58_91E9_942E7CAEB8DA.xml#EAID_AF4E58C8_C6BA_4f58_91E9_942E7CAEB8DA"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_C15D788B_8532_4c4b_A3D3_174980FCA894.xml#EAID_C15D788B_8532_4c4b_A3D3_174980FCA894"/>
+</archimate:AssociationRelationship>

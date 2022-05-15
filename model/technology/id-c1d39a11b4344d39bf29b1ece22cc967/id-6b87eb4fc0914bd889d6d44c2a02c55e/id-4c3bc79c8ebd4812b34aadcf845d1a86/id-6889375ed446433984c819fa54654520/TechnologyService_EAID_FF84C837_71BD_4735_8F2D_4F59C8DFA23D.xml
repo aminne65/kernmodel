@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Network load balancing"
+    id="EAID_FF84C837_71BD_4735_8F2D_4F59C8DFA23D"
+    documentation="Het verspreiden van inkomende berichten over meerdere IT systemen."/>

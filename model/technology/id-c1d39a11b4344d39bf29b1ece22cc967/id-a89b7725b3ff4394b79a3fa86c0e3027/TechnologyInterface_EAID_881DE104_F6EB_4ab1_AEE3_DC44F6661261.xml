@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TSM client"
+    id="EAID_881DE104_F6EB_4ab1_AEE3_DC44F6661261"
+    documentation="Een belangrijk punt is dat de TSM Client Scheduler service standaard niet geïnstalleerd wordt. Op elke client moet deze service geïnstalleerd worden.">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RTP"
+    id="EAID_B58BC195_53EB_45b8_BAE9_0E91386FA94E"
+    documentation="media streaming &#xA;&#xA;Versie: RFC3550 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Internet en beveiliging"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

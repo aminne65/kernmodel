@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRV - Basisregistratie Voertuigen"
+    id="EAID_9AC6B17F_A267_4232_A8BF_EEA9FBC9E102"
+    documentation="In de Basisregistratie Voertuigen (BRV) staan gegevens van voertuigen, kentekenbewijzen en personen aan wie het kentekenbewijs is afgegeven. &#xA;Uit de registratie verstrekt de RDW (Dienst Wegverkeer) informatie aan burgers en bedrijven. De gegevens zijn landelijk beschikbaar voor overheidsinstanties, zoals de politie en de Belastingdienst.&#xA;&#xA;Meer informatie: &#xA;https://www.noraonline.nl/wiki/BRV_(Basisregistratie_Voertuigen) ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a503da31-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

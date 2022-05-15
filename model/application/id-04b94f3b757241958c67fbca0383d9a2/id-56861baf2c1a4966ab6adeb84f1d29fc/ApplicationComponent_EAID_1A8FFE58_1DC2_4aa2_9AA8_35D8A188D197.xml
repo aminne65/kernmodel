@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BAK Basis Administratie Klant"
+    id="EAID_1A8FFE58_1DC2_4aa2_9AA8_35D8A188D197"
+    documentation="bron : Topdesk&#xA;&#xA;De persoonsgegevens die in de ‘oude’ toepassingen, WTS en TSV, gebruikt worden, worden beheerd in de BasisAdministratie Klant (BAK). Om in WTS en TSV gebruik van deze gegevens te kunnen maken, worden de gegevens in deze systemen gesynchroniseerd met BAK.&#xA;&#xA;Technisch gezien zijn BAK Basis Administratie Klant en AVA Aanvraag Applicatie één applicatie.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="785"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="104883"/>
+</archimate:ApplicationComponent>

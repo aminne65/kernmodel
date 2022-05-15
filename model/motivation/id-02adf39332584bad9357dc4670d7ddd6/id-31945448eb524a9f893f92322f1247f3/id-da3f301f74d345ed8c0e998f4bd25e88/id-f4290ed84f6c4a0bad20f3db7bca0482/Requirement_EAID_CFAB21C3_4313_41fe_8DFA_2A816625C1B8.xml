@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Er is een proces om eenvoudig en snel beveiligingsincidenten en zwakke plekken in de beveiliging te melden."
+    id="EAID_CFAB21C3_4313_41fe_8DFA_2A816625C1B8">
+  <properties
+      key="Category"
+      value="Proces"/>
+  <properties
+      key="ID"
+      value="208"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486962663_513376_19634"/>
+  <properties
+      key="Source"
+      value="BIR par. 13.1.2-1, pag. 50"/>
+</archimate:Requirement>

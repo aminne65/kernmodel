@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adres"
+    id="EAID_AF11D47B_4B60_45bc_B4DA_8A3806E482F9"
+    documentation="Door het bevoegde gemeentelijke orgaan aan een verblijfsobject, een standplaats of een ligplaats toegekende benaming, bestaande uit een combinatie van de naam van een openbare ruimte, een nummeraanduiding en de naam van een woonplaats.&#xA;&#xA;Bron: Wet BAG Artikel 1&#xA;&#xA;URL: &amp;&amp;&amp;&amp;https://wetten.overheid.nl/jci1.3:c:BWBR0023466&amp;hoofdstuk=1&amp;artikel=1&#xA;&#xA;Toelichting: Postbussen, antwoordnummers, emailadressen en andere contactgegevens rekenen we hier niet toe. Die horen bij het object Klant."/>

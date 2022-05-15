@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product-portfoliomanagement"
+    id="EAID_B3486619_A129_4cd1_BCB8_F185F597E9C7"
+    documentation="Het bepalen en bewaken van het portfolio van producten en diensten en de investeringen daarin.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

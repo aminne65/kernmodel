@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingen- en inningsopdrachten SF-BES"
+    id="EAID_863FC768_18EC_4565_B17A_1C2CD3AD8E70">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_007EA2D3_0D68_4e54_BAD3_0AE0D33FA867.xml#EAID_007EA2D3_0D68_4e54_BAD3_0AE0D33FA867"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_B2E27CD9_FB45_4454_ABC1_25234785ABF5.xml#EAID_B2E27CD9_FB45_4454_ABC1_25234785ABF5"/>
+</archimate:FlowRelationship>

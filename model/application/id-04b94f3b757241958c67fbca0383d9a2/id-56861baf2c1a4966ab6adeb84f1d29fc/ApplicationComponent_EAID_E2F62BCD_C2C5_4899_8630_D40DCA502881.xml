@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BCS BAP CIOP Synchronisatie"
+    id="EAID_E2F62BCD_C2C5_4899_8630_D40DCA502881"
+    documentation="bron : Topdesk&#xA;&#xA;CIOP = Centraal Identificatie systeem Onderwijsgerelateerde Personen&#xA;&#xA;BCS functioneel uitgezet, is technisch nog niet verwijderd. Onbekend of deze nog wordt gebruikt door bepaalde processen bij het opstarten.">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-Domein Persoon"/>
+  <properties
+      key="Functiepunten"
+      value="94"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="126345"/>
+</archimate:ApplicationComponent>

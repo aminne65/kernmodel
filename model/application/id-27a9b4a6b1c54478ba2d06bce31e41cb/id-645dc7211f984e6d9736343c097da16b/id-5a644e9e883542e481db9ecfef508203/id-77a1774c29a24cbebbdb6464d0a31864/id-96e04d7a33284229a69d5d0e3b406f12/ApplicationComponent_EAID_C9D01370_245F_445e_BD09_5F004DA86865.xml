@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digimelding"
+    id="EAID_C9D01370_245F_445e_BD09_5F004DA86865"
+    documentation="Digimelding is één van de instrumenten om de kwaliteit van basisregistraties te borgen. &#xA;Met Digimelding kunnen overheden (vermeende) onjuistheden in de gegevens van Basisregistraties terugmelden aan de bronhouders van die Basisregistraties. Bronhouders onderzoeken de fout en verbeteren deze zo nodig in de Basisregistratie. &#xA;&#xA;Meer informatie: &#xA;https://www.noraonline.nl/wiki/Digimelding &#xA;http://www.logius.nl/diensten/digimelding  ">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke voorziening"/>
+  <properties
+      key="Object ID"
+      value="a5e141e1-7ecf-11e3-67ab-0050568a6153"/>
+</archimate:ApplicationComponent>

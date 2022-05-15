@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandeling bezwaren en beroepen"
+    id="EAID_B54851F7_AF2E_478b_9DBA_F79CA4FA329D"
+    documentation="Het afhandelen van een melding van een individu die het niet eens is met een formele uitspraak van de organisatie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="Domein"
+      value="Ondersteuning (facilitair)"/>
+</archimate:BusinessFunction>

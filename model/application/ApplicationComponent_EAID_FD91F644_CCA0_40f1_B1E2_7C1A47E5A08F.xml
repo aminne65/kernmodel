@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] MP Medewerkers Portaal"
+    id="EAID_FD91F644_CCA0_40f1_B1E2_7C1A47E5A08F"
+    documentation="bron : Topdesk&#xA;&#xA;Medewerkers van DUO moeten ten behoeve van het bedienen van particuliere, zakelijke en interne klanten acties kunnen verrichten. Het verrichten van deze acties wordt ondersteund door het medewerkers portaal. Het kunnen raadplegende, verwerkende (invullen, aanvullen, wijzigen, verwijderen) en beherende activiteiten betreffen.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="128939"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] MBOST MBO Status Toekenning"
+    id="EAID_183333AA_3198_48ac_818D_C518AEAF3B1C"
+    documentation="bron : Niet in cmdb&#xA;&#xA;Nog niet gerealiseerd, planning 1-1-2019">
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+</archimate:ApplicationComponent>

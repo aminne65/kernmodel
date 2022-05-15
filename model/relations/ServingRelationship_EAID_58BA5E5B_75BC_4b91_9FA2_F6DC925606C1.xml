@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Exchange"
+    id="EAID_58BA5E5B_75BC_4b91_9FA2_F6DC925606C1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_5791AD79_2EFE_40bd_83CB_9C865A5F0A64.xml#EAID_5791AD79_2EFE_40bd_83CB_9C865A5F0A64"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_3092DBF6_BB50_4144_A22D_A3F825E1FEDA.xml#EAID_3092DBF6_BB50_4144_A22D_A3F825E1FEDA"/>
+</archimate:ServingRelationship>

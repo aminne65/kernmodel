@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MQi Websphere API"
+    id="EAID_F26B7BC7_DCB7_497d_8422_8749A71ECAFE"
+    documentation="Applicaties connecteren via een Websphere MQ Client">
+  <properties
+      key="interfacekind"
+      value="provided"/>
+</archimate:TechnologyInterface>

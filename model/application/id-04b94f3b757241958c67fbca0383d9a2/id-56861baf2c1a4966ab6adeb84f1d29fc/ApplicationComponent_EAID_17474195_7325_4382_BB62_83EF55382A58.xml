@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] VPSL Voorportaal Studielink"
+    id="EAID_17474195_7325_4382_BB62_83EF55382A58"
+    documentation="bron : Topdesk&#xA;&#xA;De functie van Voorportaal Studielink is het ontvangen, controleren (igv een Studielink bericht), registreren en distribueren van deze gegevens, met als doel het synchroon houden van de administratie van Studielink en de systemen van DUO.&#xA;&#xA;Verzoek tot uitfaseren staat uit bij Probe.  M180302653&#xA;alle esb en MQ componenten zijn al uitgefaseerd door de club van Edde vd voss. Deze is NIET volledig uitgefaseerd, een aantal tabellen zijn nog te raadplegen.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-BRON PO/VO/MBO oud"/>
+  <properties
+      key="Functiepunten"
+      value="807"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="111717"/>
+</archimate:ApplicationComponent>

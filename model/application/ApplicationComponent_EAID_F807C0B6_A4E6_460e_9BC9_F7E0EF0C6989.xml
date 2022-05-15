@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ARC Archiveren (digitaal archief)"
+    id="EAID_F807C0B6_A4E6_460e_9BC9_F7E0EF0C6989"
+    documentation="bron : Topdesk&#xA;&#xA;ARC staat voor Archiveringsservice Contentmanager IBM (in de DUO volksmond: digitaal archief)&#xA;&#xA;Doorsturen  documenten (PDF, TIFF, ect.) om te archiveren.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-AS400"/>
+  <properties
+      key="Functiepunten"
+      value="5"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="AllFusion Plex 5.x (Cool:Plex)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="116609"/>
+</archimate:ApplicationComponent>

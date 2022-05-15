@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraag"
+    id="EAID_33E37810_158C_438a_A81E_6BA704B4024B"
+    documentation="Een aanvraag die een relatie mag doen (al dan niet via een e-formulier)"/>

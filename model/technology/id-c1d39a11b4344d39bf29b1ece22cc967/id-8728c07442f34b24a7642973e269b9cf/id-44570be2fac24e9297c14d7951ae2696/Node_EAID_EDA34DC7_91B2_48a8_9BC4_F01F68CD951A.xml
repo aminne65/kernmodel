@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domaincontroller3"
+    id="EAID_EDA34DC7_91B2_48a8_9BC4_F01F68CD951A"
+    documentation="Er kan voorkomen worden dat virtuele DC’s op één enkele host of binnen één DER terecht komen: met VMware vSphere kan hiervoor gebruik gemaakt worden van de VMware DRS VM-Host Affinity Rules."/>

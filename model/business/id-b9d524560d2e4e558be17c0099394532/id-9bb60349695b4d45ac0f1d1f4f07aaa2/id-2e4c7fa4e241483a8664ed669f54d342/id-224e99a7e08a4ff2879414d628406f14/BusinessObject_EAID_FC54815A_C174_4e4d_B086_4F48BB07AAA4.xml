@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkomende betaling"
+    id="EAID_FC54815A_C174_4e4d_B086_4F48BB07AAA4"
+    documentation="Een op een bankrekening bijgeschreven bedrag, meestal met een kenmerk waardoor de ontvangst geboekt kan worden tegen een openstaande Vordering.&#xA;Ontvangst is een synoniem."/>

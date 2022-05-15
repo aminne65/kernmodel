@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="EAID_DF47EF57_A26B_4533_9554_A2BD9B58A829"
+    documentation="Bindende afspraak tussen de organisatie en een leverancier rondom het leveren van producten of diensten.&#xA;&#xA;Bron: Informatiearchitectuur Bedrijfsvoering OCW&#xA;&#xA;Opmerking: Dit betreffen natuurlijk ook de afspraken tussen DUO en gegevensleveranciers of -afnemers."/>

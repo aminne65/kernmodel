@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] OD OnderwijsDeelname"
+    id="EAID_09A908F0_D3E0_4632_A47C_07E821184A92"
+    documentation="bron : Topdesk&#xA;&#xA;OD = Onderwijs Deelname&#xA;&#xA;Het register Onderwijsdeelname bestaat uit vastleggingen van deelnames (inschrijvingen) in de sectoren MBO en HO. De gegevens zijn afkomstig van de bekostigde en de niet-bekostigde MBO- en van de bekostigde HO-instellingen.&#xA;&#xA;Beheer toepassing voor DUO medewerkers">
+  <properties
+      key="Aanspreekpunt"
+      value="BAT-SESS"/>
+  <properties
+      key="Functiepunten"
+      value="130"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="126084"/>
+</archimate:ApplicationComponent>

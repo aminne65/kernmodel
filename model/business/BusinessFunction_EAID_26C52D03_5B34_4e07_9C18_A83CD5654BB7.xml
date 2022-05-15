@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatiemanagement"
+    id="EAID_26C52D03_5B34_4e07_9C18_A83CD5654BB7"
+    documentation="(Secundair)&#xA;Het ervoor zorgdragen dat de organisatie zich op de juiste wijze uit naar interne en externe partijen.&#xA;Het volledig, juist en tijdig uitvoeren van de communicatieprocessen Opdrachtmanagement, Traffic, Studio, Redactie, Evenementen en Digitaal.&#xA;Het op gecontroleerde wijze verstrekken van informatie aan de pers.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

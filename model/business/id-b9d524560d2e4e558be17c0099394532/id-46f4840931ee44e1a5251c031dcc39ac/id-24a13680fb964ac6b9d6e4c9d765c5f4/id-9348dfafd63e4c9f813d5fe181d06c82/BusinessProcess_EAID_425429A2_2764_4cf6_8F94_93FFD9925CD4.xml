@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centraal examen voor schoolkandidaten"
+    id="EAID_425429A2_2764_4cf6_8F94_93FFD9925CD4"
+    documentation="Proces doel &#xA;Het organiseren van het logistieke proces rondom het centrale examen voor schoolkandidaten. &#xA;&#xA;Proces beschrijving &#xA;Het proces start aan het begin van het schooljaar en eindigt aan het eind van datzelfde schooljaar. Binnen het proces kunnen deelprocessen nagenoeg gelijktijdig plaatsvinden.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

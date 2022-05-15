@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] MDD Mededelen"
+    id="EAID_6D74D784_6A24_4e39_A904_559E6D9AAA58"
+    documentation="bron : Topdesk&#xA;&#xA;Deelt de besluiten en de consequenties ervan aan de klant op papier, mail en/of via het klantportaal mede.&#xA;&#xA;Doel van de applicatie Mededelen is om geautomatiseerd de berichten samen te stellen ten bate van mededelingen aan de klanten i.h.k.v. studiefinanciering en deze aan te bieden ter publicatie via het juiste kanaal / de juiste kanalen. Alle PVS applicaties die een bericht naar een klant willen sturen, doen dat via de mededelen applicatie.&#xA;De trigger voor Mededelen is 1 enkele event, geen combinatie van meerdere waarbij events tijdelijk vastgehouden moeten worden.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="614"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="207992"/>
+</archimate:ApplicationComponent>

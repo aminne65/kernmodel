@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] KPL Klantportaal"
+    id="EAID_6D50ABE4_65E3_4cc3_8142_0939BC904212"
+    documentation="bron : Topdesk&#xA;&#xA;Dashboard&#xA;Biedt services voor Klantportaal en MedewerkerPortaal door o.a. het gegevensmagazijn te bevragen.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="848"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="207991"/>
+</archimate:ApplicationComponent>

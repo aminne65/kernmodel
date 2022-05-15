@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capgemini"
+    id="EAID_0FD809F3_2B2D_41b8_A655_9D8C045E47BF"
+    documentation="ICT leverancier">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

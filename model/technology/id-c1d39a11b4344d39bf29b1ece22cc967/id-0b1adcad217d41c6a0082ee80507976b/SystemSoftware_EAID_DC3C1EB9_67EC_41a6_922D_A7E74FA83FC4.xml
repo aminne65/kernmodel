@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenDJ 2.6.4"
+    id="EAID_DC3C1EB9_67EC_41a6_922D_A7E74FA83FC4"
+    documentation="Alle Facetgebruikers worden opgenomen in de openAM repository (OpenDJ LDAP)."/>

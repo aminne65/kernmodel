@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Pattern] Message transformation"
+    id="EAID_D414179C_DD16_4737_8426_6D3C11233307"
+    documentation="In addition to the proprietary data models and data formats incorporated in the various applications, integration solutions often times interact with standardized data formats that seek to be independent from specific applications. &#xA;The Message Translator converts the interface of a component into a another interface so it can be used in a different context."/>

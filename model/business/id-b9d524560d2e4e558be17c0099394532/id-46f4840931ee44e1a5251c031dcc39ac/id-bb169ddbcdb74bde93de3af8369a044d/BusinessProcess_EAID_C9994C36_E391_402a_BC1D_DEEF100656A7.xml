@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissen [RP]"
+    id="EAID_C9994C36_E391_402a_BC1D_DEEF100656A7"
+    documentation="Het nemen van een, voor de uitvoering van de wet relevante, beslissing over rechten en plichten van de belanghebbende(n).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

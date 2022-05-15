@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] TLV Terugbetalen in Lokale Valuta"
+    id="EAID_742E4D66_8424_42a0_B541_A32498E88DD0"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="200"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Lite"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Onderwijsvolgers"/>
+  <properties
+      key="CI"
+      value="217489"/>
+</archimate:ApplicationComponent>

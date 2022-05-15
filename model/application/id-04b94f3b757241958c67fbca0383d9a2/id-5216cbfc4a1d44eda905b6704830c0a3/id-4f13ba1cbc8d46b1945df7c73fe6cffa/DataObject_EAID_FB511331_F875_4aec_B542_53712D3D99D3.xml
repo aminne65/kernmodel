@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamart - ODS en flatfiles"
+    id="EAID_FB511331_F875_4aec_B542_53712D3D99D3"
+    documentation="ODS en flat-files is eigenlijk geen datawarehouse. Het zijn producten van het datawarehouse. Diverse applicaties hebben een eigen ODS, waar het DWH gegevens voor levert"/>

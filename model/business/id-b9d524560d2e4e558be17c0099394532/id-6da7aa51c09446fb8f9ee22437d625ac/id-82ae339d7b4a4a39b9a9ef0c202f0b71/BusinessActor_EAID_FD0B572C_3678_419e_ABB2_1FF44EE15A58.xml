@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWV Uitvoeringsinstituut Werknemersverzekeringen"
+    id="EAID_FD0B572C_3678_419e_ABB2_1FF44EE15A58"
+    documentation="Voor het beoordelen van de rechtmatigheid van een uitkering heeft UWV Uitkeringen informatie nodig over alle overige inkomsten. Vanuit deze informatiebehoefte worden de studiefinancieringsgegevens via BKWI bij DUO opgevraagd.&#xA;Het UWV wil weten of (de partner van) hun cliënt Studiefinanciering of  Tegemoetkoming scholieren van DUO ontvangt (of heeft ontvangen). Daarmee kunnen zij vaststellen of er rechtmatig een beroep op een regeling van het UWV is gedaan. Zij mogen daarom de hoogte en de periode van deze (ontvangen) financiering bij DUO opvragen. Ook mogen ze de inschrijvingsperiodes van de gevolgde opleidingen opvragen.&#xA;&#xA;Als het UWV om studiefinancieringsinformatie vraagt, moet daaronder óók informatie over Tegemoetkoming scholieren verstaan worden. Dit geldt niet voor de tegemoetkoming voor deeltijders of TLO, omdat hierin geen vergoeding voor het levensonderhoud zit.&#xA;https://wiki.prd.duo.nl/display/HO/03.+UWV &#xA;&#xA;Inzage SF en OD match uitkeringsfraude.&#xA;Bron: Excellijst van Frank Wilbrink">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

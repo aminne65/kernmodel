@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuur en informatiemanagement"
+    id="EAID_A30D87EF_D989_4826_98E9_7AA87B555F0C"
+    documentation="Het vertalen van strategie en beleid naar een gewenste inrichting en veranderingen (architectuur).&#xA;Informatiemanagement ondersteunt en adviseert directie, lijnmanagement, programmamanagers en proceseigenaren over de inrichting van bedrijfsprocessen en een effectieve, efficiënte en samenhangende bedrijfsbrede informatievoorziening. De bedrijfsdoelstellingen zijn daarbij uitgangspunt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] BHVO BedrijfsHulpVerlening Ontruimingsapplicatie"
+    id="EAID_E292D7BC_BAF1_4eb2_84D7_9394BE2D3C94"
+    documentation="bron : Topdesk">
+  <properties
+      key="Aanspreekpunt"
+      value="Onbekend"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="MSAccess"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="206357"/>
+</archimate:ApplicationComponent>

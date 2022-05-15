@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] GAS Generiek Archivering Service"
+    id="EAID_E34E35E0_F867_4b9f_84F0_4073D4BE50ED"
+    documentation="bron : Topdesk&#xA;&#xA;GAS is bedoeld om een document in het OnDemand archief (leverancier software DB2 Content Manager) te plaatsen. Hiervoor plaats men een bericht op een queue, met daarin de informatie van het te archiveren bestand, en de kenmerken waarmee dit bestand gearchiveerd dient te worden&#xA;Leveren PFD en TIFF documenten ter archivering.&#xA;&#xA;De GAS wordt op twee manieren aangesproken: rechtstreeks of via de Enterprise Service Bus (ESB). De rechtstreekse route is bedoeld voor pdf-bestanden. De ESB-route voor te verzenden email-berichten en berichtgeving naar de BerichtenBox.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="54"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="130197"/>
+</archimate:ApplicationComponent>

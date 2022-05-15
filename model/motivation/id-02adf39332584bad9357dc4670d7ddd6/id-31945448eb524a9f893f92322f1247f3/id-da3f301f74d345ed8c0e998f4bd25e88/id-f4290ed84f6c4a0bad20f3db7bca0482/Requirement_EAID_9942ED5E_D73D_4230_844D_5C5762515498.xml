@@ -1,0 +1,20 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elke zone heeft een gedefinieerd beveiligingsniveau"
+    id="EAID_9942ED5E_D73D_4230_844D_5C5762515498">
+  <properties
+      key="Category"
+      value="Principe"/>
+  <properties
+      key="Description"
+      value="zodat de filtering tussen zones is afgestemd op de doelstelling van de zones en het te overbruggen verschil in beveiligingsnvieau."/>
+  <properties
+      key="ID"
+      value="130"/>
+  <properties
+      key="md_guid"
+      value="_17_0_5_1_bcb02af_1428486958366_938029_19354"/>
+  <properties
+      key="Source"
+      value="BIR par. 11.4.5-3, pag. 40"/>
+</archimate:Requirement>

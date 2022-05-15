@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Behandelen beroep"
+    id="EAID_D337D793_0CE0_4c39_9471_FC499F597E4B"
+    documentation="Het behandelen van een door klanten van DUO bij de rechtbank ingediend beroep tegen een formele beslissing van DUO.&#xA;Dit omvat het opstellen van een verweer dat bij de rechtbank behandeld zal worden en het registreren van de uitspraak van rechtbank."/>

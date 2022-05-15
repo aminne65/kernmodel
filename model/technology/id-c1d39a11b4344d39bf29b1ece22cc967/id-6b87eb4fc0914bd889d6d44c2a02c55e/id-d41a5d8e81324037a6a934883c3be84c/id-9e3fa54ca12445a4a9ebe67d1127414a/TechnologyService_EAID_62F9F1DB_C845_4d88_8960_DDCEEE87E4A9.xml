@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Reverse / Forward Proxy"
+    id="EAID_62F9F1DB_C845_4d88_8960_DDCEEE87E4A9"
+    documentation="Het bieden van een extra tussenstation voor (inkomend en uitgaande) berichten, waardoor een extra beveiligingslaag wordt gecreëerd."/>

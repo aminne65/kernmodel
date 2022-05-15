@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentelijke Sociale Dienst"
+    id="EAID_F60415E0_4AB1_460f_B7AA_F20927F8CDA9"
+    documentation="De gemeentelijke sociale diensten voeren de wet werk en bijstand uit. Voor de uitvoering van deze taak heeft de GSD inzicht nodig in het totaal inkomen van de uitkeringsaanvrager en/of -ontvanger. Daarom vraagt een GSD via de BKWI, studiefinancieringsgegevens van de uitkeringsaanvrager of -ontvanger op bij DUO. Mede op basis van deze gegevens kan GSD het recht op en de hoogte van de bijstand bepalen.&#xA;De Sociale Dienst wil weten of hun cliënt studiefinanciering of Tegemoetkoming scholieren van ons onvangt (of heeft ontvangen). Daarmee kunnen zij vaststellen of er rechtmatig een beroep op een regeling van de Sociale Dienst is gedaan. Zij mogen daarom de hoogte en de periode van deze (ontvangen) financiering bij ons opvragen. Ook mogen ze de inschrijvingsperiodes bij de opleidingen opvragen.&#xA;Als een sociale dienst om studiefinancieringsinformatie vraagt, moet daaronder óók informatie over Tegemoetkoming scholieren verstaan worden.&#xA;Bovenstaande geldt niet voor de tegemoetkoming voor deeltijders of TLO, omdat hierin geen vergoeding voor het levens onderhoud zit.&#xA;https://wiki.prd.duo.nl/display/HO/02.+Sociale+Diensten ">
+  <properties
+      key="actorkind"
+      value="standard"/>
+</archimate:BusinessActor>

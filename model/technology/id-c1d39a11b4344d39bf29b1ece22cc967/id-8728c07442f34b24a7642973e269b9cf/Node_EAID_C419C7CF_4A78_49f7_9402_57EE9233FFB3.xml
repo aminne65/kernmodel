@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Fortinet FortiAnalyzer"
+    id="EAID_C419C7CF_4A78_49f7_9402_57EE9233FFB3"
+    documentation="The FortiAnalyzer feature set can be enabled in FortiManager. The FortiAnalyzer feature set includes the&#xA;following modules:&#xA;&#x9;- FortiView (FortiView &amp; Log View)&#xA;&#x9;- Event Management&#xA;&#x9;- Reports&#xA;&#xA;De firewall omgeving bestaat uit drie onderdelen te bestaan uit Firewalling (Fortigate’s), Management (FortiManager) &amp; Monitoring and Analysis (FortiAnalyzer)."/>

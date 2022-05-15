@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application ABB realization view - INB Verwerken uitwisseling COA"
+    id="EAID_F475A182_84FD_454b_A8EC_25862C4EDE75"
+    documentation="Validated:&#xA;20170928 by Maarten Slaterus">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000014_E0EC_4238_BC44_0FAECF10C042">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="EAID_DC000000_EADB_4b7c_8EF1_54851135E25F"
+        lineColor="#696969"
+        source="EAID_DN000014_E0EC_4238_BC44_0FAECF10C042"
+        target="EAID_DN000001_10B5_425b_B065_1CCCD218B7E4">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_EAID_00212E22_EADB_4b7c_8EF1_54851135E25F.xml#EAID_00212E22_EADB_4b7c_8EF1_54851135E25F"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="250"
+        width="90"
+        height="70"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_EAID_7748210D_E0EC_4238_BC44_0FAECF10C042.xml#EAID_7748210D_E0EC_4238_BC44_0FAECF10C042"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="EAID_DN000001_10B5_425b_B065_1CCCD218B7E4"
+      targetConnections="EAID_DC000000_EADB_4b7c_8EF1_54851135E25F">
+    <bounds
+        x="20"
+        y="140"
+        width="90"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_EAID_EF2B2E7C_10B5_425b_B065_1CCCD218B7E4.xml#EAID_EF2B2E7C_10B5_425b_B065_1CCCD218B7E4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

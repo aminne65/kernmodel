@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebDAV en CalDAV"
+    id="EAID_D8D73AD3_27D6_4832_9C66_288927DF0705"
+    documentation="Delen en bewerken van documenten &#xA;&#xA;Versie: RFC 4918 en RFC 4791 ">
+  <properties
+      key="Domein Standaardisatie"
+      value="Document en (web)content"/>
+  <properties
+      key="Lijst Status Standaardisatie"
+      value="Aanbevolen"/>
+</archimate:Requirement>

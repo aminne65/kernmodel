@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] OSP Onderwijs Service Poort"
+    id="EAID_FD50C815_B3E3_438b_8F70_514086A04838"
+    documentation="bron : Topdesk&#xA;Configuratie op de XB62 en de Axway.&#xA;&#xA;Ook bekend onder de naam DUO Service Poort. De DSP heeft globaal de volgende functies die voldoen aan de Digikoppelingstandaard (incl. EDUkoppeling):&#xA;&#x9;- Het afhandelen van extern synchroon berichtenverkeer op basis van WUS (WSDL, UDDI en SOAP). Dit berichtenverkeer loopt via het internet. Voor deze functie is de IBM WebSphere Datapower B2B Appliance XB62 beschikbaar.&#xA;&#x9;- Het afhandelen van extern asynchroon berichtenverkeer op basis van ebMS (ebXML Messaging Service) via Diginetwerk. Asynchroon berichtenverkeer op basis van ebMS verloopt via de Axway.&#xA;&#x9;- Het uitwisselen van grote berichten volgens de Digikoppeling Grote Berichten Standaard. Deze functie wordt ook ondersteund door de XB62.&#xA;&#xA;Identificatie en authenticatie van de aanleverende partij gebeurt met PKI-overheidscertificaten. ">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="150"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Klantcontact"/>
+  <properties
+      key="CI"
+      value="122737"/>
+</archimate:ApplicationComponent>

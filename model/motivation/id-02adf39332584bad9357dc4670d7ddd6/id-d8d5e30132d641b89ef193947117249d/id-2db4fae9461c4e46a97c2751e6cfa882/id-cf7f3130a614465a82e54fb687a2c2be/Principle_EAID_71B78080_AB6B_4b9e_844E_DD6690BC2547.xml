@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hergebruik voor koop voor maak"
+    id="EAID_71B78080_AB6B_4b9e_844E_DD6690BC2547"
+    documentation="Rationale&#xA;&#xA;Het beleid is erop gericht om zoveel mogelijk genericiteit te bewerkstellingen. Indien hier niet op wordt ingespeeld onstaat een wildgroei aan verschillende oplossingen waardoor er een re�le kans is op niet efficient beheer en het maken van onnodige (hoge) kosten.&#xA;&#xA;Implications&#xA;&#xA;Bij de wens tot specifieke functionaliteit zullen eerst de eisen en wensen vastgesteld moeten worden. Vervolgens wordt bekeken welke bestaande solution building blocks hieraan voldoen en indien het antwoord hierop een ondubbelzinnig 'nee' is, is een ori�ntatie op de markt aan de orde.">
+  <properties
+      key="TOGAF::Rationale"/>
+  <properties
+      key="TOGAF::Implications"/>
+</archimate:Principle>

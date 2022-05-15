@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Oracle RMAN backup"
+    id="EAID_143F2470_B30D_4fb4_B73D_F6C02DB30688"
+    documentation="Oracle RMAN schrijft backup files op de compellent, welke door de TSM worden opgehaald en weggeschreven naar tape."/>

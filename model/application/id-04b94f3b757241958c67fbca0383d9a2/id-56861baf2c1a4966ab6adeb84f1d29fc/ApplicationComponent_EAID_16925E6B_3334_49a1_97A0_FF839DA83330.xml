@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] SRV Sluitende Registratieketen Voort. Schoolverl."
+    id="EAID_16925E6B_3334_49a1_97A0_FF839DA83330"
+    documentation="bron : Topdesk&#xA;&#xA;Soms ook aangeduid met de afkorting VSV. Het melden van verzuim is voor scholen een wettelijke verplichting sinds september 2009. Hiervoor is het Verzuimloket (webapplicatie en M2M) in het leven geroepen. Via het Verzuimloket geven scholen de gegevens door van verzuimende leerlingen. Ook de omvang van het verzuim en de acties die de school al ondernomen heeft, geven zij door in deze melding.">
+  <properties
+      key="Aanspreekpunt"
+      value="DevOps-Verzuim"/>
+  <properties
+      key="Functiepunten"
+      value="439"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="119955"/>
+</archimate:ApplicationComponent>

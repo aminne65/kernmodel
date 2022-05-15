@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] HOA Hoger Onderwijs Aanlevering"
+    id="EAID_4EE1C06F_E1D8_473c_9D49_D12B7AD1FBFD"
+    documentation="bron : Topdesk&#xA;&#xA;HOA maakt onderdeel uit van de BRONHO keten: persoonsgegevens.&#xA;&#xA;HOA verzorgt het identificeren en wijzigen van persoonsgegevens zowel zonder als met digid geverifieerd BSN. Daarnaast kunnen de instelling deelnames, resultaten, verwijderen deelnames, verwijderen resultaten, wijzigen deelnames en wijzigen resultaten aanbieden.">
+  <properties
+      key="Aanspreekpunt"
+      value="ICT-TAB-PRD"/>
+  <properties
+      key="Functiepunten"
+      value="309"/>
+  <properties
+      key="Ontwikkelomgeving"
+      value="Java Development Kit"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Keten"
+      value="Registers"/>
+  <properties
+      key="CI"
+      value="132269"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="federation"
+    id="EAID_D2210F85_C8C2_408c_A357_29619FE42FC4">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_EAID_C88E50F9_EBB8_4aff_AC66_1ED1B49539FC.xml#EAID_C88E50F9_EBB8_4aff_AC66_1ED1B49539FC"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_0CCE5478_EE55_4b3a_B93F_8C3DD29E4941.xml#EAID_0CCE5478_EE55_4b3a_B93F_8C3DD29E4941"/>
+</archimate:ServingRelationship>
