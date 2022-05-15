@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via VZIP"
+    id="EAID_A806771C_29AA_4599_BE4E_0CD9AE3E65D4">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_EAID_458582BF_B949_4617_9C52_4F6017F9E11B.xml#EAID_458582BF_B949_4617_9C52_4F6017F9E11B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_742E4D66_8424_42a0_B541_A32498E88DD0.xml#EAID_742E4D66_8424_42a0_B541_A32498E88DD0"/>
+</archimate:ServingRelationship>

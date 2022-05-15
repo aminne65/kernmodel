@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via GBM"
+    id="EAID_D7F33170_0A74_4302_B2C3_60D838C977FF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_F73EF8AA_C08F_49db_B0C3_988A24B7285E.xml#EAID_F73EF8AA_C08F_49db_B0C3_988A24B7285E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_0D7DCDD3_836E_4b4f_9E50_5DEFE0D2E017.xml#EAID_0D7DCDD3_836E_4b4f_9E50_5DEFE0D2E017"/>
+</archimate:ServingRelationship>

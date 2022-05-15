@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Inputmanager"
+    id="EAID_7822AFA7_775B_4a70_919B_837D0033C9E7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_B40609F2_F2C7_48dc_B6B5_9AF74AD0A4E5.xml#EAID_B40609F2_F2C7_48dc_B6B5_9AF74AD0A4E5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_BB7FC77B_AA45_4a4b_B22E_D6285C498A99.xml#EAID_BB7FC77B_AA45_4a4b_B22E_D6285C498A99"/>
+</archimate:ServingRelationship>

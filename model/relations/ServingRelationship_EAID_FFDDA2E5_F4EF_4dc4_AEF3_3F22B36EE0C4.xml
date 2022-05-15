@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="klantarchieft trx"
+    id="EAID_FFDDA2E5_F4EF_4dc4_AEF3_3F22B36EE0C4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_E3140BAD_C8EF_4277_80E8_0E6F6BF8184E.xml#EAID_E3140BAD_C8EF_4277_80E8_0E6F6BF8184E"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_EAID_FF40A498_98E6_495c_8829_B2B9AAFDB924.xml#EAID_FF40A498_98E6_495c_8829_B2B9AAFDB924"/>
+</archimate:ServingRelationship>

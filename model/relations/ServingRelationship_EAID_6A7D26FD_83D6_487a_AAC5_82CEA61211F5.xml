@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-machine fileshare"
+    id="EAID_6A7D26FD_83D6_487a_AAC5_82CEA61211F5">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_0F017699_8058_4a43_99D8_C79D8273EECF.xml#EAID_0F017699_8058_4a43_99D8_C79D8273EECF"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_AAC8A7CA_48E5_49f3_B91B_F24CFC9C7131.xml#EAID_AAC8A7CA_48E5_49f3_B91B_F24CFC9C7131"/>
+</archimate:ServingRelationship>

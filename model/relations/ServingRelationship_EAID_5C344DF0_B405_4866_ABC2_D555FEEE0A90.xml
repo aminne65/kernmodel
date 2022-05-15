@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHCP"
+    id="EAID_5C344DF0_B405_4866_ABC2_D555FEEE0A90">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_F8F4BBE8_5E8D_457d_B4F8_359DBD4F9244.xml#EAID_F8F4BBE8_5E8D_457d_B4F8_359DBD4F9244"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_DBC072EE_69F5_4161_9D7F_B0CBB4A35322.xml#EAID_DBC072EE_69F5_4161_9D7F_B0CBB4A35322"/>
+</archimate:ServingRelationship>

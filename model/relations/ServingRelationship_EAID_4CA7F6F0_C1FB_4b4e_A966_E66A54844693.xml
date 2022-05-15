@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="technisch beheer"
+    id="EAID_4CA7F6F0_C1FB_4b4e_A966_E66A54844693">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_0CB4FB31_E4FC_4f8d_ABBE_52F8DB4702E3.xml#EAID_0CB4FB31_E4FC_4f8d_ABBE_52F8DB4702E3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_7B5DD33F_5DC6_41a4_9878_7BD302579ADF.xml#EAID_7B5DD33F_5DC6_41a4_9878_7BD302579ADF"/>
+</archimate:ServingRelationship>

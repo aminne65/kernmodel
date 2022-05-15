@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_E9F81837_D950_427e_9FC4_B4A461AB6F6F"
+    documentation="VODR VastleggenOnderwijsDeelnameResponse">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_F3425190_9BA6_4dd9_A5AD_312D15A0E28A.xml#EAID_F3425190_9BA6_4dd9_A5AD_312D15A0E28A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553.xml#EAID_C94FDD75_322B_4fd7_819B_E779A9AF9553"/>
+</archimate:ServingRelationship>

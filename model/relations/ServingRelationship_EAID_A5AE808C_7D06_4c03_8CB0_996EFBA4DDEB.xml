@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via BCE"
+    id="EAID_A5AE808C_7D06_4c03_8CB0_996EFBA4DDEB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_1A8FFE58_1DC2_4aa2_9AA8_35D8A188D197.xml#EAID_1A8FFE58_1DC2_4aa2_9AA8_35D8A188D197"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_FA43E453_5592_4159_B2A1_AE4263B8FE06.xml#EAID_FA43E453_5592_4159_B2A1_AE4263B8FE06"/>
+</archimate:ServingRelationship>
