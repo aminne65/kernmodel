@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via sFTP"
+    id="EAID_577E3B77_A2FE_47a3_BB15_FAAF62CE2437">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_9B87AF15_EA9B_4bdf_AD3F_BFDF6D16F5C2.xml#EAID_9B87AF15_EA9B_4bdf_AD3F_BFDF6D16F5C2"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_77668B50_679B_4715_905C_EF6676297D99.xml#EAID_77668B50_679B_4715_905C_EF6676297D99"/>
+</archimate:ServingRelationship>

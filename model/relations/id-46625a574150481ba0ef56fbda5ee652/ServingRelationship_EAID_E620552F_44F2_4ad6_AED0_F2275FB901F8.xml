@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="synchronisatie"
+    id="EAID_E620552F_44F2_4ad6_AED0_F2275FB901F8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6F6FF82A_69B6_4721_B9F7_404B6BF61842.xml#EAID_6F6FF82A_69B6_4721_B9F7_404B6BF61842"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_EAID_0CCE5478_EE55_4b3a_B93F_8C3DD29E4941.xml#EAID_0CCE5478_EE55_4b3a_B93F_8C3DD29E4941"/>
+</archimate:ServingRelationship>

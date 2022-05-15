@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via Axway en JUBES"
+    id="EAID_6EB52A8C_930D_4406_AB88_38C99B4A5782">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_2B3E986C_5F89_4915_9DC9_F8E23D646E56.xml#EAID_2B3E986C_5F89_4915_9DC9_F8E23D646E56"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_EAID_FC7F8CB9_84CB_4bae_A572_4752636293BF.xml#EAID_FC7F8CB9_84CB_4bae_A572_4752636293BF"/>
+</archimate:ServingRelationship>

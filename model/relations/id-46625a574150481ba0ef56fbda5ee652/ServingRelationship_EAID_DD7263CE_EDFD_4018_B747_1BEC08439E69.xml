@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via queues of via WVB"
+    id="EAID_DD7263CE_EDFD_4018_B747_1BEC08439E69">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_E34E35E0_F867_4b9f_84F0_4073D4BE50ED.xml#EAID_E34E35E0_F867_4b9f_84F0_4073D4BE50ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_67BF0D54_4407_4897_AE50_59D14FE92484.xml#EAID_67BF0D54_4407_4897_AE50_59D14FE92484"/>
+</archimate:ServingRelationship>

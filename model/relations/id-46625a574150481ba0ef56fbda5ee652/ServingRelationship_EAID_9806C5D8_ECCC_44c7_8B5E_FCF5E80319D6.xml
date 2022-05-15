@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via ESB"
+    id="EAID_9806C5D8_ECCC_44c7_8B5E_FCF5E80319D6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6F6FF82A_69B6_4721_B9F7_404B6BF61842.xml#EAID_6F6FF82A_69B6_4721_B9F7_404B6BF61842"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_4F604CB6_345D_4d41_A45B_D8E895154D7B.xml#EAID_4F604CB6_345D_4d41_A45B_D8E895154D7B"/>
+</archimate:ServingRelationship>

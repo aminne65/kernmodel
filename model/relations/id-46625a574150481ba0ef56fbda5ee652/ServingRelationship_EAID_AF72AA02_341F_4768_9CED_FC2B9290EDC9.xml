@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_AF72AA02_341F_4768_9CED_FC2B9290EDC9"
+    documentation="AVE&#x9;AchterstandsmutatieVerwerktEvent&#xA;UBA&#x9;Update Betalingsachterstand">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_1A94D55F_A355_4ab6_8D2B_7663D5A9B431.xml#EAID_1A94D55F_A355_4ab6_8D2B_7663D5A9B431"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_35BBDA79_E7C8_4a32_ACA6_BD8CB3BBFE6C.xml#EAID_35BBDA79_E7C8_4a32_ACA6_BD8CB3BBFE6C"/>
+</archimate:ServingRelationship>

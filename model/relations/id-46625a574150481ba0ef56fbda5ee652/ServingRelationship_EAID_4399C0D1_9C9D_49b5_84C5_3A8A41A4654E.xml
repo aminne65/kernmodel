@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="alleen in DERA"
+    id="EAID_4399C0D1_9C9D_49b5_84C5_3A8A41A4654E">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_EAID_2721236E_9C0E_4b5b_A1C0_2F1AE77E465E.xml#EAID_2721236E_9C0E_4b5b_A1C0_2F1AE77E465E"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_EAID_50564B82_8A07_4712_B859_6F31917E0804.xml#EAID_50564B82_8A07_4712_B859_6F31917E0804"/>
+</archimate:ServingRelationship>

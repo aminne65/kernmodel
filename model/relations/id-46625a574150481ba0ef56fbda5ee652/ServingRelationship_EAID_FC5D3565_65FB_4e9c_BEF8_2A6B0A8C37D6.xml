@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="EAID_FC5D3565_65FB_4e9c_BEF8_2A6B0A8C37D6"
+    documentation="Klantbeeld">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_3FFFED9A_413D_49e8_9033_E96D8EBA400E.xml#EAID_3FFFED9A_413D_49e8_9033_E96D8EBA400E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_EAID_6D50ABE4_65E3_4cc3_8142_0939BC904212.xml#EAID_6D50ABE4_65E3_4cc3_8142_0939BC904212"/>
+</archimate:ServingRelationship>
