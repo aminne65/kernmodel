@@ -29,5 +29,5 @@ Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door mi
      
      * Een push naar github mag maximaal 3000 gewijzigde files bevatten. Aangezien het er meer dan 10.000 zijn levert de initiële push wat gedoe op. Dat heb ik in delen gedaan.  
      
-           Daarmee is het model publiek gemaakt, hoewel niet gemakkelijk leesbaar. Het  kan leesbaar worden gemaakt door iedereen met (co)Archi. Personen die  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
+     Daarmee is het model publiek gemaakt, hoewel niet gemakkelijk leesbaar. Het  kan leesbaar worden gemaakt door iedereen met (co)Archi. Personen die  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
 
