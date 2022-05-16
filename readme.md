@@ -23,7 +23,11 @@ Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door mi
  
 6.   Model pushen naar Github
 
-     Met de extensie coArchi is het mogelijk dit model te publiceren in een lege repository van Github of Gitlab o.i.d.  Bij de vrije versie van Github is er wel een beperking aan het aantal files dat in één pull request mag wijzigen,  mag worden opgenomen in een open source github folder, namelijk 3000. Dat gaat helaas mis voor de folder met relaties, dat zijn er meer dan 6000 (naast 4000 elementen). Daarom zijn de relaties ingedeeld naar de soort.  Dan lukt het wel.  
-      
-     Daarmee is het publiek, hoewel niet gemakkelijk leesbaar. Het  kan leesbaar worden gemaakt door iedereen met (co)Archi. Personen die  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
+     Met de extensie coArchi is het mogelijk dit model te publiceren in een lege repository van Github of Gitlab o.i.d.  In totaal blijken er in het kernmodel iets meer van 10.000 verschillende elementen vertaald naar Github files (zo'n 4000 elementen en 6000 relaties). Het blijkt dat Github, althans de vrije versie, enkele beperkingen oplegt aan de upload:
+     
+     * Elke folder mag maximaal 1000 files bevatten. Dat komt in het kernmodel maar op één plek voor: in de folder Relations met alle 6000 relaties in één folder. Daarom zijn de relaties ingedeeld naar soort en  verdeeld over subfolders. Na wat gewurm lukt het wel.  
+     
+     * Een push naar github mag maximaal 3000 gewijzigde files bevatten. Aangezien het er meer dan 10.000 zijn levert de initiële push wat gedoe op. Dat heb ik in delen gedaan.  
+     
+           Daarmee is het model publiek gemaakt, hoewel niet gemakkelijk leesbaar. Het  kan leesbaar worden gemaakt door iedereen met (co)Archi. Personen die  zijn aangemerkt als collaborator kunnen modellen wijzigen en (laten) opnemen in de master. Zie de WIKI hoe dat in zijn werk gaat.
 
