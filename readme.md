@@ -1,4 +1,4 @@
-Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door middel van een AMEFF bestand. 
+XXX Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door middel van een AMEFF bestand. 
 
 1.	Opmerking vooraf.
 
