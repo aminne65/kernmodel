@@ -6,7 +6,7 @@ Dit is de Github repository geëxporteerd uit Sparx Enterprise Architect door mi
 
 2.	Creëren van AMEFF
 
-    Sinds 3.1 heeft Sparx een exportfunctie naar een "Architect Exchange File" . Het resultaat is een file van ongeveer 8 mb. Dit duurt ongeveer een minuut.
+    Sinds 3.1 heeft Sparx een exportfunctie naar een "Archimate Exchange File" . Het resultaat is een file van ongeveer 8 mb. Dit duurt ongeveer een minuut.
 
 3.	Importeren in Archi.
 
