@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] SaltStack platform"
-    id="EAID_AB0692A6_07D9_45d4_80D7_1C037A90262A"
-    documentation="Salt platform or SaltStack is a Python-based open source configuration management and remote execution application. Supporting the &quot;infrastructure-as-code&quot; approach to deployment and cloud management, it competes primarily with Puppet, Chef, and Ansible."/>

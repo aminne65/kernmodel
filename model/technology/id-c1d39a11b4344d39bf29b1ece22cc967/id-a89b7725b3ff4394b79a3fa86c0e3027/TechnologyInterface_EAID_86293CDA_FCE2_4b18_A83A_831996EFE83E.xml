@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ebXML over HTTPs"
-    id="EAID_86293CDA_FCE2_4b18_A83A_831996EFE83E"
-    documentation="Vanuit XBRL wordt gebruikt gemaakt van het B2B (Business to Business) protocol ebXML 2.0 (ebMS 2.0, CPA 2.0, Reg. / Rep.) De te gebruikte Integration Protocol van de ebMS Gateway Axway Interchange is voor het XBRL gebaseerd op de ‘File system with Message Metadata’.">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

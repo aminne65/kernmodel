@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] PKI-intern certificaten"
-    id="EAID_902839B0_D38E_40e6_8184_B3AE7CFB7DB6"
-    documentation="certificaat afhandeling intern DUO&#xA;&#xA;implementatie van Active Directory Certificate Services (ADCS)."/>

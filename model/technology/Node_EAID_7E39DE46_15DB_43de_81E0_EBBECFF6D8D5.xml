@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] OpenAM 12.x.x"
-    id="EAID_7E39DE46_15DB_43de_81E0_EBBECFF6D8D5"
-    documentation="Status actie: Webseal vervangen door OpenAM agent?&#xA;&#xA;OpenAM is een Open source Access Management applicatie. Het komt voort uit Oracle’s OpenSSO wat Oracle niet verder meer ontwikkeld.&#xA;&#xA;De mail relay functionaliteit is geinstalleerd op de OpenAM servers (Facet).&#xA;&#xA;Alle gebruikers binnen het Facetportaal worden verplicht zich met een extra code te authenticeren die via SMS of via email (fallback) verzonden wordt. Hardwaretokens worden niet gebruikt. Dit maakt de oplossing eenvoudig en er zijn weinig koppelingen nodig met de DUO-processen rondom het beheer van tokens."/>

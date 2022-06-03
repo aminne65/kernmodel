@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIAM HTTPs"
-    id="EAID_CE9230D4_98F8_47a8_BBB5_865FF552CCBE">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

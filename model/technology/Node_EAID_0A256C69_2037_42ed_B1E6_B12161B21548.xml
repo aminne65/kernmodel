@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] SIAM 2.0"
-    id="EAID_0A256C69_2037_42ed_B1E6_B12161B21548"
-    documentation="SIAM = Simple Identity &amp; Access Management&#xA;&#xA;SIAM verzorgt de DigiD authenticatie van burgers voor applicaties die dat vereisen zoals  Mijn-Gegevens en Diplomaregister.&#xA;&#xA;Is de gebruiker eenmaal ingelogd wordt hij\zij door proxyfunctionaliteit op SIAM naar de goede backend gestuurd. Voor PP gaat het dan om URL’s met /particulier/portaal en /particulier/services voor resp. statische content en backend calls."/>

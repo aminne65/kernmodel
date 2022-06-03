@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Terminal emulation"
-    id="EAID_B4FB66BC_0DD7_462c_BFCA_5B02DEF4CA86"
-    documentation="Een softwareprogramma die de werking van een terminal nabootst. Zo wordt het mogelijk een device te creëren dat zowel voor de bediening van de centrale computer als voor de verwerking van lokale programmatuur bruikbaar is."/>

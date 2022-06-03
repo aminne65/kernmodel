@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] NFS File server"
-    id="EAID_B74B0B12_E762_41b4_BE0B_F32D2CF47E35"
-    documentation="Planning realisatie in oktober 2016.&#xA;&#xA;2x Dell controller servers, in DERA en in DERB&#xA;Linux cluster met CentOS?"/>

@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DK WUS over HTTP(s)"
-    id="EAID_DC6F2F3E_FB4C_4ad9_979D_A5B799CEBBE3">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

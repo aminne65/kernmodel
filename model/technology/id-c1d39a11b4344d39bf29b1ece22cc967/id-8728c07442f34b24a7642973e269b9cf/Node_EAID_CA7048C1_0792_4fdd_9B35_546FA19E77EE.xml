@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Entree"
-    id="EAID_CA7048C1_0792_4fdd_9B35_546FA19E77EE"
-    documentation="Duo Zoetermeer kent een eigen oplossing tbv de sites met Entree van kennisnet als authenticatie middel, de autorisatie wordt mbv zelfbouw autorisatiecomponent ingevuld."/>

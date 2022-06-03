@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Maven"
-    id="EAID_8AFB05F5_CBE8_4b56_9A15_915E7FE096CE"
-    documentation="Maven is a build automation tool used primarily for Java projects. The word maven means 'accumulator of knowledge' in Yiddish. Maven addresses two aspects of building software: First, it describes how software is built, and second, it describes its dependencies."/>

@@ -1,5 +1,0 @@
-<archimate:CommunicationNetwork
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] LAN Vast"
-    id="EAID_403CDE15_76CE_42a9_97D9_ECFD6218466C"
-    documentation="Het LAN is ingedeeld in zones:&#xA;Netwerkzonering is een beveiligingsmaatregel;&#xA;Door middel van zonering wordt er een scheiding in zones gemaakt op basis van betrouwbaarheidsniveaus.&#xA;Een zone wordt slechts ingesteld als dat nodig is vanuit beveiliging en niet vanwege logische groepering of als beheersmaatregel.&#xA;Een zone moet toegevoegde waarde hebben;&#xA;Een zone heeft zo veel mogelijk zonegenerieke firewall regels; firewall regels worden door project opgeleverd.&#xA;Scheiding van gebruikers in groepen (intern, extern, beheerders).&#xA;Gebruikers zijn per definitie onveilig;&#xA;Scheiding interne gebruikers van servers.&#xA;Toekomstvast, alle bekende functionaliteit moet er in passen, maar aanpassingen moeten mogelijk zijn; Hiervoor is een beslisboom opgesteld.&#xA;&#xA;De logische groepering worden geraliseerd met VLANs."/>

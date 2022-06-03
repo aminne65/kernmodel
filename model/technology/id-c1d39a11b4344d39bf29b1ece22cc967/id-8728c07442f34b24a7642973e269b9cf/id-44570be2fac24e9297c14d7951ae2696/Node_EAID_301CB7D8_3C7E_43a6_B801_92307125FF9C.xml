@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Elasticsearch 2"
-    id="EAID_301CB7D8_3C7E_43a6_B801_92307125FF9C"
-    documentation="Opslaan logging en performance data&#xA;&#xA;Elasticsearch is a search serv er based on Lucene. It provides a distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents."/>

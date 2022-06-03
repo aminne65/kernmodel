@@ -1,5 +1,0 @@
-<archimate:Artifact
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Firewall rules verkeersstromen"
-    id="EAID_005EC45B_31D9_4550_AF3F_6442A6E68E1E"
-    documentation="Source system IP - Destination system IP - Ports - TCP/UDP"/>

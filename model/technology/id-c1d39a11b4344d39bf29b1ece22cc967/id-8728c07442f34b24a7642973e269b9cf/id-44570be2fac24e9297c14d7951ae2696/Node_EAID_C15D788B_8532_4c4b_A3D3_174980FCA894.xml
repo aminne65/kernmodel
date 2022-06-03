@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IBM Power System node2"
-    id="EAID_C15D788B_8532_4c4b_A3D3_174980FCA894"
-    documentation="6 partities:&#xA;E ontwikkeling (ONT)&#xA;F productie (PRD) - oude legacy applicaties en archief database &#xA;                           (indexen),testdata exploitatie&#xA;J ontwikkeling SAP (ONT SAP)&#xA;K productie SAP (PRD SAP)&#xA;L productie (PRD) Java/Jboss applicatie databases&#xA;U offline data store (ODS) - asynchrone replicatie op transactie&#xA;                                      niveau van F-PRD data(bases)"/>

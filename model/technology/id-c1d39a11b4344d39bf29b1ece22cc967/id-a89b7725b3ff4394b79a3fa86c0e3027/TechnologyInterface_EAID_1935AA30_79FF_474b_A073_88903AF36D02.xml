@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RDP/VMware View proxy"
-    id="EAID_1935AA30_79FF_474b_A073_88903AF36D02">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

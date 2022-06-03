@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] PKI-ODOC certificaten"
-    id="EAID_FE4EDE3E_EB90_452c_81C2_0B1D53E5193F"
-    documentation="ODOC = OCW Digitaal Onderwijs Certificaat&#xA;&#xA;Certificaten afhandeling voor het onderwijsveld&#xA;&#xA;Voor High Availability (HA) van RSACM wordt gebruik gemaakt van AD LDS, RSACM heeft zelf geen ingebouwde HA functionaliteit."/>

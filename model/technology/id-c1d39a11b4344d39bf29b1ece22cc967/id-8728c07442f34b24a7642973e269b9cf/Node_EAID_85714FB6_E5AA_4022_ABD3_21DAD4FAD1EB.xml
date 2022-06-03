@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Red Hat Cygwin"
-    id="EAID_85714FB6_E5AA_4022_ABD3_21DAD4FAD1EB"
-    documentation="Cygwin is a set of powerful tools to assist developers in migrating applications from UNIX/Linux to the Microsoft Windows platform. Cygwin delivers the open source standard Red Hat GNU gcc compiler and gdb debugger on Windows. In addition, it provides for a standard UNIX/Linux development environment on Windows including APIs and command shells."/>

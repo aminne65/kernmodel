@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Fortinet FortiManager"
-    id="EAID_1D723C07_9FE5_483c_892A_E544D0938AD4"
-    documentation="The FortiManager modules:&#xA;Device Manager&#xA;Policy &amp; Objects&#xA;FortiGuard&#xA;System Settings&#xA;Met behulp van de FortiManager is het mogelijk om centraal management uit te voeren op objecten &amp; protection-profiles verspreid over meerdere Fortigate’s/Vdoms.&#xA;&#xA;De firewall omgeving bestaat uit drie onderdelen te bestaan uit Firewalling (Fortigate’s), Management (FortiManager) &amp; Monitoring and Analysis (FortiAnalyzer)."/>

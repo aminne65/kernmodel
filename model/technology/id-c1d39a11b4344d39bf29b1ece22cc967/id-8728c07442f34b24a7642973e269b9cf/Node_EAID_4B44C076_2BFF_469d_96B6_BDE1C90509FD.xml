@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Infoblox grid manager"
-    id="EAID_4B44C076_2BFF_469d_96B6_BDE1C90509FD"
-    documentation="In een Grid is altijd een 1 appliance de leider, de zogenaamde Grid Master. Deze bestuurt de werking van het Grid en is ook de administratieve ingang voor beheerder(s). Inloggen op het Grid gaat dan ook altijd via de Grid Master. Als er geen Grid Master actief is, kunnen er geen wijzigingen worden aangebracht in het Grid."/>
