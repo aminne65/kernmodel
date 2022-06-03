@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="O/S Agents"
-    id="EAID_EB49C4A5_82C2_429e_8710_7D37378E288C"
-    documentation="Snare for Windows provides front end filtering, remote control, and remote distribution for Windows eventlog data. Formerly known as BackLog, Snare for Windows interfaces into the Windows EventLog / Windows auditing subsystem. It can be used as a standalone event log auditing tool, or can send data to the Snare Server, or a SYSLOG server, for analysis and storage."/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scan werkplek"
-    id="EAID_67290EF1_3757_4666_9045_245FD1E9AA9F"
-    documentation="Binnen de infrastructuur van DUO is een belangrijke rol weggelegd voor de WID Scanner. Deze scanner, lokaal aangesloten op een DUO werkplek scant de identiteitsgegevens en controleert zoals reeds is aangegeven op de echtheid van het identiteitsdocument. Het resultaat is dat er een grafisch bestand (JPEG) en een XML (tekst) bestand wordt gegenereerd door de scan applicatie (ID Manager). Deze applicatie, lokaal geïnstalleerd op de scan PC verzendt deze informatie naar een WID database welke is geplaatst in het domein van OCW.&#xA;&#xA;De toegangscontrole wordt uitgevoerd door DUO2 (geen onderdeel van DUO!), zie TO voor details"/>

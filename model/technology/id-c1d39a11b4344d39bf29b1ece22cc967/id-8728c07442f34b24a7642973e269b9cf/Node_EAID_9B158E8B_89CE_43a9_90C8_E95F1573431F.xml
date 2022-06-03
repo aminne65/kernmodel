@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Citrix CommandCenter"
-    id="EAID_9B158E8B_89CE_43a9_90C8_E95F1573431F"
-    documentation="Central Management tool for NetScaler and Branch Repeater&#xA;&#x9;- Configuration&#xA;&#x9;- Backup&#xA;&#x9;- SSL Certificates&#xA;&#x9;- Monitoring &amp; Alerting&#xA;&#x9;- Historical Reporting&#xA;Available as software and hardware appliance&#xA;Comes with NetScaler Enterprise and Platinum&#xA;Supports NITRO (NetScaler Interface Through Restful interfaces and Objects)"/>

@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VMware ESXi 1"
-    id="EAID_2D97C3A6_4A4B_4e73_A5B3_DF7D182B1CF3"
-    documentation="Bron: Flexera&#xA;&#xA;VMware ESXi 5.1 zal worden gebruikt op de HP platformen.&#xA;Vmware ESXi 5.0 zal worden gebruikt op de IBM platformen.  &#xA;&#xA;Alles wordt gemigreerd naar ESXi 6.x"/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIAM AM"
-    id="EAID_23B3AD35_546D_465b_97BA_304FAB4EFE90"
-    documentation="De authenticatie servers vormen daarbij een active/active configuratie waarbij de centrale sessietabel persisteert op een virtuele node van een MSSQL databasecluster."/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] NMS"
-    id="EAID_E6D3ECFB_3E0F_46ff_B96C_2DAE38A5EF49"
-    documentation="NMS = netwerkmanagementsysteem&#xA;&#xA;Deze heeft meerdere software modules. &#xA;Bijvoorbeeld:&#xA;&#x9;- HP OpenView Network Node Manager&#xA;&#x9;- CiscoWorks2000 Familie&#xA;&#x9;- LMS&#xA;&#x9;- CiscoWorks Server&#xA;&#x9;- Device Fault Manager (DFM)&#xA;Welke worden gebruikt bij DUO?"/>

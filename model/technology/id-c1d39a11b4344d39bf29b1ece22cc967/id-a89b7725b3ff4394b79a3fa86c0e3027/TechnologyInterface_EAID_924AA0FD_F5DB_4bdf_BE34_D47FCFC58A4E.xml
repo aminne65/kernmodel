@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TDP Exchange TSM client"
-    id="EAID_924AA0FD_F5DB_4bdf_BE34_D47FCFC58A4E"
-    documentation="Tivoli Data Protection (TDP)">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

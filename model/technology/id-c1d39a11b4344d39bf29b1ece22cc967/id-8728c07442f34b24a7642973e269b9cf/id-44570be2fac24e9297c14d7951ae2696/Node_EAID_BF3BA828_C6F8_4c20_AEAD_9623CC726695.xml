@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] NginX 1.x.x"
-    id="EAID_BF3BA828_C6F8_4c20_AEAD_9623CC726695"
-    documentation="Ontwikkelde webapplicaties - clients - worden door middel van NginX aangeboden.&#xA;&#xA;NGINX is a free, open-source, high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server.&#xA;&#xA;SSL Offloading en loadbalancing in de DMZ gebeurt met NginX."/>

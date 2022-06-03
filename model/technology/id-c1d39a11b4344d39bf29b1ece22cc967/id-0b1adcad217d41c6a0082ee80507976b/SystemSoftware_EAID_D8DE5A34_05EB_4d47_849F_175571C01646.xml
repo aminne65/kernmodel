@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NIOS Infoblox operating system"
-    id="EAID_D8DE5A34_05EB_4d47_849F_175571C01646"
-    documentation="Dit is het operating system van de InfoBlox appliances (NIOS). Dit wordt als 1 bundel aangeleverd en bevat zowel het OS als alle functies van de appliance (Grid/DNS/DHCP/NTP/IPAM)"/>

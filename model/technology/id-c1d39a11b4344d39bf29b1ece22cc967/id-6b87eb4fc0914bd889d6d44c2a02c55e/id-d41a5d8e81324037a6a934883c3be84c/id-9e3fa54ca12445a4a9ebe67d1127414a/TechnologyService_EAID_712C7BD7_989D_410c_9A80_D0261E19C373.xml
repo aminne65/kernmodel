@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Security Access control"
-    id="EAID_712C7BD7_989D_410c_9A80_D0261E19C373"
-    documentation="Het fysiek beveiligen van ruimtes en gebouwen.&#xA;&#xA;Ook logische toegangsbeveiliging? Hiertoe hoort ook firewall management en ACLs, welke op de afzonderlijke  systemen staan. Dit wordt gelogd in Topdesk."/>

@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] OS virtualisation"
-    id="EAID_EA7578FA_335D_40e0_9C69_92770E80E7AB"
-    documentation="Het virtualiseren of emuleren van het besturingssysteem bovenop een besturingssysteem.&#xA;&#xA;type-2 hypervisor: hosted - software virtualisatie"/>

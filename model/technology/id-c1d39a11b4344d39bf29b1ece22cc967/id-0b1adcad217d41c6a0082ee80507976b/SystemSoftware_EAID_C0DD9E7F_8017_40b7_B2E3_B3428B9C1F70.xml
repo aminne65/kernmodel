@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Epilog agent"
-    id="EAID_C0DD9E7F_8017_40b7_B2E3_B3428B9C1F70"
-    documentation="Epilog for Windows is a program that facilitates the central collection and processing of Windows text-based log files. Epilog for Windows also supports date stamped log files such as IIS, ISA, SMTP and Exchange message tracking logs. All log information is converted to tab delimited text format, then delivered over TCP/UDP or SSL/TLS to one or more destinations including a Snare Server, SIEM or syslog server."/>

@@ -1,5 +1,0 @@
-<archimate:Artifact
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MQ queue"
-    id="EAID_0DEE45F9_CD0A_4e78_BB85_5838D8205BBD"
-    documentation="herbergt duizenden queues benaderd via GET en PUT"/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="UMRA server"
-    id="EAID_E8ECACFC_1EB6_4f84_B0A9_4F5727F6F4BE"
-    documentation="UMRA = User Management Resource Administrator van Tools4ever&#xA;&#xA;Alle Active Directory domeinen worden beheerd vanuit één node met de tool UMRA.&#xA;UMRA verwerkt de autorisatie en voert deze door naar andere gekoppelde systemen (d.m.v. UMRA connector).&#xA;&#xA;Connectoren naar &#xA;AD, &#xA;AS400, &#xA;WSF (mainframe Brussel), &#xA;Zakelijk Portaal&#xA;Medewerkers Portaal, &#xA;WAS (Websphere Application Server), &#xA;SAP&#xA;&#xA;De gebruiker is aangemaakt bij de infrastructuur servers / applicaties waar UMRA een koppeling mee heeft.&#xA;Voor de applicaties zonder koppeling blijft een handmatige autorisatie actie noodzakelijk."/>

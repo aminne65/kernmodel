@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Federated database system"
-    id="EAID_7D71D9DC_B5B2_4be3_95B4_3CDD67C44126"
-    documentation="Het bieden van een integrale view op meerdere databases of directories. (Datavirtualisatie, single pane of glass)&#xA;&#xA;Niet in gebruik bij DUO.&#xA;&#xA;Het gegevensmagazijn is een maatwerkapplicatie (applicatielaag)."/>

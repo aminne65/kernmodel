@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Sergei Sorokin ShowDependencies"
-    id="EAID_0F6AF1F2_83CC_413f_9954_133CADA31970"
-    documentation="ShowDep is a dependency checking utility for Win32 modules. It analyses given module, gathering information about its version, PE headers, sections, imports and exports. This module becomes a root of the module hierarchy. Then ShowDep walks through module imports and forwarded exports and investigates all dependency modules in the same manner recursively. The term 'dependency' denotes a module containing exported functions that:&#xA; - imported by given module&#xA; - forwarded by given module&#xA; - loaded dynamically by given module"/>

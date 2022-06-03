@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Pattern] Message filter"
-    id="EAID_80D98A1E_9A0B_4424_9AAF_2F176736E459"
-    documentation="A Message Filter is a special form of a Content-Based Router. It examines the message content and passes the message to another channel if the message content matches certain criteria. Otherwise, it discards the message. Message Filters can be used with Publish-Subscribe Channel to route a message to all possible recipients and allow the recipients to filter out irrelevant messages. A Message Filter performs a function that is very similar to that of a Selective Consumer with the key difference being that a Message Filter is part of the messaging system, routing qualifying messages to another channel, whereas a Selective Consumer is built into a Message Endpoint.&#xA;&#xA;http://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRoutingIntro.html"/>

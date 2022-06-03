@@ -1,5 +1,0 @@
-<archimate:CommunicationNetwork
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="WAN"
-    id="EAID_429474FB_451E_4b2b_AB66_62DAD07B6CD5"
-    documentation="Wide Area Network met dedicated connections: Verbinding die grote afstanden overbrugt tussen locaties.&#xA;&#xA;Deze verbindingen worden alleen door DUO gebruikt, dus niet door andere bedrijven of prive-personen.&#xA;Deze verbindingen kunnen vaste verbindingen zijn of Virtual Private Networks (VPNs)."/>

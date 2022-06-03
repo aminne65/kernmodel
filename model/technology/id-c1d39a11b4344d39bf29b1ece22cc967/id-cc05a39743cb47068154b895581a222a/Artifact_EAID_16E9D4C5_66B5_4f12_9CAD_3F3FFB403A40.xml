@@ -1,5 +1,0 @@
-<archimate:Artifact
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="XB62 multi-protocol gateway configuratie"
-    id="EAID_16E9D4C5_66B5_4f12_9CAD_3F3FFB403A40"
-    documentation="Het hoofdobject in de configuratie heet Multi protocol gateway. Hierin wordt per uit te wisselen bestand, de  front-end, back-end, authenticatie-methode, het protocol en dergelijke geconfigureerd. "/>

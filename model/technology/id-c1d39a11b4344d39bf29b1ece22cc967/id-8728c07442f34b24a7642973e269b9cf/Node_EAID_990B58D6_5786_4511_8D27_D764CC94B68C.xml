@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Stealtwatch"
-    id="EAID_990B58D6_5786_4511_8D27_D764CC94B68C"
-    documentation="Network Security Monitoring&#xA;The Stealthwatch® System provides industry-leading network visibility and security intelligence for faster more precise threat detection, incident response, and forensics.&#xA;Using Netflow and other telemetry data from existing infrastructure, the system cost-effectively turns the entire network into a sensor grid. It detects anomalous traffic and behaviors, including zero-day malware, distributed denial-of-service (DDoS) attacks, insider threats, and advanced persistent threats (APTs)."/>

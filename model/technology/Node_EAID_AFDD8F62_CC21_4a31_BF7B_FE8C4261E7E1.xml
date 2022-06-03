@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Check Point Firewall"
-    id="EAID_AFDD8F62_CC21_4a31_BF7B_FE8C4261E7E1"
-    documentation="Functionaliteiten:&#xA;&#x9;- Verkeersstromen&#xA;&#x9;- Network Address Translation (NAT)&#xA;&#xA;&#x9;- IDS-functionaliteiten worden niet benut bij DUO.&#xA;&#xA;Waarvoor wordt infoblox gebruikt? DNS en NTP, maar dat geldt voor alle componenten. Waarom afzonderlijk opnemen?"/>

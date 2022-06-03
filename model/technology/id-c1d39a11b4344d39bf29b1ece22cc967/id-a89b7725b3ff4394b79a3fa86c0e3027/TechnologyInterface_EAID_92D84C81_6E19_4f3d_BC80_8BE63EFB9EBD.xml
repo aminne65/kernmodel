@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agent based SiteProtector remote host sensor"
-    id="EAID_92D84C81_6E19_4f3d_BC80_8BE63EFB9EBD"
-    documentation="software agent end-of-life">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

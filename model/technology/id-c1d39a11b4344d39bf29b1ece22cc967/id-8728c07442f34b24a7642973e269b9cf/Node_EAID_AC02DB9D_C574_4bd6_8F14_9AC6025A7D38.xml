@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Infoblox extern PRD"
-    id="EAID_AC02DB9D_C574_4bd6_8F14_9AC6025A7D38"
-    documentation="DNS:&#xA;- Authoritative voor Externe DUO zones&#xA;- Met externe (buiten DUO) gehoste secondaries&#xA;- Recursion actief, met ACL, Caching Forwarders voor o.a. DMZ proxy servers, Ironports en andere uitzonderingen&#xA;&#xA;De huidige Externe DNS bestaan uit 1 DNS server op locatie van DUO (ns1.ib-group.nl) en een 2e DNS server op locatie van SurfNet (ns2.surfnet.nl) resp. XS4ALL resp. een andere 3e Partij."/>

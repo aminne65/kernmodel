@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] InfoBlox HA Pair"
-    id="EAID_32E1000D_C438_4144_BB30_5C03A895F7BC"
-    documentation="Een InfoBlox HA pair is een active-passive cluster van infoblox appliances waarbij de diensten op het cluster worden aangeboden via een Virtueel IP adres (VIP).&#xA;&#xA;De InfoBlox appliances worden logisch gegroepeerd in een Grid. In dit Grid is één Grid Master. &#xA;Het Productie Grid (DUO-Grid) bestaat uit:&#xA;&#x9;- Grid Master &#x9;&#x9;&#x9;&#x9;(dubbel uitgevoerd als HA pair en geplaatst in de BEZ)&#xA;&#x9;- Interne DNS + DHCP&#x9;&#x9;&#x9;(dubbel uitgevoerd als HA pair en geplaatst in de LSZ)&#xA;&#x9;- Externe DNS&#x9;&#x9;&#x9;&#x9;(dubbel uitgevoerd als HA pair en geplaatst in de DMZ)&#xA;In PRD staan er zo dus 6 appliances in totaal. HA pair is gespreid over de 2 datacenters DER-A en DER-B (waartussen een laag 2 verbinding zit voor de gebruikte VLAN’s). &#xA;&#xA;Per appliance wordt bepaald welke services worden aangezet:&#xA;DHCP (Dynamic Host Configuration Protocol)&#xA;DNS (Domain Name System)&#xA;IPAM (IP Adres Management)&#xA;NTP (Network Time Protocol)"/>
