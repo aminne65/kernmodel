@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Compellent node1"
-    id="EAID_EE9F80E0_F523_4b37_9C40_51182FDD2BB9"
-    documentation="&#xA;Per locatie staat één rack. In het rack zitten twee controller-chasis met elk twee controllers (4X controller),&#xA;Per locatie 9 storage enclosures, 4 voor Tier-3 en 5 voor Tier-1 / Tier-2."/>

@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agent Zabbix"
-    id="EAID_86698DC7_AA55_46ee_808F_F517BF4A048E"
-    documentation="via SMNP">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

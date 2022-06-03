@@ -1,9 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] IBM Spectrum Protect"
-    id="EAID_7887FD28_1FA0_4f40_AE74_651DA3442009"
-    documentation="IBM Spectrum Protect = Tivoli Storage Manager&#xA;&#xA;Backup en Recovery van bestanden en databases:&#xA;&#x9;- Systeemdata: bestanden behorende tot het besturingssysteem en aanverwante applicaties die de basis vormen van een kale server zonder dienst specifieke applicaties.&#xA;&#x9;- ApplicatieBinaries: bestanden behorende tot de geïnstalleerde dienst specifieke applicatie&#xA;&#x9;- ApplicatieData: bestanden zoals database en platte files behorende bij een dienst specifieke applicatie.&#xA;&#x9;- UserData: home directories, file shares en andere gebruiker gerelateerde data.&#xA;De clients geven aan waar de storage staat. (client based). Niet alle clients zijn weergegeven.&#xA;&#xA;De TSM in DERA stuurt de taperobot aan.&#xA;&#xA;Always incremental (dagelijks, dus één keer per 24 uur, KA-data niet in het week-end, exchange wel), scheduled door de client;&#xA;Elke werkdag wordt de backup naar on-site tape geschreven. &#xA;Bestanden groter dan 12 GB gaan rechtstreeks naar tape;&#xA;Vervolgens worden deze tapes naar de off-site locatie gebracht (gereden met de auto);&#xA;&#xA;TSM server gebruikt [ABB] shared storage voor de eigen database met schedule policies en filespace.&#xA;&#xA;geen deduplicatie; &#xA;geen cross datacenter backup;&#xA;Geen transport van tapes naar een niet DUO locatie;&#xA;Het TSM report wordt niet gebruikt.&#xA;&#xA;Documentatie:&#xA;TSM_v6r2_DTO_V0121&#xA;TSM_v6r2_GTO_V0100">
-  <properties
-      key="EoL"
-      value="= overschreden"/>
-</archimate:Node>

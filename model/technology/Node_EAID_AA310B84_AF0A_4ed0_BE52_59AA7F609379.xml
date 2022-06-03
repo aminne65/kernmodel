@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Fortinet Fortigate Firewall"
-    id="EAID_AA310B84_AF0A_4ed0_BE52_59AA7F609379"
-    documentation="Functionaliteiten:&#xA;&#x9;- Verkeersstromen&#xA;&#x9;- Adrestranslatie - Network Address Translation (NAT)&#xA;IDS-functionaliteiten worden niet benut bij DUO.&#xA;&#xA;Waarvoor wordt infoblox gebruikt? DNS en NTP, maar dat geldt voor alle componenten. Waarom afzonderlijk opnemen?&#xA;&#xA;De nieuwe firewall omgeving bestaat uit drie onderdelen te bestaan uit Firewalling (Fortigate’s), Management (FortiManager) &amp; Monitoring and Analysis (FortiAnalyzer)."/>

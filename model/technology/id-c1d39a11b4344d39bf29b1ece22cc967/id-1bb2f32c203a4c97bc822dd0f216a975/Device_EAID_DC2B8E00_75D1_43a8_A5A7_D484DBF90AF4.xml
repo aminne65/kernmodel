@@ -1,5 +1,0 @@
-<archimate:Device
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IBM ISAM appliances master - slave voor Policy Server"
-    id="EAID_DC2B8E00_75D1_43a8_A5A7_D484DBF90AF4"
-    documentation="Clustering van 2 appliances master-slave,bij de interne ISAM is daarbinnen is een clustering van modules Reverse Proxy's (Webseals) opgenomen"/>

@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] F5 APM"
-    id="EAID_0F44A5F9_AAB7_4ed8_A84F_1656FCE10CBC"
-    documentation="F5 APM = F5 edge gateway&#xA;Deze APM module biedt verschillende manieren van veilige toegang tot applicaties: transparante netwerk tunnels, applicatie tunnels, portal access en integratie met VDI. Op basis van de context van de gebruiker (device, locatie en AD rechten) kunnen verschillende applicaties worden ontsloten.&#xA;&#xA;&#x9;- Active-sync, mobile devices die email synchroniseren met de Exchange omgeving;&#xA;&#x9;- ActiveSync met Exchange en Cisco ISE&#xA;&#x9;- OWA (Outlook Web Access), toegang tot Outlook/Exchange mail via webbrowser;&#xA;&#x9;- VMware View ontsluiting op basis van de Native View Client en op basis van een HTML5 Browser.&#xA;&#xA;Clients:&#xA;&#x9;- standaard browser&#xA;&#x9;- horizon client&#xA;When you use a Web browser to access a View desktop, the Blast protocol is used rather than PCoIP or Microsoft RDP. Blast uses HTTPS (HTTP over SSL/TLS).&#xA;Authenticatie via ACS en Vasco."/>

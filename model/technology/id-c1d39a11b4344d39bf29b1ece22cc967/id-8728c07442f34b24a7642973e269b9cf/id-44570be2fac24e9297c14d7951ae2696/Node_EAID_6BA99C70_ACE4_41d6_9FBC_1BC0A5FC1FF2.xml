@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] JBoss EAP"
-    id="EAID_6BA99C70_ACE4_41d6_9FBC_1BC0A5FC1FF2"
-    documentation="EAP = Enterprise Application Platform&#xA;JBoss is een open source product&#xA;&#xA;CD team bepaalt welke versie van JBoss wordt geleverd, bij een upgrade naar een nieuwe versie is het streven all VMs te upgraden. Als het goed is, is telkens slechts één versie in gebruik, zodoende is hier geen versienummer opgenomen.&#xA;&#xA;geen backup en recovery&#xA;&#xA;EWS loadbalancing tussen applicaties in beide datacenter, flexibele manier van schalen"/>

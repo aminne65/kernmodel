@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] SAN"
-    id="EAID_2721236E_9C0E_4b5b_A1C0_2F1AE77E465E"
-    documentation="Koppeling van de storage omgevingen wordt gerealiseerd met de hiervoor beschreven Cisco 2 slots chassis multiplexers. De storage koppeling tussen DER-A en DER-B wordt gerealiseerd door het uitbreiden van de 2 slots chassis multiplexers met elk een 8 poorts CWDM module. Koppeling van de CWDM module naar de bij DUO in gebruik zijn MDS switches wordt gerealiseerd door in elk MDS chassis 3 maal een CWDM 4G FC SFP te installeren. Elke MDS krijgt nu vier maal 4G FC capaciteit naar de CWDM module tot haar beschikking. In DER-B worden de nieuw te plaatsen MDS 9506 switches ook voorzien van elk drie maal een CWDM 4G FC SFP. Redundantie wordt gerealiseerd door het spreiden van de FC over beide muliplexers"/>

@@ -1,5 +1,0 @@
-<archimate:CommunicationNetwork
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LAN ASZ"
-    id="EAID_7F8119FD_112D_42a7_9A35_4351C1F3A999"
-    documentation="Application Server Zone:&#xA;De zone voor applicaties die van buiten benaderd kunnen worden. &#xA;Van buiten betekent hier zowel vanaf DMZs als ook andere externe netwerken zoals Diginetwerk."/>

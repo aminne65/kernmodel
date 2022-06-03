@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="F5 AAM module"
-    id="EAID_164A61DA_F17E_4dd2_A771_C4FE82C699B0"
-    documentation="AAM = Application Acceleration Manager&#xA;&#xA;AAM speeds up application delivery, controls the growth of bandwidth needs, particularly for video, and off loads additional processor-intensive tasks from the server."/>

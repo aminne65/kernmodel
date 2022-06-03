@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] ISAM extern"
-    id="EAID_0CCE5478_EE55_4b3a_B93F_8C3DD29E4941"
-    documentation="In de kern bestaat ISAM uit 3 fundamentele bouwblokken:&#xA;&#x9;- Een Web reverse proxy (WebSEAL); hierop staat een replica van de autorisatie database  &#xA;&#x9;- Een Policy server met daarop de master van de autorisatie database&#xA;&#x9;- Een user registry in de vorm van een LDAP&#xA;Daarnaast gebruikt DUO 2 modules die op de ISAM appliance in de ISZ, waarop ook de policy server functionaliteit draait, zijn aangezet:&#xA;&#x9;- Federation module tbv federated authentication&#xA;&#x9;- AAC module tbv Advanced Access Control&#xA;&#xA;In 2018 wordt SIAM gemigreerd naar ISAM extern."/>

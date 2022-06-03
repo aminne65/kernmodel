@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Agent Traps"
-    id="EAID_DA102D62_92AB_404e_861D_C7BBD8088F72">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

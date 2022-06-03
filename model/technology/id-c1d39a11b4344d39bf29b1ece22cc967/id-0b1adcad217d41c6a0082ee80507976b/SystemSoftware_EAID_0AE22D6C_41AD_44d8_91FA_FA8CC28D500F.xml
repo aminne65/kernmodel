@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="F5 GTM module"
-    id="EAID_0AE22D6C_41AD_44d8_91FA_FA8CC28D500F"
-    documentation="GTM = Global Traffic Manager - BIG-IP DNS&#xA;&#xA;BIG-IP DNS directs users to the nearest data center that will provide the best application experience. Using high-performance DNS services, BIG-IP DNS secures your DNS infrastructure from attacks."/>

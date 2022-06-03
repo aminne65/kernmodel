@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] MoVe"
-    id="EAID_1F284352_E823_466d_991B_4D435081B807"
-    documentation="MoVe = Monitoring Verzameld&#xA;&#xA;MoVe is een interne applicatie, waarmee DevOps-teams en overige geïnteresseerden inzicht kunnen krijgen in de status van applicaties en ketens in het DUO landschap. Met de tool is het mogelijk om met enkele muisklikken door te gaan naar overige tooling zoals Kibana, GBQ, Provisioning GUI, Confluence en JIRA om verdere analyse te doen of incidenten op te lossen."/>

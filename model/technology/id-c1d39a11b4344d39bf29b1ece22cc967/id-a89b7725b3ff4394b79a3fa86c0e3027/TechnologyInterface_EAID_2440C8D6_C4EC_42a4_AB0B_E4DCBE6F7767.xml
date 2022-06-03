@@ -1,8 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MQi mainframe API"
-    id="EAID_2440C8D6_C4EC_42a4_AB0B_E4DCBE6F7767">
-  <properties
-      key="interfacekind"
-      value="provided"/>
-</archimate:TechnologyInterface>

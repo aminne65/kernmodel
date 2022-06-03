@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Bitvise WinSSHD 1"
-    id="EAID_1FBD9251_01E2_4144_B406_91F1DDC562DE"
-    documentation="Bron: Flexera&#xA;&#xA;Draait op alle Windows servers SSH met sFTP, soms ook SCP. Initieert niet, daar heb je bijvoorbeeld GFT nodig."/>

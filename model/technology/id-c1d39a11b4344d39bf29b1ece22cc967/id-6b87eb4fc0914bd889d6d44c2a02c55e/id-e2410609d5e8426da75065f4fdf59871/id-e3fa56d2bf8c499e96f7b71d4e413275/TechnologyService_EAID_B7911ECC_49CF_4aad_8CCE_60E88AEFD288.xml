@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Message queueing"
-    id="EAID_B7911ECC_49CF_4aad_8CCE_60E88AEFD288"
-    documentation="Het tijdelijk opslaan van berichten voordat ze verstuurd worden (store-and-forward).&#xA;&#xA;Applicaties kunnen met elkaar communiceren (samenwerken) via berichten in de queues. Loskoppelen van de connectiviteitslogica van applicaties.&#xA;&#xA;Asynchrone communicatie."/>
