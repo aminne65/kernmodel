@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[EXT] Uitwisselen bestanden"
-    id="EAID_69C666F2_D295_4bf7_9575_D9CFA6CDCB8D"
-    documentation="Voor de uitwisseling wordt gebruik gemaakt van RINIS welke de CSV bestanden van DUO omzet van een bestand naar een XML-bericht en omgekeerd."/>

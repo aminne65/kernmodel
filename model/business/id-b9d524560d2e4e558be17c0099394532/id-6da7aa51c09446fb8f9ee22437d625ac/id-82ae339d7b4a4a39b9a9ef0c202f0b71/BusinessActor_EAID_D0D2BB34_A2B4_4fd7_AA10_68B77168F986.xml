@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CJIB Centraal Justitieel Incassobureau"
-    id="EAID_D0D2BB34_A2B4_4fd7_AA10_68B77168F986"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Opdrachtgever voor couverteerstraat DUO&#xA;Afnemer van Gegevens&#xA;&#xA;DWT deurwaarders traject gegevens&#xA;Bestanden Print &amp; Maildienst (PMD)">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

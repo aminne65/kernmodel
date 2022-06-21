@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SBB (vh COLO)"
-    id="EAID_E008B8CD_7A63_485b_B7ED_3B53AC88B63A"
-    documentation="Stichting Samenwerking Beroepsonderwijs Bedrijfsleven.&#xA;&#xA;SBB verricht wettelijke taken voor het middelbaar beroepsonderwijs (mbo) en het bedrijfsleven. In SBB werken beroepsonderwijs en bedrijfsleven samen. Het doel is om studenten de beste praktijkopleiding te geven met uitzicht op een baan.&#xA;SBB:&#xA;&#x9;- erkent en begeleidt leerbedrijven;&#xA;&#x9;- onderhoudt de 'kwalificatiestructuur mbo' voor de kwalificatiedossiers. In deze dossiers leggen bedrijfsleven en onderwijs samen vast over welke kennis en vaardigheden een mbo-gediplomeerde moet beschikken;&#xA;&#x9;- verzorgt informatie over de arbeidsmarkt, beroepspraktijkvorming en doelmatigheid van het opleidingsaanbod.&#xA;Daarnaast adviseert SBB de ministers van OCW en EZ over de aansluiting van het beroepsonderwijs op de arbeidsmarkt.&#xA;&#xA;Bron: Excellijst van Frank Wilbrink&#xA;Erkende leerbedrijven">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authenticaties"
-    id="EAID_C6E5CD04_F4D3_467b_BFCF_2FE08796EA18"
-    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Bij authenticatie wordt een gebruiker toegekend aan een identiteit. Hiermee wordt een verband gelegd tussen een identiteit in de buitenwereld en een gebruiker van producten en diensten van CFI."/>

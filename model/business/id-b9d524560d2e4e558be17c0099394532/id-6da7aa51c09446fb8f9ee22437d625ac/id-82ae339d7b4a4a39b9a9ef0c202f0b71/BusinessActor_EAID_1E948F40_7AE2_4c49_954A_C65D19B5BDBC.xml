@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overheidsinstelling"
-    id="EAID_1E948F40_7AE2_4c49_954A_C65D19B5BDBC">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

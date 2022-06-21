@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TLS TransLinkSystems"
-    id="EAID_B2571D4B_FD94_4353_86D7_CED1EC82132A"
-    documentation="Trans Link Systems is een Nederlands bedrijf dat in 2001 is opgericht als een joint venture door de vijf grootste openbaarvervoerbedrijven met als doel om één elektronisch betaalsysteem in het Nederlandse openbaar vervoer te realiseren: de OV-chipkaart. TLS treedt tevens op als clearinghouse tussen de verschillende deelnemende partijen en is mede verantwoordelijk voor het functioneren van het OV-chipkaartsysteem.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

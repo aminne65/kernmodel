@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] OM-M2M Output Manager Machine-Machine verkeer"
-    id="EAID_46916ECA_7497_4535_A3E9_56885CBF993E"
-    documentation="Versturen van gegevens ten gevolge van gebeurtenissen - DUO of extern - tbv externe klanten: doorgeefluik&#xA;&#xA;transport van de xml-berichten (bestanden) naar de buitenwereld via de XB62"/>

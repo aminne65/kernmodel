@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Particulieren Diplomahouders"
-    id="EAID_EAC00C02_46B4_4062_9FDA_1D4D649FA46A"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Waardering diploma's (erkenning en legalisatie)">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

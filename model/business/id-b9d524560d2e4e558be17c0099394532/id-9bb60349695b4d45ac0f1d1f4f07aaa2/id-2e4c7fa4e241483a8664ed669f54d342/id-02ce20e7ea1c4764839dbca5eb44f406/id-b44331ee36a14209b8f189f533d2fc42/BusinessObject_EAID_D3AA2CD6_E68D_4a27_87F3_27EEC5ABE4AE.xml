@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijslocatie"
-    id="EAID_D3AA2CD6_E68D_4a27_87F3_27EEC5ABE4AE"
-    documentation="Een bepaalde plaats, meestal een gebouw, waar onderwijs wordt gegeven. Het is een plek op de kaart, een adres in de Basisregistratie Adressen en Gebouwen.&#xA;&#xA;Bron: RIO&#xA;&#xA;URL: https://www.rio-onderwijs.nl/informatiemodel-en-begrippen"/>

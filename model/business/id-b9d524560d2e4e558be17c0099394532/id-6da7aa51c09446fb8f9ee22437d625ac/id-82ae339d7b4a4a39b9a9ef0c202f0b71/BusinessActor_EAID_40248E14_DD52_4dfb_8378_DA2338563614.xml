@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opleidingsbedrijf FR"
-    id="EAID_40248E14_DD52_4dfb_8378_DA2338563614"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;aanmelding medewerkers voor opleiding">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

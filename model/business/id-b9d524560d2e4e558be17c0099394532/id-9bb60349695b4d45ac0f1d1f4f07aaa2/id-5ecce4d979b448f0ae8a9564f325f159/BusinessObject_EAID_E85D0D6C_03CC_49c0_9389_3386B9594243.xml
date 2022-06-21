@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsinstelling"
-    id="EAID_E85D0D6C_03CC_49c0_9389_3386B9594243"
-    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Onderwijsinstelling heeft betrekking op die gegevens die specifiek zijn voor een onderwijsinstelling. Algemene gegevens van deze instellingen en onderlinge verhoudingen zijn opgenomen in Relatie. Een onderwijsinstelling is hierbij een organisatie die erkend onderwijs geeft of mogelijk maakt, of deze instelling financiële middelen ontvangt is hierbij niet relevant."/>

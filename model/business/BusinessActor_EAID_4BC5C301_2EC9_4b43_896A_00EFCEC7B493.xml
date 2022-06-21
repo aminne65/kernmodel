@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OVG Klantbediening"
-    id="EAID_4BC5C301_2EC9_4b43_896A_00EFCEC7B493"
-    documentation="Op hoofdlijnen neemt Klantbediening alle werkzaamheden voor haar rekening die direct klantcontact bevatten. Dat geldt ook voor de werkzaamheden die daar rechtstreeks uit voortkomen of direct invloed op hebben. Klantbediening kent de volgende hoofdtaken:&#xA;&#x9;- Direct klantcontact traditionele kanalen &#xA;&#x9;- Direct klantcontact digitale kanalen &#xA;&#x9;- Aanvragen behandelen (niet-digitaal) &#xA;&#x9;- Mutatieverwerking (uitworp en uitval) &#xA;&#x9;- Bezwaarschriften en beroepszaken behandelen &#xA;&#x9;- Klachten behandelen &#xA;&#x9;- Klantgerichte communicatie (inclusief voorlichting) &#xA;&#x9;- Contentbeheer &#xA;&#x9;- Opleiding geven.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

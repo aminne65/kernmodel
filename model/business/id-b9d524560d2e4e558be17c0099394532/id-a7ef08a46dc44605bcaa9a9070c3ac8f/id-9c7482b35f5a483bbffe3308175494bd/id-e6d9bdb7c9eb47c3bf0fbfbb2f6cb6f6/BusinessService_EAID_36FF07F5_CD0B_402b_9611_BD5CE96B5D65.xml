@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Producten en diensten"
-    id="EAID_36FF07F5_CD0B_402b_9611_BD5CE96B5D65"
-    documentation="Legt eenduidig en gestandaardiseerd gegevens over de DUO producten en diensten vast. Op basis van deze gegevens worden binnenkomende documenten en berichten geclassificeerd en bijbehorende processen opgestart. Ook wordt het DSP (Documentair StructuurPlan) beheerd, wat weer als basis dient voor de digitale archivering."/>

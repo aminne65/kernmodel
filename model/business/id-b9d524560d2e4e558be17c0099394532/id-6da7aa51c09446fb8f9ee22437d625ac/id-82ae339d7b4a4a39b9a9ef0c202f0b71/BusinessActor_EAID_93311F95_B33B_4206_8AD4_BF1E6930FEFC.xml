@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zakelijke Onderwijsrelatie"
-    id="EAID_93311F95_B33B_4206_8AD4_BF1E6930FEFC"
-    documentation="Online - zakelijke diensten en gegevens">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

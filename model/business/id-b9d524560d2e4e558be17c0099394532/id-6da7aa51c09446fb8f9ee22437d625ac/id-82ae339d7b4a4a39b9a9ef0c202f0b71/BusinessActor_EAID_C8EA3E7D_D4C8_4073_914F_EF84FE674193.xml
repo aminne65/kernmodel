@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CBS Centraal Bureau voor Statistiek"
-    id="EAID_C8EA3E7D_D4C8_4073_914F_EF84FE674193"
-    documentation="Het CBS heeft als wettelijke taak het verzamelen en publiceren van betrouwbare en samenhangende statistische informatie die inspeelt op de behoefte van de samenleving. &#xA;&#xA;Bron: Excellijst van Frank Wilbrink&#xA;Bekostigingsgegevens&#xA;SF-, OD-, OR- gegevens">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

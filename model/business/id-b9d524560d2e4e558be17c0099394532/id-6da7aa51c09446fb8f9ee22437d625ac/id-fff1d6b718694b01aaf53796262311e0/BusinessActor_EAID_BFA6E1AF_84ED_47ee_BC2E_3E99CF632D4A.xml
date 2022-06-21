@@ -1,5 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BDO Portalen OVG-SEK"
-    id="EAID_BFA6E1AF_84ED_47ee_BC2E_3E99CF632D4A"
-    documentation="Team Portalen houdt zich bezig met de ontsluiting van het besloten deel van de website (het portaal, waarvoor authenticatie en soms autorisatie nodig is). Zowel Particulier, Zakelijk als Medewerker."/>

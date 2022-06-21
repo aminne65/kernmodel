@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gemeentelijk kredietbureau"
-    id="EAID_E00E72BA_AE22_4d66_BC36_658B4A87A218">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

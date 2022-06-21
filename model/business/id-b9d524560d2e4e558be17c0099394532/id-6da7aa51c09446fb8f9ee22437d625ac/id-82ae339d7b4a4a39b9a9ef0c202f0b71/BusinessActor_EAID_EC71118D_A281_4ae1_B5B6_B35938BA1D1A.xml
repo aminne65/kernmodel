@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OCW-concern"
-    id="EAID_EC71118D_A281_4ae1_B5B6_B35938BA1D1A"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Afhandelen E-facturen (OCW-breed)&#xA;Waardepapieren">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

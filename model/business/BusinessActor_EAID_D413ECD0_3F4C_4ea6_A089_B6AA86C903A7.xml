@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsinstelling"
-    id="EAID_D413ECD0_3F4C_4ea6_A089_B6AA86C903A7"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;Bekostingingsrelevante gegevens&#xA;Erkende aanbod opleidingen per instelling&#xA;Examenkandidaten&#xA;Examenplanningen en correcties&#xA;Examenresultaten&#xA;Examens (afname)&#xA;inkijk BRON&#xA;Inwinnen erkende opleidingen per veld en instelling&#xA;Leerling Informatie&#xA;Loting HO (in of uit)&#xA;Onderwijsparagraaf jaarrapportage&#xA;Relatief Verzuim Meldingen (SRV)&#xA;Eencijferbestanden&#xA;In- en Uitschrijvingen&#xA;Assurance rapporten&#xA;Jaarverantwoording    XBRL&#xA;&#xA;Onderwijsinstellingen leveren afname planningen aan FACET en halen de examenresultaten op. Beide via Yenlo.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

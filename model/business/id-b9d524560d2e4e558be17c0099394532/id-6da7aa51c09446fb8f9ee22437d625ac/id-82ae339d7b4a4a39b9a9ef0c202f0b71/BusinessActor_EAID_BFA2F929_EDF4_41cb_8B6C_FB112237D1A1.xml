@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Justitiele instellingen"
-    id="EAID_BFA2F929_EDF4_41cb_8B6C_FB112237D1A1"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Leverancier van Gegevens&#xA;&#xA;SF match">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

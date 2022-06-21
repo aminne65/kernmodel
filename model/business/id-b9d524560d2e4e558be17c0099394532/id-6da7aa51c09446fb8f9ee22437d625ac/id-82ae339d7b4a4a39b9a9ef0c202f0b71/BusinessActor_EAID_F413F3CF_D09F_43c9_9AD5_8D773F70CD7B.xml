@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Particulieren Europa Europass"
-    id="EAID_F413F3CF_D09F_43c9_9AD5_8D773F70CD7B"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;CV, taalpaspoort, mobiliteit, certificaat, etc">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevenstype"
-    id="EAID_A86F5AC8_8DC3_468a_9D0A_A129BF4A609C"
-    documentation="Typering van een gegevensattribuut binnen een data- en/of informatiemodel dat zodanig beschikbaar is gemaakt dat dit kan worden hergebruikt door middel van verwijzing. Wordt centraal beheerd in het Gegevenswoordenboek.&#xA;&#xA;Bijvoorbeeld beschrijving van het patroon van de opmaak van een postcode, BRIN, CREBO code."/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[EXT] CDO (user management)"
-    id="EAID_7F1D61FA_7951_42cd_99A1_D12865906FE9"
-    documentation="De HR gegevens van DUO medewerkers dient (o.a. ten behoeve van het Rijkspas aanvraag proces) te worden ingebracht binnen de identity management van OCW. &#xA;&#xA;De gegevens  worden vanuit SAP naar een sFTP fileserver (WinSCP) getransporteerd en vervolgens verrijkt met AD informatie.&#xA;Informatie vanuit OCW wordt toegevoegd aan SAP HR."/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] PG PortaalGegevens"
-    id="EAID_019B9E32_7ED0_4ef7_B672_C6BF8E284483"
-    documentation="serverside applicatie Portaalgegevens (PG) ontsluit een aantal REST services om portaal-specifieke gegevens te ontsluiten (Navigatie, profilering, etc.)."/>

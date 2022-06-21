@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RCN-Studiefinanciering"
-    id="EAID_065C863B_4817_487f_A4B2_ABC6186B056A"
-    documentation="Rijksdienst Caribisch Nederland – Studiefinanciering&#xA;De aparte Wet studiefinanciering BES (Wsf BES) wordt uitgevoerd door de Dienst Uitvoering Onderwijs (DUO) . DUO heeft deze taak  vervolgens belegd bij Rijksdienst Caribisch Nederland – Studiefinanciering  (verder RCN-Studiefinanciering).">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

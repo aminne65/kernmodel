@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DWR-FDA03 Hergebruik door serviceoriëntatie [EAR]"
-    id="EAID_1D0EE166_5927_4670_BC9E_D4A5415FAA4A"
-    documentation="Stelling&#xA;Voor bestuurders/opdrachtgevers is van belang te weten dat bij de ontwikkeling (en inkoop) en/of (groot) onderhoud van applicaties de regels van service gerichte architectuur worden nageleefd.&#xA;&#xA;Rationale&#xA;Alleen op die wijze kan werk worden gemaakt van hergebruik. Voor nieuwe applicaties moet gelden dat bij aanschaf, ontwerp en realisatie intensief gestuurd wordt op de eisen rondom servicegerichte architectuur. Voor bestaande applicaties geldt dat op basis van “life-cyclemanagement” overwogen moet worden of en zo ja hoe de applicatie aangepast wordt aan de eisen m.b.t. service gerichte architectuur.&#xA;&#xA;EAR informatiseringsdomein&#xA;Applicatiediesten&#xA;&#xA;https://www.earonline.nl/index.php/DWR-FDA:_Hergebruik_door_serviceori%C3%ABntatie "/>

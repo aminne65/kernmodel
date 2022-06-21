@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kennis- en Leercentrum OVG-Sturing"
-    id="EAID_51297113_F85C_4874_AC30_B7893E7BE852"
-    documentation="Is de plaats waar inhoudelijke kennis met betrekking tot de doorvertaling van wet- &amp; regelgeving naar uitvoeringsbeleid bij elkaar gebracht wordt. Deze proceskennis wordt binnen deze afdeling ontwikkeld of verzameld. Doel is deze informatie op een betrouwbare en toegankelijke manier vast te leggen voor medewerkers, procesteams en procesregisseurs, en de verschillende klantgroepen van DUO.&#xA;Bundeling van de activiteiten op kennisgebied binnen een EC dient meerdere doelen: &#xA;&#x9;- Uitvoeringsbeleid snel en accuraat kunnen aanpassen aan wijzigingen en wet- en regelgeving.&#xA;&#x9;- Consistentie in het toepassen van regels in verschillende verschijningsvormen. Hierbij valt te denken aan content, UX-dialogen, procesbeschrijvingen, werkinstructies en systemen.&#xA;&#x9;- Kennis beschikbaar stellen aan het uitvoeringsproces in een dynamische, realtime online 24/7 dienstverlening: content, procesbeschrijvingen, instructies en ander opleidingsmateriaal zullen snel aangepast moeten kunnen worden!">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

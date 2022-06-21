@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technische Schaalbaarheid"
-    id="EAID_9ADF9DB9_C15C_436f_B97F_8F68025BAF75"
-    documentation="Rationale&#xA;Om dynamisch in te kunnen spelen op de vraag, is het nodig dat diensten die draaien op een cloud met minimale ingrepen maximaal gebruik kunnen maken van veranderd resource-gebruik. Op deze manier wordt kostenefficiënt gebruik gemaakt van de geboden elasticiteit.&#xA;&#xA;Implicaties&#xA;Proces&#xA;&#x9;- Automatiseren van het bouw- en deployment proces (van zowel servers als applicaties) met bijbehorende configuratie.&#xA;&#xA;Infrastructuur&#xA;&#x9;-  Servers worden altijd benaderd als een service. Dus niet via een (IP-)adres of hostnaam, maar altijd via service verwijzingen.&#xA;Software/applicaties&#xA;&#x9;- Applicaties mogen niet uitgaan van een specifieke topologie&#xA;&#x9;-  Applicaties zijn horizontaal schaalbaar en faciliteren parallelle verwerking&#xA;&#x9;"/>

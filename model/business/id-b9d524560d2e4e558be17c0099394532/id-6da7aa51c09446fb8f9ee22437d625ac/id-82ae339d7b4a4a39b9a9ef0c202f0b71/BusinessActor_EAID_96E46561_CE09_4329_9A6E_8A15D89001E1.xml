@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Andriessen"
-    id="EAID_96E46561_CE09_4329_9A6E_8A15D89001E1"
-    documentation="Maakt examen vragen voor Inburgering">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

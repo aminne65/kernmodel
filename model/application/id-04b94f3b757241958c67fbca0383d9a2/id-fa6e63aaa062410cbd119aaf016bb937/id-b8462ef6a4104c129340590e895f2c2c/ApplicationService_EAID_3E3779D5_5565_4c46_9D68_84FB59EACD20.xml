@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[EXT] te vergoeden waarderingen"
-    id="EAID_3E3779D5_5565_4c46_9D68_84FB59EACD20"
-    documentation="Voor degenen, die verplicht het onderdeel ONA moeten afleggen voor het behalen van het inburgeringsdiploma, wordt een waardering van hun buitenlandse opleiding of diploma vergoed. De bijbehorende organisaties, waarvoor de waardering vergoed worden, leveren hiervoor maandelijks gezamenlijk onder de noemer IDW een bestand met te vergoeden waarderingen aan DUO aan. In het teruggeleverde bestand geeft DUO aan voor wie een vergoeding wel of niet wordt gegeven. Tevens worden de vergoedingen, die niet door een eventueel voorschot afgedekt zijn, maandelijks uitbetaald aan IDW. Deze betaling loopt als apparaatsgeld via het SAP systeem van DUO bedrijfsondersteuning."/>

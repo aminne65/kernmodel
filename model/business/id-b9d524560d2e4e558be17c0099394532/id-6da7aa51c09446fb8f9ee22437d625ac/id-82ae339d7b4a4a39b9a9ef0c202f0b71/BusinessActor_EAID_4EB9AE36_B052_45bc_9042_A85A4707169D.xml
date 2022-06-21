@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="KPN"
-    id="EAID_4EB9AE36_B052_45bc_9042_A85A4707169D"
-    documentation="Koninklijke KPN NV is een leverancier van telecommunicatie en ICT-diensten voor zowel de particuliere als de zakelijke markt.&#xA;&#xA;KPN host de applicatie Pay2SaaS (voorheen GBR+) waarmee financiële transacties tussen DUO en huisbankier worden verrijkt en omgezet naar het formaat dat wordt gehanteerd conform SEPA. &#xA;&#xA;Pay2SaaS is een door Cap Gemini geleverde applicatie die op basis van de aangeboden bestanden met betalingen, restituties  en incasso''s, de rekeningnummers en machtigingen uit het RMA kan ophalen om hier vervolgens PAIN bestanden of BTL91 bestanden mee te maken die ter verwerking naar de huisbankier worden gestuurd. &#xA;&#xA;BTL91 bestanden ook wel (Buiten SEPA bestanden genoemd) worden aangemaakt i.g.v.  betalingen, restituties  en incasso''s buiten Europa.&#xA;&#xA;Pay2SaaS van KPN verrijkt de van DUO ontvangen bestanden door van de betalingsgegevens van de klant de BBAN-rekeningnummers te vervangen door de IBAN, en waar nodig aan te vullen met de BIC van de bank van de klant. Ook het formaat van de ontvangen bestanden wordt door Pay2SaaS omgezet naar SEPA- en BTL91 formaten. &#xA;&#xA;BTL91 bestanden (ook wel Buiten SEPA bestanden genoemd) worden aangemaakt i.g.v.  betalingen, restituties  en incasso’s naar niet SEPA landen.&#xA;&#xA;Om rekeningnummers om te zetten naar IBAN en BIC zijn rekening- en mandaatgegevens (RMA) van DUO-klanten nodig. Deze gegevens zijn door DUO aan Pay2SaaS geleverd.&#xA;&#xA;De bestanden worden vervolgens naar de huisbankier van DUO gestuurd.&#xA;&#xA;De huisbankier boekt i.g.v. betalingen, de bedragen af van de hiervoor bestemde rekening van OC&amp;W en informeert deze via dagafschriften.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

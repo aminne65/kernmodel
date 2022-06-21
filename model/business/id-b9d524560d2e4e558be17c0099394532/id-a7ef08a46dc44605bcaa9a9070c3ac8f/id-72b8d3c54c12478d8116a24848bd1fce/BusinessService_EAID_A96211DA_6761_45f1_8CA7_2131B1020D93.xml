@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Case management"
-    id="EAID_A96211DA_6761_45f1_8CA7_2131B1020D93"
-    documentation="&#x9;- De distributieactor is niet volledig geautomatiseerd: de verzameling uit te voeren activiteiten staat vast, de volgorde waarin ze worden uitgevoerd niet. De uitvoerende  actor kan hierin zelf een keuze maken.&#xA;&#x9;- De toewijzing is volgens ontwerpspecificatie geautomatiseerd.&#xA;&#x9;- De activiteiten worden niet (volledig) geautomatiseerd uitgevoerd.&#xA;&#x9;- De toezichthouder kan het proces stoppen, het ontwerp aanpassen, en capaciteit toevoegen/onttrekken. Er kan controle worden gehouden over het proces, aangezien de vaste structuur een gestroomlijnde werkwijze oplevert.&#xA;&#x9;- Dit kan zowel een deelproces of het gehele proces betreffen."/>

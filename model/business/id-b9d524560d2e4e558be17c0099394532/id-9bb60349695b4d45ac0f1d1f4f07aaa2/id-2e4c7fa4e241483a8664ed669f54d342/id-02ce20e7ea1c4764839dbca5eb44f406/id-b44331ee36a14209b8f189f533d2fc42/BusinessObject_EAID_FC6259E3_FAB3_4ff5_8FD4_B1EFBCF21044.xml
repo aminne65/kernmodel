@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kind"
-    id="EAID_FC6259E3_FAB3_4ff5_8FD4_B1EFBCF21044"
-    documentation="Kind van de persoon waar de Persoonslijst (PL) bij hoort.&#xA;&#xA;Bron: BRP&#xA;&#xA;URL: http://opendata.stelselcatalogus.nl/brp/id/begrip/kind&#xA;&#xA;Eerstegraads bloedverwant in de neergaande lijn.&#xA;Bron: Domeinarchitectuur Onderwijsvolgers&#xA;Bloedverwant = een door een familiebetrekking verbonden persoon, veroorzaakt door geboorte, adoptie, erkenning of gerechtelijke vaststelling.&#xA;Opm: Door adoptie worden de adoptieouders de juridische ouders van het kind en ontstaat er bloedverwantschap. Bloedverwantschap is dus niet alleen biologisch bepaald.&#xA;Bron: Domeinarchitectuur Onderwijsvolgers"/>

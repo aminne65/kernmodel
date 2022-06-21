@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virtuoso Triplestore"
-    id="EAID_07613B15_E638_4d5a_BADC_9E79BB87D4F4"
-    documentation="Een Triple store of RDF store is een specifieke database vorm die wordt gebruikt om data op te slaan die is opgebouwd volgens het zogenaamde subject-predicate-object model (bijv. “Bob is 35” of “Bob kent Fred&quot;)."/>

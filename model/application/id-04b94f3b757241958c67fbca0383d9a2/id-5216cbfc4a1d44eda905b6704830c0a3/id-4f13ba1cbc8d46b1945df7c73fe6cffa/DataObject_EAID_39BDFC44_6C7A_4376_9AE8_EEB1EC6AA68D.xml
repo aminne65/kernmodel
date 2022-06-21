@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SQL user store"
-    id="EAID_39BDFC44_6C7A_4376_9AE8_EEB1EC6AA68D"
-    documentation="2BRON gebruikt SQL voor het per onderwijsinstelling opslaan van de benodigde gegevens. Ook de match tussen gebruiker die inlogt en de bijbehorende onderwijsinstelling wordt hier gemaakt. Hiermee is SQL dus in feite de user-store voor 2BRON.&#xA;&#xA;Het opslaan van user data in SQL is een exception op de architectuur."/>

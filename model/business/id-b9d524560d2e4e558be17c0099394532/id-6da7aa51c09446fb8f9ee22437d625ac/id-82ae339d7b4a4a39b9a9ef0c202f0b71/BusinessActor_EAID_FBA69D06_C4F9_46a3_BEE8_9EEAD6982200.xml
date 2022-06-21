@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uitzendbranche"
-    id="EAID_FBA69D06_C4F9_46a3_BEE8_9EEAD6982200"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;SETU-bestanden">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

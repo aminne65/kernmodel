@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bureau ICE"
-    id="EAID_C8E0FA63_3543_468f_94D9_83549B03BDFF"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Toestafnemer en geen gegevensafnemer&#xA;&#xA;Bureau ICE is een onafhankelijke aanbieder van toetsen en examens. Bureau ICE maakt onderdeel uit van Sanoma Learning, een Europese leverancier van (digitale) leeroplossingen. ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

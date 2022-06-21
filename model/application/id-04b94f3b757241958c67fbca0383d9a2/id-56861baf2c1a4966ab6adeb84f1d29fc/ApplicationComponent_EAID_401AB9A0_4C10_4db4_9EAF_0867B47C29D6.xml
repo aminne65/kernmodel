@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] UTE Uitvoering Toetsen en Examens"
-    id="EAID_401AB9A0_4C10_4db4_9EAF_0867B47C29D6"
-    documentation="&#x9;- reservering van examenplaatsen op de examenlocaties voor de rekentoets&#xA;&#x9;- versturen van oproepbrieven en uitslagbrieven van de examens&#xA;&#x9;- versturen van ingeplande examens rekentoetsen en NT2 naar Facet (bestandsuitwisseling)&#xA;&#x9;- inlezen resultaten examens en doorsturen naar EOS"/>

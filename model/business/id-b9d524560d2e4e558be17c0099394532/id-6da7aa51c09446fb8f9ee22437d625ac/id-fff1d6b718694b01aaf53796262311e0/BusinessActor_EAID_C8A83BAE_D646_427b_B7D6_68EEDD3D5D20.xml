@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsvoering (DUO/BV)"
-    id="EAID_C8A83BAE_D646_427b_B7D6_68EEDD3D5D20">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

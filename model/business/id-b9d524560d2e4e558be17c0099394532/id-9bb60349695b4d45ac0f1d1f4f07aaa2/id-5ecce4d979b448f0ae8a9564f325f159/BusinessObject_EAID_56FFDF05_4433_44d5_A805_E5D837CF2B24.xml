@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klantcontact"
-    id="EAID_56FFDF05_4433_44d5_A805_E5D837CF2B24"
-    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Registratie van de contacten met een relatie van CFI. Vastgelegd wordt met wie er contact is geweest, de aard van het contact, het onderwerp van het contact en indien noodzakelijk de reactie dan wel de gemaakte afspraken. Naar de relevante documenten die behoren bij het klantcontact wordt een verwijzing gemaakt."/>

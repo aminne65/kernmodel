@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ADR Auditdienst Rijk"
-    id="EAID_002C3512_7DD4_4e15_ADF7_0C1007E26CE6"
-    documentation="De Auditdienst Rijk (ADR) is de interne auditdienst van de Rijksoverheid. De ADR maakt onderdeel uit van het ministerie van Financiën en valt direct onder de secretaris-generaal. De ADR werkt in opdracht van de ministeries.&#xA;&#xA;De dienstverlening van de ADR bestaat uit:&#xA;- accountantscontrole van de jaarverslagen (wettelijke taak);&#xA;- onderzoek op verzoek van ministeries.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

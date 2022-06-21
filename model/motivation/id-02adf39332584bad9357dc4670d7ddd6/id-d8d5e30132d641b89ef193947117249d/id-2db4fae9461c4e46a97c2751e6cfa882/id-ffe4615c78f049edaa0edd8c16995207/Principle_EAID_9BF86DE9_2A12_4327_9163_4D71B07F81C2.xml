@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Monitorbaar"
-    id="EAID_9BF86DE9_2A12_4327_9163_4D71B07F81C2"
-    documentation="Rationale&#xA;&quot;Wat je niet kunt meten, kun je niet op reageren.&quot;&#xA;Om te kunnen reageren op wijzigingen in de omgeving, moeten deze wijzigingen goed waargenomen kunnen worden. Monitoren is dus noodzakelijk om goed met cloudeigenschappen als elasticity om te kunnen gaan en principes �Technische schaalbaarheid� en �Build to fail� in te kunnen vullen.&#xA;&#xA;&#xA;Implicaties&#xA;Applicaties en andere (infrastructuur-)componenten zijn in staat indicaties van hun functioneren door te geven (op eigen initiatief of gevraagd) aan een centrale monitoringfaciliteit. Een minimale set is CPU, memory, (netwerk) IOPS.&#xA;Bij de selectie van een externe dienstleverancier: indicatoren van de (kwaliteit van de) dienst moeten door DUO (near-)realtime gemonitord kunnen worden."/>

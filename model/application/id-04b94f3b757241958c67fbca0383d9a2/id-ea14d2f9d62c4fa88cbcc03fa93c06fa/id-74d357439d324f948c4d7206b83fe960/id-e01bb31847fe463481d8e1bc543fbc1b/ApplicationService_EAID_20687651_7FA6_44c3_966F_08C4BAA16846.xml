@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] EXA Examen mededelingen"
-    id="EAID_20687651_7FA6_44c3_966F_08C4BAA16846"
-    documentation="Dit bouwblok biedt de volgende diensten:&#xA;&#x9;- Het inhoudelijk samenstellen van kennisgevingen aan kandidaten, instellingen, examenfunctionarissen etc.&#xA;&#xA;Specifieke diensten:&#xA;&#x9;- Het aanschrijven van de kandidaat dat hij deel mag nemen aan het examen&#xA;&#x9;- Het aanschrijven van de kandidaat om de kandidaat op te roepen voor het examen.&#xA;&#x9;- Het maken van een beschikking&#xA;&#xA;Kennisgevingen komen voort uit het primaire proces en hebben tot doel om kandidaten, instellingen etc.:&#xA;&#x9;- Op de hoogte te stellen van het effect van een uitgevoerde actie, genomen besluit, statuswijziging, etc.&#xA;&#x9;- Op te roepen om een bepaalde actie te ondernemen.&#xA;&#xA;Verder geldt dat mededelingen zoveel mogelijk digitaal worden gedaan.&#xA;&#xA;Mededelen is verantwoordelijk voor de inhoud; de presentatie, opmaak, versturen en archiveren van mededelingen is onderdeel van outputmanagement (informatielogistiek)."/>

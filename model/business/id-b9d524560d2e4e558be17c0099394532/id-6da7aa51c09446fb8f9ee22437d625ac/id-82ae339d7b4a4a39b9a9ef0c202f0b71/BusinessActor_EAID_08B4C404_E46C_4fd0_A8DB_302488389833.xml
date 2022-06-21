@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Politie"
-    id="EAID_08B4C404_E46C_4fd0_A8DB_302488389833"
-    documentation="Vanaf 1 januari 2018 wisselen de politie en DUO alleen nog informatie voor justitiële onderzoeken uit via één uitwisselingsloket. Voor DUO heeft de afdeling Sturing/Kwaliteit (voorheen H&amp;I) deze taak op zich genomen.&#xA;&#xA;De politie doet jaarlijks veel verzoeken voor informatie aan DUO. Deze verzoeken komen van een groot aantal regionale politiediensten en worden rechtstreeks aan afdelingen en medewerkers van DUO gesteld. Daardoor is het niet duidelijk of alle informatieverzoeken en vorderingsverzoeken worden getoetst op de juiste wettelijke grondslag. Ook vindt de uitwisseling van informatie vaak plaats via onbeveiligde internetverbindingen. Per 25 mei 2018 geldt de Algemene verordening gegevensbescherming (AVG). Het AVG stelt scherpere eisen aan betrouwbaarheid, rechtmatigheid, eenduidigheid, protocolplicht en aansprakelijkheid en het moeten voldoen aan de beveiligingsvoorschriften op het gebied van informatiebeveiliging. Daarom heeft het MT DUO besloten dit loket voor justitiële onderzoeken in te richten.&#xA;&#xA;https://wiki.prd.duo.nl/pages/viewpage.action?pageId=60139565 ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ministerie van Financiën"
-    id="EAID_8B3C0465_FCFC_4e9e_A9BB_A74FBE399BC2"
-    documentation="Opdrachtgever">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

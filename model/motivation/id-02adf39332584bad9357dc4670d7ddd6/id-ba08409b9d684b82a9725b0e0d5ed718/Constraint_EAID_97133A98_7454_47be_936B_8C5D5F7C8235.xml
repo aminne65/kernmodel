@@ -1,4 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SQL niet gebruiken voor productie data, gebruik hiervoor DB2"
-    id="EAID_97133A98_7454_47be_936B_8C5D5F7C8235"/>

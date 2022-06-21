@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[EXT] Aanlever NT2-examen opgaven"
-    id="EAID_22086631_2540_4551_8923_48DF5E775BE9"
-    documentation="De te maken examenopgaven worden door CITO/ICE via het zakelijk portaal of via een 'koffertje' aan DUO opgeleverd en door de Functioneel beheerders op ReLANpro gezet. Nieuwe programmatuur wordt voornamelijk lokaal geïnstalleerd. Beheer op afstand op de docentenen kandidaten-pc’s is deels mogelijk.&#xA;&#xA;Eigenaarschap van ReLANpro ligt bij de Examencommissie. ReLANpro wordt  applicatief beheerd door MARO. Functioneel beheer vindt bij DUO én bureau ICE plaats. ReLANpro is geïnstalleerd op rond de 500 examenplaatsen, over de 6 examenlocaties heen die dagelijks (volg)geboekt zijn."/>

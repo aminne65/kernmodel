@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[EXT] Pay2SaaS GBR+"
-    id="EAID_458582BF_B949_4617_9C52_4F6017F9E11B"
-    documentation="GBR+ is een externe service aangeboden door Capgemini en wordt oa gebruikt voor het verrijken van ‘ouderwetse’ bankrekeningnummers naar de nieuwe IBAN standaard. De notering van het IBAN rekeningnummer kan nog niet door alle systemen van DUO gebruikt worden, daarom worden de uiteindelijke betaalbestanden via de GBR+ applicatie verstuurd.&#xA;&#xA;De functie van GBR+ wordt overgenomen door SAP. Daarmee wordt GBR+ uit gefaseerd."/>

@@ -1,8 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OCW"
-    id="EAID_4D37FB2E_A9DC_49d8_9253_24DE5F8FE46A">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

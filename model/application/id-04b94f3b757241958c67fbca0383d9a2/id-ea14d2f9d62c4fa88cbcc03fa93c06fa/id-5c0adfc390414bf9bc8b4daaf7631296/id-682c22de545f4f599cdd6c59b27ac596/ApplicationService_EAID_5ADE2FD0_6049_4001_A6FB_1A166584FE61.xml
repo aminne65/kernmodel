@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Data quality"
-    id="EAID_5ADE2FD0_6049_4001_A6FB_1A166584FE61"
-    documentation="Archi XL: &#xA;Het verbeteren van de kwaliteit van een gegevensverzameling door duplicaten te detecteren en samen te voegen, ontbrekende gegevens aan te vullen en foutieve records te verwijderen (cleansing)."/>

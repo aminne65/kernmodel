@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nationaliteit"
-    id="EAID_A4E70053_8652_47f2_80DE_9E1E1AF3FCD7"
-    documentation="Het in juridische zin staatsburger zijn van een bepaald land.&#xA;&#xA;Bron: Domeinarchitectuur Onderwijsvolgers&#xA;&#xA;Een code, opgenomen in de Nationaliteitentabel die de nationaliteit aangeeft die de persoon bezit (landelijke tabel 32). &#xA;Opm. Aangezien de inhoud van deze tabellen regelmatig kan wijzigen (bijvoorbeeld door het ontstaan van nieuwe landen en daarbij behorende nationaliteiten) is bepaald dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties de inhoud van deze tabellen vaststelt.&#xA;Bron: BRP&#xA;URL: http://opendata.stelselcatalogus.nl/brp/id/gegevenselement/Nationaliteit_persoon-Natuurlijk_persoon"/>

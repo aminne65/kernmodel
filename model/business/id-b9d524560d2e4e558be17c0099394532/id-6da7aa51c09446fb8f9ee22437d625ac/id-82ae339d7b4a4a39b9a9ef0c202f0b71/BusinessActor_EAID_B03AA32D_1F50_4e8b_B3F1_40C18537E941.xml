@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Salarisverwerkers"
-    id="EAID_B03AA32D_1F50_4e8b_B3F1_40C18537E941"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Salaris-leveranciers = de partij die zorg draagt voor het uitbetalen van het salaris, zoals van onderwijspersoneel">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

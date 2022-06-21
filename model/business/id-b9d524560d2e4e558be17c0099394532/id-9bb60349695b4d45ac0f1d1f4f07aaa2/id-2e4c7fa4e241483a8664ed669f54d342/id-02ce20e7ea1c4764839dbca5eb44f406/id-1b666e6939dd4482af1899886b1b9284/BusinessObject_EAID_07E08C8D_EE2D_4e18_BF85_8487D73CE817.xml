@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Technisch gegevensmodel"
-    id="EAID_07E08C8D_EE2D_4e18_BF85_8487D73CE817"
-    documentation="Specificeert de structuur en eigenschappen van de technologie waarin de informatie wordt vastgelegd of uitgewisseld. Dit is sterk afhankelijk van de gebruikte opslagtechnologie zoals een specifieke database of de servicetechnologie zoals XML, GML, SOAP, REST, (Geo)JSON, LinkedData e.d.&#xA;&#xA;Bron: MIM&#xA;&#xA;https://www.noraonline.nl/wiki/MIM_conceptueel_framework"/>

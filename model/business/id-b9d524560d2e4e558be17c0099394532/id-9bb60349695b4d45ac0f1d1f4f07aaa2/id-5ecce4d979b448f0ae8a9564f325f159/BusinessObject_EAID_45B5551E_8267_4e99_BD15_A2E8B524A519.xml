@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leerlingtelling"
-    id="EAID_45B5551E_8267_4e99_BD15_A2E8B524A519"
-    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Geaggregeerde gegevens over onderwijsdeelnemers per onderwijsinstelling, de zogenaamde leerlingentellingen per opleiding. Dit heeft betrekking op de registratie (zowel voorlopig als definitief) van de aantallen onderwijsdeelnemers met bepaalde kenmerken voor zowel de bekostiging als het beleid als de informatieproducten."/>

@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BKWI Bureau Keteninformatisering Werk en Inkomen"
-    id="EAID_DF369B74_C68F_42ac_937C_0E4365645E29"
-    documentation="BKWI werkt als een apart en herkenbaar organisatieonderdeel van UWV in opdracht van het Ministerie van Sociale Zaken en Werkgelegenheid. Bestaat sinds januari 2002. De oprichting van BKWI vloeit voort uit de invoering van de wet Structuur Uitvoering Werk en Inkomen (SUWI) in 2002.&#xA;&#xA;Levert bepaalde onderwijsgerelateerde gegevens aan de ketenpartners binnen de SUWI keten (Wet structuur uitvoeringsorganisatie werk en inkomen). Denk aan UWV Wb (Uitvoeringsinstituut werknemersverzekeringen WERKbedrijf), UWV U (Uitvoeringsinstituut werknemersverzekeringen Uitkeren en GSD''s (Gemeentelijke Sociale Diensten). Het gaat om onderwijsdeelname-, onderwijsresultaat- en studiefinancieringsgegevens.&#xA;&#xA;Inzage SF en OD match uitkeringsfraude.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

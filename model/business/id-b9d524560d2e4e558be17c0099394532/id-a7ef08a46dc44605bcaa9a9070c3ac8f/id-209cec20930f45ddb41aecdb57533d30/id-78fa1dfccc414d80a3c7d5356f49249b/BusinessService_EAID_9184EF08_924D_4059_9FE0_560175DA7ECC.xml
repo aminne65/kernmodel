@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Gegevens uitwisseling"
-    id="EAID_9184EF08_924D_4059_9FE0_560175DA7ECC"
-    documentation="De service “data exchange” (Het ondersteunen van gegevensuitwisseling tussen applicaties) bestaat eigenlijk uit twee delen. Het ene deel richt zich met name op berichtgebaseerde uitwisseling. Dit is het domein van de Enterprise Service Bus waarmee berichten kunnen worden gerouteerd en vertaald. Voor betrouwbaar transport van berichten is hier message queueing middleware. Ook is hier functionaliteit voor berichtgebaseerde communicatie met externe partijen. Het andere deel van het werkgebied houdt zich bezig met de meer platte uitwisseling van gegevens en bestanden. Dit is nog wel waar de bulk van de uitwisseling plaats vindt. Daarnaast is hier ondersteuning voor de synchronisatie en distributie van gegevens naar applicaties die niet in staat zijn gegevens zelf direct bij de bronapplicatie te halen. Deze worden ondersteund door master data management systemen, of meer specifieke datadistributiesystemen. "/>

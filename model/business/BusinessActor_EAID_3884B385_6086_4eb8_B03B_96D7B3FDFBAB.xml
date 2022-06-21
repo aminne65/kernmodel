@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gemeente"
-    id="EAID_3884B385_6086_4eb8_B03B_96D7B3FDFBAB"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Afnemer van Gegevens: Leerling gegevens, Relatief Verzuim Meldingen (SRV)&#xA;&#xA;SF: Controle op rechtmatigheid van de reiskostenvergoeding van studenten die op en neer reizen tussen Texel en het vasteland.&#xA;&#xA;Inburgering:&#xA;&#x9;- GBA: Gemeentelijke Basis Administratie&#xA;&#x9;- Vanaf 2013 afronden inburgeringstrajecten van voor 2013 (Handhaven, bekostiging, vrijstellen  en ontheffing)&#xA;&#xA;Schuldsanering:&#xA;Gemeenten die aangesloten zijn bij de Nederlandse Vereniging Van Volkskrediet (NVVK) mogen in het kader van schuldsanering schuldgegevens bij ons opvragen.&#xA;https://wiki.prd.duo.nl/display/HO/04.+Gemeenten+in+kader+van+schuldsanering ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

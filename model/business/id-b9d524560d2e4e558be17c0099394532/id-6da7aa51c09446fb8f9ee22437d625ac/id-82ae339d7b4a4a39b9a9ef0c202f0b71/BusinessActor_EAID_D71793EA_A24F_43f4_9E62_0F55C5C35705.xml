@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IND Immigratie- en Naturalisatiedienst"
-    id="EAID_D71793EA_A24F_43f4_9E62_0F55C5C35705"
-    documentation="Afnemer en Leverancier van Gegevens: Erkenning nationaliteit&#xA;- Of de student een toelage heeft ontvangen.&#xA;- De datum einde studie.&#xA;https://wiki.prd.duo.nl/display/HO/05.+IND ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

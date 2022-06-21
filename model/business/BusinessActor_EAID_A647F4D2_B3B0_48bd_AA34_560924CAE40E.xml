@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ministerie van OCW"
-    id="EAID_A647F4D2_B3B0_48bd_AA34_560924CAE40E"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Opdrachtgever &#xA;&#xA;Financiële verantwoording&#xA;&#x9;- DUO voert voor OCW de Wet studiefinanciering 2000 uit.&#xA;&#x9;- DUO voert voor OCW de wet Studievoorschot hoger onderwijs uit.&#xA;&#x9;- DUO voert, in opdracht van OCW, de Wet tegemoetkoming in de onderwijsbijdrage en de studiekosten (WTOS) uit.&#xA;&#x9;- DUO int, in opdracht van OCW, het lesgeld voor meerderjarige deelnemers in het MBO (Les- en cursusgeldwet).&#xA;&#x9;- DUO voert, in opdracht van OCW, de Regeling Lerarenbeurs voor scholing en zij-instroom uit (Subsidieregeling ''Lerarenbeurs voor scholing'').&#xA;&#xA;.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

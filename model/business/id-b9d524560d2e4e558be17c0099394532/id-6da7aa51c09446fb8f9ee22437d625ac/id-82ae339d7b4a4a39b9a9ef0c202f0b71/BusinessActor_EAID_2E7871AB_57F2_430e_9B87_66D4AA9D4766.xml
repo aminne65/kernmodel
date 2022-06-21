@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Particulieren Onderwijsrelatie"
-    id="EAID_2E7871AB_57F2_430e_9B87_66D4AA9D4766"
-    documentation="Online - MijnDUO diensten en gegevens">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

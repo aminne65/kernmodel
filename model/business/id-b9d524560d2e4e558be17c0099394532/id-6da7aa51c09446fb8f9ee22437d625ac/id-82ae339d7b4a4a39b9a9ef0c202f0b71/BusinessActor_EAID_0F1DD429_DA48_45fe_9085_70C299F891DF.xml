@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Geldnet waardelogistiek"
-    id="EAID_0F1DD429_DA48_45fe_9085_70C299F891DF"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Verzorgt het betalingsverkeer: Examens, informatie">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

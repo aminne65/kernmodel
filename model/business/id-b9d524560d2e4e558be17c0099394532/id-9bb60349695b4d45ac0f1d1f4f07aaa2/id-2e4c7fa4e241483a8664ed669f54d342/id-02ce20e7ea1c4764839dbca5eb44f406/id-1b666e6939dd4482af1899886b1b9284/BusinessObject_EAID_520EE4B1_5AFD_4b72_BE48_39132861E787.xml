@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatieobject"
-    id="EAID_520EE4B1_5AFD_4b72_BE48_39132861E787"
-    documentation="Een op zichzelf staand geheel van gegevens met een eigen identiteit, die als zodanig als eenheid wordt verwerkt.&#xA;&#xA;Bron: NORA&#xA;&#xA;URL: https://www.noraonline.nl/wiki/Informatie-object&#xA;&#xA;Toelichting: Informatieobject wordt met name gebruikt ivm archiverings(plicht), bijvoorbeeld van een verstrekking&#xA;&#xA;Dit is een abstractie zodat universele metadata gemodelleerd kan worden."/>

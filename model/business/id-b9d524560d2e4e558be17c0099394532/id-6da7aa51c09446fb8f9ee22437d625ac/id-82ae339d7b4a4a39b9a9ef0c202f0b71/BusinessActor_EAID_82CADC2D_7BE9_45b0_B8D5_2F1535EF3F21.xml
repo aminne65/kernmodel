@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examen instelling"
-    id="EAID_82CADC2D_7BE9_45b0_B8D5_2F1535EF3F21"
-    documentation="Leverancier van Gegevens">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

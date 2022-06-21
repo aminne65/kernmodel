@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studielink"
-    id="EAID_F3F135A8_DB0B_485f_85B8_7DAE6C9AC004"
-    documentation="Binnen (de Stichting) Studielink ontwikkelen de hogescholen en universiteiten met elkaar en met DUO een professionele infrastructuur voor het inschrijfproces en de daarbij horende informatie-uitwisseling tussen studenten, hogescholen, universiteiten en DUO.&#xA;Studielink is een digitaal loket waar de student in het Hoger Onderwijs al zijn zaken op het gebied van de beoogde aanmelding voor en inschrijving aan een instelling het liefst in één keer kan regelen. Studielink verzorgt de informatie-uitwisseling tussen de instellingen en de overheid, en tussen de instellingen onderling.&#xA;Studielink wordt ontwikkeld door Stichting SURF en de instellingen in nauwe samenwerking met het ministerie van Onderwijs, Cultuur en Wetenschappen, HBO-Raad, VSNU en DUO.&#xA;De Stichting Studielink is daarnaast het platform van hogescholen en universiteiten voor verdergaande samenwerking en vernieuwing in het hoger onderwijs op het gebied van informatie en administratie van Student &amp; Onderwijs.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

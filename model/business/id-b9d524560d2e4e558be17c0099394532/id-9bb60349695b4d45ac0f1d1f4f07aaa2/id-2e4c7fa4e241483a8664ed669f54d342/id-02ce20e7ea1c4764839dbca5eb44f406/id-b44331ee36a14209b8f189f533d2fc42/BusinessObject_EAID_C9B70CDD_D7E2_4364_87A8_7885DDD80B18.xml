@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Land"
-    id="EAID_C9B70CDD_D7E2_4364_87A8_7885DDD80B18"
-    documentation="Een door Nederland erkend gebied met een bepaald gezag.&#xA;Deze landen zijn opgenomen is de Landentabel van de BRP. De Landentabel is opgebouwd uit landcodes, officiële landnamen, ingangsdata en einddata. De staatssecretaris heeft toegelicht dat in de Landentabel alleen door Nederland erkende landen worden opgenomen. Daarnaast staan ook gebieden in de tabel die afhankelijk zijn van het Koninkrijk of van een Staat die Nederland wel erkent. &#xA;In de Landentabel is onder code 7060 Palestina opgenomen. Er is geen ingangsdatum opgenomen. Als einddatum staat 14 mei 1948 vermeld. Onder code 6034 is Israël opgenomen waarbij als ingangsdatum 14 mei 1948 is vermeld en geen einddatum is vermeld. Achter code 0000 staat ‘Onbekend’ vermeld, zonder ingangs- en einddatum."/>

@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Landelijk Bureau Inning Onderhoudsbijdragen LBIO"
-    id="EAID_79ADA620_F2F5_4cbf_8996_372C0E98BCF7"
-    documentation="Het LBIO legt aan ouders een eigen bijdrage op in het kader van de Jeugdzorg als hun kind uit huis geplaatst is. De ouders hoeven geen bijdrage te betalen over  de periode dat hun kind studiefinanciering of VO18+ ontvangt.&#xA;&#xA;https://wiki.prd.duo.nl/pages/viewpage.action?pageId=60139556 ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

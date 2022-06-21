@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deurwaarder"
-    id="EAID_C77C11AA_E04A_4fd7_BB4A_3480A6078D74"
-    documentation="Afhandelen SF dwangbevelen.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

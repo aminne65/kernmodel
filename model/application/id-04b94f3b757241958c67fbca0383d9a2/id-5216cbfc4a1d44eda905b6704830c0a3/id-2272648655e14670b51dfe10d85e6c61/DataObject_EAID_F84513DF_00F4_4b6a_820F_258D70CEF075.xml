@@ -1,5 +1,0 @@
-<archimate:DataObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CIJB uitwisseling"
-    id="EAID_F84513DF_00F4_4b6a_820F_258D70CEF075"
-    documentation="De type bestanden zijn:&#xA;&#x9;- de gecodeerde XML berichten&#xA;&#x9;- de ‘payloads’ in de vorm van ZIP bestanden (binnenkomend)&#xA;&#x9;- de ‘payloads’ in de vorm van de gezipte PDF bestanden&#xA;&#x9;- de MMD bestanden"/>

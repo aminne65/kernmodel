@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Belastingdienst"
-    id="EAID_77668B50_679B_4715_905C_EF6676297D99"
-    documentation="Afnemer en Leverancier van Gegevens.&#xA;&#xA;BRON gegevens ikv Kinderopvang LRK&#xA;Inkomens (ouders, debiteuren)&#xA;Inkomens (ouders, studenten, partners)&#xA;SCI en BRON gegevens ikv Toeslagen&#xA;SF - Renseigeringen tbv BD-VIA.&#xA;&#xA;DUO levert de Belastingdienst periodiek studiefinancieringgegevens. Deze informatie wordt uitsluitend gebruikt voor het toetsen van de Aangifte inkomstenbelasting en voor het vooraf invullen van de Aangifte inkomstenbelasting. De Belastingdienst vraagt informatie over de student: de Belastingdienst heeft een verzoek gekregen van vader of moeder in verband met de studieaftrek over hun zoon of dochter. De Belastingdienst mag dit controleren en opvragen bij DUO:&#xA;- de hoogte basisbeurs.&#xA;- de hoogte aanvullende beurs.&#xA;- of er een omzetting naar RL of Gift heeft plaatsgevonden.&#xA;https://wiki.prd.duo.nl/display/HO/01.+Belastingdienst ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] CL Clientside Logging"
-    id="EAID_7EB4B1D9_CEDD_404c_9901_77213B5457ED"
-    documentation="CL verzameld errorlogging van de client en zet deze via logstash door naar Kibana."/>

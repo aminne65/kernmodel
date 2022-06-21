@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toegang05 HRM bron voor IAM [EAR]"
-    id="EAID_DA1D8A8C_5DC5_437d_9159_00CF1C2E21E7"
-    documentation="De verantwoordelijkheid voor correcte registratie van personen en werkrelaties in het register RIdM, berust bij het HRM-domein.&#xA;&#xA;Rationale&#xA;Onderhoud en beheer van personeelsdossiers is van oudsher een (uitvoerende) verantwoordelijkheid van het HRM-domein. Om die reden ligt het voor de hand om het onderhoud van personen met een werkrelatie bij het Rijk, te beleggen bij het HRM-domein. Dit domein heeft uitvoerende verantwoordelijk m.b.t. correcte registratie van personen en werkrelaties, in opdracht van het ter zake bevoegde lijnmanagement. Het HRM-domein geeft daarmee uitvoering aan het rijksbreed ontwikkelde bedrijfsproces “intake werkrelaties”.&#xA;&#xA;Implicaties&#xA;Bij de afspraken rondom het beheer van identiteiten in RIdM moet de verantwoordelijkheid van het HRM-domein voor deze correcte registratie worden geborgd.&#xA;&#xA;EAR informatiseringsdomein&#xA;Toegangsdiensten&#xA;&#xA;https://www.earonline.nl/index.php/DAT:_HRM_bron_voor_IAM "/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Pattern] Generiek behandelen melding"
-    id="EAID_ADD4D3FB_E75C_41b1_A968_402359E7258A"
-    documentation="Generiek Behandelen Meldingen:&#xA;Distribueert aangeleverde meldingen(bundels) naar de administraties in de backoffice (fabriek). GBM verzorgt de bewaking van het afhandelen van de meldingen(bundel) en publiceert de door de administraties teruggeven events op de juiste topics (zie patroon BehandelenMeldingen)."/>

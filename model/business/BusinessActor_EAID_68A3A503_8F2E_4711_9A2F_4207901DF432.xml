@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IcDW - Informatiecentrum DiplomaWaardering"
-    id="EAID_68A3A503_8F2E_4711_9A2F_4207901DF432"
-    documentation="Stelt waarderingscriteria voor het onderwijs op. Gebruiken we binnen DUO bij Diplomawaardering&#xA;&#xA;Vanaf 2015: Uitwisseling t.b.v. vergoeding  waardering diploma/opleiding voor examenonderdeel ONA&#xA;&#xA;De expertisecentra van Nuffic en SBB vormen samen de structuur voor Internationale diplomawaardering (IDW). Wij werken in opdracht van het ministerie van Onderwijs, Cultuur en Wetenschap en het ministerie van Sociale Zaken en Werkgelegenheid.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

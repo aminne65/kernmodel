@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicaties zijn stateless"
-    id="EAID_8A093E54_F1C3_4ecd_9CFE_F3752B902F93"
-    documentation="Rationale&#xA;Vanwege de elasticiteit in de te gebruiken IaaS cloud, kan een node/server altijd verdwijnen/toegevoegd worden (zowel gepland/bedoeld als ongepland/onbedoeld). Daarom mogen er geen aannames worden gedaan over de beschikbaarheid van een server of het bijbehorende lokale filesysteem.&#xA;&#xA;Implicaties&#xA;- Het lokale filesysteem is niet gegarandeerd aanwezig (ook niet voor beheertooling)&#xA;- Gebruik een database voor opslag van (alle) gegevens&#xA;- Log niet naar het lokale filesysteem, maar naar een centrale log-repository&#xA;- Gebruik van een PKI houdt in dat identificatie van een service gebruikt wordt; geen identificatie van een server."/>

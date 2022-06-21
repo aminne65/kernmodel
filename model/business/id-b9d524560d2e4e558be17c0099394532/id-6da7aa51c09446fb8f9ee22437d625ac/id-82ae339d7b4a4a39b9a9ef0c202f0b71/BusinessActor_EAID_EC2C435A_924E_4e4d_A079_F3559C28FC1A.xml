@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kadaster"
-    id="EAID_EC2C435A_924E_4e4d_A079_F3559C28FC1A"
-    documentation="Leverancier van Gegevens">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

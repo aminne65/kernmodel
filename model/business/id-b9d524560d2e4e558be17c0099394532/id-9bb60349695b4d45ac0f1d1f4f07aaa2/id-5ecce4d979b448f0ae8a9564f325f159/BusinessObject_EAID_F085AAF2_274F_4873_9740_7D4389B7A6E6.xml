@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Relatie"
-    id="EAID_F085AAF2_274F_4873_9740_7D4389B7A6E6"
-    documentation="Op basis van de Herijking Informatie Architectuur Bekostingscomponenten 2008.&#xA;&#xA;Alle uniek te identificeren relaties - natuurlijke personen en rechtspersonen - worden hier met het generieke deel van hun gegevens vastgelegd. Eveneens wordt de hoedanigheid waarin CFI met deze relatie omgaat toegewezen. Dit is de zogenaamde rol, bijvoorbeeld onderwijsinstelling, OWB-instelling, gemeente, bestuur, belangenorgaan, inspectie, administratiekantoor et cetera. Ook onderlinge verhoudingen tussen de relaties worden binnen de component Relatie onderhouden. Dit betekent dat bijvoorbeeld het bestuur van een onderwijsinstelling wordt gekoppeld aan de onderwijsinstelling. Ook samenwerkingsverbanden worden op deze wijze geregistreerd."/>

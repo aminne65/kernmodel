@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] VOAbox"
-    id="EAID_98200A13_D3AB_4d0e_9AA6_168D4A0D3654"
-    documentation="Opvragen GBA gegevens via bestandsuitwisseling&#xA;&#xA;BAP en SCI hebben afzonderlijke implementaties van VOAbox."/>

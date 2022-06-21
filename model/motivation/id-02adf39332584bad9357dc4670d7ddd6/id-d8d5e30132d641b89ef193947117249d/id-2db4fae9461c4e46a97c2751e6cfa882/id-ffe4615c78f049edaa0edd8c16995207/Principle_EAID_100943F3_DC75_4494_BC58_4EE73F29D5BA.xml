@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Build to Fail"
-    id="EAID_100943F3_DC75_4494_BC58_4EE73F29D5BA"
-    documentation="Rationale&#xA;Vanwege de omvang en beperkte grip op de infrastructuur in een cloud, moet er rekening mee gehouden worden dat resources (onverwacht) kunnen uitvallen. Ook elasticiteit (wo. krimp) brengt dit met zich mee, maar systemen moeten in alle gevallen goed kunnen omgaan met (bedoelde en onbedoelde) veranderingen/falen in de omgeving.&#xA;&#xA;Implicaties&#xA;Systemen worden inclusief een recovery strategie ontworpen.&#xA;- Systemen moeten er altijd vanuit gaan dat naburige componenten niet (juist/snel genoeg) werken en daarop anticiperen.&#xA;- Ook bij te hoge belasting is een recovery strategie beschikbaar (bijv. bijschalen resources, foutmeldingen, andere reacties)&#xA;- Principe CR04 (stateless applicaties) draagt hieraan bij."/>

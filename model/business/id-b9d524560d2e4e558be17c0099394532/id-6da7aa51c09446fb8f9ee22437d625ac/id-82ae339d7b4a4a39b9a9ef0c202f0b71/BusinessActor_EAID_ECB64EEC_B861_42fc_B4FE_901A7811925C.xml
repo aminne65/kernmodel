@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GGD"
-    id="EAID_ECB64EEC_B861_42fc_B4FE_901A7811925C"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Afnemer van Gegevens: Inschrijvingsgegevens tbv schoolartsen">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CITO"
-    id="EAID_4E2BA861_BABA_49cd_8DA3_9F771430603E"
-    documentation="Centraal Instituut voor Toetsontwikkeling.&#xA;&#xA;Toestafnemer en gegevensafnemer&#xA;&#xA;CITO maakt examenopgaven en correctievoorschrift. Leveren rechtstreeks. Ophalen van normeringsgegevens altijd via Yenlo.&#xA;&#xA;CITO over ons:&#xA;Gedreven werken we al sinds 1968 vanuit onze maatschappelijke missie ‘gelijke kansen voor iedereen’. Dagelijks bundelen onze 500 medewerkers hun krachten met ruim 2000 (onderwijs)professionals om de talenten en mogelijkheden van leerlingen en werknemers te volgen en te meten. Jaarlijks ontwikkelen we zo’n 500 toetsen en examens. Ook zetten we onze expertise graag in voor trainingen, advies, onderzoek en kennisdeling. Dit doen we voor onderwijs, bedrijven en overheden. ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

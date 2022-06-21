@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klantenservice teams OVG-Klantbediening"
-    id="EAID_E0A70128_470A_41df_8EBB_DBCFF4247F55"
-    documentation="Verzorgt de dienstverlening aan individuele klanten: scholieren, studenten, ouders en terugbetalers.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

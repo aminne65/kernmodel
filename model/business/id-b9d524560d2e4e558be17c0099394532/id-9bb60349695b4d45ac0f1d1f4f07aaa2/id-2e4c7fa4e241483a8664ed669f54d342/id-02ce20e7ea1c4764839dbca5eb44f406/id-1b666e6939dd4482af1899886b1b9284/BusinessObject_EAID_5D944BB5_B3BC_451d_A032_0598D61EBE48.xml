@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensverzameling"
-    id="EAID_5D944BB5_B3BC_451d_A032_0598D61EBE48"
-    documentation="Het resultaat van een systematisch proces voor het inwinnen en verwerken van  gegevens door één partij.&#xA;&#xA;Bron: http://www.w3.org/ns/dcat#Dataset&#xA;&#xA;A collection of data, published or curated by a single agent, and available for access or download in one or more representations."/>

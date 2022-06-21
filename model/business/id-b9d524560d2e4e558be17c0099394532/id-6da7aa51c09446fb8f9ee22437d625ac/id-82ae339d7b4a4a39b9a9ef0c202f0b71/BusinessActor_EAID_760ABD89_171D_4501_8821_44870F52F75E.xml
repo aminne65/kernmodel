@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RSR Regisseur Studenten Reisrecht"
-    id="EAID_760ABD89_171D_4501_8821_44870F52F75E"
-    documentation="Regisseur Studenten Reisrecht (RSR) is de rechtspersoon die de digitale administratie van het reisproduct voor studerenden op de OV-chipkaart voert.&#xA;&#xA;Het reisproduct wordt door Trans Link Systems (TLS) namens de Dienst Uitvoering Onderwijs toegekend als onderdeel van de studiefinanciering voor MBO-, HBO- en WO-studenten.&#xA;&#xA;Art. 1.1 Wet Studiefinanciering 2000.">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

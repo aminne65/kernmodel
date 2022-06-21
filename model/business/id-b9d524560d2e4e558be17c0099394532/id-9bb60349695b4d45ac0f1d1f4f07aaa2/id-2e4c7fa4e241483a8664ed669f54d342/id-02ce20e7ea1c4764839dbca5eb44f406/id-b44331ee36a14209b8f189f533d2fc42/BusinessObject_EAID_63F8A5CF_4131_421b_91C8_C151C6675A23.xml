@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Fiscale) Partner"
-    id="EAID_63F8A5CF_4131_421b_91C8_C151C6675A23"
-    documentation="De (ex-)echtgenoten/geregistreerd partners van de persoon waar de Persoonslijst (PL) bij hoort.&#xA;Bron: BRP&#xA;URL: https://opendata.stelselcatalogus.nl/brp/id/doc/begrip/partner&#xA;Partner = Levensgezel van een persoon volgens de AWIR. Wordt afgeleid door regels en deels gebaseerd op de BRP.&#xA;Fiscale partner = AWIR-partner, de partner op grond van de Algemene wet inkomensafhankelijke regelingen.&#xA;Bron: AWIR Artikel 3&#xA;URL: &amp;&amp;&amp;&amp;&amp;https://wetten.overheid.nl/jci1.3:c:BWBR0018472&amp;hoofdstuk=1&amp;paragraaf=2&amp;artikel=3&amp;z=2021-03-10&amp;g=2021-03-10"/>

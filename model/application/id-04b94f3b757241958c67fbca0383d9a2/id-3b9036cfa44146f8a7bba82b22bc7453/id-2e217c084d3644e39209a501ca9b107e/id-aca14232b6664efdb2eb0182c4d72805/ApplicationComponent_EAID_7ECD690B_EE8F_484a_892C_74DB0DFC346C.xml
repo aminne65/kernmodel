@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Pattern] Outputmanagement"
-    id="EAID_7ECD690B_EE8F_484a_892C_74DB0DFC346C"
-    documentation="Terugkoppeling&#xA;Door de inwinapplicatie wordt via Output Management aan de aanleverende partij teruggekoppeld of een bericht geaccepteerd is of niet, eventueel met vermelding van reden waarom een bericht niet geaccepteerd is. Er vindt dus geen terugkoppeling plaats over het verwerken van de melding door het register vanuit de inwin applicatie. &#xA;Indien terugkoppeling op het verwerken van de melding wordt gevraagd door de aanleverende partij wordt dit verzorgd door een op de doelgroep/afnemergroep gerichte Informatiedienst die geabonneerd is op het betreffende topic."/>

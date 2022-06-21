@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gemeenten RMC"
-    id="EAID_C675C457_39B8_4746_AB26_230CAEF1A649"
-    documentation="Bron: Excellijst van Frank Wilbrink&#xA;&#xA;Afnemer van Gegevens: Absoluut Verzuim Meldingen">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

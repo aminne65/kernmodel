@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intrum Justitia"
-    id="EAID_51519E3F_51B0_4262_92B9_6CBD3DE572E0"
-    documentation="Verzorgt het betalingsverkeer: Debiteuren match">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

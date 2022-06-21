@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] EXA Aanvragen"
-    id="EAID_7C37822B_B1BD_4ecd_BE69_5A69FBDBB099"
-    documentation="Patroon beschikking/:&#xA;Voor staatsexamens geldt dat de beoordeling van aanvragen die leiden tot een beschikking handmatig gebeurt. Dat geldt ook voor het vastleggen van de beschikkingen (Excel). Het huidige proces is handmatig, tijdrovend en foutgevoelig. Het gaat hierbij om relatief grote aantallen.&#xA;&#xA;Bijzondere aanvragen voor VSO speciaal onderwijs.&#xA;&#xA;Onderstaande is verplaatst naar INB Verwerken aanvraag, klacht, bezwaar en beroep&#xA;EN&#xA;Aanvragen m.b.t. ontheffing  of vrijstelling van de inburgeringsplicht. Binnen SCI (Service Centrum Inburgering) wordt dit proces wel geautomatiseerd ondersteund."/>

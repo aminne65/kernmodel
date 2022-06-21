@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klantinteractie en Bedrijfsschool OVG-Klantbediening"
-    id="EAID_33E794FF_6098_4fc6_90DE_0CE8D8DE6A23"
-    documentation="Klantinteractie:&#xA;- Multi Channel Management&#xA;- Contentmanagement&#xA;- Customer Journey Management&#xA;&#xA;Bedrijfsschool:&#xA;De bekendste taak is het opleiden en begeleiden van nieuwe medewerkers die verantwoordelijk zijn voor primair klantcontact.&#xA;Daarnaast beheert de Bedrijfsschool het Leerloket. Het Leerloket is de plek waar medewerkers en managers van DUO terecht kunnen voor het vinden van advies, trainingen en ondersteuning op het gebied van kennis en vaardigheden. ">
-  <properties
-      key="actorkind"
-      value="standard"/>
-</archimate:BusinessActor>

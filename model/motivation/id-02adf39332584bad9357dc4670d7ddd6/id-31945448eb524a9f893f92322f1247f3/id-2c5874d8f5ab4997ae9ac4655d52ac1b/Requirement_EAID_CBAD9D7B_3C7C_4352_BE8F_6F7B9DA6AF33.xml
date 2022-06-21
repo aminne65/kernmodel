@@ -1,4 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[INFRA] Log niet naar het filesysteem, maar naar een centrale log-repository"
-    id="EAID_CBAD9D7B_3C7C_4352_BE8F_6F7B9DA6AF33"/>

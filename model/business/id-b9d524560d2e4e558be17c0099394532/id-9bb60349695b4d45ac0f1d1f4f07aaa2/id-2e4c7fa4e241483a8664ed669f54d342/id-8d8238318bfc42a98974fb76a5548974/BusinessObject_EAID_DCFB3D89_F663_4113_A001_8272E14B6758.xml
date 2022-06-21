@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klant"
-    id="EAID_DCFB3D89_F663_4113_A001_8272E14B6758"
-    documentation="De (potentiële) afnemer van een DUO-product of dienst.&#xA;&#xA;Bron: EA DUO">
-  <properties
-      key="tets"
-      value="soadfjkhngvoasdjfhbg"/>
-</archimate:BusinessObject>
